@@ -1,587 +1,498 @@
 [
   {
-    "单数": "der Vater",
-    "复数": "die Väter",
-    "意思": "father"
+    "单数男": "der Vater",
+    "复数男": "die Väter",
+    "意思男": "father",
+    "单数女": "die Mutter",
+    "复数女": "die Mütter",
+    "意思女": "mother"
+  },
+  {
+    "单数男": "",
+    "复数男": "die Eltern",
+    "意思男": "parents",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "das Kind",
+    "复数男": "die Kinder",
+    "意思男": "child",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "der Sohn",
+    "复数男": "die Söhne",
+    "意思男": "son",
+    "单数女": "die Tochter",
+    "复数女": "die Töchter",
+    "意思女": "daughter"
+  },
+  {
+    "单数男": "der Junge",
+    "复数男": "die Jungen",
+    "意思男": "boy",
+    "单数女": "das Mädchen",
+    "复数女": "die Mädchen",
+    "意思女": "girl"
+  },
+  {
+    "单数男": "das Einzelkind",
+    "复数男": "die Einzelkinder",
+    "意思男": "only child",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "der Bruder",
+    "复数男": "die Brüder",
+    "意思男": "brother",
+    "单数女": "die Schwester",
+    "复数女": "die Schwestern",
+    "意思女": "sister"
+  },
+  {
+    "单数男": "das Geschwister",
+    "复数男": "die Geschwister",
+    "意思男": "sibling (bro and sis)",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "der Großvater",
+    "复数男": "die Großväter",
+    "意思男": "grandfather",
+    "单数女": "die Großmutter",
+    "复数女": "die Großmütter",
+    "意思女": "grandmother"
+  },
+  {
+    "单数男": "",
+    "复数男": "die Großeltern",
+    "意思男": "grandparents",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "der Opa",
+    "复数男": "die Opas",
+    "意思男": "grandpa",
+    "单数女": "die Oma",
+    "复数女": "die Omas",
+    "意思女": "gradma"
+  },
+  {
+    "单数男": "der Enkelkind",
+    "复数男": "die Enkelkinder",
+    "意思男": "grandchildren",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
+  },
+  {
+    "单数男": "der Enkelsohn",
+    "复数男": "die Enkelsöhne",
+    "意思男": "grandson",
+    "单数女": "die Enkeltochter",
+    "复数女": "die Enkeltöchter",
+    "意思女": "granddaughter"
   },
   {
-    "单数": "die Mutter",
-    "复数": "die Mütter",
-    "意思": "mother"
+    "单数男": "der Onkel",
+    "复数男": "die Onkel",
+    "意思男": "uncle",
+    "单数女": "die Tante",
+    "复数女": "die Tanten",
+    "意思女": "aunt"
   },
   {
-    "单数": "",
-    "复数": "die Eltern",
-    "意思": "parents"
+    "单数男": "der Cousin",
+    "复数男": "die Cousins",
+    "意思男": "cousin",
+    "单数女": "die Cousine",
+    "复数女": "die Cousinen",
+    "意思女": "cousin"
   },
   {
-    "单数": "das Kind",
-    "复数": "die Kinder",
-    "意思": "child"
+    "单数男": "der Neffe",
+    "复数男": "die Neffen",
+    "意思男": "nephew",
+    "单数女": "die Nichte",
+    "复数女": "die Nitchten",
+    "意思女": "niece"
   },
   {
-    "单数": "der Sohn",
-    "复数": "die Söhne",
-    "意思": "son"
+    "单数男": "der Verwante",
+    "复数男": "die Verwandten",
+    "意思男": "relative",
+    "单数女": "der Verwante",
+    "复数女": "die Verwandten",
+    "意思女": "relative"
   },
   {
-    "单数": "die Tochter",
-    "复数": "die Töchter",
-    "意思": "daughter"
+    "单数男": "der Zwillingsbruder",
+    "复数男": "die Zwillingsbrüder",
+    "意思男": "twin brother",
+    "单数女": "die Zwillingsschwester",
+    "复数女": "die Zwillingsschwestern",
+    "意思女": "twin sister"
   },
   {
-    "单数": "der Junge",
-    "复数": "die Jungen",
-    "意思": "boy"
+    "单数男": "der Freund",
+    "复数男": "die Freunde",
+    "意思男": "friend",
+    "单数女": "die Freundin",
+    "复数女": "die Freundinnen",
+    "意思女": "friend"
   },
   {
-    "单数": "das Mädchen",
-    "复数": "die Mädchen",
-    "意思": "girl"
+    "单数男": "der Student",
+    "复数男": "die Studenten",
+    "意思男": "student",
+    "单数女": "die Studentin",
+    "复数女": "die Studentinnen",
+    "意思女": "student"
   },
   {
-    "单数": "das Einzelkind",
-    "复数": "die Einzelkinder",
-    "意思": "only child"
+    "单数男": "der Schüler",
+    "复数男": "die Schüler",
+    "意思男": "pupil",
+    "单数女": "die Schülerin",
+    "复数女": "die Schülerinnen",
+    "意思女": "pupil"
   },
   {
-    "单数": "der Bruder",
-    "复数": "die Brüder",
-    "意思": "brother"
+    "单数男": "der Pilot",
+    "复数男": "die Piloten",
+    "意思男": "pilot",
+    "单数女": "die Pilotin",
+    "复数女": "die Pilotinnen",
+    "意思女": "pilot"
   },
   {
-    "单数": "die Schwester",
-    "复数": "die Schwestern",
-    "意思": "sister"
+    "单数男": "der Lehrer",
+    "复数男": "die Lehrer",
+    "意思男": "teacher",
+    "单数女": "die Lehrerin",
+    "复数女": "die Lehrerinnen",
+    "意思女": "teacher"
   },
   {
-    "单数": "das Geschwister",
-    "复数": "die Geschwister",
-    "意思": "sibling (bro and sis)"
+    "单数男": "der Fahrer",
+    "复数男": "die Fahrer",
+    "意思男": "driver",
+    "单数女": "die Fahrerin",
+    "复数女": "die Fahrerinnen",
+    "意思女": "driver"
   },
   {
-    "单数": "der Großvater",
-    "复数": "die Großväter",
-    "意思": "grandfather"
+    "单数男": "der Tourist",
+    "复数男": "die Touristen",
+    "意思男": "tourist",
+    "单数女": "die Touristin",
+    "复数女": "die Touristinnen",
+    "意思女": "tourist"
   },
   {
-    "单数": "die Großmutter",
-    "复数": "die Großmütter",
-    "意思": "grandmother"
+    "单数男": "der Polizist",
+    "复数男": "die Polizisten",
+    "意思男": "police",
+    "单数女": "die Polizistin",
+    "复数女": "die Polizistinnen",
+    "意思女": "police"
   },
   {
-    "单数": "",
-    "复数": "die Großeltern",
-    "意思": "grandparents"
+    "单数男": "der Vegetarier",
+    "复数男": "die Vegetarier",
+    "意思男": "vegetarian",
+    "单数女": "die Vegetarierin",
+    "复数女": "die Vegetarierinnen",
+    "意思女": "vegetarian"
   },
   {
-    "单数": "der Opa",
-    "复数": "die Opas",
-    "意思": "grandpa"
+    "单数男": "der Gast",
+    "复数男": "die Gäste",
+    "意思男": "guest",
+    "单数女": "",
+    "复数女": "",
+    "意思女": ""
   },
   {
-    "单数": "die Oma",
-    "复数": "die Omas",
-    "意思": "gradma"
+    "单数男": "der Kunde",
+    "复数男": "die Kunden",
+    "意思男": "customer",
+    "单数女": "die Kundin",
+    "复数女": "die Kundinnen",
+    "意思女": "customer"
   },
   {
-    "单数": "der Enkelkind",
-    "复数": "die Enkelkinder",
-    "意思": "grandchildren"
+    "单数男": "der Kellner",
+    "复数男": "die Kellner",
+    "意思男": "waiter",
+    "单数女": "die Kellnerin",
+    "复数女": "die Kellnerinnen",
+    "意思女": "waitress"
   },
   {
-    "单数": "der Enkelsohn",
-    "复数": "die Enkelsöhne",
-    "意思": "grandson"
+    "单数男": "der Kursteilnehmer",
+    "复数男": "die Kursteilnehmer",
+    "意思男": "course participant",
+    "单数女": "die Kursteilnehmerin",
+    "复数女": "die Kursteilnehmerinnen",
+    "意思女": "course participant"
   },
   {
-    "单数": "die Enkeltochter",
-    "复数": "die Enkeltöchter",
-    "意思": "granddaughter"
+    "单数男": "der Mieter",
+    "复数男": "die Mieter",
+    "意思男": "tenant; renter",
+    "单数女": "die Mieterin",
+    "复数女": "die Mieterinnen",
+    "意思女": "tenant; renter"
   },
   {
-    "单数": "der Onkel",
-    "复数": "die Onkel",
-    "意思": "uncle"
+    "单数男": "der Bekannte",
+    "复数男": "die Bekannten",
+    "意思男": "acquaintance",
+    "单数女": "die Bekannte",
+    "复数女": "die Bekannten",
+    "意思女": "acquaintance"
   },
   {
-    "单数": "die Tante",
-    "复数": "die Tanten",
-    "意思": "aunt"
+    "单数男": "der Mitbewohner",
+    "复数男": "die Mitbewohner",
+    "意思男": "roommate",
+    "单数女": "die Mitbewohnerin",
+    "复数女": "die Mitbewohnerinnen",
+    "意思女": "roommate"
   },
   {
-    "单数": "der Cousin",
-    "复数": "die Cousins",
-    "意思": "cousin"
+    "单数男": "der Interessent",
+    "复数男": "die Interessenten",
+    "意思男": "interested/potential person",
+    "单数女": "die Interessentin",
+    "复数女": "die Interessentinnen",
+    "意思女": "interested/potential person"
   },
   {
-    "单数": "die Cousine",
-    "复数": "die Cousinen",
-    "意思": "cousin"
+    "单数男": "der Nachbar",
+    "复数男": "die Nachbarn",
+    "意思男": "neighbor",
+    "单数女": "die Nachbarin",
+    "复数女": "die Nachbarinnen",
+    "意思女": "neighbor"
   },
   {
-    "单数": "der Neffe",
-    "复数": "die Neffen",
-    "意思": "nephew"
+    "单数男": "der Arzt",
+    "复数男": "die Ärzte",
+    "意思男": "doctor",
+    "单数女": "die Ärztin",
+    "复数女": "die Ärztinnen",
+    "意思女": "doctor"
   },
   {
-    "单数": "die Nichte",
-    "复数": "die Nitchten",
-    "意思": "niece"
+    "单数男": "der Babysitter",
+    "复数男": "die Babysitter",
+    "意思男": "babysitter",
+    "单数女": "die Babysitterin",
+    "复数女": "die Babysitterinnen",
+    "意思女": "babysitter"
   },
   {
-    "单数": "der Verwante",
-    "复数": "die Verwandten",
-    "意思": "relative"
+    "单数男": "der Deutsche",
+    "复数男": "die Deutschen",
+    "意思男": "German person",
+    "单数女": "die Deutsche",
+    "复数女": "die Deutschen",
+    "意思女": "German person"
   },
   {
-    "单数": "der Verwante",
-    "复数": "die Verwandten",
-    "意思": "relative"
+    "单数男": "der Europäer",
+    "复数男": "die Europäer",
+    "意思男": "European person",
+    "单数女": "die Europäerin",
+    "复数女": "die Europäerinnen",
+    "意思女": "European person"
   },
   {
-    "单数": "der Zwillingsbruder",
-    "复数": "die Zwillingsbrüder",
-    "意思": "twin brother"
+    "单数男": "der Anwalt",
+    "复数男": "die Anwälte",
+    "意思男": "lawyer",
+    "单数女": "die Anwältin",
+    "复数女": "die Anwältinnen",
+    "意思女": "lawyer"
   },
   {
-    "单数": "die Zwillingsschwester",
-    "复数": "die Zwillingsschwestern",
-    "意思": "twin sister"
+    "单数男": "der Bankkaufmann",
+    "复数男": "die Bankkaufmänner",
+    "意思男": "bank clerk; banker",
+    "单数女": "die Bankkauffrau",
+    "复数女": "die Bankkauffrauen",
+    "意思女": "bank clerk; banker"
   },
   {
-    "单数": "der Freund",
-    "复数": "die Freunde",
-    "意思": "friend"
+    "单数男": "der Chef",
+    "复数男": "die Chefs",
+    "意思男": "boss; manager",
+    "单数女": "die Chefin",
+    "复数女": "die Chefinnen",
+    "意思女": "boss; manager"
   },
   {
-    "单数": "die Freundin",
-    "复数": "die Freundinnen",
-    "意思": "friend"
+    "单数男": "der Elektriker",
+    "复数男": "die Elektriker",
+    "意思男": "electrician",
+    "单数女": "die Elektrikerin",
+    "复数女": "die Elektrikerinnen",
+    "意思女": "electrician"
   },
   {
-    "单数": "der Student",
-    "复数": "die Studenten",
-    "意思": "student"
+    "单数男": "der Friseur",
+    "复数男": "die Friseure",
+    "意思男": "hairdresser",
+    "单数女": "die Friseurin",
+    "复数女": "die Friseurinnen",
+    "意思女": "hairdresser"
   },
   {
-    "单数": "die Studentin",
-    "复数": "die Studentinnen",
-    "意思": "student"
+    "单数男": "der Informatiker",
+    "复数男": "die Informatiker",
+    "意思男": "computer scientist",
+    "单数女": "die Informatikerin",
+    "复数女": "die Informatikerinnen",
+    "意思女": "computer scientist"
   },
   {
-    "单数": "der Schüler",
-    "复数": "die Schüler",
-    "意思": "pupil"
+    "单数男": "der Ingenieur",
+    "复数男": "die Ingenieure",
+    "意思男": "engineer",
+    "单数女": "die Ingenieurin",
+    "复数女": "die Ingenieurinnen",
+    "意思女": "engineer"
   },
   {
-    "单数": "die Schülerin",
-    "复数": "die Schülerinnen",
-    "意思": "pupil"
+    "单数男": "der Kfz-Mechatroniker",
+    "复数男": "die Kfz-Mechatroniker",
+    "意思男": "automotive mechatronics engineer",
+    "单数女": "die Kfz-Mechatronikerin",
+    "复数女": "die Kfz-Mechatronikerinnen",
+    "意思女": "automotive mechatronics engineer"
   },
   {
-    "单数": "der Pilot",
-    "复数": "die Piloten",
-    "意思": "pilot"
+    "单数男": "der Koch",
+    "复数男": "die Köche",
+    "意思男": "cook",
+    "单数女": "die Köchin",
+    "复数女": "die Köchinnen",
+    "意思女": "cook"
   },
   {
-    "单数": "die Pilotin",
-    "复数": "die Pilotinnen",
-    "意思": "pilot"
-  },
-  {
-    "单数": "der Lehrer",
-    "复数": "die Lehrer",
-    "意思": "teacher"
-  },
-  {
-    "单数": "die Lehrerin",
-    "复数": "die Lehrerinnen",
-    "意思": "teacher"
-  },
-  {
-    "单数": "der Fahrer",
-    "复数": "die Fahrer",
-    "意思": "driver"
-  },
-  {
-    "单数": "die Fahrerin",
-    "复数": "die Fahrerinnen",
-    "意思": "driver"
-  },
-  {
-    "单数": "der Tourist",
-    "复数": "die Touristen",
-    "意思": "tourist"
-  },
-  {
-    "单数": "die Touristin",
-    "复数": "die Touristinnen",
-    "意思": "tourist"
-  },
-  {
-    "单数": "der Polizist",
-    "复数": "die Polizisten",
-    "意思": "police"
-  },
-  {
-    "单数": "die Polizistin",
-    "复数": "die Polizistinnen",
-    "意思": "police"
-  },
-  {
-    "单数": "der Vegetarier",
-    "复数": "die Vegetarier",
-    "意思": "vegetarian"
-  },
-  {
-    "单数": "die Vegetarierin",
-    "复数": "die Vegetarierinnen",
-    "意思": "vegetarian"
-  },
-  {
-    "单数": "der Gast",
-    "复数": "die Gäste",
-    "意思": "guest"
-  },
-  {
-    "单数": "der Kunde",
-    "复数": "die Kunden",
-    "意思": "customer"
-  },
-  {
-    "单数": "die Kundin",
-    "复数": "die Kundinnen",
-    "意思": "customer"
-  },
-  {
-    "单数": "der Kellner",
-    "复数": "die Kellner",
-    "意思": "waiter"
-  },
-  {
-    "单数": "die Kellnerin",
-    "复数": "die Kellnerinnen",
-    "意思": "waitress"
-  },
-  {
-    "单数": "der Kursteilnehmer",
-    "复数": "die Kursteilnehmer",
-    "意思": "course participant"
-  },
-  {
-    "单数": "die Kursteilnehmerin",
-    "复数": "die Kursteilnehmerinnen",
-    "意思": "course participant"
-  },
-  {
-    "单数": "der Mieter",
-    "复数": "die Mieter",
-    "意思": "tenant; renter"
-  },
-  {
-    "单数": "die Mieterin",
-    "复数": "die Mieterinnen",
-    "意思": "tenant; renter"
-  },
-  {
-    "单数": "der Bekannte",
-    "复数": "die Bekannten",
-    "意思": "acquaintance"
-  },
-  {
-    "单数": "die Bekannte",
-    "复数": "die Bekannten",
-    "意思": "acquaintance"
-  },
-  {
-    "单数": "der Mitbewohner",
-    "复数": "die Mitbewohner",
-    "意思": "roommate"
-  },
-  {
-    "单数": "die Mitbewohnerin",
-    "复数": "die Mitbewohnerinnen",
-    "意思": "roommate"
-  },
-  {
-    "单数": "der Interessent",
-    "复数": "die Interessenten",
-    "意思": "interested/potential person"
-  },
-  {
-    "单数": "die Interessentin",
-    "复数": "die Interessentinnen",
-    "意思": "interested/potential person"
-  },
-  {
-    "单数": "der Nachbar",
-    "复数": "die Nachbarn",
-    "意思": "neighbor"
-  },
-  {
-    "单数": "die Nachbarin",
-    "复数": "die Nachbarinnen",
-    "意思": "neighbor"
-  },
-  {
-    "单数": "der Arzt",
-    "复数": "die Ärzte",
-    "意思": "doctor"
-  },
-  {
-    "单数": "die Ärztin",
-    "复数": "die Ärztinnen",
-    "意思": "doctor"
-  },
-  {
-    "单数": "der Babysitter",
-    "复数": "die Babysitter",
-    "意思": "babysitter"
-  },
-  {
-    "单数": "die Babysitterin",
-    "复数": "die Babysitterinnen",
-    "意思": "babysitter"
-  },
-  {
-    "单数": "der Deutsche",
-    "复数": "die Deutschen",
-    "意思": "German person"
-  },
-  {
-    "单数": "die Deutsche",
-    "复数": "die Deutschen",
-    "意思": "German person"
-  },
-  {
-    "单数": "der Europäer",
-    "复数": "die Europäer",
-    "意思": "European person"
-  },
-  {
-    "单数": "die Europäerin",
-    "复数": "die Europäerinnen",
-    "意思": "European person"
-  },
-  {
-    "单数": "der Anwalt",
-    "复数": "die Anwälte",
-    "意思": "lawyer"
-  },
-  {
-    "单数": "die Anwältin",
-    "复数": "die Anwältinnen",
-    "意思": "lawyer"
-  },
-  {
-    "单数": "der Bankkaufmann",
-    "复数": "die Bankkaufmänner",
-    "意思": "bank clerk; banker"
-  },
-  {
-    "单数": "die Bankkauffrau",
-    "复数": "die Bankkauffrauen",
-    "意思": "bank clerk; banker"
-  },
-  {
-    "单数": "der Chef",
-    "复数": "die Chefs",
-    "意思": "boss; manager"
-  },
-  {
-    "单数": "die Chefin",
-    "复数": "die Chefinnen",
-    "意思": "boss; manager"
-  },
-  {
-    "单数": "der Elektriker",
-    "复数": "die Elektriker",
-    "意思": "electrician"
-  },
-  {
-    "单数": "die Elektrikerin",
-    "复数": "die Elektrikerinnen",
-    "意思": "electrician"
-  },
-  {
-    "单数": "der Friseur",
-    "复数": "die Friseure",
-    "意思": "hairdresser"
-  },
-  {
-    "单数": "die Friseurin",
-    "复数": "die Friseurinnen",
-    "意思": "hairdresser"
-  },
-  {
-    "单数": "der Informatiker",
-    "复数": "die Informatiker",
-    "意思": "computer scientist"
-  },
-  {
-    "单数": "die Informatikerin",
-    "复数": "die Informatikerinnen",
-    "意思": "computer scientist"
-  },
-  {
-    "单数": "der Ingenieur",
-    "复数": "die Ingenieure",
-    "意思": "engineer"
-  },
-  {
-    "单数": "die Ingenieurin",
-    "复数": "die Ingenieurinnen",
-    "意思": "engineer"
-  },
-  {
-    "单数": "der Kfz-Mechatroniker",
-    "复数": "die Kfz-Mechatroniker",
-    "意思": "automotive mechatronics engineer"
-  },
-  {
-    "单数": "die Kfz-Mechatronikerin",
-    "复数": "die Kfz-Mechatronikerinnen",
-    "意思": "automotive mechatronics engineer"
-  },
-  {
-    "单数": "der Koch",
-    "复数": "die Köche",
-    "意思": "cook"
-  },
-  {
-    "单数": "die Köchin",
-    "复数": "die Köchinnen",
-    "意思": "cook"
-  },
-  {
-    "单数": "der Kollege",
-    "复数": "die Kollegen",
-    "意思": "colleague"
-  },
-  {
-    "单数": "die Kollegin",
-    "复数": "die Kolleginnen",
-    "意思": "colleague"
-  },
-  {
-    "单数": "der Verkäufer",
-    "复数": "die Verkäufer",
-    "意思": "salesperson"
-  },
-  {
-    "单数": "die Verkäuferin",
-    "复数": "die Verkäuferinnen",
-    "意思": "salesperson"
-  },
-  {
-    "单数": "der Erzieher",
-    "复数": "die Erzieher",
-    "意思": "kindergarten teacher"
-  },
-  {
-    "单数": "die Erzieherin",
-    "复数": "die Erzieherinnen",
-    "意思": "kindergarten teacher"
-  },
-  {
-    "单数": "der Mitarbeiter",
-    "复数": "die Mitarbeiter",
-    "意思": "employee"
-  },
-  {
-    "单数": "die Mitarbeiterin",
-    "复数": "die Mitarbeiterinnen",
-    "意思": "employee"
-  },
-  {
-    "单数": "der Sekretär",
-    "复数": "die Sekretäre",
-    "意思": "secretary"
-  },
-  {
-    "单数": "die Sekretärin",
-    "复数": "die Sekretärinnen",
-    "意思": "secretary"
-  },
-  {
-    "单数": "der Architekt",
-    "复数": "die Architekten",
-    "意思": "architect"
-  },
-  {
-    "单数": "die Architektin",
-    "复数": "die Architektinnen",
-    "意思": "architect"
-  },
-  {
-    "单数": "der Designer",
-    "复数": "die Designer",
-    "意思": "designer"
-  },
-  {
-    "单数": "die Designerin",
-    "复数": "die Designerinnen",
-    "意思": "designer"
-  },
-  {
-    "单数": "der Fotograf",
-    "复数": "die Fotografen",
-    "意思": "photographer"
-  },
-  {
-    "单数": "die Fotografin",
-    "复数": "die Fotografinnen",
-    "意思": "photographer"
-  },
-  {
-    "单数": "der Bauer",
-    "复数": "die Baueren",
-    "意思": "farmer"
-  },
-  {
-    "单数": "die Bäuerin",
-    "复数": "die Bäuerinen",
-    "意思": "farmer"
-  },
-  {
-    "单数": "der Krankenpfleger",
-    "复数": "die Krankenpfleger",
-    "意思": "nurse"
-  },
-  {
-    "单数": "die Krankenschwester",
-    "复数": "die Krankenschwestern",
-    "意思": "nurse"
-  },
-  {
-    "单数": "der Auszubildende",
-    "复数": "die Auszubildenden",
-    "意思": "trainee"
-  },
-  {
-    "单数": "der Auszubildende",
-    "复数": "die Auszubildenden",
-    "意思": "trainee"
-  },
-  {
-    "单数": "der Bäcker",
-    "复数": "die Bäcker",
-    "意思": "baker"
-  },
-  {
-    "单数": "die Bäckerin",
-    "复数": "die Bäckerinen",
-    "意思": "baker"
-  },
-  {
-    "单数": "der Fahrradhändler",
-    "复数": "die Fahrradhändler",
-    "意思": "bike dealer"
-  },
-  {
-    "单数": "die Fahrradhändlerin",
-    "复数": "die Fahrradhändlerinen",
-    "意思": "bike dealer"
+    "单数男": "der Kollege",
+    "复数男": "die Kollegen",
+    "意思男": "colleague",
+    "单数女": "die Kollegin",
+    "复数女": "die Kolleginnen",
+    "意思女": "colleague"
+  },
+  {
+    "单数男": "der Verkäufer",
+    "复数男": "die Verkäufer",
+    "意思男": "salesperson",
+    "单数女": "die Verkäuferin",
+    "复数女": "die Verkäuferinnen",
+    "意思女": "salesperson"
+  },
+  {
+    "单数男": "der Erzieher",
+    "复数男": "die Erzieher",
+    "意思男": "kindergarten teacher",
+    "单数女": "die Erzieherin",
+    "复数女": "die Erzieherinnen",
+    "意思女": "kindergarten teacher"
+  },
+  {
+    "单数男": "der Mitarbeiter",
+    "复数男": "die Mitarbeiter",
+    "意思男": "employee",
+    "单数女": "die Mitarbeiterin",
+    "复数女": "die Mitarbeiterinnen",
+    "意思女": "employee"
+  },
+  {
+    "单数男": "der Sekretär",
+    "复数男": "die Sekretäre",
+    "意思男": "secretary",
+    "单数女": "die Sekretärin",
+    "复数女": "die Sekretärinnen",
+    "意思女": "secretary"
+  },
+  {
+    "单数男": "der Architekt",
+    "复数男": "die Architekten",
+    "意思男": "architect",
+    "单数女": "die Architektin",
+    "复数女": "die Architektinnen",
+    "意思女": "architect"
+  },
+  {
+    "单数男": "der Designer",
+    "复数男": "die Designer",
+    "意思男": "designer",
+    "单数女": "die Designerin",
+    "复数女": "die Designerinnen",
+    "意思女": "designer"
+  },
+  {
+    "单数男": "der Fotograf",
+    "复数男": "die Fotografen",
+    "意思男": "photographer",
+    "单数女": "die Fotografin",
+    "复数女": "die Fotografinnen",
+    "意思女": "photographer"
+  },
+  {
+    "单数男": "der Bauer",
+    "复数男": "die Baueren",
+    "意思男": "farmer",
+    "单数女": "die Bäuerin",
+    "复数女": "die Bäuerinen",
+    "意思女": "farmer"
+  },
+  {
+    "单数男": "der Krankenpfleger",
+    "复数男": "die Krankenpfleger",
+    "意思男": "nurse",
+    "单数女": "die Krankenschwester",
+    "复数女": "die Krankenschwestern",
+    "意思女": "nurse"
+  },
+  {
+    "单数男": "der Auszubildende",
+    "复数男": "die Auszubildenden",
+    "意思男": "trainee",
+    "单数女": "der Auszubildende",
+    "复数女": "die Auszubildenden",
+    "意思女": "trainee"
+  },
+  {
+    "单数男": "der Bäcker",
+    "复数男": "die Bäcker",
+    "意思男": "baker",
+    "单数女": "die Bäckerin",
+    "复数女": "die Bäckerinen",
+    "意思女": "baker"
+  },
+  {
+    "单数男": "der Fahrradhändler",
+    "复数男": "die Fahrradhändler",
+    "意思男": "bike dealer",
+    "单数女": "die Fahrradhändlerin",
+    "复数女": "die Fahrradhändlerinen",
+    "意思女": "bike dealer"
   }
 ]

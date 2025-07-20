@@ -1,0 +1,2 @@
+cd tools
+node excel2json.js
