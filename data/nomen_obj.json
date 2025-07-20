@@ -1,0 +1,2872 @@
+[
+  {
+    "单数": "der Euro",
+    "复数": "die Euros",
+    "意思": "€"
+  },
+  {
+    "单数": "die Brille",
+    "复数": "die Brillen",
+    "意思": "a pair of eye glasses"
+  },
+  {
+    "单数": "die Adresse",
+    "复数": "die Adressen",
+    "意思": "address"
+  },
+  {
+    "单数": "die Anzeige",
+    "复数": "die Anzeigen",
+    "意思": "advertisement"
+  },
+  {
+    "单数": "der Nachmittag",
+    "复数": "die Nachmittage",
+    "意思": "afternoon"
+  },
+  {
+    "单数": "das Flugzeug",
+    "复数": "die Flugzeuge",
+    "意思": "airplane"
+  },
+  {
+    "单数": "der Flughafen",
+    "复数": "die Flughäfen",
+    "意思": "airport机场"
+  },
+  {
+    "单数": "der Alkohol",
+    "复数": "",
+    "意思": "alcohol"
+  },
+  {
+    "单数": "die Antwort",
+    "复数": "die Antworten",
+    "意思": "answer"
+  },
+  {
+    "单数": "die Wohnung",
+    "复数": "die Wohnungen",
+    "意思": "apartment"
+  },
+  {
+    "单数": "der Apfel",
+    "复数": "die Äpfel",
+    "意思": "apple"
+  },
+  {
+    "单数": "der Apfelsaft",
+    "复数": "die Apfelsäfte",
+    "意思": "apple juice"
+  },
+  {
+    "单数": "der Termin",
+    "复数": "die Termine",
+    "意思": "appointment"
+  },
+  {
+    "单数": "der Sessel",
+    "复数": "die Sessel",
+    "意思": "arm chair"
+  },
+  {
+    "单数": "das Amt",
+    "复数": "die Ämter",
+    "意思": "authority"
+  },
+  {
+    "单数": "die Allee",
+    "复数": "die Alleen",
+    "意思": "avenue"
+  },
+  {
+    "单数": "die Tasche",
+    "复数": "die Taschen",
+    "意思": "bag"
+  },
+  {
+    "单数": "der Balkon",
+    "复数": "die Balkons",
+    "意思": "balcony"
+  },
+  {
+    "单数": "die Banane",
+    "复数": "die Bananen",
+    "意思": "banane"
+  },
+  {
+    "单数": "die Bank",
+    "复数": "die Banken",
+    "意思": "bank银行"
+  },
+  {
+    "单数": "der Keller",
+    "复数": "die Keller",
+    "意思": "basement"
+  },
+  {
+    "单数": "das Untergeschoss",
+    "复数": "die Untergeschosse",
+    "意思": "basement floor"
+  },
+  {
+    "单数": "das Badezimmer",
+    "复数": "die Badezimmer",
+    "意思": "bathroom"
+  },
+  {
+    "单数": "das Bad",
+    "复数": "die Bäder",
+    "意思": "bathroom"
+  },
+  {
+    "单数": "der Strand",
+    "复数": "die Strände",
+    "意思": "beach"
+  },
+  {
+    "单数": "das Bett",
+    "复数": "die Betten",
+    "意思": "bed"
+  },
+  {
+    "单数": "das Schlafzimmer",
+    "复数": "die Schlafzimmer",
+    "意思": "bedroom"
+  },
+  {
+    "单数": "der Nachttisch",
+    "复数": "die Nachttische",
+    "意思": "bedside table"
+  },
+  {
+    "单数": "das Bier",
+    "复数": "die Biere",
+    "意思": "beer"
+  },
+  {
+    "单数": "der Vormittag",
+    "复数": "die Vormittage",
+    "意思": "beforenoon"
+  },
+  {
+    "单数": "der Fahrradladen",
+    "复数": "die Fahrradläden",
+    "意思": "bicycle store"
+  },
+  {
+    "单数": "das Fahrrad",
+    "复数": "die Fahrräder",
+    "意思": "bike"
+  },
+  {
+    "单数": "das Fahrradgeschäft",
+    "复数": "die Fahrradgeschäfte",
+    "意思": "bike shop"
+  },
+  {
+    "单数": "die Rechnung",
+    "复数": "die Rechnungen",
+    "意思": "bill; invoice"
+  },
+  {
+    "单数": "der Ordner",
+    "复数": "die Ordner",
+    "意思": "binder; folder"
+  },
+  {
+    "单数": "der Geburtstag",
+    "复数": "die Geburtstage",
+    "意思": "birthday"
+  },
+  {
+    "单数": "die Tafel",
+    "复数": "die Tafeln",
+    "意思": "board; chalkboard"
+  },
+  {
+    "单数": "das Buch",
+    "复数": "die Bücher",
+    "意思": "book"
+  },
+  {
+    "单数": "das Bücherregal",
+    "复数": "die Bücherregale",
+    "意思": "bookshelf"
+  },
+  {
+    "单数": "die Langeweile",
+    "复数": "",
+    "意思": "boredom"
+  },
+  {
+    "单数": "das Brot",
+    "复数": "die Brote",
+    "意思": "bread"
+  },
+  {
+    "单数": "das Brötchen",
+    "复数": "die Brötchen",
+    "意思": "bread roll"
+  },
+  {
+    "单数": "die Pause",
+    "复数": "die Pausen",
+    "意思": "break"
+  },
+  {
+    "单数": "die Panne",
+    "复数": "die Pannen",
+    "意思": "breakdown; glitch; malfunction"
+  },
+  {
+    "单数": "das Frühstück",
+    "复数": "die Frühstücke",
+    "意思": "breakfast"
+  },
+  {
+    "单数": "die Brücke",
+    "复数": "die Brücken",
+    "意思": "bridge"
+  },
+  {
+    "单数": "der Brokkoli",
+    "复数": "die Brokkolis",
+    "意思": "broccoli"
+  },
+  {
+    "单数": "das Gebäude",
+    "复数": "die Gebäude",
+    "意思": "building"
+  },
+  {
+    "单数": "die Buslinie",
+    "复数": "die Buslinien",
+    "意思": "bus line"
+  },
+  {
+    "单数": "der Bus",
+    "复数": "die Busse",
+    "意思": "bus公交车"
+  },
+  {
+    "单数": "die Butter",
+    "复数": "",
+    "意思": "butter"
+  },
+  {
+    "单数": "das Café",
+    "复数": "die Cafés",
+    "意思": "cafe"
+  },
+  {
+    "单数": "die Cafeteria",
+    "复数": "die Cafeterias",
+    "意思": "cafeteria"
+  },
+  {
+    "单数": "der Kuchen",
+    "复数": "die kuchen",
+    "意思": "cake"
+  },
+  {
+    "单数": "der Kalender",
+    "复数": "die Kalender",
+    "意思": "calendar"
+  },
+  {
+    "单数": "die Kantine",
+    "复数": "die Kantinen",
+    "意思": "canteen"
+  },
+  {
+    "单数": "die Hauptstadt",
+    "复数": "die Hauptstädte",
+    "意思": "capital city"
+  },
+  {
+    "单数": "das Auto",
+    "复数": "die Autos",
+    "意思": "car"
+  },
+  {
+    "单数": "der Teppich",
+    "复数": "die Teppiche",
+    "意思": "carpet"
+  },
+  {
+    "单数": "die Karotte",
+    "复数": "die Karotten",
+    "意思": "carrot"
+  },
+  {
+    "单数": "das Schloss",
+    "复数": "die Schlösser",
+    "意思": "castle"
+  },
+  {
+    "单数": "der Dom",
+    "复数": "die Dome",
+    "意思": "cathedral"
+  },
+  {
+    "单数": "der Cent",
+    "复数": "die Cents",
+    "意思": "cent"
+  },
+  {
+    "单数": "der Stuhl",
+    "复数": "die stühle",
+    "意思": "chair"
+  },
+  {
+    "单数": "der Käse",
+    "复数": "",
+    "意思": "cheese"
+  },
+  {
+    "单数": "das Kinderzimmer",
+    "复数": "die Kinderzimmer",
+    "意思": "child's room"
+  },
+  {
+    "单数": "das Chinesisch",
+    "复数": "",
+    "意思": "Chinese"
+  },
+  {
+    "单数": "die Schokoladencreme",
+    "复数": "die Schokoladencremes",
+    "意思": "chocolate spread"
+  },
+  {
+    "单数": "die Kirche",
+    "复数": "die Kirchen",
+    "意思": "church"
+  },
+  {
+    "单数": "das Kino",
+    "复数": "die Kinos",
+    "意思": "cinema"
+  },
+  {
+    "单数": "die Stadt",
+    "复数": "die Städte",
+    "意思": "city"
+  },
+  {
+    "单数": "das Zentrum",
+    "复数": "die Zentren",
+    "意思": "city center"
+  },
+  {
+    "单数": "das Rathaus",
+    "复数": "die Rathäuser",
+    "意思": "city hall"
+  },
+  {
+    "单数": "der Stadtplan",
+    "复数": "die Stadtpläne",
+    "意思": "city map"
+  },
+  {
+    "单数": "die Uhr",
+    "复数": "die Uhren",
+    "意思": "clock"
+  },
+  {
+    "单数": "der Kleiderschrank",
+    "复数": "die Kleiderschränke",
+    "意思": "closet; wardrobe"
+  },
+  {
+    "单数": "das Tuch",
+    "复数": "die Tücher",
+    "意思": "cloth"
+  },
+  {
+    "单数": "die Garderobe",
+    "复数": "die Garderoben",
+    "意思": "coat check; wardrobe"
+  },
+  {
+    "单数": "der Kakao",
+    "复数": "die Kakaos",
+    "意思": "cocoa"
+  },
+  {
+    "单数": "der Kaffee",
+    "复数": "die Kaffees",
+    "意思": "coffee"
+  },
+  {
+    "单数": "die Cola",
+    "复数": "die Colas",
+    "意思": "cola"
+  },
+  {
+    "单数": "der Bildschirm",
+    "复数": "die Bildschirme",
+    "意思": "computer screen"
+  },
+  {
+    "单数": "der Computer",
+    "复数": "die Computer",
+    "意思": "computer计算机"
+  },
+  {
+    "单数": "das Konzert",
+    "复数": "die Konzerte",
+    "意思": "concert"
+  },
+  {
+    "单数": "der Konferenzraum",
+    "复数": "die Konferenzräume",
+    "意思": "conference room"
+  },
+  {
+    "单数": "der Vertrag",
+    "复数": "die Verträge",
+    "意思": "contract; agreement"
+  },
+  {
+    "单数": "das Gespräch",
+    "复数": "die Gespräche",
+    "意思": "conversation"
+  },
+  {
+    "单数": "die Ecke",
+    "复数": "die Ecken",
+    "意思": "corner"
+  },
+  {
+    "单数": "die Couch",
+    "复数": "die Couches",
+    "意思": "couch"
+  },
+  {
+    "单数": "das Land",
+    "复数": "die Länder",
+    "意思": "country"
+  },
+  {
+    "单数": "der Kurs",
+    "复数": "die Kurse",
+    "意思": "course"
+  },
+  {
+    "单数": "die Gurke",
+    "复数": "die Gurken",
+    "意思": "cucumber"
+  },
+  {
+    "单数": "die Kultur",
+    "复数": "",
+    "意思": "culture"
+  },
+  {
+    "单数": "die Tasse",
+    "复数": "die Tassen",
+    "意思": "cup"
+  },
+  {
+    "单数": "der Quark",
+    "复数": "",
+    "意思": "curd"
+  },
+  {
+    "单数": "die Gardine",
+    "复数": "die Gardinen",
+    "意思": "curtain"
+  },
+  {
+    "单数": "das Datum",
+    "复数": "die Daten",
+    "意思": "date, day"
+  },
+  {
+    "单数": "der Tag",
+    "复数": "die Tage",
+    "意思": "day"
+  },
+  {
+    "单数": "die Verspätung",
+    "复数": "die Verspätungen",
+    "意思": "delay; late arrival"
+  },
+  {
+    "单数": "der Schreibtischstuhl",
+    "复数": "die Schreibtischstühle",
+    "意思": "desk chair"
+  },
+  {
+    "单数": "der Dialog",
+    "复数": "die Dialoge",
+    "意思": "dialogue"
+  },
+  {
+    "单数": "das Wörterbuch",
+    "复数": "die Wörterbücher",
+    "意思": "dictionary"
+  },
+  {
+    "单数": "das Abendessen",
+    "复数": "die Abendessen",
+    "意思": "dinner"
+  },
+  {
+    "单数": "die Richtung",
+    "复数": "die Richtungen",
+    "意思": "direction"
+  },
+  {
+    "单数": "die Tür",
+    "复数": "die Türen",
+    "意思": "door"
+  },
+  {
+    "单数": "der Traumberuf",
+    "复数": "die Traumberufe",
+    "意思": "dream job"
+  },
+  {
+    "单数": "das Getränk",
+    "复数": "die Getränke",
+    "意思": "drink"
+  },
+  {
+    "单数": "der Osten",
+    "复数": "",
+    "意思": "east"
+  },
+  {
+    "单数": "der Aufzug",
+    "复数": "die Aufzüge",
+    "意思": "elevator; lift"
+  },
+  {
+    "单数": "die E-mail",
+    "复数": "die E-mails",
+    "意思": "E-mail电子邮件"
+  },
+  {
+    "单数": "der Notausgang",
+    "复数": "die Notausgänge",
+    "意思": "emergency exit"
+  },
+  {
+    "单数": "das Ende",
+    "复数": "die Enden",
+    "意思": "end; ending"
+  },
+  {
+    "单数": "das Englisch",
+    "复数": "",
+    "意思": "English"
+  },
+  {
+    "单数": "der Radiergummi",
+    "复数": "die Radiergummis",
+    "意思": "eraser"
+  },
+  {
+    "单数": "der Abend",
+    "复数": "die Abende",
+    "意思": "evening"
+  },
+  {
+    "单数": "das Beispiel",
+    "复数": "die Beispiele",
+    "意思": "example"
+  },
+  {
+    "单数": "die Übung",
+    "复数": "die Übungen",
+    "意思": "exercise"
+  },
+  {
+    "单数": "der Ausgang",
+    "复数": "die Ausgänge",
+    "意思": "exit"
+  },
+  {
+    "单数": "die Fabrik",
+    "复数": "die Fabriken",
+    "意思": "factory"
+  },
+  {
+    "单数": "die Familie",
+    "复数": "die Familien",
+    "意思": "family"
+  },
+  {
+    "单数": "der Familienname",
+    "复数": "die Familiennamen",
+    "意思": "family name"
+  },
+  {
+    "单数": "die Familie",
+    "复数": "die Familien",
+    "意思": "family家庭"
+  },
+  {
+    "单数": "die Verabschiedung",
+    "复数": "die Verabschiedungen",
+    "意思": "farewell"
+  },
+  {
+    "单数": "das Lieblingsessen",
+    "复数": "die Lieblingsessen",
+    "意思": "favorite food"
+  },
+  {
+    "单数": "der Film",
+    "复数": "die Filme",
+    "意思": "film"
+  },
+  {
+    "单数": "der Vorname",
+    "复数": "die Vornamen",
+    "意思": "first name"
+  },
+  {
+    "单数": "der Fisch",
+    "复数": "die Fische",
+    "意思": "fish"
+  },
+  {
+    "单数": "die Stehlampe",
+    "复数": "die Stehlampen",
+    "意思": "floor lamp"
+  },
+  {
+    "单数": "die Etage",
+    "复数": "die Etagen",
+    "意思": "floor; story; level"
+  },
+  {
+    "单数": "die Flöte",
+    "复数": "die Flöten",
+    "意思": "flute"
+  },
+  {
+    "单数": "das Essen",
+    "复数": "die Essen",
+    "意思": "food"
+  },
+  {
+    "单数": "der Fußball",
+    "复数": "",
+    "意思": "football"
+  },
+  {
+    "单数": "die Fremdsprache",
+    "复数": "die Fremdsprachen",
+    "意思": "foreign language"
+  },
+  {
+    "单数": "",
+    "复数": "die Pommes frites",
+    "意思": "French fries"
+  },
+  {
+    "单数": "der Kühlschrank",
+    "复数": "die Kühlschränke",
+    "意思": "fridge"
+  },
+  {
+    "单数": "das Obst",
+    "复数": "",
+    "意思": "fruit"
+  },
+  {
+    "单数": "das Möbel",
+    "复数": "die Möbel",
+    "意思": "furniture"
+  },
+  {
+    "单数": "das Spiel",
+    "复数": "die Spiele",
+    "意思": "game"
+  },
+  {
+    "单数": "die Garage",
+    "复数": "die Garagen",
+    "意思": "garage"
+  },
+  {
+    "单数": "der Müll",
+    "复数": "",
+    "意思": "garbage; trash"
+  },
+  {
+    "单数": "der Garten",
+    "复数": "die Gärten",
+    "意思": "garden"
+  },
+  {
+    "单数": "die Tankstelle",
+    "复数": "die Tankstellen",
+    "意思": "gas station"
+  },
+  {
+    "单数": "das Tor",
+    "复数": "die Tore",
+    "意思": "gate"
+  },
+  {
+    "单数": "das Deutsch",
+    "复数": "",
+    "意思": "German"
+  },
+  {
+    "单数": "der Deutschunterricht",
+    "复数": "",
+    "意思": "German class"
+  },
+  {
+    "单数": "der Deutschkurs",
+    "复数": "die Deutschkurse",
+    "意思": "German course"
+  },
+  {
+    "单数": "das Müsli",
+    "复数": "die Müslis",
+    "意思": "granola麦片"
+  },
+  {
+    "单数": "die Begrüßung",
+    "复数": "die Begrüßungen",
+    "意思": "greeting"
+  },
+  {
+    "单数": "das Erdgeschoss",
+    "复数": "die Erdgeschosse",
+    "意思": "ground floor"
+  },
+  {
+    "单数": "die Gitarre",
+    "复数": "die Gitarren",
+    "意思": "guitar吉他"
+  },
+  {
+    "单数": "das Fitnessstudio",
+    "复数": "die Fitnessstudios",
+    "意思": "gym; fitness studio"
+  },
+  {
+    "单数": "der Föhn",
+    "复数": "die Föhne",
+    "意思": "hair dryer"
+  },
+  {
+    "单数": "der Friseursalon",
+    "复数": "die Friseursalons",
+    "意思": "hair salon"
+  },
+  {
+    "单数": "der Flur",
+    "复数": "die Flure",
+    "意思": "hallway"
+  },
+  {
+    "单数": "der Schinken",
+    "复数": "die Schinken",
+    "意思": "ham"
+  },
+  {
+    "单数": "der Hamburger",
+    "复数": "die Hamburger",
+    "意思": "hamburger"
+  },
+  {
+    "单数": "das Handtuch",
+    "复数": "die Handtücher",
+    "意思": "hand towel"
+  },
+  {
+    "单数": "die Heizung",
+    "复数": "die Heizungen",
+    "意思": "heating"
+  },
+  {
+    "单数": "die Hilfe",
+    "复数": "die Hilfem",
+    "意思": "help"
+  },
+  {
+    "单数": "das Hochhaus",
+    "复数": "die Hochhäuser",
+    "意思": "high-rise building"
+  },
+  {
+    "单数": "die Autobahn",
+    "复数": "die Autobahnen",
+    "意思": "highway; expressway"
+  },
+  {
+    "单数": "das Hobby",
+    "复数": "die Hobbys",
+    "意思": "hobby爱好"
+  },
+  {
+    "单数": "das Loch",
+    "复数": "die Löcher",
+    "意思": "hole"
+  },
+  {
+    "单数": "der Locher",
+    "复数": "die Locher",
+    "意思": "hole puncher"
+  },
+  {
+    "单数": "",
+    "复数": "die Ferien",
+    "意思": "holiday (public)"
+  },
+  {
+    "单数": "das Heimatland",
+    "复数": "die Heimatländer",
+    "意思": "homeland"
+  },
+  {
+    "单数": "die Hausaufgabe",
+    "复数": "die Hausaufgaben",
+    "意思": "homework"
+  },
+  {
+    "单数": "das Krankenhaus",
+    "复数": "die Krankenhäuser",
+    "意思": "hospital"
+  },
+  {
+    "单数": "das Hostel",
+    "复数": "die Hostels",
+    "意思": "hostel"
+  },
+  {
+    "单数": "die Herberge",
+    "复数": "die Herbergen",
+    "意思": "hostel"
+  },
+  {
+    "单数": "das Hotel",
+    "复数": "die Hotels",
+    "意思": "hotel酒店"
+  },
+  {
+    "单数": "die Stunde",
+    "复数": "die Stunden",
+    "意思": "hour"
+  },
+  {
+    "单数": "das Haus",
+    "复数": "die Häuser",
+    "意思": "house"
+  },
+  {
+    "单数": "die Hausnummer",
+    "复数": "die Hausnummern",
+    "意思": "house number"
+  },
+  {
+    "单数": "der Hunger",
+    "复数": "",
+    "意思": "hunger"
+  },
+  {
+    "单数": "das Eis",
+    "复数": "",
+    "意思": "ice"
+  },
+  {
+    "单数": "die Information",
+    "复数": "",
+    "意思": "information信息"
+  },
+  {
+    "单数": "das Internet",
+    "复数": "",
+    "意思": "internet"
+  },
+  {
+    "单数": "die Kreuzung",
+    "复数": "die Kreuzungen",
+    "意思": "intersection"
+  },
+  {
+    "单数": "die Einladung",
+    "复数": "die Einladungen",
+    "意思": "invitation"
+  },
+  {
+    "单数": "die Jacke",
+    "复数": "die Jacken",
+    "意思": "jacket"
+  },
+  {
+    "单数": "der Job",
+    "复数": "die Jobs",
+    "意思": "job"
+  },
+  {
+    "单数": "das Bewerbungsgespräch",
+    "复数": "die Bewerbungsgespräche",
+    "意思": "job interview"
+  },
+  {
+    "单数": "die Fahrt",
+    "复数": "die Fahrten",
+    "意思": "journey"
+  },
+  {
+    "单数": "der Saft",
+    "复数": "die Säfte",
+    "意思": "juice"
+  },
+  {
+    "单数": "der Schlüssel",
+    "复数": "die Schlüssel",
+    "意思": "key"
+  },
+  {
+    "单数": "die Tastatur",
+    "复数": "die Tastaturen",
+    "意思": "keyboard"
+  },
+  {
+    "单数": "der Kindergarten",
+    "复数": "die Kindergärten",
+    "意思": "kindergarten"
+  },
+  {
+    "单数": "die Küche",
+    "复数": "die Küchen",
+    "意思": "kitchen"
+  },
+  {
+    "单数": "die Spüle",
+    "复数": "die Spülen",
+    "意思": "kitchen sink"
+  },
+  {
+    "单数": "die Kiwi",
+    "复数": "die Kiwis",
+    "意思": "kiwi fruit"
+  },
+  {
+    "单数": "der Kohlrabi",
+    "复数": "die Kohlrabis",
+    "意思": "kohlrabi"
+  },
+  {
+    "单数": "der See",
+    "复数": "die Seen",
+    "意思": "lake"
+  },
+  {
+    "单数": "die Lampe",
+    "复数": "die Lampen",
+    "意思": "lamp"
+  },
+  {
+    "单数": "die Sprache",
+    "复数": "die Sprachen",
+    "意思": "language"
+  },
+  {
+    "单数": "der Sprachkurs",
+    "复数": "die Sprachkurse",
+    "意思": "language course"
+  },
+  {
+    "单数": "die Sprachschule",
+    "复数": "die Sprachschulen",
+    "意思": "language school"
+  },
+  {
+    "单数": "der Nachname",
+    "复数": "die Nachnamen",
+    "意思": "last name"
+  },
+  {
+    "单数": "die Zitrone",
+    "复数": "die Zitronen",
+    "意思": "lemon"
+  },
+  {
+    "单数": "die Limo",
+    "复数": "die Limos",
+    "意思": "lemonade"
+  },
+  {
+    "单数": "die Limonade",
+    "复数": "die Limonaden",
+    "意思": "lemonade"
+  },
+  {
+    "单数": "der Unterricht",
+    "复数": "",
+    "意思": "lesson"
+  },
+  {
+    "单数": "der Brief",
+    "复数": "die Briefe",
+    "意思": "letter"
+  },
+  {
+    "单数": "die Bibliothek",
+    "复数": "die Bibliotheken",
+    "意思": "library"
+  },
+  {
+    "单数": "die Linie",
+    "复数": "die Linien",
+    "意思": "line"
+  },
+  {
+    "单数": "das Wohnzimmer",
+    "复数": "die Wohnzimmer",
+    "意思": "living room"
+  },
+  {
+    "单数": "das Fundbüro",
+    "复数": "die Fundbüros",
+    "意思": "lost and found office"
+  },
+  {
+    "单数": "die Mittagspause",
+    "复数": "die Mittagspausen",
+    "意思": "lunch break"
+  },
+  {
+    "单数": "die Maschine",
+    "复数": "die Maschinen",
+    "意思": "machine"
+  },
+  {
+    "单数": "das Gerät",
+    "复数": "die Geräte",
+    "意思": "machine; device"
+  },
+  {
+    "单数": "die Marmelade",
+    "复数": "die Marmeladen",
+    "意思": "marmelade; jam"
+  },
+  {
+    "单数": "das Gericht",
+    "复数": "die Gerichte",
+    "意思": "meal; dish"
+  },
+  {
+    "单数": "das Fleisch",
+    "复数": "",
+    "意思": "meat"
+  },
+  {
+    "单数": "das Treffen",
+    "复数": "die Treffen",
+    "意思": "meeting"
+  },
+  {
+    "单数": "das Meeting",
+    "复数": "die Meetings",
+    "意思": "meeting"
+  },
+  {
+    "单数": "der Besprechungsraum",
+    "复数": "die Besprechungsräume",
+    "意思": "meeting room"
+  },
+  {
+    "单数": "die Speisekarte",
+    "复数": "die Speisekarten",
+    "意思": "menu"
+  },
+  {
+    "单数": "das Menü",
+    "复数": "die Menüs",
+    "意思": "menu"
+  },
+  {
+    "单数": "die Nachricht",
+    "复数": "die Nachrichten",
+    "意思": "message"
+  },
+  {
+    "单数": "die Milch",
+    "复数": "",
+    "意思": "milk"
+  },
+  {
+    "单数": "das Mineralwasser",
+    "复数": "die Mineralwässer",
+    "意思": "mineral water"
+  },
+  {
+    "单数": "die Minute",
+    "复数": "die Minuten",
+    "意思": "minute"
+  },
+  {
+    "单数": "der Spiegel",
+    "复数": "die Spiegel",
+    "意思": "mirror"
+  },
+  {
+    "单数": "das Handy",
+    "复数": "die Handys",
+    "意思": "mobile phone"
+  },
+  {
+    "单数": "das Geld",
+    "复数": "die Gelder",
+    "意思": "money"
+  },
+  {
+    "单数": "der Monat",
+    "复数": "die Monate",
+    "意思": "month"
+  },
+  {
+    "单数": "der Morgen",
+    "复数": "die Morgen",
+    "意思": "morning"
+  },
+  {
+    "单数": "die Muttersprache",
+    "复数": "die Muttersprachen",
+    "意思": "mother tongue"
+  },
+  {
+    "单数": "das Motorrad",
+    "复数": "die Motorräder",
+    "意思": "motorcycle"
+  },
+  {
+    "单数": "die Maus",
+    "复数": "die Mäuse",
+    "意思": "mouse"
+  },
+  {
+    "单数": "der Umzug",
+    "复数": "die Umzüge",
+    "意思": "move, relocation"
+  },
+  {
+    "单数": "der Mozzarella",
+    "复数": "",
+    "意思": "mozzarella"
+  },
+  {
+    "单数": "das Museum",
+    "复数": "die Museen",
+    "意思": "museum"
+  },
+  {
+    "单数": "die Musik",
+    "复数": "die Musiken",
+    "意思": "music"
+  },
+  {
+    "单数": "der Name",
+    "复数": "die Namen",
+    "意思": "name"
+  },
+  {
+    "单数": "die Gasse",
+    "复数": "die Gassen",
+    "意思": "narrow street"
+  },
+  {
+    "单数": "die Natur",
+    "复数": "",
+    "意思": "nature"
+  },
+  {
+    "单数": "die Nacht",
+    "复数": "die Nächte",
+    "意思": "night"
+  },
+  {
+    "单数": "die Nudel",
+    "复数": "die Nudeln",
+    "意思": "noodles"
+  },
+  {
+    "单数": "der Mittag",
+    "复数": "die Mittage",
+    "意思": "noon; midday"
+  },
+  {
+    "单数": "der Norden",
+    "复数": "",
+    "意思": "north"
+  },
+  {
+    "单数": "der Zettel",
+    "复数": "die Zettel",
+    "意思": "note, piece of paper"
+  },
+  {
+    "单数": "der Notizblock",
+    "复数": "die Notizblöcke",
+    "意思": "notebook"
+  },
+  {
+    "单数": "die Nummer",
+    "复数": "die Nummen",
+    "意思": "number"
+  },
+  {
+    "单数": "die Zahl",
+    "复数": "die Zahlen",
+    "意思": "number"
+  },
+  {
+    "单数": "der Beruf",
+    "复数": "die Berufe",
+    "意思": "occupation; profession"
+  },
+  {
+    "单数": "der Bürostuhl",
+    "复数": "die Bürostühle",
+    "意思": "office chair"
+  },
+  {
+    "单数": "der Büroraum",
+    "复数": "die Büroräume",
+    "意思": "office room"
+  },
+  {
+    "单数": "die Büroarbeit",
+    "复数": "die Büroarbeiten",
+    "意思": "office work"
+  },
+  {
+    "单数": "das Arbeitszimmer",
+    "复数": "die Arbeitszimmer",
+    "意思": "office, study room"
+  },
+  {
+    "单数": "das Büro",
+    "复数": "die Büros",
+    "意思": "office办公室"
+  },
+  {
+    "单数": "die Öffnungszeit",
+    "复数": "die Öffnungszeiten",
+    "意思": "opening hours"
+  },
+  {
+    "单数": "die Oper",
+    "复数": "die Opern",
+    "意思": "opera"
+  },
+  {
+    "单数": "die Orange",
+    "复数": "die Orangen",
+    "意思": "orange"
+  },
+  {
+    "单数": "der Orangensaft",
+    "复数": "die Orangensäfte",
+    "意思": "orange juice"
+  },
+  {
+    "单数": "die Bestellung",
+    "复数": "die Bestellungen",
+    "意思": "order (food)"
+  },
+  {
+    "单数": "der Pfannkuchen",
+    "复数": "die Pfannkuchen",
+    "意思": "pancake"
+  },
+  {
+    "单数": "das Papier",
+    "复数": "",
+    "意思": "paper"
+  },
+  {
+    "单数": "der Park",
+    "复数": "die Parks",
+    "意思": "park"
+  },
+  {
+    "单数": "das Parkhaus",
+    "复数": "die Parkhäuser",
+    "意思": "parking garage"
+  },
+  {
+    "单数": "der Parkplatz",
+    "复数": "die Parkplätze",
+    "意思": "parking spot"
+  },
+  {
+    "单数": "die Party",
+    "复数": "die Partys",
+    "意思": "party"
+  },
+  {
+    "单数": "der Pass",
+    "复数": "die Pässe",
+    "意思": "passport"
+  },
+  {
+    "单数": "die Passnummer",
+    "复数": "die Passnummern",
+    "意思": "passport number, not password"
+  },
+  {
+    "单数": "der Weg",
+    "复数": "die Wege",
+    "意思": "path"
+  },
+  {
+    "单数": "die Birne",
+    "复数": "die Birnen",
+    "意思": "pear"
+  },
+  {
+    "单数": "die Fußgängerzone",
+    "复数": "die Fußgängerzonen",
+    "意思": "pedestrian zone"
+  },
+  {
+    "单数": "der Stift",
+    "复数": "die Stifte",
+    "意思": "pen"
+  },
+  {
+    "单数": "der Bleistift",
+    "复数": "die Bleistifte",
+    "意思": "pencil"
+  },
+  {
+    "单数": "die Person",
+    "复数": "die Personen",
+    "意思": "person"
+  },
+  {
+    "单数": "die Handynummer",
+    "复数": "die Handynummern",
+    "意思": "phone number"
+  },
+  {
+    "单数": "das Foto",
+    "复数": "die Fotos",
+    "意思": "photo"
+  },
+  {
+    "单数": "das Bild",
+    "复数": "die Bilder",
+    "意思": "picture"
+  },
+  {
+    "单数": "das Kissen",
+    "复数": "die Kissen",
+    "意思": "pillow"
+  },
+  {
+    "单数": "die Ananas",
+    "复数": "die Ananas",
+    "意思": "pineapple"
+  },
+  {
+    "单数": "die Pizza",
+    "复数": "die Pizzen",
+    "意思": "pizza"
+  },
+  {
+    "单数": "der Wohnort",
+    "复数": "die Wohnorte",
+    "意思": "place; town"
+  },
+  {
+    "单数": "der Teller",
+    "复数": "die Teller",
+    "意思": "plate"
+  },
+  {
+    "单数": "die Polizei",
+    "复数": "",
+    "意思": "police"
+  },
+  {
+    "单数": "die Post",
+    "复数": "",
+    "意思": "post office"
+  },
+  {
+    "单数": "die Postleitzahl",
+    "复数": "die Postleitzahlen",
+    "意思": "postal code"
+  },
+  {
+    "单数": "die Kartoffel",
+    "复数": "die Kartoffeln",
+    "意思": "potato"
+  },
+  {
+    "单数": "das Geschenk",
+    "复数": "die Geschenke",
+    "意思": "present/gift"
+  },
+  {
+    "单数": "der Drucker",
+    "复数": "die Drucker",
+    "意思": "printer"
+  },
+  {
+    "单数": "das Problem",
+    "复数": "die Probleme",
+    "意思": "problem"
+  },
+  {
+    "单数": "die Frage",
+    "复数": "die Fragen",
+    "意思": "question"
+  },
+  {
+    "单数": "das Radio",
+    "复数": "die Radios",
+    "意思": "radio"
+  },
+  {
+    "单数": "die Himbeere",
+    "复数": "die Himbeeren",
+    "意思": "raspberry"
+  },
+  {
+    "单数": "der Lesesaal",
+    "复数": "die Lesesäle",
+    "意思": "reading room"
+  },
+  {
+    "单数": "der Empfang",
+    "复数": "",
+    "意思": "reception; front desk"
+  },
+  {
+    "单数": "die Miete",
+    "复数": "die Mieten",
+    "意思": "rent"
+  },
+  {
+    "单数": "die Reservierung",
+    "复数": "die Reservierungen",
+    "意思": "reservation"
+  },
+  {
+    "单数": "die Aufenthaltserlaubnis",
+    "复数": "die Aufenthaltserlaubnisse",
+    "意思": "residence permit"
+  },
+  {
+    "单数": "das Restaurant",
+    "复数": "die Restaurants",
+    "意思": "restaurant"
+  },
+  {
+    "单数": "der Reis",
+    "复数": "",
+    "意思": "rice"
+  },
+  {
+    "单数": "der Fluss",
+    "复数": "die Flüsse",
+    "意思": "river"
+  },
+  {
+    "单数": "das Zimmer",
+    "复数": "die Zimmer",
+    "意思": "room"
+  },
+  {
+    "单数": "der Raum",
+    "复数": "die räume",
+    "意思": "room, space"
+  },
+  {
+    "单数": "die Roulade",
+    "复数": "die Rouladen",
+    "意思": "roulade; braised meat rolls"
+  },
+  {
+    "单数": "der Salat",
+    "复数": "die Salate",
+    "意思": "salad"
+  },
+  {
+    "单数": "die Salami",
+    "复数": "die Salamis",
+    "意思": "salami"
+  },
+  {
+    "单数": "die Wurst",
+    "复数": "die Würste",
+    "意思": "sausage"
+  },
+  {
+    "单数": "die Schule",
+    "复数": "die Schulen",
+    "意思": "school"
+  },
+  {
+    "单数": "das Meer",
+    "复数": "die Meere",
+    "意思": "sea"
+  },
+  {
+    "单数": "das Sekretariat",
+    "复数": "die Sekretariate",
+    "意思": "secretariat; registry; office"
+  },
+  {
+    "单数": "der Satz",
+    "复数": "die Sätze",
+    "意思": "sentence"
+  },
+  {
+    "单数": "das Regal",
+    "复数": "die Regale",
+    "意思": "shelf"
+  },
+  {
+    "单数": "der Laden",
+    "复数": "die Läden",
+    "意思": "shop"
+  },
+  {
+    "单数": "die Beilage",
+    "复数": "die Beilagen",
+    "意思": "side dish"
+  },
+  {
+    "单数": "das Schild",
+    "复数": "die Schilder",
+    "意思": "sign"
+  },
+  {
+    "单数": "das Sofa",
+    "复数": "die Sofas",
+    "意思": "sofa"
+  },
+  {
+    "单数": "die Lösung",
+    "复数": "die Lösungen",
+    "意思": "solution"
+  },
+  {
+    "单数": "die Suppe",
+    "复数": "die Suppen",
+    "意思": "soup"
+  },
+  {
+    "单数": "der Süden",
+    "复数": "",
+    "意思": "south"
+  },
+  {
+    "单数": "der Platz",
+    "复数": "",
+    "意思": "space; room"
+  },
+  {
+    "单数": "",
+    "复数": "die Spaghetti",
+    "意思": "spaghetti"
+  },
+  {
+    "单数": "die Spezialität",
+    "复数": "die Spezialitäten",
+    "意思": "specialty"
+  },
+  {
+    "单数": "der Sport",
+    "复数": "",
+    "意思": "sport"
+  },
+  {
+    "单数": "der Quadratmeter",
+    "复数": "die Quadratmeter",
+    "意思": "square meter"
+  },
+  {
+    "单数": "die Treppe",
+    "复数": "die Treppen",
+    "意思": "stairs"
+  },
+  {
+    "单数": "der Stempel",
+    "复数": "die Stempel",
+    "意思": "stamp印章"
+  },
+  {
+    "单数": "der Tacker",
+    "复数": "die Tacker",
+    "意思": "stapler订书机"
+  },
+  {
+    "单数": "das Steak",
+    "复数": "die Steak",
+    "意思": "steak"
+  },
+  {
+    "单数": "die Haltestelle",
+    "复数": "die Haltestellen",
+    "意思": "stop; station"
+  },
+  {
+    "单数": "das Geschäft",
+    "复数": "die geschäfte",
+    "意思": "store/shop"
+  },
+  {
+    "单数": "der Herd",
+    "复数": "die Herde",
+    "意思": "stove"
+  },
+  {
+    "单数": "die Straße",
+    "复数": "die Straßen",
+    "意思": "street"
+  },
+  {
+    "单数": "die U-Bahn",
+    "复数": "die U-Bahnen",
+    "意思": "subway"
+  },
+  {
+    "单数": "der Zucker",
+    "复数": "",
+    "意思": "sugar"
+  },
+  {
+    "单数": "der Koffer",
+    "复数": "die Koffer",
+    "意思": "suitcase"
+  },
+  {
+    "单数": "der Supermarkt",
+    "复数": "die Supermäkte",
+    "意思": "supermaket"
+  },
+  {
+    "单数": "das Sushi",
+    "复数": "",
+    "意思": "sushi"
+  },
+  {
+    "单数": "das Schwimmbad",
+    "复数": "die Schwimmbäder",
+    "意思": "swimming pool"
+  },
+  {
+    "单数": "der Tisch",
+    "复数": "die Tische",
+    "意思": "table"
+  },
+  {
+    "单数": "das Taxi",
+    "复数": "die Taxis",
+    "意思": "taxi"
+  },
+  {
+    "单数": "der Tee",
+    "复数": "die Tees",
+    "意思": "tea"
+  },
+  {
+    "单数": "das Team",
+    "复数": "die Teams",
+    "意思": "team"
+  },
+  {
+    "单数": "das Telefon",
+    "复数": "die Telefone",
+    "意思": "telephone"
+  },
+  {
+    "单数": "die Telefonnummer",
+    "复数": "die Telefonnummern",
+    "意思": "telephone number"
+  },
+  {
+    "单数": "das Tennis",
+    "复数": "",
+    "意思": "tennis"
+  },
+  {
+    "单数": "die Terrasse",
+    "复数": "die Terrassen",
+    "意思": "terrace"
+  },
+  {
+    "单数": "der Text",
+    "复数": "die Texte",
+    "意思": "text"
+  },
+  {
+    "单数": "der Rest",
+    "复数": "die Reste",
+    "意思": "the rest of"
+  },
+  {
+    "单数": "das Theater",
+    "复数": "die Theater",
+    "意思": "theater"
+  },
+  {
+    "单数": "die Sache",
+    "复数": "die Sachen",
+    "意思": "thing; item"
+  },
+  {
+    "单数": "der Durst",
+    "复数": "",
+    "意思": "thirst"
+  },
+  {
+    "单数": "die Eintrittskarte",
+    "复数": "die Eintrittskarten",
+    "意思": "ticket for entrance"
+  },
+  {
+    "单数": "die Fahrkarte",
+    "复数": "die Fahrkarten",
+    "意思": "ticket for transportation"
+  },
+  {
+    "单数": "das Ticket",
+    "复数": "die Tickets",
+    "意思": "ticket in general"
+  },
+  {
+    "单数": "die Zeit",
+    "复数": "",
+    "意思": "time"
+  },
+  {
+    "单数": "der Fahrplan",
+    "复数": "die Fahrpläne",
+    "意思": "timetable; schedule"
+  },
+  {
+    "单数": "das Trinkgeld",
+    "复数": "die Trinkgelder",
+    "意思": "tip money"
+  },
+  {
+    "单数": "die Toilette",
+    "复数": "die Toiletten",
+    "意思": "toilet"
+  },
+  {
+    "单数": "die Toilette",
+    "复数": "die Toiletten",
+    "意思": "toilet"
+  },
+  {
+    "单数": "die Tomate",
+    "复数": "die Tomaten",
+    "意思": "tomato"
+  },
+  {
+    "单数": "die Sehenswürdigkeit",
+    "复数": "die Sehenswürdigkeiten",
+    "意思": "tourist attraction"
+  },
+  {
+    "单数": "der Verkehr",
+    "复数": "",
+    "意思": "traffic"
+  },
+  {
+    "单数": "der Stau",
+    "复数": "die Staus",
+    "意思": "traffic jam"
+  },
+  {
+    "单数": "die Ampel",
+    "复数": "die Ampeln",
+    "意思": "traffic light"
+  },
+  {
+    "单数": "der Zug",
+    "复数": "die Züge",
+    "意思": "train"
+  },
+  {
+    "单数": "die Bahn",
+    "复数": "die Bahnen",
+    "意思": "train"
+  },
+  {
+    "单数": "der Bahnhof",
+    "复数": "die Bahnhöfe",
+    "意思": "train station"
+  },
+  {
+    "单数": "das Training",
+    "复数": "die Trainings",
+    "意思": "training"
+  },
+  {
+    "单数": "die Straßenbahn",
+    "复数": "die Straßenbahnen",
+    "意思": "tram"
+  },
+  {
+    "单数": "die Reise",
+    "复数": "die Reisen",
+    "意思": "trip"
+  },
+  {
+    "单数": "die Hose",
+    "复数": "die Hosen",
+    "意思": "trousers"
+  },
+  {
+    "单数": "das T-Shirt",
+    "复数": "die T-Shirts",
+    "意思": "t-shirt"
+  },
+  {
+    "单数": "der Thunfisch",
+    "复数": "die Thunfische",
+    "意思": "tunafish"
+  },
+  {
+    "单数": "der Fernseher",
+    "复数": "die Fernseher",
+    "意思": "TV"
+  },
+  {
+    "单数": "die Unterhose",
+    "复数": "die Unterhosen",
+    "意思": "underpants"
+  },
+  {
+    "单数": "die Uni",
+    "复数": "die Unis",
+    "意思": "university"
+  },
+  {
+    "单数": "die Universität",
+    "复数": "die Universitäten",
+    "意思": "university"
+  },
+  {
+    "单数": "der Urlaub",
+    "复数": "die Urlaube",
+    "意思": "vacation (individual)"
+  },
+  {
+    "单数": "das Gemüse",
+    "复数": "",
+    "意思": "vegetables"
+  },
+  {
+    "单数": "der Besuch",
+    "复数": "die Besuche",
+    "意思": "visit"
+  },
+  {
+    "单数": "die Vokabel",
+    "复数": "die Vokabeln",
+    "意思": "vocabulary word"
+  },
+  {
+    "单数": "das Volleyballtraining",
+    "复数": "die Volleyballtrainings",
+    "意思": "volleyball training"
+  },
+  {
+    "单数": "die Wand",
+    "复数": "die Wände",
+    "意思": "wall"
+  },
+  {
+    "单数": "der Schrank",
+    "复数": "die Schränke",
+    "意思": "wardrobe"
+  },
+  {
+    "单数": "die Waschmaschine",
+    "复数": "die Waschmaschinen",
+    "意思": "wash machine"
+  },
+  {
+    "单数": "die Armbanduhr",
+    "复数": "die Armbanduhren",
+    "意思": "watch"
+  },
+  {
+    "单数": "das Wasser",
+    "复数": "",
+    "意思": "water"
+  },
+  {
+    "单数": "die Woche",
+    "复数": "die Wochen",
+    "意思": "weekend"
+  },
+  {
+    "单数": "das Wochenende",
+    "复数": "die Wochenenden",
+    "意思": "weekend"
+  },
+  {
+    "单数": "der Westen",
+    "复数": "",
+    "意思": "west"
+  },
+  {
+    "单数": "das Fenster",
+    "复数": "die Fenster",
+    "意思": "window"
+  },
+  {
+    "单数": "der Wein",
+    "复数": "die Weine",
+    "意思": "wine"
+  },
+  {
+    "单数": "das Wort",
+    "复数": "die Wörter",
+    "意思": "word"
+  },
+  {
+    "单数": "das Arbeitstreffen",
+    "复数": "die Arbeitstreffen",
+    "意思": "work meeting"
+  },
+  {
+    "单数": "die Arbeit",
+    "复数": "",
+    "意思": "work, job"
+  },
+  {
+    "单数": "die Arbeitszeit",
+    "复数": "die Arbeitszeiten",
+    "意思": "working hours"
+  },
+  {
+    "单数": "die Werkstatt",
+    "复数": "die Werkstätten",
+    "意思": "workshop; mechanical garage"
+  },
+  {
+    "单数": "der Schreibtisch",
+    "复数": "die Schreibtische",
+    "意思": "writing desk"
+  },
+  {
+    "单数": "das Jahr",
+    "复数": "die Jahre",
+    "意思": "year"
+  },
+  {
+    "单数": "der Joghurt",
+    "复数": "die Joghurts",
+    "意思": "yoghurt"
+  },
+  {
+    "单数": "die Jugendherberge",
+    "复数": "die Jugendherbergen",
+    "意思": "youth hostel"
+  },
+  {
+    "单数": "der Zoo",
+    "复数": "die Zoos",
+    "意思": "zoo"
+  },
+  {
+    "单数": "das Mittagessen",
+    "复数": "die Mittagessen",
+    "意思": ""
+  },
+  {
+    "单数": "der Januar",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Februar",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der März",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der April",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Mai",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Juni",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Juli",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der August",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der September",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Oktober",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der November",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Dezember",
+    "复数": "",
+    "意思": ""
+  },
+  {
+    "单数": "der Ball",
+    "复数": "die Bälle",
+    "意思": "ball"
+  },
+  {
+    "单数": "die Freizeit",
+    "复数": "",
+    "意思": "free time"
+  },
+  {
+    "单数": "der Kilometer",
+    "复数": "die Kilometer",
+    "意思": "kilometer"
+  },
+  {
+    "单数": "das Schnitzel",
+    "复数": "die Schnitzel",
+    "意思": "meat sliece"
+  },
+  {
+    "单数": "das Yoga",
+    "复数": "",
+    "意思": "yoga"
+  },
+  {
+    "单数": "die Bäckerei",
+    "复数": "die Bäckereien",
+    "意思": "backery"
+  },
+  {
+    "单数": "die Metzgerei",
+    "复数": "die Metzgereien",
+    "意思": "butcher shop"
+  },
+  {
+    "单数": "der Markt",
+    "复数": "die Märkte",
+    "意思": "market"
+  },
+  {
+    "单数": "das Gramm",
+    "复数": "die Gramme",
+    "意思": "gram"
+  },
+  {
+    "单数": "der Preis",
+    "复数": "die Preise",
+    "意思": "price"
+  },
+  {
+    "单数": "das Kilo",
+    "复数": "die Kilos",
+    "意思": "kilo gram"
+  },
+  {
+    "单数": "der Liter",
+    "复数": "die Liter",
+    "意思": "liter"
+  },
+  {
+    "单数": "die Dose",
+    "复数": "die Dosen",
+    "意思": "can"
+  },
+  {
+    "单数": "die Flashe",
+    "复数": "die Flashen",
+    "意思": "bottle"
+  },
+  {
+    "单数": "die Packung",
+    "复数": "die Packungen",
+    "意思": "package"
+  },
+  {
+    "单数": "das Stück",
+    "复数": "die Stücke",
+    "意思": "piece"
+  },
+  {
+    "单数": "die Tafel",
+    "复数": "die Tafeln",
+    "意思": "bar of (chocolote)"
+  },
+  {
+    "单数": "das Lebensmittel",
+    "复数": "die Lebensmittel",
+    "意思": "food, groceries"
+  },
+  {
+    "单数": "das Ei",
+    "复数": "die Eier",
+    "意思": "egg"
+  },
+  {
+    "单数": "das Hähnchen",
+    "复数": "die Hähnchen",
+    "意思": "chicken"
+  },
+  {
+    "单数": "der Mais",
+    "复数": "",
+    "意思": "corn"
+  },
+  {
+    "单数": "das Mehl",
+    "复数": "",
+    "意思": "flour"
+  },
+  {
+    "单数": "das Öl",
+    "复数": "die Öle",
+    "意思": "oil"
+  },
+  {
+    "单数": "die Schokolade",
+    "复数": "",
+    "意思": "chocolate"
+  },
+  {
+    "单数": "die Liste",
+    "复数": "die Listen",
+    "意思": "list"
+  },
+  {
+    "单数": "die Menge",
+    "复数": "die Mengen",
+    "意思": "amount, quantity"
+  },
+  {
+    "单数": "der Apfelkuchen",
+    "复数": "die Apfelkuchen",
+    "意思": "apple cake"
+  },
+  {
+    "单数": "die Hälfte",
+    "复数": "die Hälften",
+    "意思": "half"
+  },
+  {
+    "单数": "die Tüte",
+    "复数": "die Tüten",
+    "意思": "bag"
+  },
+  {
+    "单数": "die Dattel",
+    "复数": "die Datteln",
+    "意思": "red date 红枣"
+  },
+  {
+    "单数": "das Produkt",
+    "复数": "die Produkte",
+    "意思": "product"
+  },
+  {
+    "单数": "die Traube",
+    "复数": "die Trauben",
+    "意思": "grape"
+  },
+  {
+    "单数": "der Wochenmarkt",
+    "复数": "die Wochenmärkte",
+    "意思": "weekly market"
+  },
+  {
+    "单数": "die Form",
+    "复数": "die Formen",
+    "意思": "baking pan"
+  },
+  {
+    "单数": "das Gewürz",
+    "复数": "die Gewürze",
+    "意思": "spice"
+  },
+  {
+    "单数": "das Grad",
+    "复数": "die Grade",
+    "意思": "degree C"
+  },
+  {
+    "单数": "der Knoblauch",
+    "复数": "",
+    "意思": "garlic"
+  },
+  {
+    "单数": "das Kochbuch",
+    "复数": "die Kochbücher",
+    "意思": "cookbook"
+  },
+  {
+    "单数": "die Margarine",
+    "复数": "die Margarinen",
+    "意思": "margarine人造黄油"
+  },
+  {
+    "单数": "die Mischung",
+    "复数": "die Mischungen",
+    "意思": "mixture"
+  },
+  {
+    "单数": "der Ofen",
+    "复数": "die Öfen",
+    "意思": "oven烤箱"
+  },
+  {
+    "单数": "die Paprika",
+    "复数": "die Paprika",
+    "意思": "chilly"
+  },
+  {
+    "单数": "die Pfanne",
+    "复数": "die Pfannen",
+    "意思": "pan"
+  },
+  {
+    "单数": "der Pfeffer",
+    "复数": "",
+    "意思": "pepper"
+  },
+  {
+    "单数": "das Rezept",
+    "复数": "die Rezepte",
+    "意思": "recipe"
+  },
+  {
+    "单数": "die Sahne",
+    "复数": "",
+    "意思": "cream"
+  },
+  {
+    "单数": "das Salz",
+    "复数": "",
+    "意思": "salt"
+  },
+  {
+    "单数": "die Scheibe",
+    "复数": "die Scheiben",
+    "意思": "slice"
+  },
+  {
+    "单数": "der Streifen",
+    "复数": "die Streifen",
+    "意思": "strip, band, bar条"
+  },
+  {
+    "单数": "der Teig",
+    "复数": "die Teige",
+    "意思": "dough"
+  },
+  {
+    "单数": "der Tofu",
+    "复数": "",
+    "意思": "tofu"
+  },
+  {
+    "单数": "der Würfel",
+    "复数": "die Würfel",
+    "意思": "dice, cube"
+  },
+  {
+    "单数": "die Zutat",
+    "复数": "die Zutaten",
+    "意思": "ingredient"
+  },
+  {
+    "单数": "die Berg",
+    "复数": "die Berge",
+    "意思": "mountain"
+  },
+  {
+    "单数": "das Gepäck",
+    "复数": "",
+    "意思": "package, luggage"
+  },
+  {
+    "单数": "das Glück",
+    "复数": "",
+    "意思": "luck"
+  },
+  {
+    "单数": "die Insel",
+    "复数": "die Inseln",
+    "意思": "island"
+  },
+  {
+    "单数": "die Sauna",
+    "复数": "die Saunen",
+    "意思": "sauna"
+  },
+  {
+    "单数": "das Märchen",
+    "复数": "die Märchen",
+    "意思": "fairytale"
+  },
+  {
+    "单数": "die Reisetasche",
+    "复数": "die Reisetaschen",
+    "意思": "travel bag"
+  },
+  {
+    "单数": "die Sommerferien",
+    "复数": "",
+    "意思": "summer vacation"
+  },
+  {
+    "单数": "die Wanderung",
+    "复数": "die Wanderungen",
+    "意思": "hike"
+  },
+  {
+    "单数": "das Blatt",
+    "复数": "die Blätter",
+    "意思": "leaves"
+  },
+  {
+    "单数": "die Blume",
+    "复数": "die Blumen",
+    "意思": "flower"
+  },
+  {
+    "单数": "der Frühling",
+    "复数": "die Frühlinge",
+    "意思": "spring"
+  },
+  {
+    "单数": "der Sommer",
+    "复数": "die Sommer",
+    "意思": "summer"
+  },
+  {
+    "单数": "der Herbst",
+    "复数": "die Herbste",
+    "意思": "autumn"
+  },
+  {
+    "单数": "der Winter",
+    "复数": "die Winter",
+    "意思": "winter"
+  },
+  {
+    "单数": "die Jahreszeit",
+    "复数": "die Jahreszeite",
+    "意思": "season"
+  },
+  {
+    "单数": "die Kälte",
+    "复数": "",
+    "意思": "coldness"
+  },
+  {
+    "单数": "die Temperatur",
+    "复数": "die Temperaturen",
+    "意思": "temperature"
+  },
+  {
+    "单数": "die Angst",
+    "复数": "die Ängste",
+    "意思": "fear"
+  },
+  {
+    "单数": "der Ausflug",
+    "复数": "die Ausflüge",
+    "意思": "excursion"
+  },
+  {
+    "单数": "der Boden",
+    "复数": "die Böden",
+    "意思": "ground"
+  },
+  {
+    "单数": "die Hochzeit",
+    "复数": "die Hochzeiten",
+    "意思": "wedding"
+  },
+  {
+    "单数": "der Spaziergang",
+    "复数": "die Spaziergänge",
+    "意思": "walk, troll"
+  },
+  {
+    "单数": "das Wetter",
+    "复数": "",
+    "意思": "weather"
+  },
+  {
+    "单数": "die Heimat",
+    "复数": "die Heimaten",
+    "意思": "home country"
+  },
+  {
+    "单数": "der Himmel",
+    "复数": "",
+    "意思": "sky"
+  },
+  {
+    "单数": "der Nebel",
+    "复数": "die Nebel",
+    "意思": "fog"
+  },
+  {
+    "单数": "die Politik",
+    "复数": "",
+    "意思": "politics"
+  },
+  {
+    "单数": "die Radtour",
+    "复数": "die Radtouren",
+    "意思": "bike tour"
+  },
+  {
+    "单数": "der Regen",
+    "复数": "",
+    "意思": "rain"
+  },
+  {
+    "单数": "der Schnee",
+    "复数": "",
+    "意思": "snow"
+  },
+  {
+    "单数": "die Sonne",
+    "复数": "die Sonnen",
+    "意思": "sun"
+  },
+  {
+    "单数": "das Thema",
+    "复数": "die Themen",
+    "意思": "topic"
+  },
+  {
+    "单数": "der Unfall",
+    "复数": "die Unfälle",
+    "意思": "accident"
+  },
+  {
+    "单数": "die Wärme",
+    "复数": "",
+    "意思": "warmness"
+  },
+  {
+    "单数": "der Wind",
+    "复数": "die Winde",
+    "意思": "wind"
+  },
+  {
+    "单数": "die Wolke",
+    "复数": "die Wolken",
+    "意思": "cloud"
+  },
+  {
+    "单数": "die Farbe",
+    "复数": "die Farben",
+    "意思": "color"
+  },
+  {
+    "单数": "das Hemd",
+    "复数": "die Hemden",
+    "意思": "shirt"
+  },
+  {
+    "单数": "der Hut",
+    "复数": "die Hüte",
+    "意思": "hat"
+  },
+  {
+    "单数": "die Jeans",
+    "复数": "die Jeans",
+    "意思": "jeans"
+  },
+  {
+    "单数": "die Kleidung",
+    "复数": "",
+    "意思": "clothes"
+  },
+  {
+    "单数": "der Mantel",
+    "复数": "die Mäntel",
+    "意思": "coat"
+  },
+  {
+    "单数": "die Mütze",
+    "复数": "die Mützen",
+    "意思": "beanie"
+  },
+  {
+    "单数": "der Pullover",
+    "复数": "die Pullover",
+    "意思": "pullover, jumper"
+  },
+  {
+    "单数": "der Rock",
+    "复数": "die Röcke",
+    "意思": "skirt"
+  },
+  {
+    "单数": "die Sandale",
+    "复数": "die Sandalen",
+    "意思": "sandal"
+  },
+  {
+    "单数": "der Tunschuh",
+    "复数": "die Tunschuhe",
+    "意思": "sneaker"
+  },
+  {
+    "单数": "das Top",
+    "复数": "die Tops",
+    "意思": "top clothes"
+  },
+  {
+    "单数": "die Lieblingsfarbe",
+    "复数": "die Lieblingsfarben",
+    "意思": "favorite color"
+  },
+  {
+    "单数": "der Schal",
+    "复数": "die Schals",
+    "意思": "scarf"
+  },
+  {
+    "单数": "der Ärmel",
+    "复数": "die Ärmel",
+    "意思": "sleeve"
+  },
+  {
+    "单数": "die Größe",
+    "复数": "die Größen",
+    "意思": "size"
+  },
+  {
+    "单数": "die Marke",
+    "复数": "die Marken",
+    "意思": "maker, brand"
+  },
+  {
+    "单数": "das Paar",
+    "复数": "die Paare",
+    "意思": "pair"
+  },
+  {
+    "单数": "der Stock",
+    "复数": "",
+    "意思": "floor"
+  },
+  {
+    "单数": "die Umkleidekabine",
+    "复数": "die Umkleidekabinen",
+    "意思": "changing room"
+  },
+  {
+    "单数": "der Anzug",
+    "复数": "die Anzüge",
+    "意思": "suit"
+  },
+  {
+    "单数": "der Hosenanzug",
+    "复数": "die Hosenanzüge",
+    "意思": "pantsuit"
+  },
+  {
+    "单数": "der Trainingsanzug",
+    "复数": "die Trainingsanzüge",
+    "意思": "sportsuit"
+  },
+  {
+    "单数": "die Weste",
+    "复数": "die Westen",
+    "意思": "vest"
+  },
+  {
+    "单数": "die Bluse",
+    "复数": "die Blusen",
+    "意思": "blouse"
+  },
+  {
+    "单数": "die Fliege",
+    "复数": "die Fliegen",
+    "意思": "bow tie"
+  },
+  {
+    "单数": "das Halstuch",
+    "复数": "die Halstücher",
+    "意思": "thin scarf"
+  },
+  {
+    "单数": "der Schuh",
+    "复数": "die Schuhe",
+    "意思": "shoes"
+  },
+  {
+    "单数": "der Arbeitsschuh",
+    "复数": "die Arbeitsschuhe",
+    "意思": "work shoe"
+  },
+  {
+    "单数": "der Handschuh",
+    "复数": "die Handschuhe",
+    "意思": "glove"
+  },
+  {
+    "单数": "das Kleid",
+    "复数": "die Kleider",
+    "意思": "dress"
+  },
+  {
+    "单数": "das Kostüm",
+    "复数": "die Kostüme",
+    "意思": "suit"
+  },
+  {
+    "单数": "die Krawatte",
+    "复数": "die Krawatten",
+    "意思": "neck tie"
+  },
+  {
+    "单数": "die Socke",
+    "复数": "die Socken",
+    "意思": "sock"
+  },
+  {
+    "单数": "die Überraschung",
+    "复数": "die Überraschungen",
+    "意思": "surprise"
+  },
+  {
+    "单数": "das Unternehmen",
+    "复数": "die Unternehmen",
+    "意思": "company"
+  },
+  {
+    "单数": "das Portemonnaie",
+    "复数": "die Portemonnaies",
+    "意思": "wallet"
+  },
+  {
+    "单数": "der Kontakt",
+    "复数": "die Kontakte",
+    "意思": "contact, relationship"
+  },
+  {
+    "单数": "das Leben",
+    "复数": "die Leben",
+    "意思": "life"
+  },
+  {
+    "单数": "der Streit",
+    "复数": "die Streite",
+    "意思": "argument, fight"
+  },
+  {
+    "单数": "das Studium",
+    "复数": "die Studien",
+    "意思": "study life"
+  },
+  {
+    "单数": "die Ausbildung",
+    "复数": "die Ausbildungen",
+    "意思": "training"
+  },
+  {
+    "单数": "die Generation",
+    "复数": "die Generationen",
+    "意思": "generation"
+  },
+  {
+    "单数": "die Hand",
+    "复数": "die Hände",
+    "意思": "hand"
+  },
+  {
+    "单数": "der Mensch",
+    "复数": "die Menschen",
+    "意思": "human"
+  },
+  {
+    "单数": "das Stereotyp",
+    "复数": "die Stereotype",
+    "意思": "stereotype"
+  },
+  {
+    "单数": "der Hund",
+    "复数": "die Hunde",
+    "意思": "dog"
+  },
+  {
+    "单数": "der Stress",
+    "复数": "",
+    "意思": "stress"
+  },
+  {
+    "单数": "der Körper",
+    "复数": "die Körper",
+    "意思": "body"
+  },
+  {
+    "单数": "der Kopf",
+    "复数": "die Köpfe",
+    "意思": "head"
+  },
+  {
+    "单数": "das Auge",
+    "复数": "die Augen",
+    "意思": "eye"
+  },
+  {
+    "单数": "die Nase",
+    "复数": "die Nasen",
+    "意思": "nose"
+  },
+  {
+    "单数": "das Ohr",
+    "复数": "die Ohren",
+    "意思": "ear"
+  },
+  {
+    "单数": "der Mund",
+    "复数": "die Münder",
+    "意思": "mouth"
+  },
+  {
+    "单数": "der Zahn",
+    "复数": "die Zähne",
+    "意思": "tooth"
+  },
+  {
+    "单数": "das Kinn",
+    "复数": "die Kinne",
+    "意思": "chin"
+  },
+  {
+    "单数": "der Hals",
+    "复数": "die Hälse",
+    "意思": "neck, throat"
+  },
+  {
+    "单数": "die Schulter",
+    "复数": "die Schultern",
+    "意思": "shoulder"
+  },
+  {
+    "单数": "die Brust",
+    "复数": "die Brüste",
+    "意思": "chest, breast"
+  },
+  {
+    "单数": "der Bauch",
+    "复数": "die Bäuche",
+    "意思": "belly"
+  },
+  {
+    "单数": "der Rücken",
+    "复数": "die Rücken",
+    "意思": "back"
+  },
+  {
+    "单数": "der Arm",
+    "复数": "die Arme",
+    "意思": "arm"
+  },
+  {
+    "单数": "die Hand",
+    "复数": "die Hände",
+    "意思": "hand"
+  },
+  {
+    "单数": "der Finger",
+    "复数": "die Finger",
+    "意思": "finger"
+  },
+  {
+    "单数": "das Bein",
+    "复数": "die Beine",
+    "意思": "leg"
+  },
+  {
+    "单数": "das Knie",
+    "复数": "die Knie",
+    "意思": "knee"
+  },
+  {
+    "单数": "der Fuß",
+    "复数": "die Füße",
+    "意思": "foot"
+  },
+  {
+    "单数": "der Zeh",
+    "复数": "die Zehen",
+    "意思": "toe"
+  },
+  {
+    "单数": "das Haar",
+    "复数": "die Haare",
+    "意思": "hair"
+  },
+  {
+    "单数": "die Sportart",
+    "复数": "die Sportarten",
+    "意思": "type of sport"
+  },
+  {
+    "单数": "der Basketball",
+    "复数": "",
+    "意思": "basketball"
+  },
+  {
+    "单数": "das Golf",
+    "复数": "",
+    "意思": "golf"
+  },
+  {
+    "单数": "die Yoga-Matte",
+    "复数": "die Yoga-Matten",
+    "意思": "yoga mat"
+  },
+  {
+    "单数": "die Verpflegung",
+    "复数": "die Verpflegungen",
+    "意思": "food and drink"
+  }
+]
