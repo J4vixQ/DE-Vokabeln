@@ -1,4 +1,4 @@
-Für meinen eigenen Gebrauch
+# Für meinen eigenen Gebrauch
 
 - Nomen – Objekte
 - Nomen – Personen
@@ -8,3 +8,6 @@ Für meinen eigenen Gebrauch
 - Adjektive – Steigerung
 
 👉 [j4vixq.github.io/DE-Vokabeln](https://j4vixq.github.io/DE-Vokabeln/)
+
+### to run
+npm ...
