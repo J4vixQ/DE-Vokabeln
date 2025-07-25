@@ -79,7 +79,7 @@ const showRandomCard = () => {
 
 // 6. 挂载时加载数据
 onMounted(async () => {
-  const res = await fetch(`/data/${deckId}.json`);
+  const res = await fetch(`${import.meta.env.BASE_URL}data/${deckId}.json`);
   allData.value = await res.json();
   showRandomCard();
 });

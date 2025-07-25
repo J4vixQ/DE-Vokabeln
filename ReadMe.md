@@ -1,13 +1,41 @@
-# Für meinen eigenen Gebrauch
+# DE-Vokabeln
 
-- Nomen – Objekte
-- Nomen – Personen
-- Verben – Grundformen
-- Verben – Redewendungen
-- Adjektive – allgemein
-- Adjektive – Steigerung
+自用
 
-👉 [j4vixq.github.io/DE-Vokabeln](https://j4vixq.github.io/DE-Vokabeln/)
+👉 [DE-Vokabeln-Demo](https://j4vixq.github.io/DE-Vokabeln/)
 
-### to run
-npm ...
+
+
+## Stack
+
+- Node.js
+- Vue 3
+- Vite
+- JavaScript
+- HTML
+- CSS
+- GitHub Pages
+
+
+
+## Features
+
+- Categorized vocabulary decks:
+  - Nomen – Objekte / Personen
+  - Verben – Grundformen / Redewendungen
+  - Adjektive – Allgemein / Steigerung
+- Random card display
+- Automatic dark mode
+- Responsive layout for mobile and desktop
+- Colored underline for grammatical gender
+
+
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+npm run build
+npm run preview
+npm run deploy
