@@ -1,0 +1,115 @@
+PS C:\Users\Kian\Desktop\de-vokabeln> ollama run deepseek-r1:7b
+>>> translate "Sie können auf dem Bildschirm sehen, dass es ein Junge ist?" into English.
+Thinking...
+Alright, so I need to translate the German sentence "Sie können auf dem Bildschirm seen, dass es ein Junge ist?" into English. Let me break it down step by
+step.
+
+First, looking at each word individually. "Sie können" translates to "You can" or more naturally as "You are able." In this context, since the sentence is a        
+bit formal, maybe "You may see" would be better because it implies permission. 
+
+Next, "auf dem Bildschirm" means "on the screen." So that's straightforward.
+
+Then comes the verb "sehen," which in German can mean to see or observe. But here, given the context of looking at something visually, "see" works well as a        
+direct translation. However, I have to be careful with the tense. The original sentence uses "scheißen" (which is slang for peeing), but wait, no, in this
+case, it's "sehen," so past tense would be "sah." 
+
+"Junge" specifically means young male. But the original might want to keep it general as "a man."
+
+Putting it all together: "You may see on the screen that it's a man?" That seems correct, but I should check for any possible improvements in phrasing.
+
+Wait, maybe "You can see on the screen that..." sounds better than "you may see." Also, sometimes people use "You're looking at...," but since the original is      
+more of a statement, "You can see" fits well.
+
+So putting it all together: "You can see on the screen that it's a man?" Or perhaps even smoother as "On the screen, you can see that he is a boy." But I
+think the first version is good enough.
+...done thinking.
+
+The sentence translates to: "You can see on the screen that it's a man?" 
+
+Alternatively, a slightly polished version could be: "On the screen, you can see that he is a boy."
+
+>>>
+PS C:\Users\Kian\Desktop\de-vokabeln> ollama run deepseek-r1:8b
+>>> translate "Sie können auf dem Bildschirm sehen, dass es ein Junge ist?" into English.
+Thinking...
+Okay, user wants me to translate this German sentence into English: "Sie können auf dem Bildschirm sehen, dass es ein Junge ist?"
+
+Hmm, let's break it down. This is a simple declarative sentence with three parts:
+1. Sie können (You can)
+2. Auf dem Bildschirm sehen (See on the screen)
+3. Dass es ein Junge ist (That it's a boy)
+
+The German structure uses dass to introduce the subordinate clause, which isn't necessary in English where "that" is often omitted in such constructions. 
+
+I notice this might be from a child-directed speech context - maybe explaining something to a kid? The sentence feels like it could be used by parents 
+pointing out someone on screen.
+
+But wait, let's check if there are any nuances I'm missing... Is the speaker certain about "it" being a boy? German often uses sein with more certainty than        
+English would. Maybe in this case we can keep the direct statement without questioning.
+
+Also considering that Bildschirm could mean monitor or screen - but since it's likely pointing at visual media, "screen" feels more natural in everyday 
+
+The most straightforward translation would be: "You can see on the screen that it's a boy."
+
+But I wonder if the user needs this for something specific... Maybe they're translating an instruction manual? Or perhaps preparing to teach German? The lack       
+of context makes me think simple accuracy is what they need, but maybe they'd appreciate knowing it could work in different situations.
+
+The original sentence has that polite "Sie" form - should I keep it formal or make it more casual? Since they didn't specify, English default would be neutral      
+("you can") rather than overly formal ("you may").
+
+Final thought: This seems like a basic translation request. The user might be learning German and encountered this in study material. Keeping the translation       
+simple but accurate is probably best.
+...done thinking.
+
+You can see on the screen that it's a boy.
+
+>>>
+PS C:\Users\Kian\Desktop\de-vokabeln> ollama run deepseek-r1:14b
+>>> translate "Sie können auf dem Bildschirm sehen, dass es ein Junge ist?" into English.
+Thinking...
+Okay, I need to translate the German sentence "Sie können auf dem Bildschirm sehen, dass es ein Junge ist?" into English. Let me break this down step by step.
+
+First, looking at each part of the sentence:
+
+- "Sie" translates to "You" or "They." Since it's formal and referring to an audience, probably "you."
+
+- "können" means "can" or "are able to." Here, it's about ability, so "can."
+
+- "auf dem Bildschirm" is straightforward: "on the screen."
+
+- "sehen" translates to "see." So, putting that together, "can see on the screen."
+
+Next part:
+
+- "dass" means "that," introducing a dependent clause.
+
+- "es" is "it."
+
+- "ein Junge ist" is "a boy is." So, combining these: "that it's a boy."
+
+Putting it all together, I get "You can see on the screen that it's a boy?" Wait, but in German, sometimes the word order changes. Let me check.
+
+The original sentence ends with a question mark, so the structure is correct as a yes/no question. In English, it's natural to say, "Can you see on the screen      
+that it's a boy?" Or maybe rephrase for smoother flow: "You can see on the screen that it is a boy?"
+
+Hmm, does "es" in German function similarly here? Yes, it's just adding subject presence. So, the translation should capture both the ability and the
+observation.
+
+I think "You can see from the screen that it's a boy?" sounds better, but wait, the preposition might need adjustment. Alternatively, "on the screen" is
+correct as it specifies where they are seeing it.
+
+So, finalizing: "You can see on the screen that it's a boy?"
+
+Wait, does the German sentence have a question structure? It ends with a question mark, so in English, I should make sure it's also a question. But "can you        
+see..." would be more natural as a question, but the original is stating something in a declarative way ending with a question mark, which seems odd.
+
+Wait, no—the German sentence is declarative but ends with a question mark, perhaps for emphasis or to ask confirmation. So maybe it's better translated as 
+"You can see on the screen that it's a boy?" keeping the question structure.
+
+Alternatively, if it were a direct question asking ability, it would be phrased differently in English, but since it's more of an observation with a question       
+mark for emphasis, my initial translation seems okay.
+...done thinking.
+
+"You can see on the screen that it's a boy."
+
+>>> 

@@ -28,10 +28,12 @@
 - Automatic dark mode
 - Responsive layout for mobile and desktop
 - Colored underline for grammatical gender
+- example sentences from OpenSubtitles v.2024
+- translation by deepseek (**in progress**)
 
 
 
-## Getting Started
+## npm
 
 ```bash
 npm install
@@ -39,3 +41,18 @@ npm run dev
 npm run build
 npm run preview
 npm run deploy
+```
+
+
+
+## ollama
+
+```bash
+ollama
+ollama list
+ollama pull xxx
+ollama run xxx
+ollama rm xxx
+```
+
+

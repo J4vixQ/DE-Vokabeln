@@ -5,7 +5,9 @@
     "意思男": "father",
     "单数女": "die Mutter",
     "复数女": "die Mütter",
-    "意思女": "mother"
+    "意思女": "mother",
+    "例句": "Sie gibt dauernd mit dem Cadillac von ihrem Vater an.",
+    "翻译": ""
   },
   {
     "单数男": "",
@@ -13,7 +15,9 @@
     "意思男": "parents",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Wisst ihr, Mama und Dad, ihr seid wirklich die besten Eltern, die ein Mädchen haben kann.",
+    "翻译": ""
   },
   {
     "单数男": "das Kind",
@@ -21,7 +25,9 @@
     "意思男": "child",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Kinder?",
+    "翻译": ""
   },
   {
     "单数男": "der Sohn",
@@ -29,7 +35,9 @@
     "意思男": "son",
     "单数女": "die Tochter",
     "复数女": "die Töchter",
-    "意思女": "daughter"
+    "意思女": "daughter",
+    "例句": "-Wir haben dir unsere Tochter anvertraut.",
+    "翻译": ""
   },
   {
     "单数男": "der Junge",
@@ -37,7 +45,9 @@
     "意思男": "boy",
     "单数女": "das Mädchen",
     "复数女": "die Mädchen",
-    "意思女": "girl"
+    "意思女": "girl",
+    "例句": "Tapferes Mädchen, Peg!",
+    "翻译": ""
   },
   {
     "单数男": "das Einzelkind",
@@ -45,7 +55,9 @@
     "意思男": "only child",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Ich bin ein Einzelkind.",
+    "翻译": ""
   },
   {
     "单数男": "der Bruder",
@@ -53,7 +65,9 @@
     "意思男": "brother",
     "单数女": "die Schwester",
     "复数女": "die Schwestern",
-    "意思女": "sister"
+    "意思女": "sister",
+    "例句": "Ich habe mit deiner Schwester zu reden.",
+    "翻译": ""
   },
   {
     "单数男": "das Geschwister",
@@ -61,7 +75,9 @@
     "意思男": "sibling (bro and sis)",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Meine Geschwister sind da und deren Kinder.",
+    "翻译": ""
   },
   {
     "单数男": "der Großvater",
@@ -69,7 +85,9 @@
     "意思男": "grandfather",
     "单数女": "die Großmutter",
     "复数女": "die Großmütter",
-    "意思女": "grandmother"
+    "意思女": "grandmother",
+    "例句": "Besuch meine Großmutter in Spanien!",
+    "翻译": ""
   },
   {
     "单数男": "",
@@ -77,7 +95,9 @@
     "意思男": "grandparents",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Das könnten unsere Großeltern sein.",
+    "翻译": ""
   },
   {
     "单数男": "der Opa",
@@ -85,7 +105,9 @@
     "意思男": "grandpa",
     "单数女": "die Oma",
     "复数女": "die Omas",
-    "意思女": "gradma"
+    "意思女": "gradma",
+    "例句": "(Die Woche war fürchterlich, Oma.)",
+    "翻译": ""
   },
   {
     "单数男": "der Enkelkind",
@@ -93,7 +115,9 @@
     "意思男": "grandchildren",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Setz die Maske dort auf, wo du Enkelkinder erschrecken willst!",
+    "翻译": ""
   },
   {
     "单数男": "der Enkelsohn",
@@ -101,7 +125,9 @@
     "意思男": "grandson",
     "单数女": "die Enkeltochter",
     "复数女": "die Enkeltöchter",
-    "意思女": "granddaughter"
+    "意思女": "granddaughter",
+    "例句": "Er ist Ihr Enkelsohn.",
+    "翻译": ""
   },
   {
     "单数男": "der Onkel",
@@ -109,7 +135,9 @@
     "意思男": "uncle",
     "单数女": "die Tante",
     "复数女": "die Tanten",
-    "意思女": "aunt"
+    "意思女": "aunt",
+    "例句": "Mit dem Onkel!",
+    "翻译": ""
   },
   {
     "单数男": "der Cousin",
@@ -117,7 +145,9 @@
     "意思男": "cousin",
     "单数女": "die Cousine",
     "复数女": "die Cousinen",
-    "意思女": "cousin"
+    "意思女": "cousin",
+    "例句": "Ja, so ist es bei meiner Cousine.",
+    "翻译": ""
   },
   {
     "单数男": "der Neffe",
@@ -125,7 +155,9 @@
     "意思男": "nephew",
     "单数女": "die Nichte",
     "复数女": "die Nitchten",
-    "意思女": "niece"
+    "意思女": "niece",
+    "例句": "Wie ich von meiner Nichte höre, habt Ihr sie dazu überredet, sie von Euch nackt malen zu lassen.",
+    "翻译": ""
   },
   {
     "单数男": "der Verwante",
@@ -133,7 +165,9 @@
     "意思男": "relative",
     "单数女": "der Verwante",
     "复数女": "die Verwandten",
-    "意思女": "relative"
+    "意思女": "relative",
+    "例句": "Sie ist bei Verwandten in Charleston.",
+    "翻译": ""
   },
   {
     "单数男": "der Zwillingsbruder",
@@ -141,7 +175,9 @@
     "意思男": "twin brother",
     "单数女": "die Zwillingsschwester",
     "复数女": "die Zwillingsschwestern",
-    "意思女": "twin sister"
+    "意思女": "twin sister",
+    "例句": "Es gibt also keine Zwillingsschwester Buffy?",
+    "翻译": ""
   },
   {
     "单数男": "der Freund",
@@ -149,7 +185,9 @@
     "意思男": "friend",
     "单数女": "die Freundin",
     "复数女": "die Freundinnen",
-    "意思女": "friend"
+    "意思女": "friend",
+    "例句": "Maddy ist eine deiner besten Freundinnen.",
+    "翻译": ""
   },
   {
     "单数男": "der Student",
@@ -157,7 +195,9 @@
     "意思男": "student",
     "单数女": "die Studentin",
     "复数女": "die Studentinnen",
-    "意思女": "student"
+    "意思女": "student",
+    "例句": "(Radio) ... der demonstrierenden Studenten und der Polizei dauern noch an.",
+    "翻译": ""
   },
   {
     "单数男": "der Schüler",
@@ -165,7 +205,9 @@
     "意思男": "pupil",
     "单数女": "die Schülerin",
     "复数女": "die Schülerinnen",
-    "意思女": "pupil"
+    "意思女": "pupil",
+    "例句": "Ich war seine beste Schülerin.",
+    "翻译": ""
   },
   {
     "单数男": "der Pilot",
@@ -173,7 +215,9 @@
     "意思男": "pilot",
     "单数女": "die Pilotin",
     "复数女": "die Pilotinnen",
-    "意思女": "pilot"
+    "意思女": "pilot",
+    "例句": "Karl Haffner, 35 Jahre, Dozent für Kunstgeschichte, früher Pilot bei der Bundeswehr.",
+    "翻译": ""
   },
   {
     "单数男": "der Lehrer",
@@ -181,7 +225,9 @@
     "意思男": "teacher",
     "单数女": "die Lehrerin",
     "复数女": "die Lehrerinnen",
-    "意思女": "teacher"
+    "意思女": "teacher",
+    "例句": "-Sind Sie ein Lehrer?",
+    "翻译": ""
   },
   {
     "单数男": "der Fahrer",
@@ -189,7 +235,9 @@
     "意思男": "driver",
     "单数女": "die Fahrerin",
     "复数女": "die Fahrerinnen",
-    "意思女": "driver"
+    "意思女": "driver",
+    "例句": "... Reicht ihm das Ticket, und der Fahrer sagte -",
+    "翻译": ""
   },
   {
     "单数男": "der Tourist",
@@ -197,7 +245,9 @@
     "意思男": "tourist",
     "单数女": "die Touristin",
     "复数女": "die Touristinnen",
-    "意思女": "tourist"
+    "意思女": "tourist",
+    "例句": "Dort gibt es auch Touristen.",
+    "翻译": ""
   },
   {
     "单数男": "der Polizist",
@@ -205,7 +255,9 @@
     "意思男": "police",
     "单数女": "die Polizistin",
     "复数女": "die Polizistinnen",
-    "意思女": "police"
+    "意思女": "police",
+    "例句": "Nach vielen Jahren ... der Abschluss viele feine Polizisten, der Staat sagt ... kann es sich nicht länger leisten zwei Polizisten Akademien.",
+    "翻译": ""
   },
   {
     "单数男": "der Vegetarier",
@@ -213,7 +265,9 @@
     "意思男": "vegetarian",
     "单数女": "die Vegetarierin",
     "复数女": "die Vegetarierinnen",
-    "意思女": "vegetarian"
+    "意思女": "vegetarian",
+    "例句": "Sind deine Gangsterfreunde Vegetarier?",
+    "翻译": ""
   },
   {
     "单数男": "der Gast",
@@ -221,7 +275,9 @@
     "意思男": "guest",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Und das ist unser Gast.",
+    "翻译": ""
   },
   {
     "单数男": "der Kunde",
@@ -229,7 +285,9 @@
     "意思男": "customer",
     "单数女": "die Kundin",
     "复数女": "die Kundinnen",
-    "意思女": "customer"
+    "意思女": "customer",
+    "例句": "Ihr Kunde wartet im letzten Zimmer auf der linken Seite.",
+    "翻译": ""
   },
   {
     "单数男": "der Kellner",
@@ -237,7 +295,9 @@
     "意思男": "waiter",
     "单数女": "die Kellnerin",
     "复数女": "die Kellnerinnen",
-    "意思女": "waitress"
+    "意思女": "waitress",
+    "例句": "Kellner, Runde Getränke.",
+    "翻译": ""
   },
   {
     "单数男": "der Kursteilnehmer",
@@ -245,7 +305,9 @@
     "意思男": "course participant",
     "单数女": "die Kursteilnehmerin",
     "复数女": "die Kursteilnehmerinnen",
-    "意思女": "course participant"
+    "意思女": "course participant",
+    "例句": "Das würde die Frau Weinheim ihre Kursteilnehmer jetzt fragen.",
+    "翻译": ""
   },
   {
     "单数男": "der Mieter",
@@ -253,7 +315,9 @@
     "意思男": "tenant; renter",
     "单数女": "die Mieterin",
     "复数女": "die Mieterinnen",
-    "意思女": "tenant; renter"
+    "意思女": "tenant; renter",
+    "例句": "Der neue Mieter, ja?",
+    "翻译": ""
   },
   {
     "单数男": "der Bekannte",
@@ -261,7 +325,9 @@
     "意思男": "acquaintance",
     "单数女": "die Bekannte",
     "复数女": "die Bekannten",
-    "意思女": "acquaintance"
+    "意思女": "acquaintance",
+    "例句": "-Sie bekannte sie für zwei, drei Jahre?",
+    "翻译": ""
   },
   {
     "单数男": "der Mitbewohner",
@@ -269,7 +335,9 @@
     "意思男": "roommate",
     "单数女": "die Mitbewohnerin",
     "复数女": "die Mitbewohnerinnen",
-    "意思女": "roommate"
+    "意思女": "roommate",
+    "例句": "Er ist dein Mitbewohner.",
+    "翻译": ""
   },
   {
     "单数男": "der Interessent",
@@ -277,7 +345,9 @@
     "意思男": "interested/potential person",
     "单数女": "die Interessentin",
     "复数女": "die Interessentinnen",
-    "意思女": "interested/potential person"
+    "意思女": "interested/potential person",
+    "例句": "Na ja, es sind so wenig Interessenten, da dachte ich, vielleicht könntest du ein wenig werben bei den Müttern?",
+    "翻译": ""
   },
   {
     "单数男": "der Nachbar",
@@ -285,7 +355,9 @@
     "意思男": "neighbor",
     "单数女": "die Nachbarin",
     "复数女": "die Nachbarinnen",
-    "意思女": "neighbor"
+    "意思女": "neighbor",
+    "例句": "Hass Nachbar hasse alle, hasse mich!",
+    "翻译": ""
   },
   {
     "单数男": "der Arzt",
@@ -293,7 +365,9 @@
     "意思男": "doctor",
     "单数女": "die Ärztin",
     "复数女": "die Ärztinnen",
-    "意思女": "doctor"
+    "意思女": "doctor",
+    "例句": "- Zum Arzt hören!",
+    "翻译": ""
   },
   {
     "单数男": "der Babysitter",
@@ -301,7 +375,9 @@
     "意思男": "babysitter",
     "单数女": "die Babysitterin",
     "复数女": "die Babysitterinnen",
-    "意思女": "babysitter"
+    "意思女": "babysitter",
+    "例句": "Wir machen die Strategie, ihr seid Babysitter.",
+    "翻译": ""
   },
   {
     "单数男": "der Deutsche",
@@ -309,7 +385,9 @@
     "意思男": "German person",
     "单数女": "die Deutsche",
     "复数女": "die Deutschen",
-    "意思女": "German person"
+    "意思女": "German person",
+    "例句": "* Deutsche Nationalhymne *",
+    "翻译": ""
   },
   {
     "单数男": "der Europäer",
@@ -317,7 +395,9 @@
     "意思男": "European person",
     "单数女": "die Europäerin",
     "复数女": "die Europäerinnen",
-    "意思女": "European person"
+    "意思女": "European person",
+    "例句": "Werden auch nicht krank in dieser Hitze, wie Europäer.",
+    "翻译": ""
   },
   {
     "单数男": "der Anwalt",
@@ -325,7 +405,9 @@
     "意思男": "lawyer",
     "单数女": "die Anwältin",
     "复数女": "die Anwältinnen",
-    "意思女": "lawyer"
+    "意思女": "lawyer",
+    "例句": "Dein Anwalt ist dir sehr ergeben.",
+    "翻译": ""
   },
   {
     "单数男": "der Bankkaufmann",
@@ -333,7 +415,9 @@
     "意思男": "bank clerk; banker",
     "单数女": "die Bankkauffrau",
     "复数女": "die Bankkauffrauen",
-    "意思女": "bank clerk; banker"
+    "意思女": "bank clerk; banker",
+    "例句": "Wenn sie hier schon Bankkauffrauen einstellen, warum müssen sie sich nicht bescheiden kleiden?",
+    "翻译": ""
   },
   {
     "单数男": "der Chef",
@@ -341,7 +425,9 @@
     "意思男": "boss; manager",
     "单数女": "die Chefin",
     "复数女": "die Chefinnen",
-    "意思女": "boss; manager"
+    "意思女": "boss; manager",
+    "例句": "Sie konnten gerade bestellen, als Chef der Sicherheit.",
+    "翻译": ""
   },
   {
     "单数男": "der Elektriker",
@@ -349,7 +435,9 @@
     "意思男": "electrician",
     "单数女": "die Elektrikerin",
     "复数女": "die Elektrikerinnen",
-    "意思女": "electrician"
+    "意思女": "electrician",
+    "例句": "Aber meine Nachbarin braucht einen Elektriker.",
+    "翻译": ""
   },
   {
     "单数男": "der Friseur",
@@ -357,7 +445,9 @@
     "意思男": "hairdresser",
     "单数女": "die Friseurin",
     "复数女": "die Friseurinnen",
-    "意思女": "hairdresser"
+    "意思女": "hairdresser",
+    "例句": "Und wer ist Ihr Friseur?",
+    "翻译": ""
   },
   {
     "单数男": "der Informatiker",
@@ -365,7 +455,9 @@
     "意思男": "computer scientist",
     "单数女": "die Informatikerin",
     "复数女": "die Informatikerinnen",
-    "意思女": "computer scientist"
+    "意思女": "computer scientist",
+    "例句": "Unter dem Ayatollah-Regime braucht man keine Informatiker.",
+    "翻译": ""
   },
   {
     "单数男": "der Ingenieur",
@@ -373,7 +465,9 @@
     "意思男": "engineer",
     "单数女": "die Ingenieurin",
     "复数女": "die Ingenieurinnen",
-    "意思女": "engineer"
+    "意思女": "engineer",
+    "例句": "Ich bin ein Ingenieur aus Nicaragua.",
+    "翻译": ""
   },
   {
     "单数男": "der Kfz-Mechatroniker",
@@ -381,7 +475,9 @@
     "意思男": "automotive mechatronics engineer",
     "单数女": "die Kfz-Mechatronikerin",
     "复数女": "die Kfz-Mechatronikerinnen",
-    "意思女": "automotive mechatronics engineer"
+    "意思女": "automotive mechatronics engineer",
+    "例句": "Ausbildung zur Kfz-Mechatronikerin.",
+    "翻译": ""
   },
   {
     "单数男": "der Koch",
@@ -389,7 +485,9 @@
     "意思男": "cook",
     "单数女": "die Köchin",
     "复数女": "die Köchinnen",
-    "意思女": "cook"
+    "意思女": "cook",
+    "例句": "Er konnte mit einem guten Sushi-Koch.",
+    "翻译": ""
   },
   {
     "单数男": "der Kollege",
@@ -397,7 +495,9 @@
     "意思男": "colleague",
     "单数女": "die Kollegin",
     "复数女": "die Kolleginnen",
-    "意思女": "colleague"
+    "意思女": "colleague",
+    "例句": "Zusammen mit ihren Kollegen.",
+    "翻译": ""
   },
   {
     "单数男": "der Verkäufer",
@@ -405,7 +505,9 @@
     "意思男": "salesperson",
     "单数女": "die Verkäuferin",
     "复数女": "die Verkäuferinnen",
-    "意思女": "salesperson"
+    "意思女": "salesperson",
+    "例句": "Du hast einen Laden überfallen... und den armen Verkäufer zusammengeschlagen.",
+    "翻译": ""
   },
   {
     "单数男": "der Erzieher",
@@ -413,7 +515,9 @@
     "意思男": "kindergarten teacher",
     "单数女": "die Erzieherin",
     "复数女": "die Erzieherinnen",
-    "意思女": "kindergarten teacher"
+    "意思女": "kindergarten teacher",
+    "例句": "Ich bin Erzieher.",
+    "翻译": ""
   },
   {
     "单数男": "der Mitarbeiter",
@@ -421,7 +525,9 @@
     "意思男": "employee",
     "单数女": "die Mitarbeiterin",
     "复数女": "die Mitarbeiterinnen",
-    "意思女": "employee"
+    "意思女": "employee",
+    "例句": "Im Namen aller Überlebenden der Mitarbeiter des Museums,",
+    "翻译": ""
   },
   {
     "单数男": "der Sekretär",
@@ -429,7 +535,9 @@
     "意思男": "secretary",
     "单数女": "die Sekretärin",
     "复数女": "die Sekretärinnen",
-    "意思女": "secretary"
+    "意思女": "secretary",
+    "例句": "Ich arbeite als Sekretärin, das ist nicht sehr interessant!",
+    "翻译": ""
   },
   {
     "单数男": "der Architekt",
@@ -437,7 +545,9 @@
     "意思男": "architect",
     "单数女": "die Architektin",
     "复数女": "die Architektinnen",
-    "意思女": "architect"
+    "意思女": "architect",
+    "例句": "Architekten...",
+    "翻译": ""
   },
   {
     "单数男": "der Designer",
@@ -445,7 +555,9 @@
     "意思男": "designer",
     "单数女": "die Designerin",
     "复数女": "die Designerinnen",
-    "意思女": "designer"
+    "意思女": "designer",
+    "例句": "Designer:",
+    "翻译": ""
   },
   {
     "单数男": "der Fotograf",
@@ -453,7 +565,9 @@
     "意思男": "photographer",
     "单数女": "die Fotografin",
     "复数女": "die Fotografinnen",
-    "意思女": "photographer"
+    "意思女": "photographer",
+    "例句": "Wenn ein Fotograf an den Set kommt und nicht weiß, was er will, dauert das ewig.",
+    "翻译": ""
   },
   {
     "单数男": "der Bauer",
@@ -461,7 +575,9 @@
     "意思男": "farmer",
     "单数女": "die Bäuerin",
     "复数女": "die Bäuerinen",
-    "意思女": "farmer"
+    "意思女": "farmer",
+    "例句": "Königin besiegt Springer, Turm besiegt Königin, Bauer besiegt Turm.",
+    "翻译": ""
   },
   {
     "单数男": "der Krankenpfleger",
@@ -469,7 +585,9 @@
     "意思男": "nurse",
     "单数女": "die Krankenschwester",
     "复数女": "die Krankenschwestern",
-    "意思女": "nurse"
+    "意思女": "nurse",
+    "例句": "Dann werd Krankenschwester.",
+    "翻译": ""
   },
   {
     "单数男": "der Auszubildende",
@@ -477,7 +595,9 @@
     "意思男": "trainee",
     "单数女": "der Auszubildende",
     "复数女": "die Auszubildenden",
-    "意思女": "trainee"
+    "意思女": "trainee",
+    "例句": "Wer ist die Auszubildende?",
+    "翻译": ""
   },
   {
     "单数男": "der Bäcker",
@@ -485,7 +605,9 @@
     "意思男": "baker",
     "单数女": "die Bäckerin",
     "复数女": "die Bäckerinen",
-    "意思女": "baker"
+    "意思女": "baker",
+    "例句": "Der Bäcker hat gerufen.",
+    "翻译": ""
   },
   {
     "单数男": "der Fahrradhändler",
@@ -493,7 +615,9 @@
     "意思男": "bike dealer",
     "单数女": "die Fahrradhändlerin",
     "复数女": "die Fahrradhändlerinen",
-    "意思女": "bike dealer"
+    "意思女": "bike dealer",
+    "例句": "Es kommt vom Fahrradhändler.",
+    "翻译": ""
   },
   {
     "单数男": "",
@@ -501,6 +625,8 @@
     "意思男": "people",
     "单数女": "",
     "复数女": "",
-    "意思女": ""
+    "意思女": "",
+    "例句": "Amüsiert euch gut, ihr jungen Leute!",
+    "翻译": ""
   }
 ]
