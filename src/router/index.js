@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, createWebHashHistory  } from 'vue-router'
 import Home from '../views/Home.vue'
 import Deck from '../views/Deck.vue'
 
@@ -8,8 +8,11 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/DE-Vokabeln/'),
+  history: createWebHashHistory('/DE-Vokabeln/'),
   routes,
+  scrollBehavior() {
+    return { top: 0 };
+  }
 })
 
 export default router

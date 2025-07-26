@@ -37,7 +37,10 @@
 }
 
 /* ============ 页面基础布局 ============ */
-body {
+html, body {
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: auto;
   background: var(--bg);
   color: var(--fg);
 }
