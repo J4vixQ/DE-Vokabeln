@@ -1,1318 +1,1721 @@
 [
   {
     "原型": "studieren",
-    "现在(第三人称单数)": "studiert",
-    "过去(第三人称单数)": "studierte",
+    "现在": "studiert",
+    "过去": "studierte",
     "完成": "hat studiert",
-    "意思": "study"
+    "意思": "study",
+    "例句": "Sie studierten Elektronik an der Hanguk University.",
+    "翻译": ""
   },
   {
     "原型": "buchstabieren",
-    "现在(第三人称单数)": "buchstabiert",
-    "过去(第三人称单数)": "buchstabierte",
+    "现在": "buchstabiert",
+    "过去": "buchstabierte",
     "完成": "hat buchstabiert",
-    "意思": "spell"
+    "意思": "spell",
+    "例句": "\"Tanz mit mir\" buchstabieren.",
+    "翻译": ""
   },
   {
     "原型": "fliegen",
-    "现在(第三人称单数)": "fliegt",
-    "过去(第三人称单数)": "flog",
+    "现在": "fliegt",
+    "过去": "flog",
     "完成": "ist geflogen",
-    "意思": "fly"
+    "意思": "fly",
+    "例句": "Wie wäre es mit einer seiner Fliegen?",
+    "翻译": ""
   },
   {
     "原型": "besuchen",
-    "现在(第三人称单数)": "besucht",
-    "过去(第三人称单数)": "besuchte",
+    "现在": "besucht",
+    "过去": "besuchte",
     "完成": "hat besucht",
-    "意思": "visit"
+    "意思": "visit",
+    "例句": "Du hast sie wirklich besucht und verlangt, dass sie Schluss macht?",
+    "翻译": ""
   },
   {
     "原型": "suchen",
-    "现在(第三人称单数)": "sucht",
-    "过去(第三人称单数)": "suchte",
+    "现在": "sucht",
+    "过去": "suchte",
     "完成": "hat gesucht",
-    "意思": "search, find"
+    "意思": "search, find",
+    "例句": "Wir suchen Miyagi-Do.",
+    "翻译": ""
   },
   {
     "原型": "suchen weiter",
-    "现在(第三人称单数)": "sucht weiter",
-    "过去(第三人称单数)": "suchte weiter",
+    "现在": "sucht weiter",
+    "过去": "suchte weiter",
     "完成": "hat weitergesucht",
-    "意思": "keep looking"
+    "意思": "keep looking",
+    "例句": "Und wir suchen weiter.",
+    "翻译": ""
   },
   {
     "原型": "heißen",
-    "现在(第三人称单数)": "heißt",
-    "过去(第三人称单数)": "heiß",
+    "现在": "heißt",
+    "过去": "heiß",
     "完成": "hat geheißen",
-    "意思": "be called"
+    "意思": "be called",
+    "例句": "-Es heißt \"Hr.",
+    "翻译": ""
   },
   {
     "原型": "helfen",
-    "现在(第三人称单数)": "hilft",
-    "过去(第三人称单数)": "half",
+    "现在": "hilft",
+    "过去": "half",
     "完成": "hat geholfen",
-    "意思": "help"
+    "意思": "help",
+    "例句": "Ich bin nur sauer, dass ich Präsidentin Cha nicht helfen kann.",
+    "翻译": ""
   },
   {
     "原型": "lernen",
-    "现在(第三人称单数)": "lernt",
-    "过去(第三人称单数)": "lernte",
+    "现在": "lernt",
+    "过去": "lernte",
     "完成": "hat gelernt",
-    "意思": "learn"
+    "意思": "learn",
+    "例句": "Hat er nichts gelernt?",
+    "翻译": ""
   },
   {
     "原型": "lernen kennen",
-    "现在(第三人称单数)": "lernt kennen",
-    "过去(第三人称单数)": "lernte kennen",
+    "现在": "lernt kennen",
+    "过去": "lernte kennen",
     "完成": "hat kennengelernt",
-    "意思": "know sb/sth"
+    "意思": "know sb/sth",
+    "例句": "Hast du Emma besser kennengelernt?",
+    "翻译": ""
   },
   {
     "原型": "kommen",
-    "现在(第三人称单数)": "kommt",
-    "过去(第三人称单数)": "kam",
+    "现在": "kommt",
+    "过去": "kam",
     "完成": "ist gekommen",
-    "意思": "come"
+    "意思": "come",
+    "例句": "Sonst kommen Sie zu mir.",
+    "翻译": ""
   },
   {
     "原型": "kommen mit",
-    "现在(第三人称单数)": "kommt mit",
-    "过去(第三人称单数)": "kam mit",
+    "现在": "kommt mit",
+    "过去": "kam mit",
     "完成": "ist mitgekommen",
-    "意思": "come along with someone"
+    "意思": "come along with someone",
+    "例句": "-Sie kommt mit, ja.",
+    "翻译": ""
   },
   {
     "原型": "kommen an",
-    "现在(第三人称单数)": "kommt an",
-    "过去(第三人称单数)": "kam an",
+    "现在": "kommt an",
+    "过去": "kam an",
     "完成": "ist angekommen",
-    "意思": "arrive"
+    "意思": "arrive",
+    "例句": "Ich bin noch nicht ganz unten angekommen.",
+    "翻译": ""
   },
   {
     "原型": "komemn wieder",
-    "现在(第三人称单数)": "kommt wieder",
-    "过去(第三人称单数)": "kam wieder",
+    "现在": "kommt wieder",
+    "过去": "kam wieder",
     "完成": "ist wiedergekommen",
-    "意思": "come back"
+    "意思": "come back",
+    "例句": "Alles andere kommt wieder an seinen Platz.",
+    "翻译": ""
   },
   {
     "原型": "kommen her",
-    "现在(第三人称单数)": "kommt her",
-    "过去(第三人称单数)": "kam her",
+    "现在": "kommt her",
+    "过去": "kam her",
     "完成": "isr her gekommen",
-    "意思": "come from"
+    "意思": "come from",
+    "例句": "Dass du gekommen bist, weil du mich verpasst hast.",
+    "翻译": ""
   },
   {
     "原型": "machen",
-    "现在(第三人称单数)": "macht",
-    "过去(第三人称单数)": "machte",
+    "现在": "macht",
+    "过去": "machte",
     "完成": "hat gemacht",
-    "意思": "make/do"
+    "意思": "make/do",
+    "例句": "Nein, ich habe heute früher Schluss gemacht.",
+    "翻译": ""
   },
   {
     "原型": "sprechen",
-    "现在(第三人称单数)": "spricht",
-    "过去(第三人称单数)": "sprach",
+    "现在": "spricht",
+    "过去": "sprach",
     "完成": "hat gesprochen",
-    "意思": "speak"
+    "意思": "speak",
+    "例句": "Ich habe es zufällig gehört, als du mit Papa gesprochen hast.",
+    "翻译": ""
   },
   {
     "原型": "wohnen",
-    "现在(第三人称单数)": "wohnt",
-    "过去(第三人称单数)": "wohnte",
+    "现在": "wohnt",
+    "过去": "wohnte",
     "完成": "hat gewohnt",
-    "意思": "live"
+    "意思": "live",
+    "例句": "- Wohnt hier Sheldon Cooper?",
+    "翻译": ""
   },
   {
     "原型": "haben",
-    "现在(第三人称单数)": "hat",
-    "过去(第三人称单数)": "hatte",
+    "现在": "hat",
+    "过去": "hatte",
     "完成": "hat gehabt",
-    "意思": "have"
+    "意思": "have",
+    "例句": "Nach dem Zoff in der Bar hat mein Bruder alles bezahlt.",
+    "翻译": ""
   },
   {
     "原型": "haben an",
-    "现在(第三人称单数)": "hat an",
-    "过去(第三人称单数)": "hatte an",
+    "现在": "hat an",
+    "过去": "hatte an",
     "完成": "hat angehabet",
-    "意思": "have on, wear sth"
+    "意思": "have on, wear sth",
+    "例句": "Wir haben an nur einem Tag das ganze Budget für ihn erarbeitet und es dann präsentiert.",
+    "翻译": ""
   },
   {
     "原型": "haben frei",
-    "现在(第三人称单数)": "hat frei",
-    "过去(第三人称单数)": "hatte frei",
+    "现在": "hat frei",
+    "过去": "hatte frei",
     "完成": "hat freigehabt",
-    "意思": "have time off"
+    "意思": "have time off",
+    "例句": "Sie haben frei, so lange wir in Japan sind.",
+    "翻译": ""
   },
   {
     "原型": "feiern (feieren)",
-    "现在(第三人称单数)": "feiert",
-    "过去(第三人称单数)": "feierte",
+    "现在": "feiert",
+    "过去": "feierte",
     "完成": "hat gefeiert",
-    "意思": "celebrate"
+    "意思": "celebrate",
+    "例句": "Wir feierten eine große Party in Connecticut, wo ich Assistenzarzt war.",
+    "翻译": ""
   },
   {
     "原型": "antworten",
-    "现在(第三人称单数)": "antwortet",
-    "过去(第三人称单数)": "antwortete",
+    "现在": "antwortet",
+    "过去": "antwortete",
     "完成": "hat geantwortet",
-    "意思": "answer"
+    "意思": "answer",
+    "例句": "-Antworten Sie.",
+    "翻译": ""
   },
   {
     "原型": "fragen",
-    "现在(第三人称单数)": "fragt",
-    "过去(第三人称单数)": "fragte",
+    "现在": "fragt",
+    "过去": "fragte",
     "完成": "hat gefragt",
-    "意思": "ask"
+    "意思": "ask",
+    "例句": "Ich möchte Sie etwas fragen.",
+    "翻译": ""
   },
   {
     "原型": "hören",
-    "现在(第三人称单数)": "hört",
-    "过去(第三人称单数)": "hörte",
+    "现在": "hört",
+    "过去": "hörte",
     "完成": "hat gehört",
-    "意思": "hear"
+    "意思": "hear",
+    "例句": "Es war wundervoll, himmlisch, einmalig und hat nur uns gehört.",
+    "翻译": ""
   },
   {
     "原型": "verlieren",
-    "现在(第三人称单数)": "verliert",
-    "过去(第三人称单数)": "verlor",
+    "现在": "verliert",
+    "过去": "verlor",
     "完成": "hat verloren",
-    "意思": "lose"
+    "意思": "lose",
+    "例句": "Haben Sie den Appetit verloren?",
+    "翻译": ""
   },
   {
     "原型": "fehlen",
-    "现在(第三人称单数)": "fehlt",
-    "过去(第三人称单数)": "fehlte",
+    "现在": "fehlt",
+    "过去": "fehlte",
     "完成": "hat gefehlt",
-    "意思": "miss"
+    "意思": "miss",
+    "例句": "Später fehlt dir vielleicht die Zeit dafür.",
+    "翻译": ""
   },
   {
     "原型": "schreiben",
-    "现在(第三人称单数)": "schreibt",
-    "过去(第三人称单数)": "schrieb",
+    "现在": "schreibt",
+    "过去": "schrieb",
     "完成": "hat geschrieben",
-    "意思": "write"
+    "意思": "write",
+    "例句": "Warum schreiben Sie mir?",
+    "翻译": ""
   },
   {
     "原型": "telefonieren",
-    "现在(第三人称单数)": "telefoniert",
-    "过去(第三人称单数)": "telefonierte",
+    "现在": "telefoniert",
+    "过去": "telefonierte",
     "完成": "hat telefoniert",
-    "意思": "phone call"
+    "意思": "phone call",
+    "例句": "Ich muss telefonieren und einen neuen Zahnarzt für dich finden.",
+    "翻译": ""
   },
   {
     "原型": "kosten",
-    "现在(第三人称单数)": "kostet",
-    "过去(第三人称单数)": "kostete",
+    "现在": "kostet",
+    "过去": "kostete",
     "完成": "hat gekostet",
-    "意思": "cost"
+    "意思": "cost",
+    "例句": "Es hat mich viel Mut gekostet herzukommen.",
+    "翻译": ""
   },
   {
     "原型": "funktionieren",
-    "现在(第三人称单数)": "funktioniert",
-    "过去(第三人称单数)": "funktionierte",
+    "现在": "funktioniert",
+    "过去": "funktionierte",
     "完成": "hat funktioniert",
-    "意思": "function, work"
+    "意思": "function, work",
+    "例句": "Wenn das nicht funktioniert, dann gar nichts.",
+    "翻译": ""
   },
   {
     "原型": "trinken",
-    "现在(第三人称单数)": "trinkt",
-    "过去(第三人称单数)": "trank",
+    "现在": "trinkt",
+    "过去": "trank",
     "完成": "hat getrunken",
-    "意思": "drink"
+    "意思": "drink",
+    "例句": "Hast du gestern getrunken?",
+    "翻译": ""
   },
   {
     "原型": "kennen",
-    "现在(第三人称单数)": "kennt",
-    "过去(第三人称单数)": "kannte",
+    "现在": "kennt",
+    "过去": "kannte",
     "完成": "hat gekannt",
-    "意思": "know someone"
+    "意思": "know someone",
+    "例句": "Und da Sie das Hotel am besten kennen, versetze ich Sie ins Management.",
+    "翻译": ""
   },
   {
     "原型": "posten",
-    "现在(第三人称单数)": "postet",
-    "过去(第三人称单数)": "postete",
+    "现在": "postet",
+    "过去": "postete",
     "完成": "hat gepostet",
-    "意思": "post"
+    "意思": "post",
+    "例句": "Manche Leute posten gerne negative Kommentare.",
+    "翻译": ""
   },
   {
     "原型": "essen",
-    "现在(第三人称单数)": "isst",
-    "过去(第三人称单数)": "aß",
+    "现在": "isst",
+    "过去": "aß",
     "完成": "hat gegessen",
-    "意思": "eat"
+    "意思": "eat",
+    "例句": "Hast du gegessen?",
+    "翻译": ""
   },
   {
     "原型": "bestellen",
-    "现在(第三人称单数)": "bestellt",
-    "过去(第三人称单数)": "bestellte",
+    "现在": "bestellt",
+    "过去": "bestellte",
     "完成": "hat bestellt",
-    "意思": "oder food or drink"
+    "意思": "oder food or drink",
+    "例句": "Der Tisch da drüben hat zwei Tassen Kaffee bestellt.",
+    "翻译": ""
   },
   {
     "原型": "lieben",
-    "现在(第三人称单数)": "liebt",
-    "过去(第三人称单数)": "liebte",
+    "现在": "liebt",
+    "过去": "liebte",
     "完成": "hat geliebt",
-    "意思": "like, love"
+    "意思": "like, love",
+    "例句": "Dabei haben wir erkannt, wie sehr wir einander lieben.",
+    "翻译": ""
   },
   {
     "原型": "nehmen",
-    "现在(第三人称单数)": "nimmt",
-    "过去(第三人称单数)": "nahm",
+    "现在": "nimmt",
+    "过去": "nahm",
     "完成": "hat genommen",
-    "意思": "take, have"
+    "意思": "take, have",
+    "例句": "Ich habe schon was genommen.",
+    "翻译": ""
   },
   {
     "原型": "sagen",
-    "现在(第三人称单数)": "sagt",
-    "过去(第三人称单数)": "sagte",
+    "现在": "sagt",
+    "过去": "sagte",
     "完成": "hat gesagt",
-    "意思": "say"
+    "意思": "say",
+    "例句": "Er sagte, es ginge ihm gut, aber er sah heute gar nicht gut aus.",
+    "翻译": ""
   },
   {
     "原型": "sagen ab",
-    "现在(第三人称单数)": "sagt ab",
-    "过去(第三人称单数)": "sagte ab",
+    "现在": "sagt ab",
+    "过去": "sagte ab",
     "完成": "hat abgesagt",
-    "意思": "say off, cancel"
+    "意思": "say off, cancel",
+    "例句": "Sie haben Ihre Kurse abgesagt.",
+    "翻译": ""
   },
   {
     "原型": "zahlen",
-    "现在(第三人称单数)": "zahlt",
-    "过去(第三人称单数)": "zahlte",
+    "现在": "zahlt",
+    "过去": "zahlte",
     "完成": "hat gezahlt",
-    "意思": "pay"
+    "意思": "pay",
+    "例句": "Lass sie dafür zahlen.",
+    "翻译": ""
   },
   {
     "原型": "begrüßen",
-    "现在(第三人称单数)": "begrüßt",
-    "过去(第三人称单数)": "begrüßte",
+    "现在": "begrüßt",
+    "过去": "begrüßte",
     "完成": "hat begrüßt",
-    "意思": "greet"
+    "意思": "greet",
+    "例句": "Statt ihn auf dieser Welt zu begrüßen, habe ich hier den Alkohol einer dreitägigen Sauftour verarbeitet und versucht, den Mut aufzubringen, da rüberzugehen.",
+    "翻译": ""
   },
   {
     "原型": "besichtigen",
-    "现在(第三人称单数)": "besichtigt",
-    "过去(第三人称单数)": "besichtigte",
+    "现在": "besichtigt",
+    "过去": "besichtigte",
     "完成": "hat besichtigt",
-    "意思": "visit"
+    "意思": "visit",
+    "例句": "Ich hab da was besichtigt.",
+    "翻译": ""
   },
   {
     "原型": "fahren",
-    "现在(第三人称单数)": "fährt",
-    "过去(第三人称单数)": "fuhr",
+    "现在": "fährt",
+    "过去": "fuhr",
     "完成": "ist gefahren",
-    "意思": "drive, travel"
+    "意思": "drive, travel",
+    "例句": "Fahren wir doch nach der Hochzeit!",
+    "翻译": ""
   },
   {
     "原型": "spielen",
-    "现在(第三人称单数)": "spielt",
-    "过去(第三人称单数)": "spielte",
+    "现在": "spielt",
+    "过去": "spielte",
     "完成": "hat gespielt",
-    "意思": "play"
+    "意思": "play",
+    "例句": "Spielt keine Rolle.",
+    "翻译": ""
   },
   {
     "原型": "gewinnen",
-    "现在(第三人称单数)": "gewinnt",
-    "过去(第三人称单数)": "gewann",
+    "现在": "gewinnt",
+    "过去": "gewann",
     "完成": "hat gewonnen",
-    "意思": "win"
+    "意思": "win",
+    "例句": "Was gewinnt?",
+    "翻译": ""
   },
   {
     "原型": "liegen",
-    "现在(第三人称单数)": "liegt",
-    "过去(第三人称单数)": "lag",
+    "现在": "liegt",
+    "过去": "lag",
     "完成": "hat gelegen",
-    "意思": "lie, locate"
+    "意思": "lie, locate",
+    "例句": "Er liegt vielleicht irgendwo in der Ecke und weint Veronica nach.",
+    "翻译": ""
   },
   {
     "原型": "tanzen",
-    "现在(第三人称单数)": "tanzt",
-    "过去(第三人称单数)": "tanzte",
+    "现在": "tanzt",
+    "过去": "tanzte",
     "完成": "hat getanzt",
-    "意思": "dance"
+    "意思": "dance",
+    "例句": "Wir tanzen und lachen und vergessen die Welt, und auf einmal benutzen wir diese Sachen zusammen.",
+    "翻译": ""
   },
   {
     "原型": "singen",
-    "现在(第三人称单数)": "singt",
-    "过去(第三人称单数)": "sang",
+    "现在": "singt",
+    "过去": "sang",
     "完成": "hat gesungen",
-    "意思": "sing"
+    "意思": "sing",
+    "例句": "Sogar Sang-beom suchte nach dir.",
+    "翻译": ""
   },
   {
     "原型": "bleiben",
-    "现在(第三人称单数)": "bleibt",
-    "过去(第三人称单数)": "blieb",
+    "现在": "bleibt",
+    "过去": "blieb",
     "完成": "ist geblieben",
-    "意思": "stay"
+    "意思": "stay",
+    "例句": "Du musst jetzt stark bleiben.",
+    "翻译": ""
   },
   {
     "原型": "bleiben stehen",
-    "现在(第三人称单数)": "bleibt stehen",
-    "过去(第三人称单数)": "blieb stehen",
+    "现在": "bleibt stehen",
+    "过去": "blieb stehen",
     "完成": "ist stehengeblieben",
-    "意思": "remain still"
+    "意思": "remain still",
+    "例句": "Meine Beine bleiben stehen Da ich fürchte, etwas zu bereuen",
+    "翻译": ""
   },
   {
     "原型": "unterrichten",
-    "现在(第三人称单数)": "unterrichtet",
-    "过去(第三人称单数)": "unterrichtete",
+    "现在": "unterrichtet",
+    "过去": "unterrichtete",
     "完成": "hat unterrichtet",
-    "意思": "teach, instruct"
+    "意思": "teach, instruct",
+    "例句": "Eines der besten Dinge war es, dich zu unterrichten,",
+    "翻译": ""
   },
   {
     "原型": "hören",
-    "现在(第三人称单数)": "hört",
-    "过去(第三人称单数)": "hörte",
+    "现在": "hört",
+    "过去": "hörte",
     "完成": "hat gehört",
-    "意思": "hear"
+    "意思": "hear",
+    "例句": "Aber nachdem ich gehört habe, was sie sagte habe ich erkannt dass sie mit mir bloß in einen anderen Turm gesperrt worden wäre.",
+    "翻译": ""
   },
   {
     "原型": "lesen",
-    "现在(第三人称单数)": "liest",
-    "过去(第三人称单数)": "las",
+    "现在": "liest",
+    "过去": "las",
     "完成": "hat gelesen",
-    "意思": "read"
+    "意思": "read",
+    "例句": "Ich bekomme drei Mahlzeiten, und ich kann Bücher lesen, für die ich nie Zeit hatte.",
+    "翻译": ""
   },
   {
     "原型": "üben",
-    "现在(第三人称单数)": "übt",
-    "过去(第三人称单数)": "übte",
+    "现在": "übt",
+    "过去": "übte",
     "完成": "hat geübt",
-    "意思": "practice"
+    "意思": "practice",
+    "例句": "Üben wir es trotzdem.",
+    "翻译": ""
   },
   {
     "原型": "wiederholen",
-    "现在(第三人称单数)": "wiederholt",
-    "过去(第三人称单数)": "wiederholte",
+    "现在": "wiederholt",
+    "过去": "wiederholte",
     "完成": "hat wiederholt",
-    "意思": "repeat, review"
+    "意思": "repeat, review",
+    "例句": "Soll ich es wiederholen?",
+    "翻译": ""
   },
   {
     "原型": "hoffen",
-    "现在(第三人称单数)": "hofft",
-    "过去(第三人称单数)": "hoffte",
+    "现在": "hofft",
+    "过去": "hoffte",
     "完成": "hat gehofft",
-    "意思": "hope"
+    "意思": "hope",
+    "例句": "Hoffen wir also, dass ich nicht festgenommen werde.",
+    "翻译": ""
   },
   {
     "原型": "leben",
-    "现在(第三人称单数)": "lebt",
-    "过去(第三人称单数)": "lebte",
+    "现在": "lebt",
+    "过去": "lebte",
     "完成": "hat gelebt",
-    "意思": "live"
+    "意思": "live",
+    "例句": "Sie mischt sich in sein Leben ein?",
+    "翻译": ""
   },
   {
     "原型": "teilen",
-    "现在(第三人称单数)": "teilt",
-    "过去(第三人称单数)": "teilte",
+    "现在": "teilt",
+    "过去": "teilte",
     "完成": "hat geteilt",
-    "意思": "share"
+    "意思": "share",
+    "例句": "Wir teilen eine große Nähe.",
+    "翻译": ""
   },
   {
     "原型": "ziehne an",
-    "现在(第三人称单数)": "zieht an",
-    "过去(第三人称单数)": "zog an",
+    "现在": "zieht an",
+    "过去": "zog an",
     "完成": "ist angezogen",
-    "意思": "put on (clothes)"
+    "意思": "put on (clothes)",
+    "例句": "Ich war nicht warm genug angezogen.",
+    "翻译": ""
   },
   {
     "原型": "ziehne aus",
-    "现在(第三人称单数)": "zieht aus",
-    "过去(第三人称单数)": "zog aus",
+    "现在": "zieht aus",
+    "过去": "zog aus",
     "完成": "hat ausgezogen",
-    "意思": "take off (clothes)"
+    "意思": "take off (clothes)",
+    "例句": "Der Mann wurde mit einer Eisenstange geschlagen, beraubt, ausgezogen.",
+    "翻译": ""
   },
   {
     "原型": "ziehen um",
-    "现在(第三人称单数)": "zieht um",
-    "过去(第三人称单数)": "zog um",
+    "现在": "zieht um",
+    "过去": "zog um",
     "完成": "ist umgezogen",
-    "意思": "move (house, city)"
+    "意思": "move (house, city)",
+    "例句": "Du und deine Mom seid also oft umgezogen?",
+    "翻译": ""
   },
   {
     "原型": "sitzen",
-    "现在(第三人称单数)": "sitzt",
-    "过去(第三人称单数)": "saß",
+    "现在": "sitzt",
+    "过去": "saß",
     "完成": "hat gesessen",
-    "意思": "sit"
+    "意思": "sit",
+    "例句": "Was sitzt du zu Hause.",
+    "翻译": ""
   },
   {
     "原型": "finden",
-    "现在(第三人称单数)": "findet",
-    "过去(第三人称单数)": "fand",
+    "现在": "findet",
+    "过去": "fand",
     "完成": "hat gefunden",
-    "意思": "find"
+    "意思": "find",
+    "例句": "Ich fand den Mut das zu sagen, weil das mit Präsidentin Cha nicht so enden soll.",
+    "翻译": ""
   },
   {
     "原型": "finden statt",
-    "现在(第三人称单数)": "findet statt",
-    "过去(第三人称单数)": "fand statt",
+    "现在": "findet statt",
+    "过去": "fand statt",
     "完成": "hat stattgefunden",
-    "意思": "take place; occur"
+    "意思": "take place; occur",
+    "例句": "Weil es nicht stattgefunden hat.",
+    "翻译": ""
   },
   {
     "原型": "duschen",
-    "现在(第三人称单数)": "duscht",
-    "过去(第三人称单数)": "duschte",
+    "现在": "duscht",
+    "过去": "duschte",
     "完成": "hat geduscht",
-    "意思": "take a shower"
+    "意思": "take a shower",
+    "例句": "Geh duschen und zieh dich um.",
+    "翻译": ""
   },
   {
     "原型": "putzen",
-    "现在(第三人称单数)": "putzt",
-    "过去(第三人称单数)": "putzte",
+    "现在": "putzt",
+    "过去": "putzte",
     "完成": "hat geputzt",
-    "意思": "clean"
+    "意思": "clean",
+    "例句": "Darum nannte ich sie so, und nun darf ich Fenster putzen, um irgendetwas über etwas zu lernen.",
+    "翻译": ""
   },
   {
     "原型": "schlafen",
-    "现在(第三人称单数)": "schläft",
-    "过去(第三人称单数)": "schlief",
+    "现在": "schläft",
+    "过去": "schlief",
     "完成": "hat geschlafen",
-    "意思": "sleep"
+    "意思": "sleep",
+    "例句": "Ich will nur schlafen.",
+    "翻译": ""
   },
   {
     "原型": "schlafen ein",
-    "现在(第三人称单数)": "schläft ein",
-    "过去(第三人称单数)": "schlief ein",
+    "现在": "schläft ein",
+    "过去": "schlief ein",
     "完成": "ist eingeschlafen",
-    "意思": "fall asleep"
+    "意思": "fall asleep",
+    "例句": "Mama, sie ist eingeschlafen.",
+    "翻译": ""
   },
   {
     "原型": "schlafen aus",
-    "现在(第三人称单数)": "schläft aus",
-    "过去(第三人称单数)": "schlief aus",
+    "现在": "schläft aus",
+    "过去": "schlief aus",
     "完成": "hat ausgeschlafen",
-    "意思": "sleep in"
+    "意思": "sleep in",
+    "例句": "- Ja, ich hab mal ausgeschlafen.",
+    "翻译": ""
   },
   {
     "原型": "beginnen",
-    "现在(第三人称单数)": "beginnt",
-    "过去(第三人称单数)": "begann",
+    "现在": "beginnt",
+    "过去": "begann",
     "完成": "hat begonnen",
-    "意思": "begin"
+    "意思": "begin",
+    "例句": "Es wird schwieriger, wenn der Prozess beginnt.",
+    "翻译": ""
   },
   {
     "原型": "rufen an",
-    "现在(第三人称单数)": "ruft an",
-    "过去(第三人称单数)": "rief an",
+    "现在": "ruft an",
+    "过去": "rief an",
     "完成": "hat angerufen",
-    "意思": "call someone"
+    "意思": "call someone",
+    "例句": "Sie haben mich angerufen, oder?",
+    "翻译": ""
   },
   {
     "原型": "räumen auf",
-    "现在(第三人称单数)": "räumt auf",
-    "过去(第三人称单数)": "räumte auf",
+    "现在": "räumt auf",
+    "过去": "räumte auf",
     "完成": "hat aufgeräumt",
-    "意思": "clean up"
+    "意思": "clean up",
+    "例句": "So, jetzt wird hier aufgeräumt!",
+    "翻译": ""
   },
   {
     "原型": "gehen",
-    "现在(第三人称单数)": "geht",
-    "过去(第三人称单数)": "ging",
+    "现在": "geht",
+    "过去": "ging",
     "完成": "ist gegangen",
-    "意思": "go"
+    "意思": "go",
+    "例句": "Es geht mir gut.",
+    "翻译": ""
   },
   {
     "原型": "gehen aus",
-    "现在(第三人称单数)": "geht aus",
-    "过去(第三人称单数)": "ging aus",
+    "现在": "geht aus",
+    "过去": "ging aus",
     "完成": "ist ausgegangen",
-    "意思": "go out"
+    "意思": "go out",
+    "例句": "* Der Motor geht aus. * Ich hab alles gemacht.",
+    "翻译": ""
   },
   {
     "原型": "gehen entlang",
-    "现在(第三人称单数)": "geht entlang",
-    "过去(第三人称单数)": "ging entlang",
+    "现在": "geht entlang",
+    "过去": "ging entlang",
     "完成": "ist entlanggegangen",
-    "意思": "go along"
+    "意思": "go along",
+    "例句": "Von all den Malen die wir diese Straße entlanggegangen sind, hab ich das hier schon mal gemacht?",
+    "翻译": ""
   },
   {
     "原型": "gehen vorbei",
-    "现在(第三人称单数)": "geht vorbei",
-    "过去(第三人称单数)": "ging vorbei",
+    "现在": "geht vorbei",
+    "过去": "ging vorbei",
     "完成": "ist vorbeigegangen",
-    "意思": "go pass by"
+    "意思": "go pass by",
+    "例句": "Glaub mir, das geht vorbei.",
+    "翻译": ""
   },
   {
     "原型": "kaufen",
-    "现在(第三人称单数)": "kauft",
-    "过去(第三人称单数)": "kaufte",
+    "现在": "kauft",
+    "过去": "kaufte",
     "完成": "hat gekauft",
-    "意思": "buy"
+    "意思": "buy",
+    "例句": "Ich habe das für Sie gekauft.",
+    "翻译": ""
   },
   {
     "原型": "kaufen ein",
-    "现在(第三人称单数)": "kauft ein",
-    "过去(第三人称单数)": "kaufte ein",
+    "现在": "kauft ein",
+    "过去": "kaufte ein",
     "完成": "hat eingekauft",
-    "意思": "go shopping"
+    "意思": "go shopping",
+    "例句": "-Hast du eingekauft?",
+    "翻译": ""
   },
   {
     "原型": "verkaufen",
-    "现在(第三人称单数)": "verkauft",
-    "过去(第三人称单数)": "verkaufte",
+    "现在": "verkauft",
+    "过去": "verkaufte",
     "完成": "hat verkauft",
-    "意思": "sell"
+    "意思": "sell",
+    "例句": "Wir verkauften das Obst auf der Straße.",
+    "翻译": ""
   },
   {
     "原型": "sehen",
-    "现在(第三人称单数)": "sieht",
-    "过去(第三人称单数)": "sah",
+    "现在": "sieht",
+    "过去": "sah",
     "完成": "hat gesehen",
-    "意思": "see"
+    "意思": "see",
+    "例句": "Sie sehen blass aus.",
+    "翻译": ""
   },
   {
     "原型": "sehen fern",
-    "现在(第三人称单数)": "sieht fern",
-    "过去(第三人称单数)": "sah fern",
+    "现在": "sieht fern",
+    "过去": "sah fern",
     "完成": "hat ferngesehen",
-    "意思": "watch television"
+    "意思": "watch television",
+    "例句": "Ich habe ferngesehen.",
+    "翻译": ""
   },
   {
     "原型": "sehen aus",
-    "现在(第三人称单数)": "sieht aus",
-    "过去(第三人称单数)": "sah aus",
+    "现在": "sieht aus",
+    "过去": "sah aus",
     "完成": "hat ausgeshen",
-    "意思": "look like"
+    "意思": "look like",
+    "例句": "Es sieht aus, als tanzen sie, aber sie spielen ein AR-Videospiel mit Zugang über intelligente Kontaktlinsen.",
+    "翻译": ""
   },
   {
     "原型": "stehen",
-    "现在(第三人称单数)": "steht",
-    "过去(第三人称单数)": "stand",
+    "现在": "steht",
+    "过去": "stand",
     "完成": "hat gestanden",
-    "意思": "stand, fit, looks good"
+    "意思": "stand, fit, looks good",
+    "例句": "Ich kann nicht dabei zusehen wie du und Menschen, die dir nah stehen, meinetwegen müde werden.",
+    "翻译": ""
   },
   {
     "原型": "stehen auf",
-    "现在(第三人称单数)": "steht auf",
-    "过去(第三人称单数)": "stand auf",
+    "现在": "steht auf",
+    "过去": "stand auf",
     "完成": "ist aufgestanden",
-    "意思": "get up"
+    "意思": "get up",
+    "例句": "Die Leute stehen auf so was.",
+    "翻译": ""
   },
   {
     "原型": "verstehen",
-    "现在(第三人称单数)": "versteht",
-    "过去(第三人称单数)": "verstand",
+    "现在": "versteht",
+    "过去": "verstand",
     "完成": "hat verstanden",
-    "意思": "understand"
+    "意思": "understand",
+    "例句": "Aber mit der Zeit wirst du mich hoffentlich verstehen.",
+    "翻译": ""
   },
   {
     "原型": "frühstücken",
-    "现在(第三人称单数)": "frühstückt",
-    "过去(第三人称单数)": "frühstückte",
+    "现在": "frühstückt",
+    "过去": "frühstückte",
     "完成": "hat gefrühstückt",
-    "意思": "have breakfast"
+    "意思": "have breakfast",
+    "例句": "Ich habe zu viel gefrühstückt.",
+    "翻译": ""
   },
   {
     "原型": "wissen",
-    "现在(第三人称单数)": "weiß",
-    "过去(第三人称单数)": "wusste",
+    "现在": "weiß",
+    "过去": "wusste",
     "完成": "hat gewusst",
-    "意思": "know"
+    "意思": "know",
+    "例句": "Ich habe das getan, weil ich weiß, dass er nicht aufgeben wird.",
+    "翻译": ""
   },
   {
     "原型": "fangen an",
-    "现在(第三人称单数)": "fängt an",
-    "过去(第三人称单数)": "fing an",
+    "现在": "fängt an",
+    "过去": "fing an",
     "完成": "hat angefangen",
-    "意思": "start"
+    "意思": "start",
+    "例句": "Ja, er hat ganz plötzlich angefangen.",
+    "翻译": ""
   },
   {
     "原型": "hören auf",
-    "现在(第三人称单数)": "hört auf",
-    "过去(第三人称单数)": "hörte auf",
+    "现在": "hört auf",
+    "过去": "hörte auf",
     "完成": "hat aufgehört",
-    "意思": "finish"
+    "意思": "finish",
+    "例句": "Jungs, hört auf!",
+    "翻译": ""
   },
   {
     "原型": "glauben",
-    "现在(第三人称单数)": "glaubt",
-    "过去(第三人称单数)": "glaubte",
+    "现在": "glaubt",
+    "过去": "glaubte",
     "完成": "hat geglaubt",
-    "意思": "believe"
+    "意思": "believe",
+    "例句": "Dass sie glaubt, sie sei daran schuld... dass alle um sie herum leiden.",
+    "翻译": ""
   },
   {
     "原型": "kochen",
-    "现在(第三人称单数)": "kocht",
-    "过去(第三人称单数)": "kochte",
+    "现在": "kocht",
+    "过去": "kochte",
     "完成": "hat gekocht",
-    "意思": "cook"
+    "意思": "cook",
+    "例句": "Hast du das selbst gekocht?",
+    "翻译": ""
   },
   {
     "原型": "korrigieren",
-    "现在(第三人称单数)": "korrigiert",
-    "过去(第三人称单数)": "korrigierte",
+    "现在": "korrigiert",
+    "过去": "korrigierte",
     "完成": "hat korrigiert",
-    "意思": "correct something"
+    "意思": "correct something",
+    "例句": "~ Übersetzt von apeg ~ ~ Timings von Steffi ~ Korrigiert von Shay-Zee ~",
+    "翻译": ""
   },
   {
     "原型": "schreiben mit",
-    "现在(第三人称单数)": "schreibt mit",
-    "过去(第三人称单数)": "schrieb mit",
+    "现在": "schreibt mit",
+    "过去": "schrieb mit",
     "完成": "hat mitgeschrieben",
-    "意思": "take notes"
+    "意思": "take notes",
+    "例句": "Frau Laban, Sie schreiben mit!",
+    "翻译": ""
   },
   {
     "原型": "bereiten vor",
-    "现在(第三人称单数)": "bereitet vor",
-    "过去(第三人称单数)": "bereitete vor",
+    "现在": "bereitet vor",
+    "过去": "bereitete vor",
     "完成": "hat vorbereitet",
-    "意思": "prepare"
+    "意思": "prepare",
+    "例句": "Ich bin schon vorbereitet.",
+    "翻译": ""
   },
   {
     "原型": "lesen vor",
-    "现在(第三人称单数)": "liest vor",
-    "过去(第三人称单数)": "las vor",
+    "现在": "liest vor",
+    "过去": "las vor",
     "完成": "hat vorgelesen",
-    "意思": "read something to somebody"
+    "意思": "read something to somebody",
+    "例句": "Dann hat Brian Larkin den Brief laut im Flur vorgelesen.",
+    "翻译": ""
   },
   {
     "原型": "waschen",
-    "现在(第三人称单数)": "wäscht",
-    "过去(第三人称单数)": "wusch",
+    "现在": "wäscht",
+    "过去": "wusch",
     "完成": "hat gewaschen",
-    "意思": "wash"
+    "意思": "wash",
+    "例句": "Wir müssen ihn nur waschen.",
+    "翻译": ""
   },
   {
     "原型": "denken",
-    "现在(第三人称单数)": "denkt",
-    "过去(第三人称单数)": "dachte",
+    "现在": "denkt",
+    "过去": "dachte",
     "完成": "hat gedacht",
-    "意思": "think"
+    "意思": "think",
+    "例句": "Ich habe mir schon gedacht, dass du früher kommst.",
+    "翻译": ""
   },
   {
     "原型": "schwimmen",
-    "现在(第三人称单数)": "schwimmt",
-    "过去(第三人称单数)": "schwamm",
+    "现在": "schwimmt",
+    "过去": "schwamm",
     "完成": "ist geschwommen",
-    "意思": "swim"
+    "意思": "swim",
+    "例句": "Wir gehen schwimmen.",
+    "翻译": ""
   },
   {
     "原型": "warten",
-    "现在(第三人称单数)": "wartet",
-    "过去(第三人称单数)": "wartete",
+    "现在": "wartet",
+    "过去": "wartete",
     "完成": "hat gewartet",
-    "意思": "wait"
+    "意思": "wait",
+    "例句": "Warten wir einfach ab.",
+    "翻译": ""
   },
   {
     "原型": "brauchen",
-    "现在(第三人称单数)": "braucht",
-    "过去(第三人称单数)": "brauchte",
+    "现在": "braucht",
+    "过去": "brauchte",
     "完成": "hat gebraucht",
-    "意思": "need"
+    "意思": "need",
+    "例句": "Nach einer Trennung braucht man Süßes.",
+    "翻译": ""
   },
   {
     "原型": "treffen",
-    "现在(第三人称单数)": "trifft",
-    "过去(第三人称单数)": "traf",
+    "现在": "trifft",
+    "过去": "traf",
     "完成": "hat getroffen",
-    "意思": "meet"
+    "意思": "meet",
+    "例句": "Wenn er Entscheidungen trifft, solltest du ihn unterstützen.",
+    "翻译": ""
   },
   {
     "原型": "geben",
-    "现在(第三人称单数)": "gibt",
-    "过去(第三人称单数)": "gab",
+    "现在": "gibt",
+    "过去": "gab",
     "完成": "hat gegeben",
-    "意思": "give"
+    "意思": "give",
+    "例句": "Geben Sie sich nicht die Schuld.",
+    "翻译": ""
   },
   {
     "原型": "geben zurück",
-    "现在(第三人称单数)": "gibt zurück",
-    "过去(第三人称单数)": "gab zurück",
+    "现在": "gibt zurück",
+    "过去": "gab zurück",
     "完成": "hat zurückgegeben",
-    "意思": "return, give back"
+    "意思": "return, give back",
+    "例句": "Hast du den Parkausweis zurückgegeben?",
+    "翻译": ""
   },
   {
     "原型": "leiten",
-    "现在(第三人称单数)": "leitet",
-    "过去(第三人称单数)": "leitete",
+    "现在": "leitet",
+    "过去": "leitete",
     "完成": "hat geleitet",
-    "意思": "manage"
+    "意思": "manage",
+    "例句": "Meinst du, die leiten einfach so eine Untersuchung ein?",
+    "翻译": ""
   },
   {
     "原型": "mögen",
-    "现在(第三人称单数)": "mag",
-    "过去(第三人称单数)": "mochte",
+    "现在": "mag",
+    "过去": "mochte",
     "完成": "hat gemocht",
-    "意思": "like"
+    "意思": "like",
+    "例句": "Ich mag dich mehr",
+    "翻译": ""
   },
   {
     "原型": "beraten",
-    "现在(第三人称单数)": "berät",
-    "过去(第三人称单数)": "beriet",
+    "现在": "berät",
+    "过去": "beriet",
     "完成": "hat beraten",
-    "意思": "advise"
+    "意思": "advise",
+    "例句": "Yoos Entlassung beraten wird.",
+    "翻译": ""
   },
   {
     "原型": "bringen",
-    "现在(第三人称单数)": "bringt",
-    "过去(第三人称单数)": "brachte",
+    "现在": "bringt",
+    "过去": "brachte",
     "完成": "hat gebracht",
-    "意思": "bring"
+    "意思": "bring",
+    "例句": "Er brachte sie mit einem Zug zum Schweigen.",
+    "翻译": ""
   },
   {
     "原型": "buchen",
-    "现在(第三人称单数)": "bucht",
-    "过去(第三人称单数)": "buchte",
+    "现在": "bucht",
+    "过去": "buchte",
     "完成": "hat gebucht",
-    "意思": "book, make appointment"
+    "意思": "book, make appointment",
+    "例句": "José buchte einen Flug für ihn.",
+    "翻译": ""
   },
   {
     "原型": "überprüfen",
-    "现在(第三人称单数)": "überprüft",
-    "过去(第三人称单数)": "überprüfte",
+    "现在": "überprüft",
+    "过去": "überprüfte",
     "完成": "hat überprüft",
-    "意思": "check, review"
+    "意思": "check, review",
+    "例句": "Gehen Sie, überprüfen Sie die Agenten.",
+    "翻译": ""
   },
   {
     "原型": "kontrollieren",
-    "现在(第三人称单数)": "kontrolliert",
-    "过去(第三人称单数)": "kontrollierte",
+    "现在": "kontrolliert",
+    "过去": "kontrollierte",
     "完成": "hat kontrolliert",
-    "意思": "inspect, double-check"
+    "意思": "inspect, double-check",
+    "例句": "Ihr solltet die Firewall kontrollieren und sicherstellen...",
+    "翻译": ""
   },
   {
     "原型": "organisieren",
-    "现在(第三人称单数)": "organisiert",
-    "过去(第三人称单数)": "organisierte",
+    "现在": "organisiert",
+    "过去": "organisierte",
     "完成": "hat organisiert",
-    "意思": "organize"
+    "意思": "organize",
+    "例句": "Es gibt zu wenig Frauen im organisierten Verbrechen.",
+    "翻译": ""
   },
   {
     "原型": "planen",
-    "现在(第三人称单数)": "plant",
-    "过去(第三人称单数)": "plante",
+    "现在": "plant",
+    "过去": "plante",
     "完成": "hat geplant",
-    "意思": "plan"
+    "意思": "plan",
+    "例句": "Weißt du, was die das ganze Jahr geplant haben?",
+    "翻译": ""
   },
   {
     "原型": "reparieren",
-    "现在(第三人称单数)": "repariert",
-    "过去(第三人称单数)": "reparierte",
+    "现在": "repariert",
+    "过去": "reparierte",
     "完成": "hat repariert",
-    "意思": "repair"
+    "意思": "repair",
+    "例句": "- Guerin hat sie repariert und jetzt erinnert sie mich nur noch an sein dummes Gesicht, dumme Stimme, dumme Hände...",
+    "翻译": ""
   },
   {
     "原型": "unterschreiben",
-    "现在(第三人称单数)": "unterschreibt",
-    "过去(第三人称单数)": "unterschrieb",
+    "现在": "unterschreibt",
+    "过去": "unterschrieb",
     "完成": "hat unterschrieben",
-    "意思": "sign paper, sign contract"
+    "意思": "sign paper, sign contract",
+    "例句": "Das müssen Sie noch unterschreiben.",
+    "翻译": ""
   },
   {
     "原型": "zählen",
-    "现在(第三人称单数)": "zählt",
-    "过去(第三人称单数)": "zählte",
+    "现在": "zählt",
+    "过去": "zählte",
     "完成": "hat gezählt",
-    "意思": "count"
+    "意思": "count",
+    "例句": "Die inneren Werte zählen.",
+    "翻译": ""
   },
   {
     "原型": "hängen",
-    "现在(第三人称单数)": "hängt",
-    "过去(第三人称单数)": "hing",
+    "现在": "hängt",
+    "过去": "hing",
     "完成": "hat gehangen",
-    "意思": "hang"
+    "意思": "hang",
+    "例句": "Was hängt da an deinen Ohren?",
+    "翻译": ""
   },
   {
     "原型": "hassen",
-    "现在(第三人称单数)": "hasst",
-    "过去(第三人称单数)": "hasste",
+    "现在": "hasst",
+    "过去": "hasste",
     "完成": "gehasst",
-    "意思": "hate"
+    "意思": "hate",
+    "例句": "Du kannst mich dafür hassen.",
+    "翻译": ""
   },
   {
     "原型": "werden",
-    "现在(第三人称单数)": "wird",
-    "过去(第三人称单数)": "wurde",
+    "现在": "wird",
+    "过去": "wurde",
     "完成": "ist geworden",
-    "意思": "become"
+    "意思": "become",
+    "例句": "Sie sahen morgens schon schlecht aus und es wurde schlimmer.",
+    "翻译": ""
   },
   {
     "原型": "behalten",
-    "现在(第三人称单数)": "behält",
-    "过去(第三人称单数)": "behielt",
+    "现在": "behält",
+    "过去": "behielt",
     "完成": "hat behalten",
-    "意思": "keep, maintain"
+    "意思": "keep, maintain",
+    "例句": "Präsident Jung soll seine Aktien behalten.",
+    "翻译": ""
   },
   {
     "原型": "schenken",
-    "现在(第三人称单数)": "schenkt",
-    "过去(第三人称单数)": "schenkte",
+    "现在": "schenkt",
+    "过去": "schenkte",
     "完成": "hat geschenkt",
-    "意思": "give sth as a present"
+    "意思": "give sth as a present",
+    "例句": "Geschenkt ist geschenkt.",
+    "翻译": ""
   },
   {
     "原型": "parken",
-    "现在(第三人称单数)": "parkt",
-    "过去(第三人称单数)": "parkte",
+    "现在": "parkt",
+    "过去": "parkte",
     "完成": "hat geparkt",
-    "意思": "park a car"
+    "意思": "park a car",
+    "例句": "Parken am Bordstein.",
+    "翻译": ""
   },
   {
     "原型": "biegen",
-    "现在(第三人称单数)": "biegt",
-    "过去(第三人称单数)": "bog",
+    "现在": "biegt",
+    "过去": "bog",
     "完成": "hat gebogen",
-    "意思": "bend, turn"
+    "意思": "bend, turn",
+    "例句": "Aber wir biegen das wieder hin.",
+    "翻译": ""
   },
   {
     "原型": "überqueren",
-    "现在(第三人称单数)": "überquert",
-    "过去(第三人称单数)": "überquerte",
+    "现在": "überquert",
+    "过去": "überquerte",
     "完成": "hat überquert",
-    "意思": "cross"
+    "意思": "cross",
+    "例句": "Es gibt keinen einfachen Weg, den Highway zu überqueren.",
+    "翻译": ""
   },
   {
     "原型": "dauern",
-    "现在(第三人称单数)": "dauert",
-    "过去(第三人称单数)": "dauerte",
+    "现在": "dauert",
+    "过去": "dauerte",
     "完成": "hat gedauert",
-    "意思": "last"
+    "意思": "last",
+    "例句": "-Wenn es nicht zu lang dauert.",
+    "翻译": ""
   },
   {
     "原型": "steigen um",
-    "现在(第三人称单数)": "steigt um",
-    "过去(第三人称单数)": "stieg um",
+    "现在": "steigt um",
+    "过去": "stieg um",
     "完成": "ist umgestiegen",
-    "意思": "change (trains, buses etc.)"
+    "意思": "change (trains, buses etc.)",
+    "例句": "Wir wissen, er stieg um 18:30 Uhr in Duralong Point aus und um 19:50 Uhr wieder ein.",
+    "翻译": ""
   },
   {
     "原型": "steigen aus",
-    "现在(第三人称单数)": "steigt aus",
-    "过去(第三人称单数)": "stieg aus",
+    "现在": "steigt aus",
+    "过去": "stieg aus",
     "完成": "ist ausgesteigen",
-    "意思": "get off"
+    "意思": "get off",
+    "例句": "Steigt aus, kommt.",
+    "翻译": ""
   },
   {
     "原型": "öffnen",
-    "现在(第三人称单数)": "öffnet",
-    "过去(第三人称单数)": "öffnete",
+    "现在": "öffnet",
+    "过去": "öffnete",
     "完成": "hat geöffnet",
-    "意思": "open"
+    "意思": "open",
+    "例句": "An dem Tag, an dem der Schlüssel die Hand erreicht, öffnet sich das Tor, und der Palast zerfällt.",
+    "翻译": ""
   },
   {
     "原型": "schmecken",
-    "现在(第三人称单数)": "schmeckt",
-    "过去(第三人称单数)": "schmeckte",
+    "现在": "schmeckt",
+    "过去": "schmeckte",
     "完成": "hat geschmeckt",
-    "意思": "to taste"
+    "意思": "to taste",
+    "例句": "Das schmeckt gut.",
+    "翻译": ""
   },
   {
     "原型": "angeln",
-    "现在(第三人称单数)": "angelt",
-    "过去(第三人称单数)": "angelte",
+    "现在": "angelt",
+    "过去": "angelte",
     "完成": "hat geangelt",
-    "意思": "fishing"
+    "意思": "fishing",
+    "例句": "Er angelt auch gerne.",
+    "翻译": ""
   },
   {
     "原型": "fotografieren",
-    "现在(第三人称单数)": "fotografiert",
-    "过去(第三人称单数)": "fotografierte",
+    "现在": "fotografiert",
+    "过去": "fotografierte",
     "完成": "hat fotografiert",
-    "意思": "take a photo"
+    "意思": "take a photo",
+    "例句": "Ich nehme ihn nicht ab, und ich werde mit meiner Kamera oft fotografieren.",
+    "翻译": ""
   },
   {
     "原型": "joggen",
-    "现在(第三人称单数)": "joggt",
-    "过去(第三人称单数)": "joggte",
+    "现在": "joggt",
+    "过去": "joggte",
     "完成": "ist gejoggt",
-    "意思": "jog"
+    "意思": "jog",
+    "例句": "Ich gehe joggen.",
+    "翻译": ""
   },
   {
     "原型": "laufen",
-    "现在(第三人称单数)": "läuft",
-    "过去(第三人称单数)": "lief",
+    "现在": "läuft",
+    "过去": "lief",
     "完成": "ist gelaufen",
-    "意思": "run"
+    "意思": "run",
+    "例句": "Wie lief das Meeting?",
+    "翻译": ""
   },
   {
     "原型": "wandern",
-    "现在(第三人称单数)": "wandert",
-    "过去(第三人称单数)": "wanderte",
+    "现在": "wandert",
+    "过去": "wanderte",
     "完成": "ist gewandert",
-    "意思": "hike"
+    "意思": "hike",
+    "例句": "Er will wandern gehen, wenn er rauskommt.",
+    "翻译": ""
   },
   {
     "原型": "bekommen",
-    "现在(第三人称单数)": "bekommt",
-    "过去(第三人称单数)": "bekam",
+    "现在": "bekommt",
+    "过去": "bekam",
     "完成": "hat bekommen",
-    "意思": "get sth, receive sth"
+    "意思": "get sth, receive sth",
+    "例句": "Bekamen Sie Geld von Taegyeong?",
+    "翻译": ""
   },
   {
     "原型": "bekommen zurück",
-    "现在(第三人称单数)": "bekommt zurück",
-    "过去(第三人称单数)": "bekam zurück",
+    "现在": "bekommt zurück",
+    "过去": "bekam zurück",
     "完成": "hat zurückbekommen",
-    "意思": "get sth back"
+    "意思": "get sth back",
+    "例句": "Mit dieser Sache, und meinem Haifischgeld, sollte ich ziemlich bald mein Auto zurückbekommen.",
+    "翻译": ""
   },
   {
     "原型": "reden",
-    "现在(第三人称单数)": "redet",
-    "过去(第三人称单数)": "redete",
+    "现在": "redet",
+    "过去": "redete",
     "完成": "hat geredet",
-    "意思": "talk about"
+    "意思": "talk about",
+    "例句": "Wir reden später.",
+    "翻译": ""
   },
   {
     "原型": "schneiden",
-    "现在(第三人称单数)": "schneidet",
-    "过去(第三人称单数)": "schnitt",
+    "现在": "schneidet",
+    "过去": "schnitt",
     "完成": "hat geschnitten",
-    "意思": "cut, slice"
+    "意思": "cut, slice",
+    "例句": "Park machte den Schnitt und ich mache die Musik.",
+    "翻译": ""
   },
   {
     "原型": "vergessen",
-    "现在(第三人称单数)": "vergisst",
-    "过去(第三人称单数)": "vergaß",
+    "现在": "vergisst",
+    "过去": "vergaß",
     "完成": "hat vergessen",
-    "意思": "forget sth/sb"
+    "意思": "forget sth/sb",
+    "例句": "Sobald er heiratet und eigene Kinder hat, wird er das alles vergessen.",
+    "翻译": ""
   },
   {
     "原型": "backen",
-    "现在(第三人称单数)": "backt",
-    "过去(第三人称单数)": "bäckt",
+    "现在": "backt",
+    "过去": "bäckt",
     "完成": "hat gebacken",
-    "意思": "bake烘焙"
+    "意思": "bake烘焙",
+    "例句": "Ich backte Cupcakes für den Geburtstag ihrer Tochter, und du sagtest mir nie, dass du in sie verliebt warst?",
+    "翻译": ""
   },
   {
     "原型": "bestreuen",
-    "现在(第三人称单数)": "bestreut",
-    "过去(第三人称单数)": "bestreute",
+    "现在": "bestreut",
+    "过去": "bestreute",
     "完成": "hat bestreut",
-    "意思": "springkle撒粉"
+    "意思": "springkle撒粉",
+    "例句": "Kurz vor der Regatta bestreuen wir es einfach mit Bleichpulver.",
+    "翻译": ""
   },
   {
     "原型": "braten",
-    "现在(第三人称单数)": "brät",
-    "过去(第三人称单数)": "briet",
+    "现在": "brät",
+    "过去": "briet",
     "完成": "hat gebraten",
-    "意思": "fry炒"
+    "意思": "fry炒",
+    "例句": "-Oder gebratenen Kimchi-Reis?",
+    "翻译": ""
   },
   {
     "原型": "gießen",
-    "现在(第三人称单数)": "gießt",
-    "过去(第三人称单数)": "goss",
+    "现在": "gießt",
+    "过去": "goss",
     "完成": "hat gegossen",
-    "意思": "pour, water"
+    "意思": "pour, water",
+    "例句": "Die Sportlerbräute nannten mich Dizzy Silva und gossen mir Säfte in den Rücken...",
+    "翻译": ""
   },
   {
     "原型": "schälen",
-    "现在(第三人称单数)": "schält",
-    "过去(第三人称单数)": "schälte",
+    "现在": "schält",
+    "过去": "schälte",
     "完成": "hat geschält",
-    "意思": "peel削皮"
+    "意思": "peel削皮",
+    "例句": "Du musst aufpassen beim Schälen, wir müssen sparen.",
+    "翻译": ""
   },
   {
     "原型": "servieren",
-    "现在(第三人称单数)": "serviert",
-    "过去(第三人称单数)": "servierte",
+    "现在": "serviert",
+    "过去": "servierte",
     "完成": "hat serviet",
-    "意思": "serve"
+    "意思": "serve",
+    "例句": "Und ich denke an einen öffentlichen Ort, wo Essen an andere Menschen serviert wird, die es auch zu schätzen wissen.",
+    "翻译": ""
   },
   {
     "原型": "reservieren",
-    "现在(第三人称单数)": "reserviert",
-    "过去(第三人称单数)": "reservierte",
+    "现在": "reserviert",
+    "过去": "reservierte",
     "完成": "hat reserviert",
-    "意思": "reserve"
+    "意思": "reserve",
+    "例句": "Sie haben nur eine Fahrkarte reserviert.",
+    "翻译": ""
   },
   {
     "原型": "verrühren",
-    "现在(第三人称单数)": "verrührt",
-    "过去(第三人称单数)": "verrührte",
+    "现在": "verrührt",
+    "过去": "verrührte",
     "完成": "hat verrührt",
-    "意思": "stir搅拌"
+    "意思": "stir搅拌",
+    "例句": "Wir verrühren es.",
+    "翻译": ""
   },
   {
     "原型": "würzen",
-    "现在(第三人称单数)": "würzt",
-    "过去(第三人称单数)": "würzte",
+    "现在": "würzt",
+    "过去": "würzte",
     "完成": "hat gewürzt",
-    "意思": "season调味"
+    "意思": "season调味",
+    "例句": "Weil meine Gerichte perfekt gewürzt sind.",
+    "翻译": ""
   },
   {
     "原型": "faulenzen",
-    "现在(第三人称单数)": "faulenzt",
-    "过去(第三人称单数)": "faulenzte",
+    "现在": "faulenzt",
+    "过去": "faulenzte",
     "完成": "hat gefaulenzt",
-    "意思": "lounge around"
+    "意思": "lounge around",
+    "例句": "Ich will einfach mal faulenzen.",
+    "翻译": ""
   },
   {
     "原型": "holen",
-    "现在(第三人称单数)": "holt",
-    "过去(第三人称单数)": "holte",
+    "现在": "holt",
+    "过去": "holte",
     "完成": "hat geholt",
-    "意思": "get, fetch"
+    "意思": "get, fetch",
+    "例句": "Können Sie mir meinen Schuh holen?",
+    "翻译": ""
   },
   {
     "原型": "stoppen",
-    "现在(第三人称单数)": "stoppt",
-    "过去(第三人称单数)": "stoppte",
+    "现在": "stoppt",
+    "过去": "stoppte",
     "完成": "hat gestoppt",
-    "意思": "stop"
+    "意思": "stop",
+    "例句": "Ich hatte gehofft, nachdem sie gefeuert wurde, könnte Supergirl ihre Heldentaten darauf beschränken, entgleiste Züge zu stoppen und Kätzchen von Bäumen zu retten.",
+    "翻译": ""
   },
   {
     "原型": "übernachten",
-    "现在(第三人称单数)": "übernachtet",
-    "过去(第三人称单数)": "übernachtete",
+    "现在": "übernachtet",
+    "过去": "übernachtete",
     "完成": "hat übernachtet",
-    "意思": "spend the night"
+    "意思": "spend the night",
+    "例句": "Das ist für bei euch übernachten.",
+    "翻译": ""
   },
   {
     "原型": "zelten",
-    "现在(第三人称单数)": "zeltet",
-    "过去(第三人称单数)": "zeltete",
+    "现在": "zeltet",
+    "过去": "zeltete",
     "完成": "hat gezeltet",
-    "意思": "camp in tent"
+    "意思": "camp in tent",
+    "例句": "Als ich klein war, fuhr ich mit meinem Papa oft zelten.",
+    "翻译": ""
   },
   {
     "原型": "frieren",
-    "现在(第三人称单数)": "friert",
-    "过去(第三人称单数)": "fror",
+    "现在": "friert",
+    "过去": "fror",
     "完成": "hat gefroren",
-    "意思": "freeze"
+    "意思": "freeze",
+    "例句": "Wenn es gefroren war, wäre es, als würde man eine Keule schwingen.",
+    "翻译": ""
   },
   {
     "原型": "nehmen mit",
-    "现在(第三人称单数)": "nimmt mit",
-    "过去(第三人称单数)": "nahm mit",
+    "现在": "nimmt mit",
+    "过去": "nahm mit",
     "完成": "hat mitgenommen",
-    "意思": "take sth/sb along"
+    "意思": "take sth/sb along",
+    "例句": "Als ich klein war, hast du mich in Galerien mitgenommen.",
+    "翻译": ""
   },
   {
     "原型": "grillen",
-    "现在(第三人称单数)": "grillt",
-    "过去(第三人称单数)": "grillte",
+    "现在": "grillt",
+    "过去": "grillte",
     "完成": "hat gegrillt",
-    "意思": "grill, BBQ"
+    "意思": "grill, BBQ",
+    "例句": "Ja, zum Grillen, aber es fällt auseinander, und Papa macht nichts.",
+    "翻译": ""
   },
   {
     "原型": "lachen",
-    "现在(第三人称单数)": "lacht",
-    "过去(第三人称单数)": "lachte",
+    "现在": "lacht",
+    "过去": "lachte",
     "完成": "hat gelacht",
-    "意思": "laugh"
+    "意思": "laugh",
+    "例句": "(LACHT)",
+    "翻译": ""
   },
   {
     "原型": "reisen",
-    "现在(第三人称单数)": "reist",
-    "过去(第三人称单数)": "reiste",
+    "现在": "reist",
+    "过去": "reiste",
     "完成": "is gereist",
-    "意思": "travel"
+    "意思": "travel",
+    "例句": "-Sind Sie auf Reisen?",
+    "翻译": ""
   },
   {
     "原型": "fahren weg",
-    "现在(第三人称单数)": "fährt weg",
-    "过去(第三人称单数)": "fuhr weg",
+    "现在": "fährt weg",
+    "过去": "fuhr weg",
     "完成": "ist weggefahren",
-    "意思": "go away"
+    "意思": "go away",
+    "例句": "Ich lasse es aussehen, als seist du zur Behandlung weggefahren.",
+    "翻译": ""
   },
   {
     "原型": "wachen auf",
-    "现在(第三人称单数)": "wacht auf",
-    "过去(第三人称单数)": "wachte auf",
+    "现在": "wacht auf",
+    "过去": "wachte auf",
     "完成": "ist aufgewacht",
-    "意思": "wake up"
+    "意思": "wake up",
+    "例句": "Zuvor bei Roswell, New Mexico... 50 Jahre nach dem Ereignis bin ich hier drin aufgewacht.",
+    "翻译": ""
   },
   {
     "原型": "passieren",
-    "现在(第三人称单数)": "passiert",
-    "过去(第三人称单数)": "passierte",
+    "现在": "passiert",
+    "过去": "passierte",
     "完成": "ist passiert",
-    "意思": "happen"
+    "意思": "happen",
+    "例句": "Ist etwas passiert?",
+    "翻译": ""
   },
   {
     "原型": "regnen",
-    "现在(第三人称单数)": "renget",
-    "过去(第三人称单数)": "regnete",
+    "现在": "renget",
+    "过去": "regnete",
     "完成": "hat geregnet",
-    "意思": "rain"
+    "意思": "rain",
+    "例句": "Und dann fing es an zu regnen.",
+    "翻译": ""
   },
   {
     "原型": "scheinen",
-    "现在(第三人称单数)": "scheint",
-    "过去(第三人称单数)": "schien",
+    "现在": "scheint",
+    "过去": "schien",
     "完成": "hat geschienen",
-    "意思": "shine"
+    "意思": "shine",
+    "例句": "Von diesen vielen Sternen scheint einer auf mich herab.",
+    "翻译": ""
   },
   {
     "原型": "schneien",
-    "现在(第三人称单数)": "schneit",
-    "过去(第三人称单数)": "schneite",
+    "现在": "schneit",
+    "过去": "schneite",
     "完成": "hat geschneit",
-    "意思": "snow"
+    "意思": "snow",
+    "例句": "Mann, es schneit sogar.",
+    "翻译": ""
   },
   {
     "原型": "wehen",
-    "现在(第三人称单数)": "weht",
-    "过去(第三人称单数)": "wehte",
+    "现在": "weht",
+    "过去": "wehte",
     "完成": "hat geweht",
-    "意思": "blow"
+    "意思": "blow",
+    "例句": "Seine Mutter lag 17 Stunden in den Wehen.",
+    "翻译": ""
   },
   {
     "原型": "pack ein",
-    "现在(第三人称单数)": "packt ein",
-    "过去(第三人称单数)": "packte ein",
+    "现在": "packt ein",
+    "过去": "packte ein",
     "完成": "hat eingepackt",
-    "意思": "pack up"
+    "意思": "pack up",
+    "例句": "Ich habe auch ein paar deiner Klamotten eingepackt.",
+    "翻译": ""
   },
   {
     "原型": "tragen",
-    "现在(第三人称单数)": "trägt",
-    "过去(第三人称单数)": "trug",
+    "现在": "trägt",
+    "过去": "trug",
     "完成": "hat getragen",
-    "意思": "wear"
+    "意思": "wear",
+    "例句": "Ich hörte, er trug keine Kontaktlinsen.",
+    "翻译": ""
   },
   {
     "原型": "mischen",
-    "现在(第三人称单数)": "mischt",
-    "过去(第三人称单数)": "mischte",
+    "现在": "mischt",
+    "过去": "mischte",
     "完成": "hat gemischt",
-    "意思": "mix"
+    "意思": "mix",
+    "例句": "Er mischt sich unter die Hipster.",
+    "翻译": ""
   },
   {
     "原型": "probieren an",
-    "现在(第三人称单数)": "probiert an",
-    "过去(第三人称单数)": "probierte an",
+    "现在": "probiert an",
+    "过去": "probierte an",
     "完成": "hat anprobiert",
-    "意思": "try sth on"
+    "意思": "try sth on",
+    "例句": "- Du hast ihn gar nicht anprobiert.",
+    "翻译": ""
   },
   {
     "原型": "gefallen",
-    "现在(第三人称单数)": "gefällt",
-    "过去(第三人称单数)": "gefiel",
+    "现在": "gefällt",
+    "过去": "gefiel",
     "完成": "hat gefallen",
-    "意思": "appeal sb"
+    "意思": "appeal sb",
+    "例句": "Gefallen sie dir nicht?",
+    "翻译": ""
   },
   {
     "原型": "passen",
-    "现在(第三人称单数)": "passt",
-    "过去(第三人称单数)": "passte",
+    "现在": "passt",
+    "过去": "passte",
     "完成": "hat gepasst",
-    "意思": "fit sb"
+    "意思": "fit sb",
+    "例句": "Meinst du, das passt zu uns?",
+    "翻译": ""
   },
   {
     "原型": "erreichen",
-    "现在(第三人称单数)": "erreicht",
-    "过去(第三人称单数)": "erreichte",
+    "现在": "erreicht",
+    "过去": "erreichte",
     "完成": "hat erreicht",
-    "意思": "reach, contact"
+    "意思": "reach, contact",
+    "例句": "Er konnte Sie nicht erreichen, also hat er mich geschickt.",
+    "翻译": ""
   },
   {
     "原型": "streiten",
-    "现在(第三人称单数)": "streitet",
-    "过去(第三人称单数)": "stritt",
+    "现在": "streitet",
+    "过去": "stritt",
     "完成": "hat gestritten",
-    "意思": "argue"
+    "意思": "argue",
+    "例句": "Ich habe keine Zeit, mit dir zu streiten.",
+    "翻译": ""
   },
   {
     "原型": "verreisen",
-    "现在(第三人称单数)": "verreist",
-    "过去(第三人称单数)": "verreiste",
+    "现在": "verreist",
+    "过去": "verreiste",
     "完成": "ist verreist",
-    "意思": "travel"
+    "意思": "travel",
+    "例句": "Lass uns verreisen, wenn der Prozess vorbei ist.",
+    "翻译": ""
   },
   {
     "原型": "legen auf",
-    "现在(第三人称单数)": "legt auf",
-    "过去(第三人称单数)": "legte auf",
+    "现在": "legt auf",
+    "过去": "legte auf",
     "完成": "hat aufgelegt",
-    "意思": "hang up挂电话"
+    "意思": "hang up挂电话",
+    "例句": "- Du hast aufgelegt, bevor wir planen konnten.",
+    "翻译": ""
   },
   {
     "原型": "heiraten",
-    "现在(第三人称单数)": "heiratet",
-    "过去(第三人称单数)": "heiratete",
+    "现在": "heiratet",
+    "过去": "heiratete",
     "完成": "hat geheiratet",
-    "意思": "marry"
+    "意思": "marry",
+    "例句": "Weil ich dich heiratete, und nur das zählt.",
+    "翻译": ""
   },
   {
     "原型": "füttern",
-    "现在(第三人称单数)": "füttert",
-    "过去(第三人称单数)": "fütterte",
+    "现在": "füttert",
+    "过去": "fütterte",
     "完成": "hat gefüttert",
-    "意思": "feed"
+    "意思": "feed",
+    "例句": "Shaun ist kein Hamster, mit dem man spielen kann, und bei dem es dann egal ist, wenn man ihn mal nicht füttert.",
+    "翻译": ""
   },
   {
     "原型": "rauchen",
-    "现在(第三人称单数)": "raucht",
-    "过去(第三人称单数)": "rauchte",
+    "现在": "raucht",
+    "过去": "rauchte",
     "完成": "hat geraucht",
-    "意思": "smoke"
+    "意思": "smoke",
+    "例句": "Wir rollen uns was und rauchen zu Hause, inschallah.",
+    "翻译": ""
   },
   {
     "原型": "klettern",
-    "现在(第三人称单数)": "klettert",
-    "过去(第三人称单数)": "kletterte",
+    "现在": "klettert",
+    "过去": "kletterte",
     "完成": "ist geklettert",
-    "意思": "climb"
+    "意思": "climb",
+    "例句": "Klettern wir aus dem Fenster?",
+    "翻译": ""
   },
   {
     "原型": "verletzen",
-    "现在(第三人称单数)": "verletzt",
-    "过去(第三人称单数)": "verletzte",
+    "现在": "verletzt",
+    "过去": "verletzte",
     "完成": "hat verlezt",
-    "意思": "hurt, injure"
+    "意思": "hurt, injure",
+    "例句": "Ich wollte nicht, dass er verletzt wird.",
+    "翻译": ""
   },
   {
     "原型": "ruhen aus",
-    "现在(第三人称单数)": "ruht aus",
-    "过去(第三人称单数)": "ruhte aus",
+    "现在": "ruht aus",
+    "过去": "ruhte aus",
     "完成": "hat ausgeruht",
-    "意思": "relax"
+    "意思": "relax",
+    "例句": "Darum brauche ich konzentrierte, ausgeruhte Leute.",
+    "翻译": ""
   },
   {
     "原型": "bewegen",
-    "现在(第三人称单数)": "bewegt",
-    "过去(第三人称单数)": "bewegte",
+    "现在": "bewegt",
+    "过去": "bewegte",
     "完成": "hat bewegt",
-    "意思": "move, excercise"
+    "意思": "move, excercise",
+    "例句": "Immer im Kreis bewegen.",
+    "翻译": ""
   },
   {
     "原型": "empfehlen",
-    "现在(第三人称单数)": "empfiehlt",
-    "过去(第三人称单数)": "empfahl",
+    "现在": "empfiehlt",
+    "过去": "empfahl",
     "完成": "hat empfohlen",
-    "意思": "recommend"
+    "意思": "recommend",
+    "例句": "Aber du hast es mir empfohlen.",
+    "翻译": ""
   },
   {
     "原型": "fühlen",
-    "现在(第三人称单数)": "fühlt",
-    "过去(第三人称单数)": "fühlte",
+    "现在": "fühlt",
+    "过去": "fühlte",
     "完成": "hat gefühlt",
-    "意思": "feel"
+    "意思": "feel",
+    "例句": "Ist dir egal, wie er sich fühlt?",
+    "翻译": ""
   },
   {
     "原型": "springen",
-    "现在(第三人称单数)": "sprint",
-    "过去(第三人称单数)": "sprang",
+    "现在": "sprint",
+    "过去": "sprang",
     "完成": "ist gesprungen",
-    "意思": "jump"
+    "意思": "jump",
+    "例句": "Aber er sprang ins Feuer, um dich vor Taegyeong zu retten.",
+    "翻译": ""
   },
   {
     "原型": "tun",
-    "现在(第三人称单数)": "tut",
-    "过去(第三人称单数)": "tat",
+    "现在": "tut",
+    "过去": "tat",
     "完成": "hat getan",
-    "意思": "do something"
+    "意思": "do something",
+    "例句": "Warum hast du das getan?",
+    "翻译": ""
   },
   {
     "原型": "nehmen ab",
-    "现在(第三人称单数)": "nimmt ab",
-    "过去(第三人称单数)": "nahm ab",
+    "现在": "nimmt ab",
+    "过去": "nahm ab",
     "完成": "hat abgenommen",
-    "意思": "lose weight"
+    "意思": "lose weight",
+    "例句": "Sie bekam Gläpol und Sauerstoff, Blut wurde schon abgenommen.",
+    "翻译": ""
   },
   {
     "原型": "nehmen zu",
-    "现在(第三人称单数)": "nimmt zu",
-    "过去(第三人称单数)": "nahm zu",
+    "现在": "nimmt zu",
+    "过去": "nahm zu",
     "完成": "hat zugenommen",
-    "意思": "gain weight"
+    "意思": "gain weight",
+    "例句": "Sie hat so viel zugenommen.",
+    "翻译": ""
+  },
+  {
+    "原型": "kühlen",
+    "现在": "kühlt",
+    "过去": "kühlte",
+    "完成": "hat gekühlt",
+    "意思": "cool something",
+    "例句": "Es kühlt so schnell ab.",
+    "翻译": ""
+  },
+  {
+    "原型": "stürzen",
+    "现在": "stürzt",
+    "过去": "stürzte",
+    "完成": "ist gestürzt",
+    "意思": "fall down, fall off",
+    "例句": "Er stürzt uns ins Verderben.",
+    "翻译": ""
+  },
+  {
+    "原型": "tun weh",
+    "现在": "tut weh",
+    "过去": "tat weh",
+    "完成": "hat wehgetan",
+    "意思": "hurt",
+    "例句": "Es hat dir doch nicht wehgetan, oder?",
+    "翻译": ""
   }
 ]
