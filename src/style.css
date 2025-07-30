@@ -154,7 +154,7 @@ html, body {
 .vocab-card {
   width: 100%;
   max-width: 20rem;
-  min-height: 11rem;
+  min-height: 18rem;
   padding: 1rem;
   border: 1px solid var(--card-border);
   border-radius: 1rem;
@@ -165,6 +165,7 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  /* justify-content: flex-start; */
   align-items: center;
   color: var(--fg);
 }
@@ -174,9 +175,12 @@ html, body {
   text-align: center;
   color: var(--fg);
 }
+.vocab-card-title:empty {
+  display:none;
+}
 .article {
   display: inline-block;
-  padding-bottom: 0.25rem;
+  padding-bottom: 0.1rem;
   font-weight: bold;
   border-bottom: 2px solid var(--gray);
 }
@@ -197,14 +201,53 @@ html, body {
   color: var(--fg);
 }
 .vocab-card-plural {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   color: var(--fg);
   text-align: center;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0rem;
 }
 .vocab-card-meaning {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: var(--fg);
   text-align: center;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0rem;
+}
+.vocab-card-sentence {
+  font-size: 0.8rem;
+  color: var(--fg);
+  text-align: left;
+  margin-bottom: 0rem;
+}
+
+
+
+
+.gender-blocks {
+  width: 100%;
+  margin-top: 0.1em;
+}
+.person-block {
+  margin-bottom: 1em;
+  text-align: left; /* 左对齐更自然 */
+}
+
+.person-block > div {
+  margin-bottom: 0.2em;
+}
+
+.person-block .article,
+.person-block .noun {
+  font-weight: bold;
+  font-size: 1.05rem;
+}
+
+.person-block .article {
+  border-bottom: 2px solid var(--gray);
+  padding-right: 0.25em;
+}
+.person-block.male .article {
+  border-bottom-color: var(--primary);
+}
+.person-block.female .article {
+  border-bottom-color: var(--secondary);
 }

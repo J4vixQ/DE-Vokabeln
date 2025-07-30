@@ -836,7 +836,7 @@
     "单数": "die Familie",
     "复数": "die Familien",
     "意思": "family",
-    "例句": "",
+    "例句": "-Er gehört zur Familie, Falko.",
     "翻译": ""
   },
   {
@@ -2467,7 +2467,7 @@
     "单数": "die Toilette",
     "复数": "die Toiletten",
     "意思": "toilet",
-    "例句": "",
+    "例句": "Sie war vielleicht mal eine Minute auf der Toilette, aber sonst.",
     "翻译": ""
   },
   {
@@ -3573,7 +3573,7 @@
     "单数": "der Tunschuh",
     "复数": "die Tunschuhe",
     "意思": "sneaker",
-    "例句": "",
+    "例句": "Ich habe gestern ein neues Paar Turnschuhe gekauft.",
     "翻译": ""
   },
   {
@@ -3804,7 +3804,7 @@
     "单数": "die Hand",
     "复数": "die Hände",
     "意思": "hand",
-    "例句": "",
+    "例句": "Ich habe mir die Hand verstaucht.",
     "翻译": ""
   },
   {
@@ -4190,6 +4190,111 @@
     "复数": "",
     "意思": "caution",
     "例句": "Vorsicht, der ist angenäht, 100 % Rosshaar, gehört mir auch.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Daumen",
+    "复数": "die Daumen",
+    "意思": "thumb",
+    "例句": "-Na, ich werde auf jeden Fall kommen und euch kräftig die Daumen drücken.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Fieber",
+    "复数": "die Fieber",
+    "意思": "feaver",
+    "例句": "Jack hat Fieber und war heute nicht in der Schule.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Husten",
+    "复数": "die Husten",
+    "意思": "cough",
+    "例句": "Ist wohl eher ein Husten.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Immunsystem",
+    "复数": "die Immunsysteme",
+    "意思": "immune system",
+    "例句": "Sein ganzes Immunsystem, genauer gesagt.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Laune",
+    "复数": "die Launen",
+    "意思": "mood",
+    "例句": "Hey, schlechte Laune?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Erkältung",
+    "复数": "die Erkältungen",
+    "意思": "cold感冒",
+    "例句": "Die Erkältung ist fast weg.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Pflaster",
+    "复数": "die Pflaster",
+    "意思": "sticking plaster创可贴",
+    "例句": "Wissen Sie, manchmal ist so was wie ein Pflaster.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Po",
+    "复数": "die Pos",
+    "意思": "butt",
+    "例句": "Ich wollte schon immer rote Bohnen, Muffulettas und Po' Boys probieren.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Schere",
+    "复数": "die Scheren",
+    "意思": "scissors",
+    "例句": "Die scheren sich einen Dreck, ob du von der EU oder UN bist.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Schmerztablette",
+    "复数": "die Schmerztabletten",
+    "意思": "painkiller",
+    "例句": "Oh nein, es ist nur eine Schmerztablette.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Schnupfen",
+    "复数": "die Schnupfen",
+    "意思": "runny nose流鼻涕",
+    "例句": "Aber Speed schnupfen ist doch keine Lösung!",
+    "翻译": ""
+  },
+  {
+    "单数": "die Stirn",
+    "复数": "die Stirnen",
+    "意思": "forehead",
+    "例句": "Das Horusauge ist tief in eure Stirn gebrannt.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Verband",
+    "复数": "die Verbände",
+    "意思": "bandage",
+    "例句": "Ene, mene, Wüstensand, um die Hand ist ein Verband.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Verletzung",
+    "复数": "die Verletzungen",
+    "意思": "injury",
+    "例句": "Verbrechen gegen die Menschlichkeit und Verletzung des Kriegsrechts.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Wunde",
+    "复数": "die Wunden",
+    "意思": "wound",
+    "例句": "Hatte sie Wunden, Blutergüsse,",
     "翻译": ""
   }
 ]

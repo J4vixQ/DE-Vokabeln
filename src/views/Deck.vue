@@ -50,31 +50,37 @@ const currentCards = ref([]);
 const rand = max => Math.floor(Math.random() * max);
 
 // 5. 随机抽取一条/多条卡片
+// const showRandomCard = () => {
+//   if (!allData.value.length) return;
+//   const item = allData.value[rand(allData.value.length)];
+//   currentCards.value = [];
+
+//   if (deckId === 'nomen_people') {
+//     const hasMale = item["单数男"] || item["复数男"] || item["意思男"];
+//     const hasFemale = item["单数女"] || item["复数女"] || item["意思女"];
+//     if (hasMale) {
+//       currentCards.value.push({
+//         单数: item["单数男"],
+//         复数: item["复数男"],
+//         意思: item["意思男"]
+//       });
+//     }
+//     if (hasFemale) {
+//       currentCards.value.push({
+//         单数: item["单数女"],
+//         复数: item["复数女"],
+//         意思: item["意思女"]
+//       });
+//     }
+//   } else {
+//     currentCards.value.push(item);
+//   }
+// };
 const showRandomCard = () => {
   if (!allData.value.length) return;
   const item = allData.value[rand(allData.value.length)];
   currentCards.value = [];
-
-  if (deckId === 'nomen_people') {
-    const hasMale = item["单数男"] || item["复数男"] || item["意思男"];
-    const hasFemale = item["单数女"] || item["复数女"] || item["意思女"];
-    if (hasMale) {
-      currentCards.value.push({
-        单数: item["单数男"],
-        复数: item["复数男"],
-        意思: item["意思男"]
-      });
-    }
-    if (hasFemale) {
-      currentCards.value.push({
-        单数: item["单数女"],
-        复数: item["复数女"],
-        意思: item["意思女"]
-      });
-    }
-  } else {
-    currentCards.value.push(item);
-  }
+  currentCards.value.push(item); // 不再拆分人物名词
 };
 
 // 6. 挂载时加载数据
