@@ -29,23 +29,29 @@
 - Responsive layout for mobile and desktop
 - Colored underline for grammatical gender
 - example sentences from OpenSubtitles v.2024
-- translation by deepseek (**in progress**)
+- translation with LLM (**in progress**)
 
 
 
-## npm
+### Initialize
 
 ```bash
 npm install
+```
+
+### Test
+
+```bash
 npm run dev
+```
+
+### Build and Deploy
+```bash
 npm run build
-npm run preview
 npm run deploy
 ```
 
-
-
-## ollama
+### ollama
 
 ```bash
 ollama

@@ -2,6 +2,7 @@ import json
 import os
 import re
 import random
+import tempfile
 
 def strip_article(word):
     """去掉德语冠词"""
@@ -161,10 +162,17 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
 
     print(f"剩余未匹配到的单词数: {len(need_fill)}")
 
-    out_json_path = json_path.replace(".json", "_with_examples.json")
-    with open(out_json_path, "w", encoding="utf-8") as fout:
-        json.dump(word_list, fout, ensure_ascii=False, indent=2)
-    print(f"已完成，保存到 {out_json_path}")
+    # out_json_path = json_path.replace(".json", "_with_examples.json")
+    # with open(out_json_path, "w", encoding="utf-8") as fout:
+    #     json.dump(word_list, fout, ensure_ascii=False, indent=2)
+    # print(f"已完成，保存到 {out_json_path}")
+    dir_name = os.path.dirname(json_path) or "."
+    with tempfile.NamedTemporaryFile("w", encoding="utf-8", delete=False, dir=dir_name, suffix=".tmp") as tmpf:
+        json.dump(word_list, tmpf, ensure_ascii=False, indent=2)
+        tmp_path = tmpf.name
+
+    os.replace(tmp_path, json_path)
+    print(f"已完成，覆盖保存到 {json_path}")
 
 # 配置与批量调用
 if __name__ == "__main__":
@@ -174,7 +182,7 @@ if __name__ == "__main__":
         {"json": "public/data/nomen_obj.json", "key_func": noun_key, "pattern_func": build_noun_pattern},
         {"json": "public/data/nomen_people.json", "key_func": person_key, "pattern_func": build_person_pattern},
         {"json": "public/data/verben_base.json", "key_func": verb_key, "pattern_func": build_verb_patterns},
-        # 可以随时加新类型
+        # verben phrasen 需要手动添加
     ]
     opensub_folder = "resource/OpenSubtitles"
     for cfg in configs:

@@ -628,5 +628,25 @@
     "意思女": "",
     "例句": "Amüsiert euch gut, ihr jungen Leute!",
     "翻译": ""
+  },
+  {
+    "单数男": "der Zahnarzt",
+    "复数男": "die Zahnärzte",
+    "意思男": "dentist",
+    "单数女": "die Zahnärztin",
+    "复数女": "die Zahnärztinnen",
+    "意思女": "dentist",
+    "例句": "Ihn kann man nicht mal am Gebiss identifizieren, da er noch nie beim Zahnarzt war.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Patient",
+    "复数男": "die Patienten",
+    "意思男": "patient",
+    "单数女": "die Patientin",
+    "复数女": "die Patientinnen",
+    "意思女": "patient",
+    "例句": "Aber ich machte mein Praktikum und ich ich konnte keine Beziehung zu den Patienten herstellen.",
+    "翻译": ""
   }
 ]

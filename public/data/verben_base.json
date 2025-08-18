@@ -1717,5 +1717,77 @@
     "意思": "hurt",
     "例句": "Es hat dir doch nicht wehgetan, oder?",
     "翻译": ""
+  },
+  {
+    "原型": "bluten",
+    "现在": "blutet",
+    "过去": "blutete",
+    "完成": "hat geblutet",
+    "意思": "bleed",
+    "例句": "Er blutet.",
+    "翻译": ""
+  },
+  {
+    "原型": "schauen an",
+    "现在": "schaut an",
+    "过去": "schaute an",
+    "完成": "hat angeschaut",
+    "意思": "look at sth",
+    "例句": "Den hast du auch angeschaut.",
+    "翻译": ""
+  },
+  {
+    "原型": "freuen",
+    "现在": "freut",
+    "过去": "freute",
+    "完成": "hat gefreut",
+    "意思": "look forward to sth/sb",
+    "例句": "Sie wissen wahrscheinlich gerade nicht, ob Sie sich freuen sollen, aber das Wichtige ist, dass er jetzt Beamter ist.",
+    "翻译": ""
+  },
+  {
+    "原型": "röntgen",
+    "现在": "röntgt",
+    "过去": "röntgte",
+    "完成": "hat geröntgt",
+    "意思": "X-ray sth",
+    "例句": "Ich habe auf Sie gewartet, aber dann hat mich Dr. Krieger zum Röntgen gebracht.",
+    "翻译": ""
+  },
+  {
+    "原型": "kommen vorbei",
+    "现在": "kommt vorbei",
+    "过去": "kam vorbei",
+    "完成": "ist vorbeigekommen",
+    "意思": "come by",
+    "例句": "Auch ihre Pfoten verraten durch Duftdrüsen zwischen ihren Zehen, dass sie vorbeigekommen sind.",
+    "翻译": ""
+  },
+  {
+    "原型": "zeigen",
+    "现在": "zeigt",
+    "过去": "zeigte",
+    "完成": "hat gezeigt",
+    "意思": "show",
+    "例句": "Zeigen Sie Ihren Ausweis.",
+    "翻译": ""
+  },
+  {
+    "原型": "bremsen",
+    "现在": "bremst",
+    "过去": "bremste",
+    "完成": "hat gebremst",
+    "意思": "brake",
+    "例句": "Warum bremst du ihn?",
+    "翻译": ""
+  },
+  {
+    "原型": "untersuchen",
+    "现在": "untersucht",
+    "过去": "untersuchte",
+    "完成": "hat untersucht",
+    "意思": "check, examine",
+    "例句": "Das menschliche Auge zu untersuchen erfordert eine lange Ausbildung und Intelligenz.",
+    "翻译": ""
   }
 ]
