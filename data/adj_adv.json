@@ -1,0 +1,946 @@
+[
+  {
+    "原型": "bekannt",
+    "比较级": "bekannter",
+    "最高级": "bekanntesten",
+    "意思": "famous",
+    "例句": "Bekannte?",
+    "翻译": ""
+  },
+  {
+    "原型": "heiß",
+    "比较级": "heißer",
+    "最高级": "heißesten",
+    "意思": "hot",
+    "例句": "Das neidet einem die Konkurrenz und wirbelt Schmutz auf und unterstellt uns gern anonym einen heißen Draht zur Behörde.",
+    "翻译": ""
+  },
+  {
+    "原型": "kalt",
+    "比较级": "kälter",
+    "最高级": "kältesten",
+    "意思": "cold",
+    "例句": "Mir ist kalt - hätte lange Unterhosen anziehen sollen.",
+    "翻译": ""
+  },
+  {
+    "原型": "nass",
+    "比较级": "nasser",
+    "最高级": "nassesten",
+    "意思": "wet",
+    "例句": "He, ich werd nass!",
+    "翻译": ""
+  },
+  {
+    "原型": "regnerisch",
+    "比较级": "regnerischer",
+    "最高级": "regnerischsten",
+    "意思": "rainy",
+    "例句": "Es war eine furchtbar regnerische Nacht... und die Straßen waren gemein rutschig.",
+    "翻译": ""
+  },
+  {
+    "原型": "schlimm",
+    "比较级": "schlimmer",
+    "最高级": "schlimmsten",
+    "意思": "terrible",
+    "例句": "Das sieht schlimm aus.",
+    "翻译": ""
+  },
+  {
+    "原型": "schön",
+    "比较级": "schöner",
+    "最高级": "schönsten",
+    "意思": "beautiful",
+    "例句": "An etwas Schönes, irgendwas.",
+    "翻译": ""
+  },
+  {
+    "原型": "schwer",
+    "比较级": "schwerer",
+    "最高级": "schwersten",
+    "意思": "heavy",
+    "例句": "* Schweres Atmen *",
+    "翻译": ""
+  },
+  {
+    "原型": "sonnig",
+    "比较级": "sonniger",
+    "最高级": "sonnigsten",
+    "意思": "sunny",
+    "例句": "Du hast ein sonniges Gemüt.",
+    "翻译": ""
+  },
+  {
+    "原型": "spanned",
+    "比较级": "spanneder",
+    "最高级": "spannedsten",
+    "意思": "exciting",
+    "例句": "Das war ein spanneder Weg, Jackson.",
+    "翻译": ""
+  },
+  {
+    "原型": "trocken",
+    "比较级": "trockener",
+    "最高级": "trockensten",
+    "意思": "dry",
+    "例句": "Wenn Sie ein trockenes Taschentuch für mich hätten?",
+    "翻译": ""
+  },
+  {
+    "原型": "warm",
+    "比较级": "wärmer",
+    "最高级": "wärmsten",
+    "意思": "warm",
+    "例句": "Gibt's kein warmes Essen?",
+    "翻译": ""
+  },
+  {
+    "原型": "kühl",
+    "比较级": "kühler",
+    "最高级": "kühlsten",
+    "意思": "cool",
+    "例句": "Die sitzen den ganzen Tag im schönen kühlen Büro, und die können nicht mal ein Ticker richtig ausfüllen.",
+    "翻译": ""
+  },
+  {
+    "原型": "windig",
+    "比较级": "windiger",
+    "最高级": "windigsten",
+    "意思": "windy",
+    "例句": "An dem Tag war es sehr windig.",
+    "翻译": ""
+  },
+  {
+    "原型": "entspannt",
+    "比较级": "entspannter",
+    "最高级": "entspanntesten",
+    "意思": "relaxed",
+    "例句": "* Entspannte, harmonische Musik *",
+    "翻译": ""
+  },
+  {
+    "原型": "bewölkt",
+    "比较级": "bewölkter",
+    "最高级": "bewölktesten",
+    "意思": "cloudy",
+    "例句": "New York ist bewölkt und es könnte einige Regenschauer geben, deshalb könnten wir während des Fluges ein paar Turbulenzen haben.",
+    "翻译": ""
+  },
+  {
+    "原型": "gemein",
+    "比较级": "gemeiner",
+    "最高级": "gemeinsten",
+    "意思": "cruel, nasty",
+    "例句": "Die Leute sagen gemeine Sachen, oder?",
+    "翻译": ""
+  },
+  {
+    "原型": "heiter",
+    "比较级": "heiterer",
+    "最高级": "heitersten",
+    "意思": "sunny",
+    "例句": "Gerade noch so heiter.",
+    "翻译": ""
+  },
+  {
+    "原型": "kompliziert",
+    "比较级": "komplizierter",
+    "最高级": "kompliziertesten",
+    "意思": "complicated",
+    "例句": "Wozu braucht man was Kompliziertes wie 'ne Ehefrau, wenn man 'nen Freund hat wie dich?",
+    "翻译": ""
+  },
+  {
+    "原型": "neblig",
+    "比较级": "nebliger",
+    "最高级": "nebligsten",
+    "意思": "foggy",
+    "例句": "Und wenn es an Heiligabend wieder neblig ist?",
+    "翻译": ""
+  },
+  {
+    "原型": "dick",
+    "比较级": "dicker",
+    "最高级": "dicksten",
+    "意思": "thick, heavy",
+    "例句": "Egal, was die Schwester mit dem dicken Hintern sagt.",
+    "翻译": ""
+  },
+  {
+    "原型": "dünn",
+    "比较级": "dünner",
+    "最高级": "dünnsten",
+    "意思": "thin",
+    "例句": "Man hatte sie zu dünn geschnitten.",
+    "翻译": ""
+  },
+  {
+    "原型": "hässlich",
+    "比较级": "hässlicher",
+    "最高级": "hässlichsten",
+    "意思": "ugly",
+    "例句": "Wenn er wenigstens noch hässlich oder selbstgestrickt wäre,",
+    "翻译": ""
+  },
+  {
+    "原型": "schick",
+    "比较级": "schicker",
+    "最高级": "schicksten",
+    "意思": "fancy",
+    "例句": "Schicken Sie es einfach hoch.",
+    "翻译": ""
+  },
+  {
+    "原型": "weit",
+    "比较级": "weiter",
+    "最高级": "weisten",
+    "意思": "wide",
+    "例句": "Einem Mann, der alles für eine weitere Siegeskerbe in seinem Gewehr tun würde, um jeden Preis, bevor er in Vergessenheit gerät.",
+    "翻译": ""
+  },
+  {
+    "原型": "eng",
+    "比较级": "enger",
+    "最高级": "engesten",
+    "意思": "tight",
+    "例句": "Außerdem ist es eng hier.",
+    "翻译": ""
+  },
+  {
+    "原型": "alt",
+    "比较级": "älter",
+    "最高级": "ältesten",
+    "意思": "old",
+    "例句": "Mensch, Helmut, alter Knabe.",
+    "翻译": ""
+  },
+  {
+    "原型": "altmodisch",
+    "比较级": "altmodischer",
+    "最高级": "altmodischsten",
+    "意思": "old-fashined",
+    "例句": "Ach, wie altmodisch!",
+    "翻译": ""
+  },
+  {
+    "原型": "bunt",
+    "比较级": "bunter",
+    "最高级": "buntesten",
+    "意思": "colorful",
+    "例句": "Ob die bunte Menge lobend oder tadelnd dich umdränge.",
+    "翻译": ""
+  },
+  {
+    "原型": "elegant",
+    "比较级": "eleganter",
+    "最高级": "elegantesten",
+    "意思": "elegant",
+    "例句": "Du meinst, die Nigerianer haben sich mit Hilfe von Dekker elegant 3 Regimekritikern entledigt, ja.",
+    "翻译": ""
+  },
+  {
+    "原型": "formell",
+    "比较级": "formeller",
+    "最高级": "formellsten",
+    "意思": "formal",
+    "例句": "Ein Brief ist zu formell.",
+    "翻译": ""
+  },
+  {
+    "原型": "grell",
+    "比较级": "greller",
+    "最高级": "grellsten",
+    "意思": "bright, glaring",
+    "例句": "Schallt wider-widerwärtig panisch, Mitunter grell und scharf satanisch,",
+    "翻译": ""
+  },
+  {
+    "原型": "hoch",
+    "比较级": "höher",
+    "最高级": "höchsten",
+    "意思": "high, tall",
+    "例句": "Hoch damit!",
+    "翻译": ""
+  },
+  {
+    "原型": "hübsch",
+    "比较级": "hübscher",
+    "最高级": "hübschesten",
+    "意思": "beautiful",
+    "例句": "Du bist noch hübscher geworden.",
+    "翻译": ""
+  },
+  {
+    "原型": "jung",
+    "比较级": "jünger",
+    "最高级": "jüngsten",
+    "意思": "young",
+    "例句": "- Warum schlugst du den Jungen?",
+    "翻译": ""
+  },
+  {
+    "原型": "schlicht",
+    "比较级": "schlichter",
+    "最高级": "schlichtesten",
+    "意思": "simple, modest, plain",
+    "例句": "Männer sind schlicht und verstehen so was als Signal.",
+    "翻译": ""
+  },
+  {
+    "原型": "konservativ",
+    "比较级": "konservativer",
+    "最高级": "konservativsten",
+    "意思": "conservative",
+    "例句": "Obwohl er ein Liberaler und ich ein Erz-Konservativer bin.",
+    "翻译": ""
+  },
+  {
+    "原型": "schmutzig",
+    "比较级": "schmutziger",
+    "最高级": "schmutzigsten",
+    "意思": "dirty",
+    "例句": "Schön, Für das schmutzige Geschirr, das tagelang stehen geblieben ist, versteht ihr?",
+    "翻译": ""
+  },
+  {
+    "原型": "typisch",
+    "比较级": "typischer",
+    "最高级": "typischsten",
+    "意思": "tyical",
+    "例句": "Das wäre typisch für Sörmann, wenn er mich zu Weihnachten...",
+    "翻译": ""
+  },
+  {
+    "原型": "abhängig",
+    "比较级": "abhängiger",
+    "最高级": "abhängigsten",
+    "意思": "dependent",
+    "例句": "Sie waren vom Geld Ihres Ex-Mannes abhängig.",
+    "翻译": ""
+  },
+  {
+    "原型": "unabhängig",
+    "比较级": "unabhängiger",
+    "最高级": "unabhängigsten",
+    "意思": "independent",
+    "例句": "Wenn man unabhängig war dann tut man alles, dass man es wieder wird.",
+    "翻译": ""
+  },
+  {
+    "原型": "denkbar",
+    "比较级": "denkbarer",
+    "最高级": "denkbarsten",
+    "意思": "thinkable",
+    "例句": "Ja, der Moment war denkbar ungünstig.",
+    "翻译": ""
+  },
+  {
+    "原型": "undenkbar",
+    "比较级": "undenkbarer",
+    "最高级": "undenkbarsten",
+    "意思": "unthinkable",
+    "例句": "Undenkbar!",
+    "翻译": ""
+  },
+  {
+    "原型": "glaublich",
+    "比较级": "glaublicher",
+    "最高级": "glaubllichsten",
+    "意思": "beliebable",
+    "例句": "Un-fucking-glaublich!",
+    "翻译": ""
+  },
+  {
+    "原型": "unglaublich",
+    "比较级": "unglaublicher",
+    "最高级": "unglaublichsten",
+    "意思": "unbelievable",
+    "例句": "Unglaublich, dass es so etwas gibt.",
+    "翻译": ""
+  },
+  {
+    "原型": "bereit",
+    "比较级": "bereiter",
+    "最高级": "bereitesten",
+    "意思": "wide, broad",
+    "例句": "Er ist bereit.",
+    "翻译": ""
+  },
+  {
+    "原型": "speziell",
+    "比较级": "spezieller",
+    "最高级": "speziellsten",
+    "意思": "special",
+    "例句": "Mein Geheimdienst hat mir zugetragen, dass für Sie heute ein ganz spezieller Tag ist.",
+    "翻译": ""
+  },
+  {
+    "原型": "stark",
+    "比较级": "stärker",
+    "最高级": "stärksten",
+    "意思": "heavy, strong",
+    "例句": "Bei einer starken Truppe?",
+    "翻译": ""
+  },
+  {
+    "原型": "fett",
+    "比较级": "fetter",
+    "最高级": "fettesten",
+    "意思": "fat, greasy",
+    "例句": "Dann haben Sie sich mit Klinge die fette Beute geteilt.",
+    "翻译": ""
+  },
+  {
+    "原型": "scharf",
+    "比较级": "schärfer",
+    "最高级": "schärfsten",
+    "意思": "spicy",
+    "例句": "Ich habe die Benutzung scharfer Munition angeordnet.",
+    "翻译": ""
+  },
+  {
+    "原型": "gesund",
+    "比较级": "gesunder",
+    "最高级": "gesundesten",
+    "意思": "healthy",
+    "例句": "Aber ich bin völlig gesund.",
+    "翻译": ""
+  },
+  {
+    "原型": "ungesund",
+    "比较级": "ungesunder",
+    "最高级": "ungesundesten",
+    "意思": "unhealthy",
+    "例句": "So was ist ungesund!",
+    "翻译": ""
+  },
+  {
+    "原型": "geschwollen",
+    "比较级": "geschwollener",
+    "最高级": "geschwollensten",
+    "意思": "swollen",
+    "例句": "Große Milz, geschwollene Lymphknoten:",
+    "翻译": ""
+  },
+  {
+    "原型": "doof",
+    "比较级": "doofer",
+    "最高级": "doofsten",
+    "意思": "silly, stupid",
+    "例句": "Die mit der doofen Dauerwelle.",
+    "翻译": ""
+  },
+  {
+    "原型": "leise",
+    "比较级": "leiser",
+    "最高级": "leisesten",
+    "意思": "quiet",
+    "例句": "♪ Ganz leise ♪",
+    "翻译": ""
+  },
+  {
+    "原型": "verletzt",
+    "比较级": "verletzter",
+    "最高级": "verletztesten",
+    "意思": "infured",
+    "例句": "Ich muss diese Situation schnell klären, bevor noch jemand verletzt oder getötet wird.",
+    "翻译": ""
+  },
+  {
+    "原型": "nervös",
+    "比较级": "nervöser",
+    "最高级": "nervösesten",
+    "意思": "nervous",
+    "例句": "- Sie ist ein bisschen nervös.",
+    "翻译": ""
+  },
+  {
+    "原型": "normal",
+    "比较级": "normaler",
+    "最高级": "normalsten",
+    "意思": "normal",
+    "例句": "- Das ist nicht normal.",
+    "翻译": ""
+  },
+  {
+    "原型": "sympathisch",
+    "比较级": "sympathischer",
+    "最高级": "sympathischsten",
+    "意思": "friendly,nice,kind,likeable, not sympathic",
+    "例句": "Die Chefin ist sehr sympathisch.",
+    "翻译": ""
+  },
+  {
+    "原型": "traurig",
+    "比较级": "trauriger",
+    "最高级": "traurigsten",
+    "意思": "sad",
+    "例句": "Bist du traurig?",
+    "翻译": ""
+  },
+  {
+    "原型": "hilfsbereit",
+    "比较级": "hilfsbereiter",
+    "最高级": "hilfsbereitesten",
+    "意思": "helpful; cooperative",
+    "例句": "Immer soll man hilfsbereit sein!",
+    "翻译": ""
+  },
+  {
+    "原型": "locker",
+    "比较级": "lockerer",
+    "最高级": "lockersten",
+    "意思": "loose; relaxed; easy",
+    "例句": "Locker, Mädels.",
+    "翻译": ""
+  },
+  {
+    "原型": "sicher",
+    "比较级": "sicherer",
+    "最高级": "sichersten",
+    "意思": "safe",
+    "例句": "Also wurden wir als Gefangene weggeschlossen, und eins ist sicher:",
+    "翻译": ""
+  },
+  {
+    "原型": "spontan",
+    "比较级": "spontaner",
+    "最高级": "spontansten",
+    "意思": "spontaneous 自发，随和，即兴",
+    "例句": "Dass Sie spontan eingesprungen sind, find ich toll.",
+    "翻译": ""
+  },
+  {
+    "原型": "parallel",
+    "比较级": "paralleler",
+    "最高级": "parallelsten",
+    "意思": "parallel 并行（同时）",
+    "例句": "Auf dem Gipfelgrad ab Staffel laufen die Bahnen dann friedlich parallel.",
+    "翻译": ""
+  },
+  {
+    "原型": "konkurrent",
+    "比较级": "konkurrenter",
+    "最高级": "konkurrentesten",
+    "意思": "concurrent 并发（交替）",
+    "例句": "Ich habe viele Konkurrenten.",
+    "翻译": ""
+  },
+  {
+    "原型": "unterschiedlich",
+    "比较级": "unterschiedlicher",
+    "最高级": "unterschiedlichsten",
+    "意思": "different",
+    "例句": "So unterschiedlich wie das Land sind auch seine Völker.",
+    "翻译": ""
+  },
+  {
+    "原型": "ungleich",
+    "比较级": "ungleicher",
+    "最高级": "ungleichsten",
+    "意思": "different, unequal",
+    "例句": "Der Mensch ist ungleich, ungleich sind die Stunden.",
+    "翻译": ""
+  },
+  {
+    "原型": "fleißig",
+    "比较级": "fleißiger",
+    "最高级": "fleißigsten",
+    "意思": "hardworking",
+    "例句": "Ich hab gehört, du trainierst fleißig fürs Tanzturnier!",
+    "翻译": ""
+  },
+  {
+    "原型": "hart",
+    "比较级": "härter",
+    "最高级": "härtesten",
+    "意思": "hard",
+    "例句": "Er erwartet eine harte Reaktion von uns, also warten wir.",
+    "翻译": ""
+  },
+  {
+    "原型": "richtig",
+    "比较级": "richtiger",
+    "最高级": "richtigsten",
+    "意思": "right, correct",
+    "例句": "Er soll die bestmögliche Pflege bekommen, und ich bin nicht sicher, ob dies der richtige Ort dafür ist.",
+    "翻译": ""
+  },
+  {
+    "原型": "kaputt",
+    "比较级": "kaputter",
+    "最高级": "kaputtesten",
+    "意思": "broken",
+    "例句": "In Ordnung, lieber das Radio, sonst mach ich den Sitz kaputt.",
+    "翻译": ""
+  },
+  {
+    "原型": "toll",
+    "比较级": "toller",
+    "最高级": "tollsten",
+    "意思": "wonderful",
+    "例句": "Aber wenn er in flagranti erwischt wird, erzählt er die tollsten Dinge.",
+    "翻译": ""
+  },
+  {
+    "原型": "männlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "masculine",
+    "例句": "Wir versammeln alle männlichen Personen am vorderen Eingang.",
+    "翻译": ""
+  },
+  {
+    "原型": "weiblich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "feminine",
+    "例句": "Ich mÃ¶chte die weiblichen Erstsemester nicht abschrecken.",
+    "翻译": ""
+  },
+  {
+    "原型": "kariert",
+    "比较级": "",
+    "最高级": "",
+    "意思": "checkboard pattern",
+    "例句": "Danke Frau Lehrerin, aber ich will kein kariertes Heft mehr sehen.",
+    "翻译": ""
+  },
+  {
+    "原型": "geblümt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "flowery, floral",
+    "例句": "Meine rosa, geblümten BH!",
+    "翻译": ""
+  },
+  {
+    "原型": "gepunktet",
+    "比较级": "",
+    "最高级": "",
+    "意思": "dotted; spotted",
+    "例句": "Die Jury hat gepunktet.",
+    "翻译": ""
+  },
+  {
+    "原型": "gestreift",
+    "比较级": "",
+    "最高级": "",
+    "意思": "striped, bar-like",
+    "例句": "Mama, hast du mein gestreiftes Hemd gesehen?",
+    "翻译": ""
+  },
+  {
+    "原型": "geschieden",
+    "比较级": "",
+    "最高级": "",
+    "意思": "divorced",
+    "例句": "Seine geschiedene Frau fand ihn.",
+    "翻译": ""
+  },
+  {
+    "原型": "ledig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "single",
+    "例句": "Ledige kriegen kein Frühstück ans Bett, nicht in diesem Haus.",
+    "翻译": ""
+  },
+  {
+    "原型": "tot",
+    "比较级": "",
+    "最高级": "",
+    "意思": "dead",
+    "例句": "- Das Kalb war am nächsten Tag tot.",
+    "翻译": ""
+  },
+  {
+    "原型": "verheiratet",
+    "比较级": "",
+    "最高级": "",
+    "意思": "married",
+    "例句": "Ist er verheiratet?",
+    "翻译": ""
+  },
+  {
+    "原型": "verwitwet",
+    "比较级": "",
+    "最高级": "",
+    "意思": "widowed",
+    "例句": "Er hat am Rande erwähnt, dass er verwitwet ist.",
+    "翻译": ""
+  },
+  {
+    "原型": "berufstätig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "employed",
+    "例句": "Meine Frau ist berufstätig.",
+    "翻译": ""
+  },
+  {
+    "原型": "ungefähr",
+    "比较级": "",
+    "最高级": "",
+    "意思": "approximate, rough",
+    "例句": "Ungefähr jetzt würde ich dir meine Rede vom \"inneren Soldaten\" halten.",
+    "翻译": ""
+  },
+  {
+    "原型": "perfekt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "perfect",
+    "例句": "Vom technischen Standard ist er perfekt.",
+    "翻译": ""
+  },
+  {
+    "原型": "besonders",
+    "比较级": "",
+    "最高级": "",
+    "意思": "especially",
+    "例句": "Aber ... die Zeit läuft, besonders für eine Frau.",
+    "翻译": ""
+  },
+  {
+    "原型": "dagegen",
+    "比较级": "",
+    "最高级": "",
+    "意思": "however, instead, on the other hand",
+    "例句": "Ich war dagegen, ihn einzuweihen.",
+    "翻译": ""
+  },
+  {
+    "原型": "bewusstlos",
+    "比较级": "",
+    "最高级": "",
+    "意思": "unconscious",
+    "例句": "Er ist bewusstlos.",
+    "翻译": ""
+  },
+  {
+    "原型": "plötzlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "suddenly",
+    "例句": "Dann musste er plötzlich weg.",
+    "翻译": ""
+  },
+  {
+    "原型": "schade",
+    "比较级": "",
+    "最高级": "",
+    "意思": "too bad",
+    "例句": "Schade.",
+    "翻译": ""
+  },
+  {
+    "原型": "sofort",
+    "比较级": "",
+    "最高级": "",
+    "意思": "immediately",
+    "例句": "Ich hielt es für umsichtig, sofort zu handeln...",
+    "翻译": ""
+  },
+  {
+    "原型": "gebrochen",
+    "比较级": "",
+    "最高级": "",
+    "意思": "broken",
+    "例句": "Und das letzte Tabu ist gebrochen:",
+    "翻译": ""
+  },
+  {
+    "原型": "erkältet",
+    "比较级": "",
+    "最高级": "",
+    "意思": "having a cold",
+    "例句": "Sind Sie erkältet, Chef?",
+    "翻译": ""
+  },
+  {
+    "原型": "genug",
+    "比较级": "",
+    "最高级": "",
+    "意思": "enough",
+    "例句": "Genug!",
+    "翻译": ""
+  },
+  {
+    "原型": "mindestens",
+    "比较级": "",
+    "最高级": "",
+    "意思": "at least, minimum",
+    "例句": "Mindestens 50 Riesen.",
+    "翻译": ""
+  },
+  {
+    "原型": "genau",
+    "比较级": "",
+    "最高级": "",
+    "意思": "good, right, exactly",
+    "例句": "Genau hier stehen die Wachen...",
+    "翻译": ""
+  },
+  {
+    "原型": "gleich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "same,equal,soon,near",
+    "例句": "Und wenn man beim Schach mit jemandem lang genug spielt, dann merkt man, dass dessen erste drei Züge fast immer gleich sind.",
+    "翻译": ""
+  },
+  {
+    "原型": "nachher",
+    "比较级": "",
+    "最高级": "",
+    "意思": "afterwards",
+    "例句": "Wir reden nachher.",
+    "翻译": ""
+  },
+  {
+    "原型": "täglich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "daily, jeden tag",
+    "例句": "Aber ich renne täglich zwei Meilen.",
+    "翻译": ""
+  },
+  {
+    "原型": "klasse",
+    "比较级": "",
+    "最高级": "",
+    "意思": "brilliant, great",
+    "例句": "Der Typ hat keine Klasse.",
+    "翻译": ""
+  },
+  {
+    "原型": "klar",
+    "比较级": "",
+    "最高级": "",
+    "意思": "sure, of course",
+    "例句": "Na klar, Sir!",
+    "翻译": ""
+  },
+  {
+    "原型": "anders",
+    "比较级": "",
+    "最高级": "",
+    "意思": "different (als)",
+    "例句": "- Ich bin anders.",
+    "翻译": ""
+  },
+  {
+    "原型": "eigentlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "actually",
+    "例句": "Sie brauchen wir eigentlich noch und es gibt auch kein Geld für die Zeit.",
+    "翻译": ""
+  },
+  {
+    "原型": "einfach",
+    "比较级": "",
+    "最高级": "",
+    "意思": "easy, simple",
+    "例句": "Sieh dir doch einfach den Film an... iss Popcorn und eh du dich's versiehst, bin ich wieder da.",
+    "翻译": ""
+  },
+  {
+    "原型": "irgendwann",
+    "比较级": "",
+    "最高级": "",
+    "意思": "sometimes",
+    "例句": "- Irgendwann muss sie es ja mal lernen.",
+    "翻译": ""
+  },
+  {
+    "原型": "simultan",
+    "比较级": "",
+    "最高级": "",
+    "意思": "simultaneous 同步",
+    "例句": "Sprichst und kotzt du simultan?",
+    "翻译": ""
+  },
+  {
+    "原型": "verschieden",
+    "比较级": "",
+    "最高级": "",
+    "意思": "different, diverse, all kinds of",
+    "例句": "Wir arbeiten an verschiedenen Fronten, aber für den Sieg derselben Gerechtigkeit.",
+    "翻译": ""
+  },
+  {
+    "原型": "eigener",
+    "比较级": "",
+    "最高级": "",
+    "意思": "own M",
+    "例句": "Ihr eigener Sohn!",
+    "翻译": ""
+  },
+  {
+    "原型": "eigene",
+    "比较级": "",
+    "最高级": "",
+    "意思": "own F",
+    "例句": "Ich sah es mit eigenen Augen.",
+    "翻译": ""
+  },
+  {
+    "原型": "eigenes",
+    "比较级": "",
+    "最高级": "",
+    "意思": "own N",
+    "例句": "Dein eigenes Kind!",
+    "翻译": ""
+  },
+  {
+    "原型": "traumhaft",
+    "比较级": "",
+    "最高级": "",
+    "意思": "dreamy, dreamlike",
+    "例句": "Vor allem diese traumhaften Strände.",
+    "翻译": ""
+  },
+  {
+    "原型": "jetzt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "now",
+    "例句": "Was machen wir jetzt?",
+    "翻译": ""
+  },
+  {
+    "原型": "viel",
+    "比较级": "",
+    "最高级": "",
+    "意思": "much",
+    "例句": "Und um wie viele Jahre wurde lhre Strafe dadurch verringert?",
+    "翻译": ""
+  },
+  {
+    "原型": "viele",
+    "比较级": "",
+    "最高级": "",
+    "意思": "many",
+    "例句": "Sir, es wurden viele Waffen gefunden.",
+    "翻译": ""
+  },
+  {
+    "原型": "wenig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "little",
+    "例句": "Ja, nur ein wenig.",
+    "翻译": ""
+  },
+  {
+    "原型": "wenige",
+    "比较级": "",
+    "最高级": "",
+    "意思": "few",
+    "例句": "Einer der wenigen Menschen, die noch Zivilcourage haben.",
+    "翻译": ""
+  }
+]
