@@ -60,7 +60,7 @@
     </template>
 
     <!-- 形容词比较级 -->
-    <template v-else-if="deck === 'adj_steigerung'">
+    <template v-else-if="deck === 'adj_adv'">
       <p class="vocab-card-meaning">{{ data["比较级"] }}</p>
       <p class="vocab-card-meaning">{{ data["最高级"] }}</p>
       <p class="vocab-card-meaning">= {{ data["意思"] }}</p>
@@ -68,7 +68,7 @@
     </template>
 
     <!-- 普通形容词等 -->
-    <template v-else-if="deck === 'adj_base'">
+    <template v-else-if="deck === 'adv_phrasen'">
       <p class="vocab-card-meaning">= {{ data["意思"] }}</p>
       <p class="vocab-card-sentence"> {{ data["例句"] }}</p>
     </template>
@@ -95,10 +95,10 @@ function getNoun(word = "") {
 const deckNameMap = {
   nomen_obj: "Nomen - Objekte",
   nomen_people: "Nomen - Personen",
-  verben_base: "Verben - Grundformen",
-  verben_phrasen: "Verben - Redewendungen",
-  adj_base: "Adjektive - allgemein",
-  adj_steigerung: "Adjektive - Steigerung",
+  verben_base: "Verben Grundformen",
+  verben_phrasen: "Verben Phrasen",
+  adj_adv: "Adjektive und Adverbien",
+  adv_phrasen: "Adverb Phrasen",
 };
 
 const deckName = computed(() => deckNameMap[props.deck] || props.deck);

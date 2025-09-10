@@ -24,9 +24,17 @@ const categories = [
   { id: "nomen_people", label: "Nomen - Personen" },
   { id: "verben_base", label: "Verben - Grundformen" },
   { id: "verben_phrasen", label: "Verben - Redewendungen" },
-  { id: "adj_base", label: "Adjektive - allgemein" },
-  { id: "adj_steigerung", label: "Adjektive - Steigerung" },
+  { id: "adj_adv", label: "Adjektive und Adverbien" },
+  { id: "adv_phrasen", label: "Adverb Phrasen" },
 ];
+// const deckNameMap = {
+//   nomen_obj: "Nomen - Objekte",
+//   nomen_people: "Nomen - Personen",
+//   verben_base: "Verben Grundformen",
+//   verben_phrasen: "Verben Phrasen",
+//   adj_adv: "Adjektive und Adverbien",
+//   adv_phrasen: "Adverb Phrasen",
+// };
 
 function goToDeck(deckId) {
   router.push(`/deck/${deckId}`);

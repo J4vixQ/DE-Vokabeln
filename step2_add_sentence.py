@@ -177,8 +177,8 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
 # 配置与批量调用
 if __name__ == "__main__":
     configs = [
-        {"json": "public/data/adj_base.json", "key_func": adj_key, "pattern_func": build_adj_patterns},
-        {"json": "public/data/adj_steigerung.json", "key_func": steigerung_key, "pattern_func": build_steigerung_patterns},
+        {"json": "public/data/adv_phrasen.json", "key_func": adj_key, "pattern_func": build_adj_patterns},
+        {"json": "public/data/adj_adv.json", "key_func": steigerung_key, "pattern_func": build_steigerung_patterns},
         {"json": "public/data/nomen_obj.json", "key_func": noun_key, "pattern_func": build_noun_pattern},
         {"json": "public/data/nomen_people.json", "key_func": person_key, "pattern_func": build_person_pattern},
         {"json": "public/data/verben_base.json", "key_func": verb_key, "pattern_func": build_verb_patterns},
