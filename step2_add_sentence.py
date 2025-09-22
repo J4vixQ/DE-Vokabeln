@@ -24,7 +24,7 @@ def build_steigerung_patterns(entry):
         v = entry.get(key)
         if v and v not in stems:
             stems.append(v)
-    endings = ['', 'e', 'es', 'er', 'en', 'em', 'n', 's', 'ste', 'sten', 'ster', 'stes', 'ere', 'eren', 'erem', 'eres']
+    endings = ['', 'e', 'es', 'er', 'en', 'em', 'n', 's', 'ste', 'sten', 'ster', 'stes', 'stem', 'ere', 'eren', 'erem', 'eres']
     patterns = []
     for stem in stems:
         patterns += [rf"\b{re.escape(stem)}{end}\b" for end in endings]
