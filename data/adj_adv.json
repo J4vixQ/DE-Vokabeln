@@ -841,8 +841,8 @@
   },
   {
     "原型": "einfach",
-    "比较级": "",
-    "最高级": "",
+    "比较级": "einfacher",
+    "最高级": "einfachsten",
     "意思": "easy, simple",
     "例句": "Sieh dir doch einfach den Film an... iss Popcorn und eh du dich's versiehst, bin ich wieder da.",
     "翻译": ""
@@ -913,16 +913,16 @@
   },
   {
     "原型": "viel",
-    "比较级": "",
-    "最高级": "",
+    "比较级": "mehr",
+    "最高级": "meisten",
     "意思": "much",
     "例句": "Und um wie viele Jahre wurde lhre Strafe dadurch verringert?",
     "翻译": ""
   },
   {
     "原型": "viele",
-    "比较级": "",
-    "最高级": "",
+    "比较级": "mehr",
+    "最高级": "meisten",
     "意思": "many",
     "例句": "Sir, es wurden viele Waffen gefunden.",
     "翻译": ""
@@ -941,6 +941,406 @@
     "最高级": "",
     "意思": "few",
     "例句": "Einer der wenigen Menschen, die noch Zivilcourage haben.",
+    "翻译": ""
+  },
+  {
+    "原型": "schlecht",
+    "比较级": "schlechter",
+    "最高级": "schlechtesten",
+    "意思": "bad",
+    "例句": "Nicht schlecht.",
+    "翻译": ""
+  },
+  {
+    "原型": "schnell",
+    "比较级": "schneller",
+    "最高级": "schnellsten",
+    "意思": "fast",
+    "例句": "Eigentlich sollte es etwas schneller gehen.",
+    "翻译": ""
+  },
+  {
+    "原型": "nördlich",
+    "比较级": "nördlicher",
+    "最高级": "nördlichsten",
+    "意思": "north",
+    "例句": "So werden alle drei nördlichen Pässe weit offen sein.",
+    "翻译": ""
+  },
+  {
+    "原型": "südlich",
+    "比较级": "südlicher",
+    "最高级": "südlichsten",
+    "意思": "south",
+    "例句": "An was arbeitet Dein Freund Kane... in den südlichen Wäldern?",
+    "翻译": ""
+  },
+  {
+    "原型": "östlich",
+    "比较级": "östlicher",
+    "最高级": "östlichsten",
+    "意思": "east",
+    "例句": "Bewegung in den östlichen Wäldern.",
+    "翻译": ""
+  },
+  {
+    "原型": "westlich",
+    "比较级": "westlicher",
+    "最高级": "westlichstenn",
+    "意思": "west",
+    "例句": "Ihr zwei prüft den westlichen Bereich.",
+    "翻译": ""
+  },
+  {
+    "原型": "frei",
+    "比较级": "freier",
+    "最高级": "freiesten",
+    "意思": "free",
+    "例句": "Freie Liebe ist toll, aber Rache ist auch süß.",
+    "翻译": ""
+  },
+  {
+    "原型": "nett",
+    "比较级": "netter",
+    "最高级": "nettesten",
+    "意思": "nice,friendly,cute",
+    "例句": "Es gibt da ein Mädchen, das ich ganz nett finde.",
+    "翻译": ""
+  },
+  {
+    "原型": "gern",
+    "比较级": "lieber",
+    "最高级": "liebsten",
+    "意思": "would like, favour, favourite",
+    "例句": "Aber ich benutze ihn gern, um Sachen kaputt zu machen.",
+    "翻译": ""
+  },
+  {
+    "原型": "oft",
+    "比较级": "öfter",
+    "最高级": "öftesten",
+    "意思": "often",
+    "例句": "Aber ehrlich gesagt hab ich oft ein Nickerchen gemacht vor der Suche.",
+    "翻译": ""
+  },
+  {
+    "原型": "bald",
+    "比较级": "eher",
+    "最高级": "ehesten",
+    "意思": "soon",
+    "例句": "Eher zehn Jahre.",
+    "翻译": ""
+  },
+  {
+    "原型": "früh",
+    "比较级": "früher",
+    "最高级": "frühesten",
+    "意思": "early",
+    "例句": "Das letzte war wohl Miss Pac-Man, in meinem früheren Job.",
+    "翻译": ""
+  },
+  {
+    "原型": "spät",
+    "比较级": "später",
+    "最高级": "spätesten",
+    "意思": "late",
+    "例句": "Wir machen es später, Mom!",
+    "翻译": ""
+  },
+  {
+    "原型": "vielleicht",
+    "比较级": "",
+    "最高级": "",
+    "意思": "perhaps, maybe",
+    "例句": "- Vielleicht kann ich etwas helfen.",
+    "翻译": ""
+  },
+  {
+    "原型": "möglich",
+    "比较级": "möglicher",
+    "最高级": "möglichsten",
+    "意思": "probable",
+    "例句": "Wenn es von Patrick ist, kann es alles Mögliche sein.",
+    "翻译": ""
+  },
+  {
+    "原型": "dunkel",
+    "比较级": "dunkler",
+    "最高级": "dunkelsten",
+    "意思": "dark",
+    "例句": "Die hat im Dunkeln dagelegen und mit sich selbst gesprochen.",
+    "翻译": ""
+  },
+  {
+    "原型": "hell",
+    "比较级": "heller",
+    "最高级": "hellsten",
+    "意思": "light",
+    "例句": "Es ist total hell schon.",
+    "翻译": ""
+  },
+  {
+    "原型": "bequem",
+    "比较级": "bequemer",
+    "最高级": "bequemsten",
+    "意思": "comfortable physical/practical",
+    "例句": "Ein Auto ist bequemer als der Bus.",
+    "翻译": ""
+  },
+  {
+    "原型": "unbequem",
+    "比较级": "unbequemer",
+    "最高级": "unbequemsten",
+    "意思": "uncomfortable physical/practical",
+    "例句": "Es ist so unbequem, die an meinem Gürtel anzubringen.",
+    "翻译": ""
+  },
+  {
+    "原型": "gemütlich",
+    "比较级": "gemütlicher",
+    "最高级": "gemütlichsten",
+    "意思": "comfortable emotional/atmospheric",
+    "例句": "Na ja, jetzt ist er halt alt und nimmt sich ein gemütliches Zimmer in einer Pensionisten-Residenz und würd uns die Strandbar verkaufen.",
+    "翻译": ""
+  },
+  {
+    "原型": "ungemütlich",
+    "比较级": "ungemütlicher",
+    "最高级": "ungemütlichsten",
+    "意思": "uncomfortable emotional/atmospheric",
+    "例句": "Denn wenn Sie einen Haufen Polizisten zwingen, sich durch einen Berg von Scheiße zu schaufeln, um Ihr Gewehr zu finden, dann blüht Ihnen die ungemütlichste Strafverfolgung, die es je in New York gegeben hat.",
+    "翻译": ""
+  },
+  {
+    "原型": "teuer",
+    "比较级": "teurer",
+    "最高级": "teuersten",
+    "意思": "expensive",
+    "例句": "Sie ist die Teuerste in Montreal.",
+    "翻译": ""
+  },
+  {
+    "原型": "billig",
+    "比较级": "billiger",
+    "最高级": "billigsten",
+    "意思": "cheap",
+    "例句": "Also ich kann die Culebras billig verkaufen, kein Problem",
+    "翻译": ""
+  },
+  {
+    "原型": "ruhig",
+    "比较级": "ruhiger",
+    "最高级": "ruhigsten",
+    "意思": "quiet (atmosphere, environment)",
+    "例句": "Ganz ruhig.",
+    "翻译": ""
+  },
+  {
+    "原型": "laut",
+    "比较级": "lauter",
+    "最高级": "lautesten",
+    "意思": "loud",
+    "例句": "Laut Tiffany ist das meine einzige Chance.",
+    "翻译": ""
+  },
+  {
+    "原型": "still",
+    "比较级": "stiller",
+    "最高级": "stillsten",
+    "意思": "silent,quiet,still",
+    "例句": "Sei einfach still.",
+    "翻译": ""
+  },
+  {
+    "原型": "sauber",
+    "比较级": "sauberer",
+    "最高级": "saubersten",
+    "意思": "clean",
+    "例句": "Wenn er kommt, wird er das Fleisch dieser Welt sauber schrubben und uns zeigen, wer wir wirklich sind.",
+    "翻译": ""
+  },
+  {
+    "原型": "dreckig",
+    "比较级": "dreckiger",
+    "最高级": "dreckigsten",
+    "意思": "dirty",
+    "例句": "Dieser dreckige Raum ist eine Kirche.",
+    "翻译": ""
+  },
+  {
+    "原型": "fertig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "finished, completed, done",
+    "例句": "Meine Waffeln sind fertig!",
+    "翻译": ""
+  },
+  {
+    "原型": "allein",
+    "比较级": "",
+    "最高级": "",
+    "意思": "alone",
+    "例句": "Sie ist endlich allein.",
+    "翻译": ""
+  },
+  {
+    "原型": "einsam",
+    "比较级": "einsamer",
+    "最高级": "einsamsten",
+    "意思": "lonely",
+    "例句": "Alleine mit den anderen, die da einsam Geld verdienen.",
+    "翻译": ""
+  },
+  {
+    "原型": "verlassen",
+    "比较级": "",
+    "最高级": "",
+    "意思": "abandoned, forsaken, deserted",
+    "例句": "Terry, du musst dieses Haus verlassen.",
+    "翻译": ""
+  },
+  {
+    "原型": "solo",
+    "比较级": "",
+    "最高级": "",
+    "意思": "solo",
+    "例句": "-Da ist die Anne wieder solo.",
+    "翻译": ""
+  },
+  {
+    "原型": "pünktlich",
+    "比较级": "pünktlicher",
+    "最高级": "pünktlichsten",
+    "意思": "punctual, on time",
+    "例句": "Nicht mal zur Beerdigung kannst du pünktlich sein.",
+    "翻译": ""
+  },
+  {
+    "原型": "unpünktlich",
+    "比较级": "unpünktlicher",
+    "最高级": "unpünktlichsten",
+    "意思": "unpunctual, not on time",
+    "例句": "Ich sagte Bertie, unpünktlich und faul dulde ich nicht.",
+    "翻译": ""
+  },
+  {
+    "原型": "morden",
+    "比较级": "mordener",
+    "最高级": "mordensten",
+    "意思": "morden",
+    "例句": "Du gibst dich mit Nazis, Morden und misstrauischen Cops ab.",
+    "翻译": ""
+  },
+  {
+    "原型": "heutig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "nowadays",
+    "例句": "(Dozent) Der Begriff, des heutigen Seminars wird oft in den Medien verwendet:",
+    "翻译": ""
+  },
+  {
+    "原型": "beruflich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "for work, related to profession",
+    "例句": "Je mehr wir über die Beziehungen in ihrem Leben erfahren, persönlich oder beruflich, desto besser.",
+    "翻译": ""
+  },
+  {
+    "原型": "fachlich",
+    "比较级": "fachlicher",
+    "最高级": "fachlichsten",
+    "意思": "professional (knowledge and skills)",
+    "例句": "Nur mal so aus fachlichem Interesse ...",
+    "翻译": ""
+  },
+  {
+    "原型": "kompetent",
+    "比较级": "kompetenter",
+    "最高级": "kompetentesten",
+    "意思": "competent, capable",
+    "例句": "Eine von der ENA, sehr kompetent, sehr...",
+    "翻译": ""
+  },
+  {
+    "原型": "professionell",
+    "比较级": "professioneller",
+    "最高级": "professionellsten",
+    "意思": "professional (way of doing things)",
+    "例句": "Ist das deine professionelle Diagnose?",
+    "翻译": ""
+  },
+  {
+    "原型": "fest",
+    "比较级": "fester",
+    "最高级": "festesten",
+    "意思": "tight,hard,firm,solid,fixed,permanent,steady",
+    "例句": "Wyatt steckt im Karton fest.",
+    "翻译": ""
+  },
+  {
+    "原型": "freundlich",
+    "比较级": "freundlicher",
+    "最高级": "freundlichsten",
+    "意思": "friendly",
+    "例句": "Ich war nicht sehr freundlich.",
+    "翻译": ""
+  },
+  {
+    "原型": "lecker",
+    "比较级": "leckerer",
+    "最高级": "leckersten",
+    "意思": "yummy,tasty",
+    "例句": "Man hat immer einen Vorrat an lebendem, frischem, leckerem Essen.",
+    "翻译": ""
+  },
+  {
+    "原型": "köstlich",
+    "比较级": "köstlicher",
+    "最高级": "köstlichsten",
+    "意思": "delicious",
+    "例句": "Wir werden uns köstlich amüsieren.",
+    "翻译": ""
+  },
+  {
+    "原型": "natürlich",
+    "比较级": "natürlicher",
+    "最高级": "natürlichsten",
+    "意思": "natural, naturally, of course",
+    "例句": "Natürlich nicht.",
+    "翻译": ""
+  },
+  {
+    "原型": "schrecklich",
+    "比较级": "schrecklicher",
+    "最高级": "schrecklichsten",
+    "意思": "terrible, awful, awfully, very",
+    "例句": "Schrecklich.",
+    "翻译": ""
+  },
+  {
+    "原型": "beliebt",
+    "比较级": "beliebter",
+    "最高级": "beliebtesten",
+    "意思": "popular",
+    "例句": "Was nicht heißen soll, dass ich sonderlich beliebt wäre.",
+    "翻译": ""
+  },
+  {
+    "原型": "leicht",
+    "比较级": "leichter",
+    "最高级": "leichtesten",
+    "意思": "easy",
+    "例句": "- Kommunikation ist nicht leicht, aber es gibt immer einen Weg.",
+    "翻译": ""
+  },
+  {
+    "原型": "egal",
+    "比较级": "",
+    "最高级": "",
+    "意思": "it doesn't matter",
+    "例句": "Egal.",
     "翻译": ""
   }
 ]

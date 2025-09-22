@@ -36,7 +36,7 @@
     "翻译": ""
   },
   {
-    "单词": "jeden tag",
+    "单词": "jeden Tag",
     "意思": "daily, täglich",
     "例句": "Der kriegt jeden Tag ein bissel Futter, Wasser, aus.",
     "翻译": ""
@@ -159,6 +159,486 @@
     "单词": "schon mal",
     "意思": "have already",
     "例句": "Ich muss noch ein paar Leute anrufen, schau dich schon mal ein bisschen um.",
+    "翻译": ""
+  },
+  {
+    "单词": "übermorgen",
+    "意思": "the day after tomorrow",
+    "例句": "Wir werden übermorgen mit einem Gerichtsbeschluss wiederkommen.",
+    "翻译": ""
+  },
+  {
+    "单词": "vorgestern",
+    "意思": "the day before yesterday",
+    "例句": "David könnte vorgestern doch im nächsten Hof verschwunden sein.",
+    "翻译": ""
+  },
+  {
+    "单词": "ein bischen",
+    "意思": "a little, a bit, a little bit",
+    "例句": "Ist es nicht ein bischen früh für formelle Kleidung?",
+    "翻译": ""
+  },
+  {
+    "单词": "im Norden",
+    "意思": "in north",
+    "例句": "Er lässt sich lieber bei uns nieder als oben im Norden.",
+    "翻译": ""
+  },
+  {
+    "单词": "im Süden",
+    "意思": "in south",
+    "例句": "Ich bin seit zwei Wochen im Süden.",
+    "翻译": ""
+  },
+  {
+    "单词": "im Ost",
+    "意思": "in east",
+    "例句": "Die Jagd im Osten.",
+    "翻译": ""
+  },
+  {
+    "单词": "im West",
+    "意思": "in west",
+    "例句": "Wir waren einmal das beste Chirurgische Programm im Westen,",
+    "翻译": ""
+  },
+  {
+    "单词": "zum Beispiel",
+    "意思": "for example",
+    "例句": "Zum Beispiel...",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Sdadt",
+    "意思": "in the city",
+    "例句": "",
+    "翻译": ""
+  },
+  {
+    "单词": "auf dem Land",
+    "意思": "in the countryside",
+    "例句": "Liebe Fanny, wir sind auf dem Lande.",
+    "翻译": ""
+  },
+  {
+    "单词": "die meisten Leute",
+    "意思": "most people",
+    "例句": "Die meisten Leute mochten ihn.",
+    "翻译": ""
+  },
+  {
+    "单词": "meistens",
+    "意思": "most of the time",
+    "例句": "Meistens kommt Kopf.",
+    "翻译": ""
+  },
+  {
+    "单词": "deswegen",
+    "意思": "because of that...",
+    "例句": "Deswegen brauchen wir Sie bei diesem Spiel!",
+    "翻译": ""
+  },
+  {
+    "单词": "zu teuer",
+    "意思": "too expensive",
+    "例句": "-Es ist zu teuer.",
+    "翻译": ""
+  },
+  {
+    "单词": "doch",
+    "意思": "on the contrary, quite the opposite",
+    "例句": "-Bitte, wach doch auf.",
+    "翻译": ""
+  },
+  {
+    "单词": "immer",
+    "意思": "always",
+    "例句": "Mein Haus steht euch immer offen.",
+    "翻译": ""
+  },
+  {
+    "单词": "fast immer",
+    "意思": "almost always",
+    "例句": "- Mit Kanada genau neben uns,... machen wir aus Minnesota gerne Witze auf eure Kosten... und die drehen sich irgendwie fast immer ums gleiche Thema.",
+    "翻译": ""
+  },
+  {
+    "单词": "normalerweise",
+    "意思": "normally",
+    "例句": "Die Moral folgt normalerweise am Ende.",
+    "翻译": ""
+  },
+  {
+    "单词": "manchmal",
+    "意思": "usually",
+    "例句": "Manchmal, wenn ich sie anschaute und sie lächelte, war es,",
+    "翻译": ""
+  },
+  {
+    "单词": "selten",
+    "意思": "seldom",
+    "例句": "-Sehr selten.",
+    "翻译": ""
+  },
+  {
+    "单词": "fast nie",
+    "意思": "almost never",
+    "例句": "Ich las mal, dass AlPler fast nie wegen sexueller Belästigung klagen, weil wir uns im Krankenhaus so schwach und ohnmächtig fühlen.",
+    "翻译": ""
+  },
+  {
+    "单词": "nie",
+    "意思": "never",
+    "例句": "Ich schrieb ihr, aber sie antwortete nie.",
+    "翻译": ""
+  },
+  {
+    "单词": "oft",
+    "意思": "often",
+    "例句": "Olivia, ich mache das sehr oft.",
+    "翻译": ""
+  },
+  {
+    "单词": "regelmäßig",
+    "意思": "regularly",
+    "例句": "Danach, wurden Interventionen... zu einer regelmäßigen Sache in unserer Wohnung.",
+    "翻译": ""
+  },
+  {
+    "单词": "draußen",
+    "意思": "outside",
+    "例句": "-Trish, ich suche draußen.",
+    "翻译": ""
+  },
+  {
+    "单词": "drinnen",
+    "意思": "inside",
+    "例句": "Kannst du mich da drinnen hören, Jim?",
+    "翻译": ""
+  },
+  {
+    "单词": "ab morgen",
+    "意思": "from tomorrow...",
+    "例句": "Ich kann sie offiziell erst ab morgen zeigen.",
+    "翻译": ""
+  },
+  {
+    "单词": "ab wann",
+    "意思": "from when?",
+    "例句": "Ab wann ist es nicht mehr lustig?",
+    "翻译": ""
+  },
+  {
+    "单词": "nur",
+    "意思": "only",
+    "例句": "Dann war also alles, was ich fühlte, nur Einbildung?",
+    "翻译": ""
+  },
+  {
+    "单词": "noch",
+    "意思": "still, even, just",
+    "例句": "Du bist noch im Dienst.",
+    "翻译": ""
+  },
+  {
+    "单词": "noch nicht",
+    "意思": "not yet",
+    "例句": "Ich habe noch nichts gehört.",
+    "翻译": ""
+  },
+  {
+    "单词": "noch eins",
+    "意思": "another one",
+    "例句": "Sag noch ein Wort, nur noch eins...",
+    "翻译": ""
+  },
+  {
+    "单词": "viele Grüße",
+    "意思": "best regards (in email)",
+    "例句": "- Viele Grüße an WV.",
+    "翻译": ""
+  },
+  {
+    "单词": "in Wirklichkeit",
+    "意思": "in fact",
+    "例句": "Ich sage, dass ich mit Marshall zu Mittag esse,... aber in Wirklichkeit spioniere ich ihr und Barney nach.",
+    "翻译": ""
+  },
+  {
+    "单词": "von Beruf",
+    "意思": "by profession",
+    "例句": "Ich bin Christina Buchmann, von Beruf Psychologin.",
+    "翻译": ""
+  },
+  {
+    "单词": "an der Wand",
+    "意思": "on (the wall",
+    "例句": "Lewis, vergleich die Bilder mit denen an der Wand.",
+    "翻译": ""
+  },
+  {
+    "单词": "auf",
+    "意思": "on (the table",
+    "例句": "Diana, bitte, wach auf.",
+    "翻译": ""
+  },
+  {
+    "单词": "unter",
+    "意思": "under, below",
+    "例句": "Er ist nicht gern unter Leuten, denn er ist sehr krank.",
+    "翻译": ""
+  },
+  {
+    "单词": "zwischen",
+    "意思": "between",
+    "例句": "Dad, was ist passiert zwischen Mom und Mrs. Morrison?",
+    "翻译": ""
+  },
+  {
+    "单词": "hinter",
+    "意思": "behind",
+    "例句": "Wieso ist der Geist hinter Sam her?",
+    "翻译": ""
+  },
+  {
+    "单词": "neben",
+    "意思": "next to",
+    "例句": "-neben der Logik und dem Verstand.",
+    "翻译": ""
+  },
+  {
+    "单词": "zu Hause",
+    "意思": "at home",
+    "例句": "Ist Ihre Tochter zu Hause?",
+    "翻译": ""
+  },
+  {
+    "单词": "in dem Zentrum",
+    "意思": "in the city center (im Zentrum)",
+    "例句": "In dem Zentrum gaben sie mir eine Art Getreidesuppe, aber ich habe immer noch Hunger.",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Straße",
+    "意思": "in the street",
+    "例句": "Ja, diese kleine Insel in der Straße von Dover ist die Basis der Witches.",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Gasse",
+    "意思": "in the alley",
+    "例句": "Das einzige Problem ist, es ist in der Gasse auf dieser Seite des Gebäudes.",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Allee",
+    "意思": "in the avenue",
+    "例句": "Plötzlich fuhr ein LKW vorbei und besprühte die Bäume in der Allee.",
+    "翻译": ""
+  },
+  {
+    "单词": "in dem Weg",
+    "意思": "in the trial (im weg)",
+    "例句": "Er steht in dem Weg da.",
+    "翻译": ""
+  },
+  {
+    "单词": "an dem Platz",
+    "意思": "on the square (am platz)",
+    "例句": "Ich wollte an einen Ort, an dem Platz ist für etwas anderes.",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Nähe von",
+    "意思": "near...",
+    "例句": "-In der Nähe von Elis Büro?",
+    "翻译": ""
+  },
+  {
+    "单词": "bei Mercedes",
+    "意思": "in (company)",
+    "例句": "-Und wie läuft es bei Mercedes?",
+    "翻译": ""
+  },
+  {
+    "单词": "auf der linken Seite",
+    "意思": "on the left side",
+    "例句": "Also, das Testgeschoss ist auf der linken Seite.",
+    "翻译": ""
+  },
+  {
+    "单词": "auf der rechten Seite",
+    "意思": "on the right side",
+    "例句": "Sie ist zwei Taxis vor uns, auf der rechten Seite.",
+    "翻译": ""
+  },
+  {
+    "单词": "bis zu",
+    "意思": "up to",
+    "例句": "Ich nehme an, dass ich Zeit für einen Drink und... 45 Minuten bis zu einer Stunde Zeit für andere Aktivitäten habe,... aber danach muss ich zurückkehren,... zu einem streng geheimen Forschungsprojekt, an dem ich arbeite.",
+    "翻译": ""
+  },
+  {
+    "单词": "durch",
+    "意思": "through",
+    "例句": "Kannten Sie meine Tochter durch ihn?",
+    "翻译": ""
+  },
+  {
+    "单词": "zu Fuß",
+    "意思": "by foot",
+    "例句": "Okay, ich denke ich gehe zu Fuß.",
+    "翻译": ""
+  },
+  {
+    "单词": "mit dem Auto",
+    "意思": "by car",
+    "例句": "Ich fahre mit dem Auto.",
+    "翻译": ""
+  },
+  {
+    "单词": "mit dem Bus",
+    "意思": "by bus",
+    "例句": "- Wer kommt mit dem Bus?",
+    "翻译": ""
+  },
+  {
+    "单词": "mit dem Fahrrad",
+    "意思": "by bike",
+    "例句": "Ich bin mit dem Fahrrad gekommen.",
+    "翻译": ""
+  },
+  {
+    "单词": "mit der U-Bahn",
+    "意思": "by U-Bahn",
+    "例句": "Mit der U-Bahn geht's am schnellsten.",
+    "翻译": ""
+  },
+  {
+    "单词": "mit der S-Bahn",
+    "意思": "by S-Bahn",
+    "例句": "Lass uns ruhig mit der S-Bahn fahren.",
+    "翻译": ""
+  },
+  {
+    "单词": "hin und zurück",
+    "意思": "two way (roundtrip travel)",
+    "例句": "Weißt du, dieses, uhm... dieses Boot allein hätte gereicht für ein paar Mal hin und zurück für dich und Sadie.",
+    "翻译": ""
+  },
+  {
+    "单词": "zum Frühstück",
+    "意思": "for breakfast",
+    "例句": "Majestät, ein Apfel zum Frühstück ...",
+    "翻译": ""
+  },
+  {
+    "单词": "dazu",
+    "意思": "about this, moreover",
+    "例句": "Owen, und wenn ich sie dazu bringe, weiterzuspielen?",
+    "翻译": ""
+  },
+  {
+    "单词": "also",
+    "意思": "so, therefore",
+    "例句": "Wir können also ein Baby bekommen?",
+    "翻译": ""
+  },
+  {
+    "单词": "pro",
+    "意思": "per",
+    "例句": "Wir sparen nächstes Jahr jeder $10 pro Woche, und dann kommen wir zurück und trinken den 50 Jahre alten Scotch.",
+    "翻译": ""
+  },
+  {
+    "单词": "im Supermarkt",
+    "意思": "in the supermarket",
+    "例句": "Ich bin im Supermarkt und hab kein Geld mehr auf meiner Karte.",
+    "翻译": ""
+  },
+  {
+    "单词": "auf dem Markt",
+    "意思": "in the market",
+    "例句": "Gab's auf dem Markt für Feiglinge ein Angebot?",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Metzgerei",
+    "意思": "in the meatshop",
+    "例句": "Gehst du in der Metzgerei vorbei?",
+    "翻译": ""
+  },
+  {
+    "单词": "in der Bäckerei",
+    "意思": "in the backery",
+    "例句": "Es scheint ja gut zu laufen in der Bäckerei.",
+    "翻译": ""
+  },
+  {
+    "单词": "im Obstgeschäft",
+    "意思": "in the fruit shop",
+    "例句": "Und... seit wann seid ihr im Obstgeschäft?",
+    "翻译": ""
+  },
+  {
+    "单词": "zuerst",
+    "意思": "firstly, to start with,",
+    "例句": "Wem sagst du es zuerst?",
+    "翻译": ""
+  },
+  {
+    "单词": "dann",
+    "意思": "then",
+    "例句": "-und dann sehen wir weiter, Ok?",
+    "翻译": ""
+  },
+  {
+    "单词": "dannach",
+    "意思": "and then",
+    "例句": "Aber ich bin ziemlich sicher, dass die Akte am Bett hängen sollte, damit hinkende Ärtze nicht im ganzen Zimmer dannach suchen müssen, während die Patienten sterben.",
+    "翻译": ""
+  },
+  {
+    "单词": "zu Schluss",
+    "意思": "at the end",
+    "例句": "Bleibt bis zu Schluss.",
+    "翻译": ""
+  },
+  {
+    "单词": "gerade",
+    "意思": "right now",
+    "例句": "Sie nahm wohl gerade Unterricht, als sie einfach umkippte.",
+    "翻译": ""
+  },
+  {
+    "单词": "auf Platz eins",
+    "意思": "in the first place",
+    "例句": "Doch mit dieser kleinen Nummer bist du auf Platz eins vorgerückt.",
+    "翻译": ""
+  },
+  {
+    "单词": "beide",
+    "意思": "both",
+    "例句": "Wir beide schaffen das.",
+    "翻译": ""
+  },
+  {
+    "单词": "alle",
+    "意思": "all",
+    "例句": "Alle zehn.",
+    "翻译": ""
+  },
+  {
+    "单词": "nicht mehr",
+    "意思": "no more",
+    "例句": "Wir trafen sie nicht mehr.",
+    "翻译": ""
+  },
+  {
+    "单词": "immer mehr",
+    "意思": "more and more",
+    "例句": "Er hat immer mehr Spielschulden, als er bezahlen kann.",
     "翻译": ""
   }
 ]
