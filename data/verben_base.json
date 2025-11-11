@@ -1906,5 +1906,356 @@
     "意思": "to wish for something",
     "例句": "Ich wünschte, ich könnte es dir zeigen.",
     "翻译": ""
+  },
+  {
+    "原型": "erscheinen",
+    "现在": "erscheint",
+    "过去": "erschien",
+    "完成": "ist erschienen",
+    "意思": "release, publish (book)",
+    "例句": "In Kürze werden meine Männer hier erscheinen, und dann werdet ihr erfahren, wie es ist, wenn man euch den Hals umdreht.",
+    "翻译": ""
+  },
+  {
+    "原型": "fliehen",
+    "现在": "flieht",
+    "过去": "floh",
+    "完成": "ist geflohen",
+    "意思": "flee",
+    "例句": "- Fliehe, wenn du fliehen kannst.",
+    "翻译": ""
+  },
+  {
+    "原型": "gehören",
+    "现在": "gehört",
+    "过去": "gehörte",
+    "完成": "hat gehört",
+    "意思": "belong to someone",
+    "例句": "Die Lorbeeren gehören nicht mir, sondern Ihrem Mann.",
+    "翻译": ""
+  },
+  {
+    "原型": "sterben",
+    "现在": "stirbt",
+    "过去": "starb",
+    "完成": "ist gestorben",
+    "意思": "die",
+    "例句": "Da bleiben sie, bis sie sterben.",
+    "翻译": ""
+  },
+  {
+    "原型": "sehen an",
+    "现在": "sieht an",
+    "过去": "sah an",
+    "完成": "hat angesehen",
+    "意思": "look at sth",
+    "例句": "Ich hatte meine Geburtsurkunde nie richtig angesehen.",
+    "翻译": ""
+  },
+  {
+    "原型": "packen",
+    "现在": "packt",
+    "过去": "packt",
+    "完成": "hat gepackt",
+    "意思": "pack",
+    "例句": "Ja, aber sie muss doch was packen.",
+    "翻译": ""
+  },
+  {
+    "原型": "verdienen",
+    "现在": "verdient",
+    "过去": "verdiente",
+    "完成": "hat verdient",
+    "意思": "earn",
+    "例句": "Ich hab dich nicht verdient.",
+    "翻译": ""
+  },
+  {
+    "原型": "verlassen",
+    "现在": "verlässt",
+    "过去": "verließ",
+    "完成": "hat verlassen",
+    "意思": "leave sth or sb",
+    "例句": "Julia hat mich verlassen.",
+    "翻译": ""
+  },
+  {
+    "原型": "weinen",
+    "现在": "weint",
+    "过去": "weinte",
+    "完成": "hat geweint",
+    "意思": "cry",
+    "例句": "Fragen Sie ihn, warum meine Schwester auf ihrer Hochzeitsreise weint?",
+    "翻译": ""
+  },
+  {
+    "原型": "sehen nach",
+    "现在": "sieht nach",
+    "过去": "sah nach",
+    "完成": "hat nachgesehen",
+    "意思": "look up, check",
+    "例句": "Sieht nach roter Farbe aus.",
+    "翻译": ""
+  },
+  {
+    "原型": "schaffen",
+    "现在": "schafft",
+    "过去": "schaffte",
+    "完成": "hat geschafft",
+    "意思": "manage",
+    "例句": "Wir schaffen das.",
+    "翻译": ""
+  },
+  {
+    "原型": "verbessern",
+    "现在": "verbessert",
+    "过去": "verbesserte",
+    "完成": "hat verbessert",
+    "意思": "improve, correct",
+    "例句": "Jemand muss den Wasserpark in Schuss halten und verbessern.",
+    "翻译": ""
+  },
+  {
+    "原型": "vereinbaren",
+    "现在": "vereinbart",
+    "过去": "vereinbarte",
+    "完成": "hat vereinbart",
+    "意思": "arrange sth, agree on sth",
+    "例句": "Wir haben gestern an der Sitzung Stillschweigen vereinbart.",
+    "翻译": ""
+  },
+  {
+    "原型": "melden an",
+    "现在": "meldet an",
+    "过去": "meldete an",
+    "完成": "hat angemeldet",
+    "意思": "register",
+    "例句": "Ich bin da gar nicht mehr angemeldet.",
+    "翻译": ""
+  },
+  {
+    "原型": "geben aus",
+    "现在": "gibt aus",
+    "过去": "gab aus",
+    "完成": "hat ausgegeben",
+    "意思": "spend",
+    "例句": "Wir haben all unser Geld in Eurer Stadt ausgegeben und wollten fragen, ob Ihr uns umsonst ausreisen lasst.",
+    "翻译": ""
+  },
+  {
+    "原型": "eröffnen",
+    "现在": "eröffnet",
+    "过去": "eröffnete",
+    "完成": "hat eröffnet",
+    "意思": "open up, initialize",
+    "例句": "Als Herausforderer dürft ihr den ersten Zug machen und die Partie eröffnen.",
+    "翻译": ""
+  },
+  {
+    "原型": "sparen",
+    "现在": "spart",
+    "过去": "sparte",
+    "完成": "hat gespart",
+    "意思": "save (money)",
+    "例句": "Dem hab ich auch erst lernen müssen, wie man spart.",
+    "翻译": ""
+  },
+  {
+    "原型": "legen zurück",
+    "现在": "legt zurück",
+    "过去": "legte zurück",
+    "完成": "hat zurückgelegt",
+    "意思": "to save; to set aside",
+    "例句": "Seit dem Auslaufen aus Semarang haben wir bereits 243 Seemeilen zurückgelegt.",
+    "翻译": ""
+  },
+  {
+    "原型": "heben ab",
+    "现在": "hebt ab",
+    "过去": "hob ab",
+    "完成": "hat abgehoben",
+    "意思": "withdraw",
+    "例句": "Hab ich abgehoben, für 'ne gebrauchte Vespa.",
+    "翻译": ""
+  },
+  {
+    "原型": "füllen aus",
+    "现在": "füllt aus",
+    "过去": "füllte aus",
+    "完成": "hat ausgefüllt",
+    "意思": "fill out",
+    "例句": "Er hat eine Umfrage von Nyaboron beim Kulturfestival ausgefüllt!",
+    "翻译": ""
+  },
+  {
+    "原型": "leihen",
+    "现在": "leiht",
+    "过去": "lieh",
+    "完成": "hat geliehen",
+    "意思": "lend",
+    "例句": "Nett von Jakob, dass er uns sein Auto geliehen hat.",
+    "翻译": ""
+  },
+  {
+    "原型": "meinen",
+    "现在": "meint",
+    "过去": "meinte",
+    "完成": "hat gemeint",
+    "意思": "mean",
+    "例句": "Du musst bitte trotzdem meinen Anwalt anrufen.",
+    "翻译": ""
+  },
+  {
+    "原型": "fragen nach",
+    "现在": "fragt nach",
+    "过去": "fragte nach",
+    "完成": "hat nachgefragt",
+    "意思": "inquire",
+    "例句": "Dann geht rein und fragt nach Meister Stockfuß.",
+    "翻译": ""
+  },
+  {
+    "原型": "buchen ab",
+    "现在": "bucht ab",
+    "过去": "buchte ab",
+    "完成": "hat abgebucht",
+    "意思": "debit sth",
+    "例句": "Eine Bar hat etwas abgebucht.",
+    "翻译": ""
+  },
+  {
+    "原型": "gehen ab",
+    "现在": "geht ab",
+    "过去": "ging ab",
+    "完成": "ist abgegangen",
+    "意思": "deducted",
+    "例句": "Was geht ab, Badou?",
+    "翻译": ""
+  },
+  {
+    "原型": "lassen an",
+    "现在": "lässt an",
+    "过去": "ließ an",
+    "完成": "hat angelassen",
+    "意思": "leave sth on and running",
+    "例句": "Ich habe das Radio angelassen.",
+    "翻译": ""
+  },
+  {
+    "原型": "schalten aus",
+    "现在": "schaltet aus",
+    "过去": "schaltete aus",
+    "完成": "hat ausgeschaltet",
+    "意思": "turn sth",
+    "例句": "Deshalb wurde Runge ausgeschaltet.",
+    "翻译": ""
+  },
+  {
+    "原型": "bescheinigen",
+    "现在": "bescheinigt",
+    "过去": "bescheinigte",
+    "完成": "hat bescheinigt",
+    "意思": "attest",
+    "例句": "Aufgrund dieser wurde die Echtheit des Eis bescheinigt.",
+    "翻译": ""
+  },
+  {
+    "原型": "geben ein",
+    "现在": "gibt ein",
+    "过去": "gab ein",
+    "完成": "hat eingegeben",
+    "意思": "enter sth (pswd)",
+    "例句": "Ja, es gibt einen.",
+    "翻译": ""
+  },
+  {
+    "原型": "richten ein",
+    "现在": "richtet ein",
+    "过去": "richtete ein",
+    "完成": "hat eingerichtet",
+    "意思": "set up",
+    "例句": "Es ist total schön eingerichtet.",
+    "翻译": ""
+  },
+  {
+    "原型": "zahlen ein",
+    "现在": "zahlt ein",
+    "过去": "zahlte ein",
+    "完成": "hat eingezahlt",
+    "意思": "deposit",
+    "例句": "Ich habe 9.000 Euro eingezahlt.",
+    "翻译": ""
+  },
+  {
+    "原型": "erinnern",
+    "现在": "erinnert",
+    "过去": "erinnerte",
+    "完成": "hat erinnert",
+    "意思": "remind sb of sth",
+    "例句": "Erinnert mich irgendwie an ...",
+    "翻译": ""
+  },
+  {
+    "原型": "kümmern",
+    "现在": "kümmert",
+    "过去": "kümmerte",
+    "完成": "hat gekümmert",
+    "意思": "look after, take care of",
+    "例句": "Seit Sie da sind, kann ich mich wieder um meine Patienten kümmern.",
+    "翻译": ""
+  },
+  {
+    "原型": "rechnen",
+    "现在": "rechnet",
+    "过去": "rechnete",
+    "完成": "hat gerechnet",
+    "意思": "calculate",
+    "例句": "Es wird nicht einfach und du musst damit rechnen, dass ich manchmal noch wütend oder traurig sein werde.",
+    "翻译": ""
+  },
+  {
+    "原型": "schauen",
+    "现在": "schaut",
+    "过去": "schaute",
+    "完成": "hat geschaut",
+    "意思": "look",
+    "例句": "Da lernt man, tief in Frauenseelen zu schauen.",
+    "翻译": ""
+  },
+  {
+    "原型": "schicken",
+    "现在": "schickt",
+    "过去": "schickte",
+    "完成": "hat geschickt",
+    "意思": "send",
+    "例句": "Ich habe eine heiße Spur und Sie schicken den nach Hause!",
+    "翻译": ""
+  },
+  {
+    "原型": "schulden",
+    "现在": "schuldet",
+    "过去": "schuldete",
+    "完成": "hat geschuldet",
+    "意思": "owe",
+    "例句": "Wir sind Fischer und konnten unsere Schulden nicht bezahlen.",
+    "翻译": ""
+  },
+  {
+    "原型": "überweisen",
+    "现在": "überweist",
+    "过去": "überwies",
+    "完成": "hat überwiesen",
+    "意思": "transfer money",
+    "例句": "Schuster überwies nur 9.000 Euro, schreibt aber 90.000 Euro ab.",
+    "翻译": ""
+  },
+  {
+    "原型": "verbrauchen",
+    "现在": "verbraucht",
+    "过去": "verbrauchte",
+    "完成": "hat verbraucht",
+    "意思": "use sth up, consume sth",
+    "例句": "Aber bei jeder Nutzung wird ein Großteil meiner Lebenszeit verbraucht.",
+    "翻译": ""
   }
 ]
