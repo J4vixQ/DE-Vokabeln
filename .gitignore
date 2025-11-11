@@ -25,6 +25,7 @@ dist-ssr
 
 # ignore my notes
 _A1
+_A2
 *.docx
 *.xlsx
 de.txt

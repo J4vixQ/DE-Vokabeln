@@ -1342,5 +1342,69 @@
     "意思": "it doesn't matter",
     "例句": "Egal.",
     "翻译": ""
+  },
+  {
+    "原型": "fremd",
+    "比较级": "fremder",
+    "最高级": "fremdsten",
+    "意思": "foreign",
+    "例句": "Sprecht nicht mit Fremden.",
+    "翻译": ""
+  },
+  {
+    "原型": "erfolgreich",
+    "比较级": "erfolgreicher",
+    "最高级": "erfolgreichsten",
+    "意思": "successful",
+    "例句": "Euer System ist nur erfolgreich, weil es auf der Ausbeutung und Plünderung anderer Länder beruht.",
+    "翻译": ""
+  },
+  {
+    "原型": "witzig",
+    "比较级": "witziger",
+    "最高级": "witzigsten",
+    "意思": "funny",
+    "例句": "Das ist nicht witzig.",
+    "翻译": ""
+  },
+  {
+    "原型": "dankbar",
+    "比较级": "dankbarer",
+    "最高级": "dankbarsten",
+    "意思": "thankful",
+    "例句": "Wir nehmen es dankbar an.",
+    "翻译": ""
+  },
+  {
+    "原型": "erleichtert",
+    "比较级": "erleichterter",
+    "最高级": "erleichtertsten",
+    "意思": "relieved",
+    "例句": "Also, wenn die Kräfte wirklich verschwunden sind, fühle ich mich meistens erleichtert.",
+    "翻译": ""
+  },
+  {
+    "原型": "geizig",
+    "比较级": "geiziger",
+    "最高级": "geizigsten",
+    "意思": "thirsty; miserly",
+    "例句": "Wie kann ein Manager so geizig sein!",
+    "翻译": ""
+  },
+  {
+    "原型": "sauer",
+    "比较级": "saurer",
+    "最高级": "sauersten",
+    "意思": "angry",
+    "例句": "Der wird sauer.",
+    "翻译": ""
+  },
+  {
+    "原型": "wütend",
+    "比较级": "wütender",
+    "最高级": "wütendsten",
+    "意思": "angry; furious",
+    "例句": "(Er schreit wütend.)",
+    "翻译": ""
   }
 ]

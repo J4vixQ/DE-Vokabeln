@@ -3552,7 +3552,7 @@
     "单数": "der Tunschuh",
     "复数": "die Tunschuhe",
     "意思": "sneaker",
-    "例句": "",
+    "例句": "Meine neuen Turnschuhe sind so bequem, dass ich sie jeden Tag trage.",
     "翻译": ""
   },
   {
@@ -4505,6 +4505,580 @@
     "复数": "die Träume",
     "意思": "dream",
     "例句": "Ladies und ein paar wenige Gentlemen... ein Traum wird wahr.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Abitur",
+    "复数": "",
+    "意思": "high school graduation",
+    "例句": "Sie hat hart gelernt für das Abitur und ist gleich in die Bürolehre gegangen.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Geschichte",
+    "复数": "die Geschichten",
+    "意思": "story",
+    "例句": "Ich weiß, dass jeder seine eigene Geschichte hat.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Kenntnis",
+    "复数": "die Kenntnisse",
+    "意思": "knowledge",
+    "例句": "Werden Sie oder ein Teammitglied gefasst oder getötet, wird der Sekretär jegliche Kenntnis Ihrer Aktion bestreiten.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Krieg",
+    "复数": "die Kriege",
+    "意思": "war",
+    "例句": "Der Mensch hat unweigerlich einen Hang zum Krieg.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Niveau",
+    "复数": "die Niveaus",
+    "意思": "level, standard",
+    "例句": "Er bringt Betafire auf ein neues Niveau.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Postkarte",
+    "复数": "die Postkarten",
+    "意思": "postcard",
+    "例句": "Ich schick dir ne Postkarte, wenn ich auf Tour bin.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Welt",
+    "复数": "",
+    "意思": "the world",
+    "例句": "Jetzt rettest du die Welt.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Anfang",
+    "复数": "die Anfänge",
+    "意思": "start, beginning",
+    "例句": "Das Leid, das ich Ihnen bringe, ist nicht der Anfang vom Ende.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Anruf",
+    "复数": "die Anrufe",
+    "意思": "phone call",
+    "例句": "Das ist ein wichtiger Anruf.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Situation",
+    "复数": "die Situationen",
+    "意思": "situation",
+    "例句": "Ich nehme an, jetzt ist er weg, wirst du nach einer anderen Situation suchen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Taschengeld",
+    "复数": "die Taschengelde",
+    "意思": "pocket money, allowence",
+    "例句": "Er bekam mehr als Taschengeld.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Unterkunft",
+    "复数": "die Unterkünfte",
+    "意思": "accommodation",
+    "例句": "Ihre Unterkunft ist bereit.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Arbeitserlaubnis",
+    "复数": "die Arbeitserlaubnisse",
+    "意思": "work permit",
+    "例句": "Ray Hernandez hat alles in die Wege geleitet, wollte dann aber mehr Geld, das man ohne Arbeitserlaubnis nicht bekommt.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Biologie",
+    "复数": "",
+    "意思": "biology",
+    "例句": "Ich studier Biologie an der HU.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Erfolg",
+    "复数": "die Erfolge",
+    "意思": "success",
+    "例句": "Wir stehen kurz vor dem Erfolg.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Firma",
+    "复数": "die Firmen",
+    "意思": "company, enterprise",
+    "例句": "Und wie ich dachte: \"Warum für eine Firma arbeiten, die nur Geld verliert, wenn ich denselben Auftrag mit meinem Team an Land ziehen kann?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Gesetz",
+    "复数": "die Gesetze",
+    "意思": "law",
+    "例句": "Da die Menschheit von Selbstzerstörung angezogen wird wie die Motte vom Licht, arbeiten die sogenannten Friedensverteidiger, die Kirche, die Regierung, das Gesetz, unermüdlich, um die Menschheit vor sich selbst zu retten.\"",
+    "翻译": ""
+  },
+  {
+    "单数": "die Integration",
+    "复数": "",
+    "意思": "integration",
+    "例句": "Weißt du, viele Psychiater geben keine Ratschläge, wenn es um soziale Integration geht.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Intensivkurs",
+    "复数": "die Intensivkurse",
+    "意思": "intensice course",
+    "例句": "Der Intensivkurs geht über drei Monate.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Jura",
+    "复数": "",
+    "意思": "law",
+    "例句": "den ganzen Weg durch die Kreidezeit bis zum Jura an einem Tag.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Meinung",
+    "复数": "die Meinungen",
+    "意思": "opinion",
+    "例句": "Was soll ich deiner Meinung nach tun, huh?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Praktikum",
+    "复数": "die Praktika",
+    "意思": "internship; practical training",
+    "例句": "Moment, er macht seit neun Jahren sein Praktikum und seine Arbeit schreibt er über Masturbation.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Prozess",
+    "复数": "die Prozesse",
+    "意思": "process, procedure",
+    "例句": "Mach dich bereit, der Prozess hat vier Schritte.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Ziel",
+    "复数": "die Ziele",
+    "意思": "goal, target",
+    "例句": "Zunächst legt der Laser das Ziel fest.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Zukunft",
+    "复数": "die Zukünfte",
+    "意思": "future",
+    "例句": "Ich möchte über die Zukunft reden.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Zukunftsplan",
+    "复数": "die Zukunftspläne",
+    "意思": "the plan for the future",
+    "例句": "Sie ist wichtig für unsere Zukunftspläne.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Aussprache",
+    "复数": "",
+    "意思": "pronunciation",
+    "例句": "Broadway Bill Lee, professioneller Praktizierender der Aussprache...",
+    "翻译": ""
+  },
+  {
+    "单数": "der Dialekt",
+    "复数": "die Dialekte",
+    "意思": "dialect",
+    "例句": "(Lkw-Fahrer mit Berliner Dialekt) Ich muss bei der nächsten Rast raus.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Grammatik",
+    "复数": "die Grammatiken",
+    "意思": "grammar",
+    "例句": "Die digitalen Daten der realen Welt wurden bereits von der Grammatik der Digiwelt übernommen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Gruß",
+    "复数": "die Grüße",
+    "意思": "greeting",
+    "例句": "Freundliche Grüße, John Morris.\"",
+    "翻译": ""
+  },
+  {
+    "单数": "das Schiff",
+    "复数": "die Schiffe",
+    "意思": "ship",
+    "例句": "- Es sind schon welche im Schiff.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Kreuzfahrtschiff",
+    "复数": "die Kreuzfahrtschiffe",
+    "意思": "cruise ship",
+    "例句": "Das ist kein Hafen für Kreuzfahrtschiffe, mein Freund.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Segelschiff",
+    "复数": "die Segelschiffe",
+    "意思": "sailing ship",
+    "例句": "Erst behängt man sie hinten und vorne mit Kleidern, Hüten, Handschuhen und Sonnenschirmen, und wenn sie dann so viel gekostet hat wie ein Segelschiff, wirft sie sich auf den Mist wie eine faule Gurke.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Boot",
+    "复数": "die Boote",
+    "意思": "boat",
+    "例句": "Das ist unser Boot.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Motorboot",
+    "复数": "die Motorboote",
+    "意思": "motorboat",
+    "例句": "Er muss eine Motorboot-Rennfahrer-Lizenz haben.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Kanu",
+    "复数": "die Kanus",
+    "意思": "canoes独木舟",
+    "例句": "Sie ließ ihre Tiere nicht im Stich, aber sie ertrank und die Hunde fing man mit einem Kanu oder so.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Kajak",
+    "复数": "die Kajaks",
+    "意思": "kayaks皮划艇",
+    "例句": "Schon mal ein Kajak gemietet?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Floß",
+    "复数": "die Flöße",
+    "意思": "rafts木筏",
+    "例句": "- Das Floß?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Fähre",
+    "复数": "die Fähren",
+    "意思": "ferries渡",
+    "例句": "Ich fuhr immer mit der Fähre nach Palermo.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Sorge",
+    "复数": "die Sorgen",
+    "意思": "worry, concern",
+    "例句": "- Keine Sorge, sie sind bald hier.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Bescheinigung",
+    "复数": "die Bescheinigungen",
+    "意思": "certificate",
+    "例句": "Alle, die bereits eine Bescheinigung erhalten haben, sollen sich in einer Reihe aufstellen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Einwohnermeldeamt",
+    "复数": "die Einwohnermeldeämter",
+    "意思": "registration office",
+    "例句": "Die Nationalität ist Lettland und beim Einwohnermeldeamt ist sie vor vier Monaten gemeldet worden.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Geldschein",
+    "复数": "die Geldscheine",
+    "意思": "banknote",
+    "例句": "Die einzige Farbe, die dem was bedeutet hat, war geldschein-grün.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Girokonto",
+    "复数": "die Girokonten",
+    "意思": "current account; checking account",
+    "例句": "Zumindest nicht per Überweisung auf das Girokonto.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Konto",
+    "复数": "die Konten",
+    "意思": "account",
+    "例句": "- Ich will das Geld auf meinem Konto.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Meldebescheinigung",
+    "复数": "die Meldebescheinigungen",
+    "意思": "certificiation of registration",
+    "例句": "Ich hatte meine Meldebescheinigung!",
+    "翻译": ""
+  },
+  {
+    "单数": "die Münze",
+    "复数": "die Münzen",
+    "意思": "coin",
+    "例句": "Und in dieser Hand habe ich eine normale Münze.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Sparkonto",
+    "复数": "die Sparkonten",
+    "意思": "savings account",
+    "例句": "Aber es war nur ein Sparkonto auf deinen Namen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Strom",
+    "复数": "",
+    "意思": "electricity",
+    "例句": "Unter der Abdeckung sind die Strom- und das Erdungskabel.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Anmeldung",
+    "复数": "die Anmeldungen",
+    "意思": "registration",
+    "例句": "Oh, die Anmeldung zur Wisschenschaftsmesse.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Bankautomat",
+    "复数": "die Bankautomaten",
+    "意思": "Automated Teller Machine (ATM); cash machine",
+    "例句": "Gott segne Bankautomaten.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Bargeld",
+    "复数": "",
+    "意思": "cash",
+    "例句": "Mein Verkäufer will kein Bargeld, also wenn Sie das Plutonium wollen...",
+    "翻译": ""
+  },
+  {
+    "单数": "das Einkommen",
+    "复数": "die Einkommen",
+    "意思": "income",
+    "例句": "Krebs und Transvestiten sind mein halbes Einkommen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das feste Einkommen",
+    "复数": "",
+    "意思": "secure income",
+    "例句": "Immerhin haben wir zwei feste Einkommen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Familienstand",
+    "复数": "",
+    "意思": "marital status",
+    "例句": "- Familienstand?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Formular",
+    "复数": "die Formulare",
+    "意思": "form",
+    "例句": "Keine Hürden oder Formulare.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Gebühr",
+    "复数": "die Gebühren",
+    "意思": "fee",
+    "例句": "Regelmäßig mit Straßenparkplätzen handeln, gegen eine Gebühr.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Geburtsdatum",
+    "复数": "die Geburtsdaten",
+    "意思": "birthdate",
+    "例句": "- Geburtsdatum?",
+    "翻译": ""
+  },
+  {
+    "单数": "der Geburtsort",
+    "复数": "die Geburtsorte",
+    "意思": "birthplace",
+    "例句": "Geburtsort von Bill Clinton.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Geheimzahl",
+    "复数": "die Geheimzahlen",
+    "意思": "PIN nummer",
+    "例句": "Ihre Geheimzahl.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Geldautomat",
+    "复数": "die Geldautomaten",
+    "意思": "Automated Teller Machine (ATM); cash machine",
+    "例句": "GELDAUTOMAT",
+    "翻译": ""
+  },
+  {
+    "单数": "das Geschlecht",
+    "复数": "die Geschlechter",
+    "意思": "gender",
+    "例句": "Wir sind das schwache Geschlecht, Sklaven unserer Triebe.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Girocard",
+    "复数": "die Girocards",
+    "意思": "debit card",
+    "例句": "Mit seiner Girocard kontaktlos bezahlt.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Kreditkarte",
+    "复数": "die Kreditkarten",
+    "意思": "credit card",
+    "例句": "Bankkarte, Kreditkarte und ÖPNV-Karte.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Nationalität",
+    "复数": "die Nationalitäten",
+    "意思": "nationality",
+    "例句": "- Nationalität?",
+    "翻译": ""
+  },
+  {
+    "单数": "die PIN-Nummer",
+    "复数": "die PIN-Nummern",
+    "意思": "PIN number",
+    "例句": "Sozialversicherungsnummern, Pin-Nummern ...",
+    "翻译": ""
+  },
+  {
+    "单数": "die Art",
+    "复数": "die Arten",
+    "意思": "kind; type; form",
+    "例句": "- Veränderungen welcher Art?",
+    "翻译": ""
+  },
+  {
+    "单数": "der Betrag",
+    "复数": "die Beträge",
+    "意思": "amount",
+    "例句": "Und wie kommt er auf diesen Betrag?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Erinnerung",
+    "复数": "die Erinnerungen",
+    "意思": "reminder",
+    "例句": "Nur zur Erinnerung, endgültige Genehmigung für Talent-Kostüme und formelle Kleidung muss von uns oder mir genehmigt werden.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Gas",
+    "复数": "",
+    "意思": "gas",
+    "例句": "Ich schätze mal Gas vom alten Bergwerk.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Kontostand",
+    "复数": "die Kontostände",
+    "意思": "account balance",
+    "例句": "Und mit jeder Sekunde sank der Kontostand immer weiter für Dinge, die er brauchte.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Lastschrift",
+    "复数": "die Lastschriften",
+    "意思": "direct debit",
+    "例句": "Ich zahle per Lastschrift.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Licht",
+    "复数": "die Lichter",
+    "意思": "light",
+    "例句": "Ihr habt grünes Licht.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Mahnung",
+    "复数": "die Mahnungen",
+    "意思": "warning; overdue notice",
+    "例句": "All die Mahnungen sind überfällig.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Quittung",
+    "复数": "die Quittungen",
+    "意思": "receipt; bill",
+    "例句": "Ich fand eine Quittung für zwei Kaffee - du musst jemanden getroffen haben.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Rate",
+    "复数": "die Raten",
+    "意思": "installment",
+    "例句": "Wie es auch kommen mag, ich kann dir nur raten, dich vorzusehen.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Schulden",
+    "复数": "",
+    "意思": "debt",
+    "例句": "Hat mir seine Schulden hinterlassen.",
+    "翻译": ""
+  },
+  {
+    "单数": "die TAN",
+    "复数": "die TANs",
+    "意思": "transaction authentication number",
+    "例句": "♪ Tan, tan, tan, tan!",
+    "翻译": ""
+  },
+  {
+    "单数": "die Überweisung",
+    "复数": "die Überweisungen",
+    "意思": "bank transfer",
+    "例句": "ÜBERWEISUNG...",
+    "翻译": ""
+  },
+  {
+    "单数": "der Verwendungszweck",
+    "复数": "die Verwendungszwecke",
+    "意思": "use, purpose",
+    "例句": "Wie lautet der Verwendungszweck?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Vorkasse",
+    "复数": "",
+    "意思": "prepayment, pay in advance",
+    "例句": "Meine Kunden sind in Vorkasse gegangen.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Zahlung",
+    "复数": "die Zahlungen",
+    "意思": "payment",
+    "例句": "Wenn sie stirbt, gehen die Zahlungen an den neuen Josh.",
     "翻译": ""
   }
 ]

@@ -85,7 +85,7 @@ def create_json_from_excel(
 # Adjektive
 create_json_from_excel(
     json_path="public/data/adj_adv.json",
-    excel_path="_A1/Adjektive.xlsx",
+    excel_path="_A2/Adjektive.xlsx",
     sheet_name="AdjAdv",
     key_fields=["原型"],
     field_map={
@@ -98,7 +98,7 @@ create_json_from_excel(
 
 create_json_from_excel(
     json_path="public/data/adv_phrasen.json",
-    excel_path="_A1/Adjektive.xlsx",
+    excel_path="_A2/Adjektive.xlsx",
     sheet_name="AdvPhrasen",
     key_fields=["单词"],
     field_map={
@@ -110,7 +110,7 @@ create_json_from_excel(
 # Nomen
 create_json_from_excel(
     json_path="public/data/nomen_obj.json",
-    excel_path="_A1/Nomen.xlsx",
+    excel_path="_A2/Nomen.xlsx",
     sheet_name="Obj",
     key_fields=["单数", "复数"],
     field_map={
@@ -122,7 +122,7 @@ create_json_from_excel(
 
 create_json_from_excel(
     json_path="public/data/nomen_people.json",
-    excel_path="_A1/Nomen.xlsx",
+    excel_path="_A2/Nomen.xlsx",
     sheet_name="人",
     key_fields=["单数男", "复数男", "单数女", "复数女"],
     field_map={
@@ -139,7 +139,7 @@ create_json_from_excel(
 # Verben
 create_json_from_excel(
     json_path="public/data/verben_base.json",
-    excel_path="_A1/Verben.xlsx",
+    excel_path="_A2/Verben.xlsx",
     sheet_name="GrundVerben",
     key_fields=["原型"],
     field_map={
@@ -153,7 +153,7 @@ create_json_from_excel(
 
 create_json_from_excel(
     json_path="public/data/verben_phrasen.json",
-    excel_path="_A1/Verben.xlsx",
+    excel_path="_A2/Verben.xlsx",
     sheet_name="VerbenPhrasen",
     key_fields=["词组"],
     field_map={

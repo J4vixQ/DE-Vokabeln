@@ -658,5 +658,175 @@
     "意思女": "doctor's assistant",
     "例句": "Ich möchte Arzthelferin werden, wie Sie.",
     "翻译": ""
+  },
+  {
+    "单数男": "der Anfänger",
+    "复数男": "die Anfänger",
+    "意思男": "beginner",
+    "单数女": "die Anfängerin",
+    "复数女": "die Anfängerinnen",
+    "意思女": "beginner",
+    "例句": "Anfängerin?",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Autor",
+    "复数男": "die Autoren",
+    "意思男": "author",
+    "单数女": "die Autorin",
+    "复数女": "die Autorinnen",
+    "意思女": "author",
+    "例句": "Nein, das ist dieser amerikanische Autor.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Fortgeschrittene",
+    "复数男": "die Fortgeschrittenen",
+    "意思男": "advanced student",
+    "单数女": "die Fortgeschrittene",
+    "复数女": "die Fortgeschrittenen",
+    "意思女": "advanced student",
+    "例句": "Der Verstorbene war über Siebzig und litt an einer fortgeschrittenen Arteriosklerose.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Künstler",
+    "复数男": "die Künstler",
+    "意思男": "artist",
+    "单数女": "die Künstlerin",
+    "复数女": "die Künstlerinnen",
+    "意思女": "artist",
+    "例句": "Ich bin Künstler und ziehe den Frieden vor.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Maler",
+    "复数男": "die Maler",
+    "意思男": "painter",
+    "单数女": "die Malerin",
+    "复数女": "die Malerinnen",
+    "意思女": "painter",
+    "例句": "Du willst ja immer nur Maler.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Schauspieler",
+    "复数男": "die Schauspieler",
+    "意思男": "actor, player",
+    "单数女": "die Schauspielerin",
+    "复数女": "die Schauspielerinnen",
+    "意思女": "actress",
+    "例句": "Nächste Woche kehrt der berühmte Schauspieler Cliff Robertson zurück.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Migrant",
+    "复数男": "die Migranten",
+    "意思男": "migrant",
+    "单数女": "die Migrantin",
+    "复数女": "die Migrantinnen",
+    "意思女": "migrant",
+    "例句": "* Handy klingelt. * (Radio) An der serbischen Grenze wurde die bisher höchste Zahl von Migranten festgenommen.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Praktikant",
+    "复数男": "die Praktikanten",
+    "意思男": "intern",
+    "单数女": "die Praktikantin",
+    "复数女": "die Praktikantinnen",
+    "意思女": "intern",
+    "例句": "Ich glaube, er ist Praktikant.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der König",
+    "复数男": "die Könige",
+    "意思男": "king",
+    "单数女": "die Königin",
+    "复数女": "die Königinnen",
+    "意思女": "queen",
+    "例句": "Das ist ein Geschenk für Königin Hamel, meine Gemahlin.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Ausländer",
+    "复数男": "die Ausländer",
+    "意思男": "foreigner",
+    "单数女": "die Ausländerin",
+    "复数女": "die Ausländerinnen",
+    "意思女": "foreigner",
+    "例句": "Wenn Ausländerinnen französisch sprechen, ist das sehr hübsch.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der EU-Bürger",
+    "复数男": "die EU-Bürger",
+    "意思男": "EU citizen",
+    "单数女": "die EU-Bürgerin",
+    "复数女": "die EU-Bürgerinnen",
+    "意思女": "EU citizen",
+    "例句": "EU-Bürger werden in dem Raum von Südkalifornien zusammengezogen.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Bankangestellte",
+    "复数男": "die Bankangestellten",
+    "意思男": "bank clerk",
+    "单数女": "die Bankangestellte",
+    "复数女": "die Bankangestellten",
+    "意思女": "bank clerk",
+    "例句": "Der älteste Sohn vom Alten, er sollte wegen Mord an einem Bankangestellten in den Knast, also schickte sein Alter ihn nach New York zurück.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Bankräuber",
+    "复数男": "die Bankräuber",
+    "意思男": "bank thief",
+    "单数女": "die Bankräuberin",
+    "复数女": "die Bankräuberinnen",
+    "意思女": "bank thief",
+    "例句": "Nimm eine Hypothek auf dein Schloss auf, werd Taschendieb oder Bankräuber.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Vorgesetzte",
+    "复数男": "die Vorgesetzten",
+    "意思男": "superior",
+    "单数女": "der Vorgesetzte",
+    "复数女": "die Vorgesetzten",
+    "意思女": "superior",
+    "例句": "Hören Sie, Robert, Ihren Vorgesetzten in der Öffentlichkeit einen Mörder zu nennen, ist wohl kaum konstruktive Kritik.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Empfänger",
+    "复数男": "die Empfänger",
+    "意思男": "recipient",
+    "单数女": "die Empfängerin",
+    "复数女": "die Empfängerinnen",
+    "意思女": "recipient",
+    "例句": "Wer ist der Empfänger von King Kong?",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Kontoinhaber",
+    "复数男": "die Kontoinhaber",
+    "意思男": "account holder",
+    "单数女": "die Kontoinhaberin",
+    "复数女": "die Kontoinhaberinnen",
+    "意思女": "account holder",
+    "例句": "Willkommen in der Familie der Kontoinhaber!",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Vermieter",
+    "复数男": "die Vermieter",
+    "意思男": "landlord",
+    "单数女": "die Vermieterin",
+    "复数女": "die Vermieterinnen",
+    "意思女": "landlord",
+    "例句": "Sie wird sicher eine überaus interessante Vermieterin sein, nicht?",
+    "翻译": ""
   }
 ]
