@@ -5080,5 +5080,684 @@
     "意思": "payment",
     "例句": "Wenn sie stirbt, gehen die Zahlungen an den neuen Josh.",
     "翻译": ""
+  },
+  {
+    "单数": "der Abbruch",
+    "复数": "die Abbrüche",
+    "意思": "cancellation",
+    "例句": "Der Tod tut deiner Technik keinen Abbruch.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Auszahlung",
+    "复数": "die Auszahlungen",
+    "意思": "payout; withdrawal",
+    "例句": "Es dauerte nicht lange, bis der Ansturm auf Auszahlung begann und die Einlagen reichten nicht aus, um die Abhebungen zu decken.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Automat",
+    "复数": "der Automaten",
+    "意思": "vending machine",
+    "例句": "Ihr braucht einen Automaten.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Bestätigung",
+    "复数": "die Bestätigungen",
+    "意思": "confirmation",
+    "例句": "Rufen Sie ihn an, ich brauche die Bestätigung.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Daten",
+    "复数": "",
+    "意思": "data",
+    "例句": "Die Daten sind evtl. noch nicht digitalisiert.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Einzahlung",
+    "复数": "die Einzahlungen",
+    "意思": "deposit",
+    "例句": "Sie haben die Einzahlung bestätigt, nach der du gefragt hast.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Fehlermeldung",
+    "复数": "die Fehlermeldungen",
+    "意思": "error msg",
+    "例句": "Fehlermeldung.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Kontoauszug",
+    "复数": "die Kontoauszüge",
+    "意思": "account statement",
+    "例句": "Kontoauszüge, Kreditanträge, Urkunden.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Korrektur",
+    "复数": "die Korrekturen",
+    "意思": "correction",
+    "例句": "Übersetzung: frumfondel Korrektur:",
+    "翻译": ""
+  },
+  {
+    "单数": "die PIN",
+    "复数": "die PINs",
+    "意思": "PIN (Personal Identification Number)",
+    "例句": "# Pins and needles in my lips ... #",
+    "翻译": ""
+  },
+  {
+    "单数": "das Semester",
+    "复数": "die Semester",
+    "意思": "semester",
+    "例句": "Nun ja, sie hatte mich ein Semester lang.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Taste",
+    "复数": "die Tasten",
+    "意思": "button; key",
+    "例句": "* Tasten klacken. *",
+    "翻译": ""
+  },
+  {
+    "单数": "die Beschwerden",
+    "复数": "",
+    "意思": "complaints; symptoms",
+    "例句": "Viele Beschwerden!",
+    "翻译": ""
+  },
+  {
+    "单数": "das Flüchtlingsheim",
+    "复数": "die Flüchtlingsheime",
+    "意思": "refugee home",
+    "例句": "Dort haben sie auch Flüchtlingsheime.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Gehstock",
+    "复数": "die Gehstöcke",
+    "意思": "walking stick",
+    "例句": "Wir warfen Gödels Gehstock rauf, um den Schläger runterzuholen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Hörgerät",
+    "复数": "die Hörgeräte",
+    "意思": "hearing aid助听器",
+    "例句": "Und ich soll wohl glauben, dass das ein Hörgerät ist.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Zusammenbruch",
+    "复数": "die Zusammenbrüche",
+    "意思": "collapse",
+    "例句": "Ich habe bei der Massage einen kompletten Zusammenbruch gehabt.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Kreislaufzusammenbruch",
+    "复数": "die Kreislaufzusammenbrüche",
+    "意思": "circulatory collapse循环系统衰竭",
+    "例句": "Im Lessingtheater hatte jemand 'n Kreislaufzusammenbruch.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Lupe",
+    "复数": "die Lupen",
+    "意思": "magnifying glass放大镜",
+    "例句": "Das ist eine Möglichkeit für alle, uns unter die Lupe zu nehmen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Pflegedienst",
+    "复数": "die Pflegedienste",
+    "意思": "nursing service; health care service",
+    "例句": "Gestemn ist er bei einem ambulanten Pflegedienst in Brookline eingebrochen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Pflegeheim",
+    "复数": "die Pflegeheime",
+    "意思": "nursing home",
+    "例句": "Pflegeheim.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Rollator",
+    "复数": "die Rollatoren",
+    "意思": "walker; rollator",
+    "例句": "Du rückst die Schlüssel raus und fährst mit dem Fahrrad zum Revier, oder ich verpass dir eine Tracht Prügel, und du schleppst dich am Rollator dorthin.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Rollstuhl",
+    "复数": "die Rollstühle",
+    "意思": "wheelchair",
+    "例句": "In seinem Alter im Rollstuhl.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Unterstützung",
+    "复数": "",
+    "意思": "support; assistance",
+    "例句": "Ich brauch da vielleicht Unterstützung.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Altenheim",
+    "复数": "die Altenheime",
+    "意思": "retirement home",
+    "例句": "Du meinst ein Altenheim?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Energie",
+    "复数": "die Energien",
+    "意思": "energy",
+    "例句": "Sie versuchen, die Energie zu lenken auf ein erklärtes, beschlossenes, zielorientiertes Projekt, ein EBZOP.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Grund",
+    "复数": "die Grunde",
+    "意思": "reason",
+    "例句": "Im Grunde meine ich...",
+    "翻译": ""
+  },
+  {
+    "单数": "das Bügeleisen",
+    "复数": "die Bügeleisen",
+    "意思": "iron (for clothing)",
+    "例句": "Ach, er ist der Bügeleisen-Heini?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Bürste",
+    "复数": "die Bürsten",
+    "意思": "brush; scrubber",
+    "例句": "Die Schmuckdose und Bürste waren in ihrem Unterschlupf.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Chaos",
+    "复数": "",
+    "意思": "chaos",
+    "例句": "Da drin herrscht Chaos.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Lappen",
+    "复数": "die Lappen",
+    "意思": "rag, cloth",
+    "例句": "Und ein Lappen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Mülleimer",
+    "复数": "die Mülleimer",
+    "意思": "waste bin",
+    "例句": "Wurde in dem Mülleimer da gefunden.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Mülltonne",
+    "复数": "die Mülltonnen",
+    "意思": "garbage can",
+    "例句": "Den habe ich doch daheim in die Mülltonne geworfen.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Pfandflasche",
+    "复数": "die Pfandflaschen",
+    "意思": "deposit bottle",
+    "例句": "Irgendwann habe ich Pfandflaschen gesammelt.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Pflanze",
+    "复数": "die Pflanzen",
+    "意思": "plant",
+    "例句": "Ich wollte, dass die Pflanzen nicht so lange in der Sonne stehen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Schwamm",
+    "复数": "die Schwämme",
+    "意思": "sponge",
+    "例句": "Er schwamm gut.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Staub",
+    "复数": "",
+    "意思": "dust",
+    "例句": "Ach, Walter, wir werden uns ins Ausland absetzen, bis sich dieser Staub in Berlin gelegt hat.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Fest",
+    "复数": "die Feste",
+    "意思": "celebration, party",
+    "例句": "Und auch früher, vor zehn oder 20 Jahren, bat Frau Beckmann nie um Akteneinsicht und stellte dann fest, dass die Akte fehlt?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Hausordnung",
+    "复数": "die Hausordnungen",
+    "意思": "house rule",
+    "例句": "Das steht in der Hausordnung.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Nachbarschaft",
+    "复数": "die Nachbarschaften",
+    "意思": "neighbourhood",
+    "例句": "- Kein Wunder, dass dich niemand in der Nachbarschaft mag.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Treppenhaus",
+    "复数": "die Treppenhäuser",
+    "意思": "stairwell",
+    "例句": "-Ich bin im Treppenhaus eingesperrt.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Angebot",
+    "复数": "die Angebote",
+    "意思": "offering, range, discount, on sale",
+    "例句": "Unser Angebot kam für ihn unerwartet.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Betreuung",
+    "复数": "",
+    "意思": "care",
+    "例句": "Ihre Anwälte bewahrten Jared letztes Jahr vor der Jugendhaft, unter der Bedingung regelmäßiger psychologischer Betreuung.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Grundschule",
+    "复数": "die Grundschulen",
+    "意思": "primary school",
+    "例句": "Wir kennen uns fast alle seit der Grundschule.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Gruppe",
+    "复数": "die Gruppen",
+    "意思": "group",
+    "例句": "* Die Gruppe spricht unverständlich. *",
+    "翻译": ""
+  },
+  {
+    "单数": "die Kindertagesstätte",
+    "复数": "die Kindertagesstätten",
+    "意思": "child daycare center; day nursery",
+    "例句": "SOUTHEAST HIGH SCHOOL KINDERTAGESSTÄTTE",
+    "翻译": ""
+  },
+  {
+    "单数": "der Unterschied",
+    "复数": "die Unterschiede",
+    "意思": "difference",
+    "例句": "Das ist kein Unterschied, dieses Stück Scheiße kommt eh nicht vom Fleck.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Ausland",
+    "复数": "",
+    "意思": "abroad",
+    "例句": "Mit dem Versicherungsgeld wollte er ins Ausland.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Ergebnis",
+    "复数": "die Ergebnisse",
+    "意思": "result",
+    "例句": "Wir haben die DNA-Probe, die Herr Beckmann abgab, mit der von Ihren Zigaretten verglichen und das Ergebnis war eindeutig.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Fernreise",
+    "复数": "die Fernreisen",
+    "意思": "long-distance travel",
+    "例句": "Versicherungen, Bausparverträge, Fernreisen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Flug",
+    "复数": "die Flüge",
+    "意思": "flight",
+    "例句": "Sie hatte einen Flug gebucht für gestern 16 Uhr nach Dubai.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Geschäftsreise",
+    "复数": "die Geschäftsreisen",
+    "意思": "business trip",
+    "例句": "Geschäftsreise oder Urlaub?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Gruppenreise",
+    "复数": "die Gruppenreisen",
+    "意思": "group trip",
+    "例句": "-und fiktive Gruppenreisen planen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Hinflug",
+    "复数": "die Hinflüge",
+    "意思": "the flight to",
+    "例句": "Nach dem Hinflug.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Kultur",
+    "复数": "die Kulturen",
+    "意思": "culture",
+    "例句": "Sie nennen es die \"Kultur des Zweifels\".",
+    "翻译": ""
+  },
+  {
+    "单数": "der Ort",
+    "复数": "die Orte",
+    "意思": "place",
+    "例句": "Er war vor Ort, als Hugo starb.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Prozent",
+    "复数": "die Prozente",
+    "意思": "percent %",
+    "例句": "89 Prozent der Frauen in der DDR sind Vollzeit berufstätig.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Reisebüro",
+    "复数": "die Reisebüros",
+    "意思": "travel agency",
+    "例句": "In einem Reisebüro, ehe die Kinder kamen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Rückflug",
+    "复数": "die Rückflüge",
+    "意思": "the flight back",
+    "例句": "Aber am Tag vor unserem Rückflug fanden wir ihn tot.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Rundreise",
+    "复数": "die Rundreisen",
+    "意思": "round trip",
+    "例句": "Und alle hoffen, dass diese Rundreise ein wenig unbeschwerter, ein wenig fröhlicher wird.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Städteurlaub",
+    "复数": "die Städteurlaube",
+    "意思": "city trip",
+    "例句": "Wir machen einen Städteurlaub in Berlin und besuchen dort viele Museen und Sehenswürdigkeiten.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Strandurlaub",
+    "复数": "die Strandurlaube",
+    "意思": "beach vacation",
+    "例句": "Und das kleine Handtuch habe ich nicht auf dem Kopf, um dem britischen Strandurlaub der 1950er zu huldigen, sondern weil ich hinter diesem Fetzen",
+    "翻译": ""
+  },
+  {
+    "单数": "der Aufenthalt",
+    "复数": "die Aufenthalte",
+    "意思": "residence; stay",
+    "例句": "Schönen Aufenthalt Ihnen noch.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Aufgabe",
+    "复数": "die Aufgaben",
+    "意思": "task, duty, work",
+    "例句": "Die Aufgaben gehen weit über das Falschparken hinaus.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Ausweis",
+    "复数": "die Ausweise",
+    "意思": "ID card",
+    "例句": "Haben Sie einen Ausweis bei sich, Annabel?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Badewanne",
+    "复数": "die Badewannen",
+    "意思": "bathtub",
+    "例句": "Ich glaube, ich bin zu alt für Sex in einer Badewanne voller Trauben.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Cocktail",
+    "复数": "die Cocktails",
+    "意思": "cocktail",
+    "例句": "Das verlangt nach meinem Cocktail.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Doppelzimmer",
+    "复数": "die Doppelzimmer",
+    "意思": "double room, room for two people",
+    "例句": "Wir buchten ein Doppelzimmer, dar Name ist Marescalchi.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Einzelzimmer",
+    "复数": "die Einzelzimmer",
+    "意思": "single room, room for one person",
+    "例句": "Wir sagten, zwei Einzelzimmer.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Frühstücksbuffet",
+    "复数": "die Frühstücksbuffets",
+    "意思": "breakfast buffet",
+    "例句": "Es gab ein Frühstücksbuffet für die Zeugen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Gang",
+    "复数": "die Gänge",
+    "意思": "hallway; corridor",
+    "例句": "Sie werden in die Gänge kommen müssen.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Haustier",
+    "复数": "die Haustiere",
+    "意思": "pet",
+    "例句": "Vielleicht war es ein Haustier.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Pension",
+    "复数": "die Pensionen",
+    "意思": "guest house",
+    "例句": "Ich lebe in Wien und habe dort eine Pension.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Reisepass",
+    "复数": "die Reisepässe",
+    "意思": "passport",
+    "例句": "Ich habe ihren Reisepass, wir fliegen weg.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Rezeption",
+    "复数": "die Rezeptionen",
+    "意思": "reception; front desk",
+    "例句": "Kurz nachdem sie Samstagabend weggefahren ist, erfolgte ein 42-sekündiger Anruf auf ein Prepaidhandy von der Rezeption des Mara.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Schlafsaal",
+    "复数": "die Schlafsäle",
+    "意思": "dormitory",
+    "例句": "Der Schlafsaal ist da.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Abfahrt",
+    "复数": "die Abfahrten",
+    "意思": "departure",
+    "例句": "X2000 nach Uppsala, Abfahrt um 13 Uhr 25.\"",
+    "翻译": ""
+  },
+  {
+    "单数": "die Ankunft",
+    "复数": "die Ankünfte",
+    "意思": "arrival",
+    "例句": "Ich spüre es seit unserer Ankunft.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Fahrschein",
+    "复数": "die Fahrscheine",
+    "意思": "ticket",
+    "例句": "Ihre Fahrscheine.",
+    "翻译": ""
+  },
+  {
+    "单数": "das Gleis",
+    "复数": "die Gleise",
+    "意思": "platform",
+    "例句": "(Durchsage:) \"Auf Gleis drei steht jetzt bereit",
+    "翻译": ""
+  },
+  {
+    "单数": "der Regenschirm",
+    "复数": "die Regenschirme",
+    "意思": "umbrella",
+    "例句": "Was war das für ein komischer Typ mit dem Regenschirm?",
+    "翻译": ""
+  },
+  {
+    "单数": "der Reiseführer",
+    "复数": "die Reiseführer",
+    "意思": "travel guidebook",
+    "例句": "DER SICHERE REISEFÜHRER FÜR NEGER",
+    "翻译": ""
+  },
+  {
+    "单数": "die Rückfahrt",
+    "复数": "die Rückfahrten",
+    "意思": "return journey",
+    "例句": "Auf der Rückfahrt hat er mich vollgelabert, um bei Thekla Eindruck zu schinden.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Sonnencreme",
+    "复数": "die Sonnencremes",
+    "意思": "sun cream",
+    "例句": "Ich habe meine Sonnencreme vergessen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Stadtrundgang",
+    "复数": "ie Stadtrundgänge",
+    "意思": "sightseeing tour",
+    "例句": "Einen Jack-the-Ripper-Stadtrundgang.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Verbindung",
+    "复数": "die Verbindungen",
+    "意思": "connection",
+    "例句": "Er wohnt hier, hat Verbindungen.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Bahnsteig",
+    "复数": "die Bahnsteige",
+    "意思": "train platform",
+    "例句": "Miranda hat den Zug verlassen, und es gibt überall Kameras auf dem Bahnsteig, oder?",
+    "翻译": ""
+  },
+  {
+    "单数": "die einfache Fahrt",
+    "复数": "die einfachen Fahrten",
+    "意思": "one-way trip",
+    "例句": "Ok, einfache Fahrt?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Einzelticket",
+    "复数": "die Einzeltickets",
+    "意思": "single ticket",
+    "例句": "Einzelticket oder Abo?",
+    "翻译": ""
+  },
+  {
+    "单数": "die Ermäßigung",
+    "复数": "die Ermäßigungen",
+    "意思": "discount",
+    "例句": "Gibt es keine Bundesheer-Ermäßigung oder so?",
+    "翻译": ""
+  },
+  {
+    "单数": "das Kleingeld",
+    "复数": "",
+    "意思": "change; loose cash",
+    "例句": "Also, an Kleingeld war der nicht interessiert.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Regionalbahn",
+    "复数": "die Regionalbahnen",
+    "意思": "regional train",
+    "例句": "Um 3.20 Uhr geht eine Regionalbahn nach Kassel.",
+    "翻译": ""
+  },
+  {
+    "单数": "die S-Bahn",
+    "复数": "die S-Bahnen",
+    "意思": "S-Bahn",
+    "例句": "Das war mal die S-Bahn in Berlin.",
+    "翻译": ""
+  },
+  {
+    "单数": "der ICE",
+    "复数": "die ICEs",
+    "意思": "InterCity Express, high-speed train",
+    "例句": "ICE SUITE",
+    "翻译": ""
+  },
+  {
+    "单数": "der Schalter",
+    "复数": "die Schalter",
+    "意思": "counter, switch",
+    "例句": "Eine Vagina ist kein 24-Stunden-Schalter.",
+    "翻译": ""
+  },
+  {
+    "单数": "der Start",
+    "复数": "die Starts",
+    "意思": "start",
+    "例句": "Die Ultras sind wieder am Start.",
+    "翻译": ""
+  },
+  {
+    "单数": "die Strecke",
+    "复数": "die Strecken",
+    "意思": "distance",
+    "例句": "Fahren Sie diese Strecke hier öfter?",
+    "翻译": ""
   }
 ]
