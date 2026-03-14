@@ -828,5 +828,115 @@
     "意思女": "landlord",
     "例句": "Sie wird sicher eine überaus interessante Vermieterin sein, nicht?",
     "翻译": ""
+  },
+  {
+    "单数男": "der Single",
+    "复数男": "die Singles",
+    "意思男": "single person",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Sie hat 'ne Freundin dabei, die Single ist.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Altenpfleger",
+    "复数男": "die Altenpfleger",
+    "意思男": "elderly-caring nurse",
+    "单数女": "die Altenpflegerin",
+    "复数女": "die Altenpflegerinnen",
+    "意思女": "elderly-caring nurse",
+    "例句": "Die Altenpflegerin Hatice C.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Rentner",
+    "复数男": "die Rentner",
+    "意思男": "retired people",
+    "单数女": "die Rentnerin",
+    "复数女": "die Rentnerinnen",
+    "意思女": "retired people",
+    "例句": "(flüstert) Außer einer, der seine Rentner für sich arbeiten lässt.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Alleinerziehende",
+    "复数男": "die Alleinerziehenden",
+    "意思男": "single father",
+    "单数女": "die Alleinerziehende",
+    "复数女": "die Alleinerziehenden",
+    "意思女": "single mother",
+    "例句": "Oder die alleinerziehende Mutter, die um ihr Überleben kämpft.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Bewohner",
+    "复数男": "die Bewohner",
+    "意思男": "resident",
+    "单数女": "die Bewohnerin",
+    "复数女": "die Bewohnerinnen",
+    "意思女": "resident",
+    "例句": "Und sie wollten uns zu einem Getränk einladen, die freundlichen Bewohner dieses Dorfes.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Befragte",
+    "复数男": "die Befragten",
+    "意思男": "respondent",
+    "单数女": "die Befragte",
+    "复数女": "die Befragten",
+    "意思女": "respondent",
+    "例句": "Joseph Folio und Robert Patton den Befragten vertreten.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Hotelmanager",
+    "复数男": "die Hotelmanager",
+    "意思男": "hotel manager",
+    "单数女": "die Hotelmanagerin",
+    "复数女": "die Hotelmanagerinnen",
+    "意思女": "hotel manager",
+    "例句": "Jetzt brauchen die spanischen Hotelmanager nur schnellstmöglich ein Briefing, damit die wissen, wohin die Reise geht.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Rezeptionist",
+    "复数男": "die Rezeptionisten",
+    "意思男": "front desk clerk",
+    "单数女": "die Rezeptionistin",
+    "复数女": "die Rezeptionistinnen",
+    "意思女": "front desk clerk",
+    "例句": "Gita, die Rezeptionistin des Hotels.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Roomboy",
+    "复数男": "die Roomboys",
+    "意思男": "housekeeping person",
+    "单数女": "das Zimmermädchen",
+    "复数女": "die Zimmermädchen",
+    "意思女": "housekeeping person",
+    "例句": "Zimmermädchen.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Senior",
+    "复数男": "die Senioren",
+    "意思男": "old people",
+    "单数女": "die Seniorin",
+    "复数女": "die Seniorinnen",
+    "意思女": "old people",
+    "例句": "Senioren schätzen junge Leute, die sich nicht scheuen, ihre Ideen zu äußern.",
+    "翻译": ""
+  },
+  {
+    "单数男": "der Erwachsene",
+    "复数男": "die Erwachsenen",
+    "意思男": "adult",
+    "单数女": "die Erwachsene",
+    "复数女": "die Erwachsenen",
+    "意思女": "adult",
+    "例句": "-Spaß für Erwachsene.",
+    "翻译": ""
   }
 ]
