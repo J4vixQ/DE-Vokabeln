@@ -109,11 +109,16 @@ html, body {
   justify-content: center;
 }
 .deck-actions {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 0;
+  right: 0;
   display: flex;
   justify-content: center;
-  margin-top: 1rem;
+  pointer-events: none;
 }
 .next-btn {
+  pointer-events: auto;
   padding: 0.6em 2em;
   font-size: 1rem;
   border-radius: 0.5em;
@@ -216,7 +221,14 @@ html, body {
   font-size: 0.8rem;
   color: var(--fg);
   text-align: left;
+  margin-bottom: 0.15rem;
+}
+.vocab-card-translation {
+  font-size: 0.8rem;
+  color: var(--gray);
+  text-align: left;
   margin-bottom: 0rem;
+  font-style: italic;
 }
 
 

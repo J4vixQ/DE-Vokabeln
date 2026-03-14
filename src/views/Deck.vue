@@ -19,74 +19,33 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue';
-import { useRouter, useRoute } from 'vue-router';
-import VocabCard from '../components/VocabCard.vue';
+import { ref, onMounted } from 'vue'
+import { useRouter, useRoute } from 'vue-router'
+import VocabCard from '../components/VocabCard.vue'
+import { deckNameMap } from '../constants'
 
-// 1. 获取路由参数
-const route = useRoute();
-const router = useRouter();
-function goHome() {
-  router.push('/');
+const route  = useRoute()
+const router = useRouter()
+
+const deckId   = route.params.deckId
+const deckName = deckNameMap[deckId] || deckId
+
+const allData      = ref([])
+const currentCards = ref([])
+
+function showRandomCard() {
+  if (!allData.value.length) return
+  const idx = Math.floor(Math.random() * allData.value.length)
+  currentCards.value = [allData.value[idx]]
 }
-const deckId = route.params.deckId;
 
-// 2. 卡片标题映射
-const deckNameMap = {
-  nomen_obj: "Nomen - Objekte",
-  nomen_people: "Nomen - Personen",
-  verben_base: "Verben Grundformen",
-  verben_phrasen: "Verben Phrasen",
-  adj_adv: "Adjektive und Adverbien",
-  adv_phrasen: "Adverb Phrasen",
-};
-const deckName = deckNameMap[deckId] || deckId;
+function goHome() {
+  router.push('/')
+}
 
-// 3. 卡片数据
-const allData = ref([]);
-const currentCards = ref([]);
-
-// 4. 随机索引
-const rand = max => Math.floor(Math.random() * max);
-
-// 5. 随机抽取一条/多条卡片
-// const showRandomCard = () => {
-//   if (!allData.value.length) return;
-//   const item = allData.value[rand(allData.value.length)];
-//   currentCards.value = [];
-
-//   if (deckId === 'nomen_people') {
-//     const hasMale = item["单数男"] || item["复数男"] || item["意思男"];
-//     const hasFemale = item["单数女"] || item["复数女"] || item["意思女"];
-//     if (hasMale) {
-//       currentCards.value.push({
-//         单数: item["单数男"],
-//         复数: item["复数男"],
-//         意思: item["意思男"]
-//       });
-//     }
-//     if (hasFemale) {
-//       currentCards.value.push({
-//         单数: item["单数女"],
-//         复数: item["复数女"],
-//         意思: item["意思女"]
-//       });
-//     }
-//   } else {
-//     currentCards.value.push(item);
-//   }
-// };
-const showRandomCard = () => {
-  if (!allData.value.length) return;
-  const item = allData.value[rand(allData.value.length)];
-  currentCards.value = [];
-  currentCards.value.push(item); // 不再拆分人物名词
-};
-
-// 6. 挂载时加载数据
 onMounted(async () => {
-  const res = await fetch(`${import.meta.env.BASE_URL}data/${deckId}.json`);
-  allData.value = await res.json();
-  showRandomCard();
-});
+  const res = await fetch(`${import.meta.env.BASE_URL}data/${deckId}.json`)
+  allData.value = await res.json()
+  showRandomCard()
+})
 </script>
