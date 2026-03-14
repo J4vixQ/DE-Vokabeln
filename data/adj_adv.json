@@ -5,7 +5,7 @@
     "最高级": "bekanntesten",
     "意思": "famous",
     "例句": "Bekannte?",
-    "翻译": ""
+    "翻译": "著名的人？"
   },
   {
     "原型": "heiß",
@@ -13,7 +13,7 @@
     "最高级": "heißesten",
     "意思": "hot",
     "例句": "Das neidet einem die Konkurrenz und wirbelt Schmutz auf und unterstellt uns gern anonym einen heißen Draht zur Behörde.",
-    "翻译": ""
+    "翻译": "这会让竞争对手嫉妒，并且他们会喜欢匿名地指控我们有内部消息。"
   },
   {
     "原型": "kalt",
@@ -21,7 +21,7 @@
     "最高级": "kältesten",
     "意思": "cold",
     "例句": "Mir ist kalt - hätte lange Unterhosen anziehen sollen.",
-    "翻译": ""
+    "翻译": "我冷了 - 应该穿长裤内裤。"
   },
   {
     "原型": "nass",
@@ -29,7 +29,7 @@
     "最高级": "nassesten",
     "意思": "wet",
     "例句": "He, ich werd nass!",
-    "翻译": ""
+    "翻译": "嘿，我湿了！"
   },
   {
     "原型": "regnerisch",
@@ -37,7 +37,7 @@
     "最高级": "regnerischsten",
     "意思": "rainy",
     "例句": "Es war eine furchtbar regnerische Nacht... und die Straßen waren gemein rutschig.",
-    "翻译": ""
+    "翻译": "这是一个可怕的 rainy 夜晚……而且街道异常湿滑。"
   },
   {
     "原型": "schlimm",
@@ -45,7 +45,7 @@
     "最高级": "schlimmsten",
     "意思": "terrible",
     "例句": "Das sieht schlimm aus.",
-    "翻译": ""
+    "翻译": "这看起来很糟糕。"
   },
   {
     "原型": "schön",
@@ -53,7 +53,7 @@
     "最高级": "schönsten",
     "意思": "beautiful",
     "例句": "An etwas Schönes, irgendwas.",
-    "翻译": ""
+    "翻译": "关于一些美好的事情，随便什么。"
   },
   {
     "原型": "schwer",
@@ -61,7 +61,7 @@
     "最高级": "schwersten",
     "意思": "heavy",
     "例句": "* Schweres Atmen *",
-    "翻译": ""
+    "翻译": "沉重的呼吸"
   },
   {
     "原型": "sonnig",
@@ -69,7 +69,7 @@
     "最高级": "sonnigsten",
     "意思": "sunny",
     "例句": "Du hast ein sonniges Gemüt.",
-    "翻译": ""
+    "翻译": "你有着阳光般的好心情。"
   },
   {
     "原型": "spanned",
@@ -77,7 +77,7 @@
     "最高级": "spannedsten",
     "意思": "exciting",
     "例句": "Das war ein spanneder Weg, Jackson.",
-    "翻译": ""
+    "翻译": "这是一段激动人心的旅程，杰克逊。"
   },
   {
     "原型": "trocken",
@@ -85,7 +85,7 @@
     "最高级": "trockensten",
     "意思": "dry",
     "例句": "Wenn Sie ein trockenes Taschentuch für mich hätten?",
-    "翻译": ""
+    "翻译": "你能给我一张干的纸巾吗？"
   },
   {
     "原型": "warm",
@@ -93,7 +93,7 @@
     "最高级": "wärmsten",
     "意思": "warm",
     "例句": "Gibt's kein warmes Essen?",
-    "翻译": ""
+    "翻译": "没有热的食物吗？"
   },
   {
     "原型": "kühl",
@@ -101,7 +101,7 @@
     "最高级": "kühlsten",
     "意思": "cool",
     "例句": "Die sitzen den ganzen Tag im schönen kühlen Büro, und die können nicht mal ein Ticker richtig ausfüllen.",
-    "翻译": ""
+    "翻译": "他们整天坐在漂亮的凉爽的办公室里，连张传票都填不好。"
   },
   {
     "原型": "windig",
@@ -109,7 +109,7 @@
     "最高级": "windigsten",
     "意思": "windy",
     "例句": "An dem Tag war es sehr windig.",
-    "翻译": ""
+    "翻译": "那天风很大。"
   },
   {
     "原型": "entspannt",
@@ -117,7 +117,7 @@
     "最高级": "entspanntesten",
     "意思": "relaxed",
     "例句": "* Entspannte, harmonische Musik *",
-    "翻译": ""
+    "翻译": "放松的，和谐的音乐"
   },
   {
     "原型": "bewölkt",
@@ -125,7 +125,7 @@
     "最高级": "bewölktesten",
     "意思": "cloudy",
     "例句": "New York ist bewölkt und es könnte einige Regenschauer geben, deshalb könnten wir während des Fluges ein paar Turbulenzen haben.",
-    "翻译": ""
+    "翻译": "纽约多云，可能会有几场阵雨，因此飞行途中可能会遇到一些气流湍流。"
   },
   {
     "原型": "gemein",
@@ -133,7 +133,7 @@
     "最高级": "gemeinsten",
     "意思": "cruel, nasty",
     "例句": "Die Leute sagen gemeine Sachen, oder?",
-    "翻译": ""
+    "翻译": "人们说一些刻薄的话，对吧？"
   },
   {
     "原型": "heiter",
@@ -141,7 +141,7 @@
     "最高级": "heitersten",
     "意思": "sunny",
     "例句": "Gerade noch so heiter.",
-    "翻译": ""
+    "翻译": "刚好晴朗。"
   },
   {
     "原型": "kompliziert",
@@ -149,7 +149,7 @@
     "最高级": "kompliziertesten",
     "意思": "complicated",
     "例句": "Wozu braucht man was Kompliziertes wie 'ne Ehefrau, wenn man 'nen Freund hat wie dich?",
-    "翻译": ""
+    "翻译": "有了你这样的男友，还需要什么复杂的妻子做什么？"
   },
   {
     "原型": "neblig",
@@ -157,7 +157,7 @@
     "最高级": "nebligsten",
     "意思": "foggy",
     "例句": "Und wenn es an Heiligabend wieder neblig ist?",
-    "翻译": ""
+    "翻译": "如果平安夜又是雾蒙蒙的呢？"
   },
   {
     "原型": "dick",
@@ -165,7 +165,7 @@
     "最高级": "dicksten",
     "意思": "thick, heavy",
     "例句": "Egal, was die Schwester mit dem dicken Hintern sagt.",
-    "翻译": ""
+    "翻译": "无论那条大屁股妹妹说什么。"
   },
   {
     "原型": "dünn",
@@ -173,7 +173,7 @@
     "最高级": "dünnsten",
     "意思": "thin",
     "例句": "Man hatte sie zu dünn geschnitten.",
-    "翻译": ""
+    "翻译": "她被切得太薄了。"
   },
   {
     "原型": "hässlich",
@@ -181,7 +181,7 @@
     "最高级": "hässlichsten",
     "意思": "ugly",
     "例句": "Wenn er wenigstens noch hässlich oder selbstgestrickt wäre,",
-    "翻译": ""
+    "翻译": "如果他至少还难看一点或者自己织的毛衣。"
   },
   {
     "原型": "schick",
@@ -189,7 +189,7 @@
     "最高级": "schicksten",
     "意思": "fancy",
     "例句": "Schicken Sie es einfach hoch.",
-    "翻译": ""
+    "翻译": "simply upload it."
   },
   {
     "原型": "weit",
@@ -197,7 +197,7 @@
     "最高级": "weisten",
     "意思": "wide",
     "例句": "Einem Mann, der alles für eine weitere Siegeskerbe in seinem Gewehr tun würde, um jeden Preis, bevor er in Vergessenheit gerät.",
-    "翻译": ""
+    "翻译": "一个男人，他会不惜一切代价为另一枚胜利勋章做任何事情，就在他即将被遗忘之时。"
   },
   {
     "原型": "eng",
@@ -205,7 +205,7 @@
     "最高级": "engesten",
     "意思": "tight",
     "例句": "Außerdem ist es eng hier.",
-    "翻译": ""
+    "翻译": "这里很拥挤。"
   },
   {
     "原型": "alt",
@@ -213,7 +213,7 @@
     "最高级": "ältesten",
     "意思": "old",
     "例句": "Mensch, Helmut, alter Knabe.",
-    "翻译": ""
+    "翻译": "人类，赫尔穆特，老家伙。"
   },
   {
     "原型": "altmodisch",
@@ -221,7 +221,7 @@
     "最高级": "altmodischsten",
     "意思": "old-fashined",
     "例句": "Ach, wie altmodisch!",
-    "翻译": ""
+    "翻译": "啊，真老土！"
   },
   {
     "原型": "bunt",
@@ -229,7 +229,7 @@
     "最高级": "buntesten",
     "意思": "colorful",
     "例句": "Ob die bunte Menge lobend oder tadelnd dich umdränge.",
-    "翻译": ""
+    "翻译": "不论五彩斑斓的 crowd 是赞美还是批评地围拢上来。"
   },
   {
     "原型": "elegant",
@@ -237,7 +237,7 @@
     "最高级": "elegantesten",
     "意思": "elegant",
     "例句": "Du meinst, die Nigerianer haben sich mit Hilfe von Dekker elegant 3 Regimekritikern entledigt, ja.",
-    "翻译": ""
+    "翻译": "你认为尼日利亚人借助Dekker优雅地摆脱了三位批评君主，是吗？"
   },
   {
     "原型": "formell",
@@ -245,7 +245,7 @@
     "最高级": "formellsten",
     "意思": "formal",
     "例句": "Ein Brief ist zu formell.",
-    "翻译": ""
+    "翻译": "一封信太正式了。"
   },
   {
     "原型": "grell",
@@ -253,7 +253,7 @@
     "最高级": "grellsten",
     "意思": "bright, glaring",
     "例句": "Schallt wider-widerwärtig panisch, Mitunter grell und scharf satanisch,",
-    "翻译": ""
+    "翻译": "声响刺耳地恐慌着，偶尔尖锐得近乎邪恶化;left alone"
   },
   {
     "原型": "hoch",
@@ -261,7 +261,7 @@
     "最高级": "höchsten",
     "意思": "high, tall",
     "例句": "Hoch damit!",
-    "翻译": ""
+    "翻译": "起来！"
   },
   {
     "原型": "hübsch",
@@ -269,7 +269,7 @@
     "最高级": "hübschesten",
     "意思": "beautiful",
     "例句": "Du bist noch hübscher geworden.",
-    "翻译": ""
+    "翻译": "你变得更加漂亮了。"
   },
   {
     "原型": "jung",
@@ -277,7 +277,7 @@
     "最高级": "jüngsten",
     "意思": "young",
     "例句": "- Warum schlugst du den Jungen?",
-    "翻译": ""
+    "翻译": "你为什么打了那个男孩？"
   },
   {
     "原型": "schlicht",
@@ -285,7 +285,7 @@
     "最高级": "schlichtesten",
     "意思": "simple, modest, plain",
     "例句": "Männer sind schlicht und verstehen so was als Signal.",
-    "翻译": ""
+    "翻译": "男人很简单，把这当作信号。"
   },
   {
     "原型": "konservativ",
@@ -293,7 +293,7 @@
     "最高级": "konservativsten",
     "意思": "conservative",
     "例句": "Obwohl er ein Liberaler und ich ein Erz-Konservativer bin.",
-    "翻译": ""
+    "翻译": "尽管他是自由派而我却是死硬保守派。"
   },
   {
     "原型": "schmutzig",
@@ -301,7 +301,7 @@
     "最高级": "schmutzigsten",
     "意思": "dirty",
     "例句": "Schön, Für das schmutzige Geschirr, das tagelang stehen geblieben ist, versteht ihr?",
-    "翻译": ""
+    "翻译": "好，对于那些长时间积攒的脏盘子，你们懂了吗？"
   },
   {
     "原型": "typisch",
@@ -309,7 +309,7 @@
     "最高级": "typischsten",
     "意思": "tyical",
     "例句": "Das wäre typisch für Sörmann, wenn er mich zu Weihnachten...",
-    "翻译": ""
+    "翻译": "这典型的是索尔曼干的，如果他给我安排圣诞节……"
   },
   {
     "原型": "abhängig",
@@ -317,7 +317,7 @@
     "最高级": "abhängigsten",
     "意思": "dependent",
     "例句": "Sie waren vom Geld Ihres Ex-Mannes abhängig.",
-    "翻译": ""
+    "翻译": "他们依赖前夫的金钱。"
   },
   {
     "原型": "unabhängig",
@@ -325,7 +325,7 @@
     "最高级": "unabhängigsten",
     "意思": "independent",
     "例句": "Wenn man unabhängig war dann tut man alles, dass man es wieder wird.",
-    "翻译": ""
+    "翻译": "当一个人独立时，他会做一切必要的事情以再次保持独立。"
   },
   {
     "原型": "denkbar",
@@ -333,7 +333,7 @@
     "最高级": "denkbarsten",
     "意思": "thinkable",
     "例句": "Ja, der Moment war denkbar ungünstig.",
-    "翻译": ""
+    "翻译": "是的，那个时刻非常不利。"
   },
   {
     "原型": "undenkbar",
@@ -341,7 +341,7 @@
     "最高级": "undenkbarsten",
     "意思": "unthinkable",
     "例句": "Undenkbar!",
-    "翻译": ""
+    "翻译": "难以想象！"
   },
   {
     "原型": "glaublich",
@@ -349,7 +349,7 @@
     "最高级": "glaubllichsten",
     "意思": "beliebable",
     "例句": "Un-fucking-glaublich!",
-    "翻译": ""
+    "翻译": "难以置信！"
   },
   {
     "原型": "unglaublich",
@@ -357,7 +357,7 @@
     "最高级": "unglaublichsten",
     "意思": "unbelievable",
     "例句": "Unglaublich, dass es so etwas gibt.",
-    "翻译": ""
+    "翻译": "难以置信，竟然有这种事。"
   },
   {
     "原型": "bereit",
@@ -365,7 +365,7 @@
     "最高级": "bereitesten",
     "意思": "wide, broad",
     "例句": "Er ist bereit.",
-    "翻译": ""
+    "翻译": "他准备好了。"
   },
   {
     "原型": "speziell",
@@ -373,7 +373,7 @@
     "最高级": "speziellsten",
     "意思": "special",
     "例句": "Mein Geheimdienst hat mir zugetragen, dass für Sie heute ein ganz spezieller Tag ist.",
-    "翻译": ""
+    "翻译": "我的情报部门告诉我，今天对你来说是一个特别的日子。"
   },
   {
     "原型": "stark",
@@ -381,7 +381,7 @@
     "最高级": "stärksten",
     "意思": "heavy, strong",
     "例句": "Bei einer starken Truppe?",
-    "翻译": ""
+    "翻译": "在一支强大的部队中？"
   },
   {
     "原型": "fett",
@@ -389,7 +389,7 @@
     "最高级": "fettesten",
     "意思": "fat, greasy",
     "例句": "Dann haben Sie sich mit Klinge die fette Beute geteilt.",
-    "翻译": ""
+    "翻译": "然后你和刀分享了那份肥肉。"
   },
   {
     "原型": "scharf",
@@ -397,7 +397,7 @@
     "最高级": "schärfsten",
     "意思": "spicy",
     "例句": "Ich habe die Benutzung scharfer Munition angeordnet.",
-    "翻译": ""
+    "翻译": "我已下令使用实弹。"
   },
   {
     "原型": "gesund",
@@ -405,7 +405,7 @@
     "最高级": "gesundesten",
     "意思": "healthy",
     "例句": "Aber ich bin völlig gesund.",
-    "翻译": ""
+    "翻译": "但我完全健康。"
   },
   {
     "原型": "ungesund",
@@ -413,7 +413,7 @@
     "最高级": "ungesundesten",
     "意思": "unhealthy",
     "例句": "So was ist ungesund!",
-    "翻译": ""
+    "翻译": "所以这就是不健康！"
   },
   {
     "原型": "geschwollen",
@@ -421,7 +421,7 @@
     "最高级": "geschwollensten",
     "意思": "swollen",
     "例句": "Große Milz, geschwollene Lymphknoten:",
-    "翻译": ""
+    "翻译": "脾肿大，淋巴结肿大："
   },
   {
     "原型": "doof",
@@ -429,7 +429,7 @@
     "最高级": "doofsten",
     "意思": "silly, stupid",
     "例句": "Die mit der doofen Dauerwelle.",
-    "翻译": ""
+    "翻译": "带上了那个傻乎乎的长发髻。"
   },
   {
     "原型": "leise",
@@ -437,7 +437,7 @@
     "最高级": "leisesten",
     "意思": "quiet",
     "例句": "♪ Ganz leise ♪",
-    "翻译": ""
+    "翻译": "♪ 很安静 ♪"
   },
   {
     "原型": "verletzt",
@@ -445,7 +445,7 @@
     "最高级": "verletztesten",
     "意思": "infured",
     "例句": "Ich muss diese Situation schnell klären, bevor noch jemand verletzt oder getötet wird.",
-    "翻译": ""
+    "翻译": "我必须尽快弄清这种情况，以免有人受伤或死亡。"
   },
   {
     "原型": "nervös",
@@ -453,7 +453,7 @@
     "最高级": "nervösesten",
     "意思": "nervous",
     "例句": "- Sie ist ein bisschen nervös.",
-    "翻译": ""
+    "翻译": "她有点紧张。"
   },
   {
     "原型": "normal",
@@ -461,7 +461,7 @@
     "最高级": "normalsten",
     "意思": "normal",
     "例句": "- Das ist nicht normal.",
-    "翻译": ""
+    "翻译": "这不正常。"
   },
   {
     "原型": "sympathisch",
@@ -469,7 +469,7 @@
     "最高级": "sympathischsten",
     "意思": "friendly,nice,kind,likeable, not sympathic",
     "例句": "Die Chefin ist sehr sympathisch.",
-    "翻译": ""
+    "翻译": "这位女主管非常和蔼可亲。"
   },
   {
     "原型": "traurig",
@@ -477,7 +477,7 @@
     "最高级": "traurigsten",
     "意思": "sad",
     "例句": "Bist du traurig?",
-    "翻译": ""
+    "翻译": "你难过吗？"
   },
   {
     "原型": "hilfsbereit",
@@ -485,7 +485,7 @@
     "最高级": "hilfsbereitesten",
     "意思": "helpful; cooperative",
     "例句": "Immer soll man hilfsbereit sein!",
-    "翻译": ""
+    "翻译": "总是应该乐于助人！"
   },
   {
     "原型": "locker",
@@ -493,7 +493,7 @@
     "最高级": "lockersten",
     "意思": "loose; relaxed; easy",
     "例句": "Locker, Mädels.",
-    "翻译": ""
+    "翻译": "放松，姑娘们。"
   },
   {
     "原型": "sicher",
@@ -501,7 +501,7 @@
     "最高级": "sichersten",
     "意思": "safe",
     "例句": "Also wurden wir als Gefangene weggeschlossen, und eins ist sicher:",
-    "翻译": ""
+    "翻译": "我们也被关进了监狱，可以确定的是："
   },
   {
     "原型": "spontan",
@@ -509,7 +509,7 @@
     "最高级": "spontansten",
     "意思": "spontaneous 自发，随和，即兴",
     "例句": "Dass Sie spontan eingesprungen sind, find ich toll.",
-    "翻译": ""
+    "翻译": "您能自发地参与进来，我觉得很好。"
   },
   {
     "原型": "parallel",
@@ -517,7 +517,7 @@
     "最高级": "parallelsten",
     "意思": "parallel 并行（同时）",
     "例句": "Auf dem Gipfelgrad ab Staffel laufen die Bahnen dann friedlich parallel.",
-    "翻译": ""
+    "翻译": "在海拔较高的地段，线路然后和平行地平缓运行。"
   },
   {
     "原型": "konkurrent",
@@ -525,7 +525,7 @@
     "最高级": "konkurrentesten",
     "意思": "concurrent 并发（交替）",
     "例句": "Ich habe viele Konkurrenten.",
-    "翻译": ""
+    "翻译": "我有很多竞争对手。"
   },
   {
     "原型": "unterschiedlich",
@@ -533,7 +533,7 @@
     "最高级": "unterschiedlichsten",
     "意思": "different",
     "例句": "So unterschiedlich wie das Land sind auch seine Völker.",
-    "翻译": ""
+    "翻译": "这个国家的人民多么多样化啊。"
   },
   {
     "原型": "ungleich",
@@ -541,7 +541,7 @@
     "最高级": "ungleichsten",
     "意思": "different, unequal",
     "例句": "Der Mensch ist ungleich, ungleich sind die Stunden.",
-    "翻译": ""
+    "翻译": "人各不同，时过无回。"
   },
   {
     "原型": "fleißig",
@@ -549,7 +549,7 @@
     "最高级": "fleißigsten",
     "意思": "hardworking",
     "例句": "Ich hab gehört, du trainierst fleißig fürs Tanzturnier!",
-    "翻译": ""
+    "翻译": "我听说你为了舞蹈比赛刻苦训练！"
   },
   {
     "原型": "hart",
@@ -557,7 +557,7 @@
     "最高级": "härtesten",
     "意思": "hard",
     "例句": "Er erwartet eine harte Reaktion von uns, also warten wir.",
-    "翻译": ""
+    "翻译": "他预期我们会作出强烈的反应，所以我们在等待。"
   },
   {
     "原型": "richtig",
@@ -565,7 +565,7 @@
     "最高级": "richtigsten",
     "意思": "right, correct",
     "例句": "Er soll die bestmögliche Pflege bekommen, und ich bin nicht sicher, ob dies der richtige Ort dafür ist.",
-    "翻译": ""
+    "翻译": "他应该得到最好的护理，而且我不确定这是否是合适的地方。"
   },
   {
     "原型": "kaputt",
@@ -573,7 +573,7 @@
     "最高级": "kaputtesten",
     "意思": "broken",
     "例句": "In Ordnung, lieber das Radio, sonst mach ich den Sitz kaputt.",
-    "翻译": ""
+    "翻译": "好的，要么收音机坏了，要不然我就把座位弄坏。"
   },
   {
     "原型": "toll",
@@ -581,7 +581,7 @@
     "最高级": "tollsten",
     "意思": "wonderful",
     "例句": "Aber wenn er in flagranti erwischt wird, erzählt er die tollsten Dinge.",
-    "翻译": ""
+    "翻译": "但是如果他当场被抓个正着，他会说出最精彩的事情。"
   },
   {
     "原型": "männlich",
@@ -589,7 +589,7 @@
     "最高级": "",
     "意思": "masculine",
     "例句": "Wir versammeln alle männlichen Personen am vorderen Eingang.",
-    "翻译": ""
+    "翻译": "我们聚集所有男性人员在前门入口处。"
   },
   {
     "原型": "weiblich",
@@ -597,7 +597,7 @@
     "最高级": "",
     "意思": "feminine",
     "例句": "Ich mÃ¶chte die weiblichen Erstsemester nicht abschrecken.",
-    "翻译": ""
+    "翻译": "我并不想让女freshmen感到害怕。"
   },
   {
     "原型": "kariert",
@@ -605,7 +605,7 @@
     "最高级": "",
     "意思": "checkboard pattern",
     "例句": "Danke Frau Lehrerin, aber ich will kein kariertes Heft mehr sehen.",
-    "翻译": ""
+    "翻译": "谢谢老师，但我再也不想看到格子图案的笔记本了。"
   },
   {
     "原型": "geblümt",
@@ -613,7 +613,7 @@
     "最高级": "",
     "意思": "flowery, floral",
     "例句": "Meine rosa, geblümten BH!",
-    "翻译": ""
+    "翻译": "我的粉红色格子内衣！"
   },
   {
     "原型": "gepunktet",
@@ -621,7 +621,7 @@
     "最高级": "",
     "意思": "dotted; spotted",
     "例句": "Die Jury hat gepunktet.",
-    "翻译": ""
+    "翻译": "评委打分了。"
   },
   {
     "原型": "gestreift",
@@ -629,7 +629,7 @@
     "最高级": "",
     "意思": "striped, bar-like",
     "例句": "Mama, hast du mein gestreiftes Hemd gesehen?",
-    "翻译": ""
+    "翻译": "妈妈，你看到我的条纹衬衫了吗？"
   },
   {
     "原型": "geschieden",
@@ -637,7 +637,7 @@
     "最高级": "",
     "意思": "divorced",
     "例句": "Seine geschiedene Frau fand ihn.",
-    "翻译": ""
+    "翻译": "他的前妻找到了他。"
   },
   {
     "原型": "ledig",
@@ -645,7 +645,7 @@
     "最高级": "",
     "意思": "single",
     "例句": "Ledige kriegen kein Frühstück ans Bett, nicht in diesem Haus.",
-    "翻译": ""
+    "翻译": "单身的人在这儿不会被送上床早餐。"
   },
   {
     "原型": "tot",
@@ -653,7 +653,7 @@
     "最高级": "",
     "意思": "dead",
     "例句": "- Das Kalb war am nächsten Tag tot.",
-    "翻译": ""
+    "翻译": "小牛第二天死了。"
   },
   {
     "原型": "verheiratet",
@@ -661,7 +661,7 @@
     "最高级": "",
     "意思": "married",
     "例句": "Ist er verheiratet?",
-    "翻译": ""
+    "翻译": "他结婚了？"
   },
   {
     "原型": "verwitwet",
@@ -669,7 +669,7 @@
     "最高级": "",
     "意思": "widowed",
     "例句": "Er hat am Rande erwähnt, dass er verwitwet ist.",
-    "翻译": ""
+    "翻译": "他顺便提到自己已丧偶。"
   },
   {
     "原型": "berufstätig",
@@ -677,7 +677,7 @@
     "最高级": "",
     "意思": "employed",
     "例句": "Meine Frau ist berufstätig.",
-    "翻译": ""
+    "翻译": "我的妻子是上班族。"
   },
   {
     "原型": "ungefähr",
@@ -685,7 +685,7 @@
     "最高级": "",
     "意思": "approximate, rough",
     "例句": "Ungefähr jetzt würde ich dir meine Rede vom \"inneren Soldaten\" halten.",
-    "翻译": ""
+    "翻译": "我现在大概会给你讲述我的“内心士兵”演讲。"
   },
   {
     "原型": "perfekt",
@@ -693,7 +693,7 @@
     "最高级": "",
     "意思": "perfect",
     "例句": "Vom technischen Standard ist er perfekt.",
-    "翻译": ""
+    "翻译": "从技术标准来看，他完美无缺。"
   },
   {
     "原型": "besonders",
@@ -701,7 +701,7 @@
     "最高级": "",
     "意思": "especially",
     "例句": "Aber ... die Zeit läuft, besonders für eine Frau.",
-    "翻译": ""
+    "翻译": "但是……时间不等人，尤其是对女人来说。"
   },
   {
     "原型": "dagegen",
@@ -709,7 +709,7 @@
     "最高级": "",
     "意思": "however, instead, on the other hand",
     "例句": "Ich war dagegen, ihn einzuweihen.",
-    "翻译": ""
+    "翻译": "我反对让他参与进来。"
   },
   {
     "原型": "bewusstlos",
@@ -717,7 +717,7 @@
     "最高级": "",
     "意思": "unconscious",
     "例句": "Er ist bewusstlos.",
-    "翻译": ""
+    "翻译": "他昏迷不醒。"
   },
   {
     "原型": "plötzlich",
@@ -725,7 +725,7 @@
     "最高级": "",
     "意思": "suddenly",
     "例句": "Dann musste er plötzlich weg.",
-    "翻译": ""
+    "翻译": "然后他突然必须离开。"
   },
   {
     "原型": "schade",
@@ -733,7 +733,7 @@
     "最高级": "",
     "意思": "too bad",
     "例句": "Schade.",
-    "翻译": ""
+    "翻译": "遗憾。"
   },
   {
     "原型": "sofort",
@@ -741,7 +741,7 @@
     "最高级": "",
     "意思": "immediately",
     "例句": "Ich hielt es für umsichtig, sofort zu handeln...",
-    "翻译": ""
+    "翻译": "我認為立即行動是明智的……"
   },
   {
     "原型": "gebrochen",
@@ -749,7 +749,7 @@
     "最高级": "",
     "意思": "broken",
     "例句": "Und das letzte Tabu ist gebrochen:",
-    "翻译": ""
+    "翻译": "最后一个禁忌已被打破："
   },
   {
     "原型": "erkältet",
@@ -757,7 +757,7 @@
     "最高级": "",
     "意思": "having a cold",
     "例句": "Sind Sie erkältet, Chef?",
-    "翻译": ""
+    "翻译": "您感冒了，老板？"
   },
   {
     "原型": "genug",
@@ -765,7 +765,7 @@
     "最高级": "",
     "意思": "enough",
     "例句": "Genug!",
-    "翻译": ""
+    "翻译": "够了！"
   },
   {
     "原型": "mindestens",
@@ -773,7 +773,7 @@
     "最高级": "",
     "意思": "at least, minimum",
     "例句": "Mindestens 50 Riesen.",
-    "翻译": ""
+    "翻译": "至少五十个大号的。"
   },
   {
     "原型": "genau",
@@ -781,7 +781,7 @@
     "最高级": "",
     "意思": "good, right, exactly",
     "例句": "Genau hier stehen die Wachen...",
-    "翻译": ""
+    "翻译": "正好在这里站着守卫......"
   },
   {
     "原型": "gleich",
@@ -789,7 +789,7 @@
     "最高级": "",
     "意思": "same,equal,soon,near",
     "例句": "Und wenn man beim Schach mit jemandem lang genug spielt, dann merkt man, dass dessen erste drei Züge fast immer gleich sind.",
-    "翻译": ""
+    "翻译": "而且如果和某人下国际象棋时间长 enough 的话，你会发现他前几着棋几乎总是相同的。"
   },
   {
     "原型": "nachher",
@@ -797,7 +797,7 @@
     "最高级": "",
     "意思": "afterwards",
     "例句": "Wir reden nachher.",
-    "翻译": ""
+    "翻译": "我们一会儿再说。"
   },
   {
     "原型": "täglich",
@@ -805,7 +805,7 @@
     "最高级": "",
     "意思": "daily, jeden tag",
     "例句": "Aber ich renne täglich zwei Meilen.",
-    "翻译": ""
+    "翻译": "但我每天跑两英里。"
   },
   {
     "原型": "klasse",
@@ -813,7 +813,7 @@
     "最高级": "",
     "意思": "brilliant, great",
     "例句": "Der Typ hat keine Klasse.",
-    "翻译": ""
+    "翻译": "这个人没有品位。"
   },
   {
     "原型": "klar",
@@ -821,7 +821,7 @@
     "最高级": "",
     "意思": "sure, of course",
     "例句": "Na klar, Sir!",
-    "翻译": ""
+    "翻译": "当然，先生！"
   },
   {
     "原型": "anders",
@@ -829,7 +829,7 @@
     "最高级": "",
     "意思": "different (als)",
     "例句": "- Ich bin anders.",
-    "翻译": ""
+    "翻译": "我不同寻常。"
   },
   {
     "原型": "eigentlich",
@@ -837,7 +837,7 @@
     "最高级": "",
     "意思": "actually",
     "例句": "Sie brauchen wir eigentlich noch und es gibt auch kein Geld für die Zeit.",
-    "翻译": ""
+    "翻译": "我们其实还需要它，但也没有钱来支付这段时间的费用。"
   },
   {
     "原型": "einfach",
@@ -845,7 +845,7 @@
     "最高级": "einfachsten",
     "意思": "easy, simple",
     "例句": "Sieh dir doch einfach den Film an... iss Popcorn und eh du dich's versiehst, bin ich wieder da.",
-    "翻译": ""
+    "翻译": "你看电影……吃爆米花，等你反应过来，我就又回来了。"
   },
   {
     "原型": "irgendwann",
@@ -853,7 +853,7 @@
     "最高级": "",
     "意思": "sometimes",
     "例句": "- Irgendwann muss sie es ja mal lernen.",
-    "翻译": ""
+    "翻译": "总有一天她必须学会。"
   },
   {
     "原型": "simultan",
@@ -861,7 +861,7 @@
     "最高级": "",
     "意思": "simultaneous 同步",
     "例句": "Sprichst und kotzt du simultan?",
-    "翻译": ""
+    "翻译": "你一边说话一边呕吐？"
   },
   {
     "原型": "verschieden",
@@ -869,7 +869,7 @@
     "最高级": "",
     "意思": "different, diverse, all kinds of",
     "例句": "Wir arbeiten an verschiedenen Fronten, aber für den Sieg derselben Gerechtigkeit.",
-    "翻译": ""
+    "翻译": "我们在不同的战线上努力，但为了同样的正义而奋斗。"
   },
   {
     "原型": "eigener",
@@ -877,7 +877,7 @@
     "最高级": "",
     "意思": "own M",
     "例句": "Ihr eigener Sohn!",
-    "翻译": ""
+    "翻译": "你的亲生儿子！"
   },
   {
     "原型": "eigene",
@@ -885,7 +885,7 @@
     "最高级": "",
     "意思": "own F",
     "例句": "Ich sah es mit eigenen Augen.",
-    "翻译": ""
+    "翻译": "我亲眼看到的。"
   },
   {
     "原型": "eigenes",
@@ -893,7 +893,7 @@
     "最高级": "",
     "意思": "own N",
     "例句": "Dein eigenes Kind!",
-    "翻译": ""
+    "翻译": "你的亲生孩子！"
   },
   {
     "原型": "traumhaft",
@@ -901,7 +901,7 @@
     "最高级": "",
     "意思": "dreamy, dreamlike",
     "例句": "Vor allem diese traumhaften Strände.",
-    "翻译": ""
+    "翻译": "尤其是这些梦幻般的海滩。"
   },
   {
     "原型": "jetzt",
@@ -909,7 +909,7 @@
     "最高级": "",
     "意思": "now",
     "例句": "Was machen wir jetzt?",
-    "翻译": ""
+    "翻译": "我们现在做什么？"
   },
   {
     "原型": "viel",
@@ -917,7 +917,7 @@
     "最高级": "meisten",
     "意思": "much",
     "例句": "Und um wie viele Jahre wurde lhre Strafe dadurch verringert?",
-    "翻译": ""
+    "翻译": "她的刑期因此减少了几年？"
   },
   {
     "原型": "viele",
@@ -925,7 +925,7 @@
     "最高级": "meisten",
     "意思": "many",
     "例句": "Sir, es wurden viele Waffen gefunden.",
-    "翻译": ""
+    "翻译": "先生，找到了很多武器。"
   },
   {
     "原型": "wenig",
@@ -933,7 +933,7 @@
     "最高级": "",
     "意思": "little",
     "例句": "Ja, nur ein wenig.",
-    "翻译": ""
+    "翻译": "是的，仅仅一点点。"
   },
   {
     "原型": "wenige",
@@ -941,7 +941,7 @@
     "最高级": "",
     "意思": "few",
     "例句": "Einer der wenigen Menschen, die noch Zivilcourage haben.",
-    "翻译": ""
+    "翻译": "其中一个仍然拥有公民勇气的少数人。"
   },
   {
     "原型": "schlecht",
@@ -949,7 +949,7 @@
     "最高级": "schlechtesten",
     "意思": "bad",
     "例句": "Nicht schlecht.",
-    "翻译": ""
+    "翻译": "不错。"
   },
   {
     "原型": "schnell",
@@ -957,7 +957,7 @@
     "最高级": "schnellsten",
     "意思": "fast",
     "例句": "Eigentlich sollte es etwas schneller gehen.",
-    "翻译": ""
+    "翻译": "实际上应该更快一些。"
   },
   {
     "原型": "nördlich",
@@ -965,7 +965,7 @@
     "最高级": "nördlichsten",
     "意思": "north",
     "例句": "So werden alle drei nördlichen Pässe weit offen sein.",
-    "翻译": ""
+    "翻译": "所以三个北部隘口都将完全敞开。"
   },
   {
     "原型": "südlich",
@@ -973,7 +973,7 @@
     "最高级": "südlichsten",
     "意思": "south",
     "例句": "An was arbeitet Dein Freund Kane... in den südlichen Wäldern?",
-    "翻译": ""
+    "翻译": "你的朋友卡内在哪里工作……在南部的森林里？"
   },
   {
     "原型": "östlich",
@@ -981,7 +981,7 @@
     "最高级": "östlichsten",
     "意思": "east",
     "例句": "Bewegung in den östlichen Wäldern.",
-    "翻译": ""
+    "翻译": "东方森林中的动静。"
   },
   {
     "原型": "westlich",
@@ -989,7 +989,7 @@
     "最高级": "westlichstenn",
     "意思": "west",
     "例句": "Ihr zwei prüft den westlichen Bereich.",
-    "翻译": ""
+    "翻译": "你们两个检查西部区域。"
   },
   {
     "原型": "frei",
@@ -997,7 +997,7 @@
     "最高级": "freiesten",
     "意思": "free",
     "例句": "Freie Liebe ist toll, aber Rache ist auch süß.",
-    "翻译": ""
+    "翻译": "自由的爱情很美好，但复仇也很甜蜜。"
   },
   {
     "原型": "nett",
@@ -1005,7 +1005,7 @@
     "最高级": "nettesten",
     "意思": "nice,friendly,cute",
     "例句": "Es gibt da ein Mädchen, das ich ganz nett finde.",
-    "翻译": ""
+    "翻译": "那里有一个女孩，我觉得不错。"
   },
   {
     "原型": "gern",
@@ -1013,7 +1013,7 @@
     "最高级": "liebsten",
     "意思": "would like, favour, favourite",
     "例句": "Aber ich benutze ihn gern, um Sachen kaputt zu machen.",
-    "翻译": ""
+    "翻译": "但我喜欢用它来搞坏东西。"
   },
   {
     "原型": "oft",
@@ -1021,7 +1021,7 @@
     "最高级": "öftesten",
     "意思": "often",
     "例句": "Aber ehrlich gesagt hab ich oft ein Nickerchen gemacht vor der Suche.",
-    "翻译": ""
+    "翻译": "但说实话，我在搜索之前 often 小睡过一会儿。"
   },
   {
     "原型": "bald",
@@ -1029,7 +1029,7 @@
     "最高级": "ehesten",
     "意思": "soon",
     "例句": "Eher zehn Jahre.",
-    "翻译": ""
+    "翻译": "大约十年。"
   },
   {
     "原型": "früh",
@@ -1037,7 +1037,7 @@
     "最高级": "frühesten",
     "意思": "early",
     "例句": "Das letzte war wohl Miss Pac-Man, in meinem früheren Job.",
-    "翻译": ""
+    "翻译": "最后一个可能是miss Pac-Man，在我以前的工作中。"
   },
   {
     "原型": "spät",
@@ -1045,7 +1045,7 @@
     "最高级": "spätesten",
     "意思": "late",
     "例句": "Wir machen es später, Mom!",
-    "翻译": ""
+    "翻译": "我们一会儿再做，妈妈！"
   },
   {
     "原型": "vielleicht",
@@ -1053,7 +1053,7 @@
     "最高级": "",
     "意思": "perhaps, maybe",
     "例句": "- Vielleicht kann ich etwas helfen.",
-    "翻译": ""
+    "翻译": "也许我可以帮上一点忙。"
   },
   {
     "原型": "möglich",
@@ -1061,7 +1061,7 @@
     "最高级": "möglichsten",
     "意思": "probable",
     "例句": "Wenn es von Patrick ist, kann es alles Mögliche sein.",
-    "翻译": ""
+    "翻译": "如果是帕特里克的，那可能什么都 possible。"
   },
   {
     "原型": "dunkel",
@@ -1069,7 +1069,7 @@
     "最高级": "dunkelsten",
     "意思": "dark",
     "例句": "Die hat im Dunkeln dagelegen und mit sich selbst gesprochen.",
-    "翻译": ""
+    "翻译": "她曾在黑暗中与自己交谈。"
   },
   {
     "原型": "hell",
@@ -1077,7 +1077,7 @@
     "最高级": "hellsten",
     "意思": "light",
     "例句": "Es ist total hell schon.",
-    "翻译": ""
+    "翻译": "天已经大亮了。"
   },
   {
     "原型": "bequem",
@@ -1085,7 +1085,7 @@
     "最高级": "bequemsten",
     "意思": "comfortable physical/practical",
     "例句": "Ein Auto ist bequemer als der Bus.",
-    "翻译": ""
+    "翻译": "汽车比公交车更舒适。"
   },
   {
     "原型": "unbequem",
@@ -1093,7 +1093,7 @@
     "最高级": "unbequemsten",
     "意思": "uncomfortable physical/practical",
     "例句": "Es ist so unbequem, die an meinem Gürtel anzubringen.",
-    "翻译": ""
+    "翻译": "把东西别在我的腰带上真是太不舒服了。"
   },
   {
     "原型": "gemütlich",
@@ -1101,7 +1101,7 @@
     "最高级": "gemütlichsten",
     "意思": "comfortable emotional/atmospheric",
     "例句": "Na ja, jetzt ist er halt alt und nimmt sich ein gemütliches Zimmer in einer Pensionisten-Residenz und würd uns die Strandbar verkaufen.",
-    "翻译": ""
+    "翻译": "嗯，现在他年纪大了，在养老院里租了个舒适的房间，还要把海滩酒吧卖给我们。"
   },
   {
     "原型": "ungemütlich",
@@ -1109,7 +1109,7 @@
     "最高级": "ungemütlichsten",
     "意思": "uncomfortable emotional/atmospheric",
     "例句": "Denn wenn Sie einen Haufen Polizisten zwingen, sich durch einen Berg von Scheiße zu schaufeln, um Ihr Gewehr zu finden, dann blüht Ihnen die ungemütlichste Strafverfolgung, die es je in New York gegeben hat.",
-    "翻译": ""
+    "翻译": "因为如果你们强迫一大群警察挖出一座粪山才能找到你的枪，那么这就是纽约有史以来最不舒服的执法了。"
   },
   {
     "原型": "teuer",
@@ -1117,7 +1117,7 @@
     "最高级": "teuersten",
     "意思": "expensive",
     "例句": "Sie ist die Teuerste in Montreal.",
-    "翻译": ""
+    "翻译": "她是蒙特利尔最贵的。"
   },
   {
     "原型": "billig",
@@ -1125,7 +1125,7 @@
     "最高级": "billigsten",
     "意思": "cheap",
     "例句": "Also ich kann die Culebras billig verkaufen, kein Problem",
-    "翻译": ""
+    "翻译": "我也能便宜卖Culebras，没问题"
   },
   {
     "原型": "ruhig",
@@ -1133,7 +1133,7 @@
     "最高级": "ruhigsten",
     "意思": "quiet (atmosphere, environment)",
     "例句": "Ganz ruhig.",
-    "翻译": ""
+    "翻译": "安静些。"
   },
   {
     "原型": "laut",
@@ -1141,7 +1141,7 @@
     "最高级": "lautesten",
     "意思": "loud",
     "例句": "Laut Tiffany ist das meine einzige Chance.",
-    "翻译": ""
+    "翻译": "据蒂芙尼所说，这是我唯一的机会。"
   },
   {
     "原型": "still",
@@ -1149,7 +1149,7 @@
     "最高级": "stillsten",
     "意思": "silent,quiet,still",
     "例句": "Sei einfach still.",
-    "翻译": ""
+    "翻译": "保持安静。"
   },
   {
     "原型": "sauber",
@@ -1157,7 +1157,7 @@
     "最高级": "saubersten",
     "意思": "clean",
     "例句": "Wenn er kommt, wird er das Fleisch dieser Welt sauber schrubben und uns zeigen, wer wir wirklich sind.",
-    "翻译": ""
+    "翻译": "当他来的时候，他会洗净这个世界上的肉身，让我们看清自己真正的样子。"
   },
   {
     "原型": "dreckig",
@@ -1165,7 +1165,7 @@
     "最高级": "dreckigsten",
     "意思": "dirty",
     "例句": "Dieser dreckige Raum ist eine Kirche.",
-    "翻译": ""
+    "翻译": "这个肮脏的房间是一座教堂。"
   },
   {
     "原型": "fertig",
@@ -1173,7 +1173,7 @@
     "最高级": "",
     "意思": "finished, completed, done",
     "例句": "Meine Waffeln sind fertig!",
-    "翻译": ""
+    "翻译": "我的华夫饼做好了！"
   },
   {
     "原型": "allein",
@@ -1181,7 +1181,7 @@
     "最高级": "",
     "意思": "alone",
     "例句": "Sie ist endlich allein.",
-    "翻译": ""
+    "翻译": "她终于 alone 了。（注：原文中“allein”未被正确翻译为中文的“独自一人”，保持原词以符合字面直译要求）"
   },
   {
     "原型": "einsam",
@@ -1189,7 +1189,7 @@
     "最高级": "einsamsten",
     "意思": "lonely",
     "例句": "Alleine mit den anderen, die da einsam Geld verdienen.",
-    "翻译": ""
+    "翻译": "仅仅和那些独自靠钱赚钱的人在一起。"
   },
   {
     "原型": "verlassen",
@@ -1197,7 +1197,7 @@
     "最高级": "",
     "意思": "abandoned, forsaken, deserted",
     "例句": "Terry, du musst dieses Haus verlassen.",
-    "翻译": ""
+    "翻译": "特里，你必须离开这所房子。"
   },
   {
     "原型": "solo",
@@ -1205,7 +1205,7 @@
     "最高级": "",
     "意思": "solo",
     "例句": "-Da ist die Anne wieder solo.",
-    "翻译": ""
+    "翻译": "安妮又一个人了。"
   },
   {
     "原型": "pünktlich",
@@ -1213,7 +1213,7 @@
     "最高级": "pünktlichsten",
     "意思": "punctual, on time",
     "例句": "Nicht mal zur Beerdigung kannst du pünktlich sein.",
-    "翻译": ""
+    "翻译": "你连葬礼都不能准时出席。"
   },
   {
     "原型": "unpünktlich",
@@ -1221,7 +1221,7 @@
     "最高级": "unpünktlichsten",
     "意思": "unpunctual, not on time",
     "例句": "Ich sagte Bertie, unpünktlich und faul dulde ich nicht.",
-    "翻译": ""
+    "翻译": "我对伯蒂说，我不容忍迟到和懒惰。"
   },
   {
     "原型": "morden",
@@ -1229,7 +1229,7 @@
     "最高级": "mordensten",
     "意思": "morden",
     "例句": "Du gibst dich mit Nazis, Morden und misstrauischen Cops ab.",
-    "翻译": ""
+    "翻译": "你和纳粹分子、杀人犯以及疑心重重的警察打交道。"
   },
   {
     "原型": "heutig",
@@ -1237,7 +1237,7 @@
     "最高级": "",
     "意思": "nowadays",
     "例句": "(Dozent) Der Begriff, des heutigen Seminars wird oft in den Medien verwendet:",
-    "翻译": ""
+    "翻译": "今天的研讨会中使用的术语在媒体上经常被使用："
   },
   {
     "原型": "beruflich",
@@ -1245,7 +1245,7 @@
     "最高级": "",
     "意思": "for work, related to profession",
     "例句": "Je mehr wir über die Beziehungen in ihrem Leben erfahren, persönlich oder beruflich, desto besser.",
-    "翻译": ""
+    "翻译": "我们越是了解他们生活中的关系，无论是个人的还是职业的，就越好。"
   },
   {
     "原型": "fachlich",
@@ -1253,7 +1253,7 @@
     "最高级": "fachlichsten",
     "意思": "professional (knowledge and skills)",
     "例句": "Nur mal so aus fachlichem Interesse ...",
-    "翻译": ""
+    "翻译": "只是出于专业兴趣……"
   },
   {
     "原型": "kompetent",
@@ -1261,7 +1261,7 @@
     "最高级": "kompetentesten",
     "意思": "competent, capable",
     "例句": "Eine von der ENA, sehr kompetent, sehr...",
-    "翻译": ""
+    "翻译": "来自ENA，非常 competent，非常..."
   },
   {
     "原型": "professionell",
@@ -1269,7 +1269,7 @@
     "最高级": "professionellsten",
     "意思": "professional (way of doing things)",
     "例句": "Ist das deine professionelle Diagnose?",
-    "翻译": ""
+    "翻译": "这是你的专业诊断吗？"
   },
   {
     "原型": "fest",
@@ -1277,7 +1277,7 @@
     "最高级": "festesten",
     "意思": "tight,hard,firm,solid,fixed,permanent,steady",
     "例句": "Wyatt steckt im Karton fest.",
-    "翻译": ""
+    "翻译": "Wyatt被纸箱卡住了。"
   },
   {
     "原型": "freundlich",
@@ -1285,7 +1285,7 @@
     "最高级": "freundlichsten",
     "意思": "friendly",
     "例句": "Ich war nicht sehr freundlich.",
-    "翻译": ""
+    "翻译": "我不是很友好。"
   },
   {
     "原型": "lecker",
@@ -1293,7 +1293,7 @@
     "最高级": "leckersten",
     "意思": "yummy,tasty",
     "例句": "Man hat immer einen Vorrat an lebendem, frischem, leckerem Essen.",
-    "翻译": ""
+    "翻译": "总是有新鲜可口的食物供应。"
   },
   {
     "原型": "köstlich",
@@ -1301,7 +1301,7 @@
     "最高级": "köstlichsten",
     "意思": "delicious",
     "例句": "Wir werden uns köstlich amüsieren.",
-    "翻译": ""
+    "翻译": "我们会玩得很开心。"
   },
   {
     "原型": "natürlich",
@@ -1309,7 +1309,7 @@
     "最高级": "natürlichsten",
     "意思": "natural, naturally, of course",
     "例句": "Natürlich nicht.",
-    "翻译": ""
+    "翻译": "当然不。"
   },
   {
     "原型": "schrecklich",
@@ -1317,7 +1317,7 @@
     "最高级": "schrecklichsten",
     "意思": "terrible, awful, awfully, very",
     "例句": "Schrecklich.",
-    "翻译": ""
+    "翻译": "糟糕。"
   },
   {
     "原型": "beliebt",
@@ -1325,7 +1325,7 @@
     "最高级": "beliebtesten",
     "意思": "popular",
     "例句": "Was nicht heißen soll, dass ich sonderlich beliebt wäre.",
-    "翻译": ""
+    "翻译": "这并不意味着我特别受欢迎。"
   },
   {
     "原型": "leicht",
@@ -1333,7 +1333,7 @@
     "最高级": "leichtesten",
     "意思": "easy",
     "例句": "- Kommunikation ist nicht leicht, aber es gibt immer einen Weg.",
-    "翻译": ""
+    "翻译": "沟通不是容易的事，但总有一条路可走。"
   },
   {
     "原型": "egal",
@@ -1341,7 +1341,7 @@
     "最高级": "",
     "意思": "it doesn't matter",
     "例句": "Egal.",
-    "翻译": ""
+    "翻译": "无所谓。"
   },
   {
     "原型": "fremd",
@@ -1349,7 +1349,7 @@
     "最高级": "fremdsten",
     "意思": "foreign",
     "例句": "Sprecht nicht mit Fremden.",
-    "翻译": ""
+    "翻译": "不要和陌生人说话。"
   },
   {
     "原型": "erfolgreich",
@@ -1357,7 +1357,7 @@
     "最高级": "erfolgreichsten",
     "意思": "successful",
     "例句": "Euer System ist nur erfolgreich, weil es auf der Ausbeutung und Plünderung anderer Länder beruht.",
-    "翻译": ""
+    "翻译": "你们的系统只有依靠掠夺其他国家才能成功。"
   },
   {
     "原型": "witzig",
@@ -1365,7 +1365,7 @@
     "最高级": "witzigsten",
     "意思": "funny",
     "例句": "Das ist nicht witzig.",
-    "翻译": ""
+    "翻译": "这不幽默。"
   },
   {
     "原型": "dankbar",
@@ -1373,7 +1373,7 @@
     "最高级": "dankbarsten",
     "意思": "thankful",
     "例句": "Wir nehmen es dankbar an.",
-    "翻译": ""
+    "翻译": "我们欣然接受。"
   },
   {
     "原型": "erleichtert",
@@ -1381,7 +1381,7 @@
     "最高级": "erleichtertsten",
     "意思": "relieved",
     "例句": "Also, wenn die Kräfte wirklich verschwunden sind, fühle ich mich meistens erleichtert.",
-    "翻译": ""
+    "翻译": "此外，如果真的失去了这些力量，我通常会感到轻松。"
   },
   {
     "原型": "geizig",
@@ -1389,7 +1389,7 @@
     "最高级": "geizigsten",
     "意思": "thirsty; miserly",
     "例句": "Wie kann ein Manager so geizig sein!",
-    "翻译": ""
+    "翻译": "经理怎么可以如此小气！"
   },
   {
     "原型": "sauer",
@@ -1397,7 +1397,7 @@
     "最高级": "sauersten",
     "意思": "angry",
     "例句": "Der wird sauer.",
-    "翻译": ""
+    "翻译": "他会生气。"
   },
   {
     "原型": "wütend",
@@ -1405,7 +1405,7 @@
     "最高级": "wütendsten",
     "意思": "angry; furious",
     "例句": "(Er schreit wütend.)",
-    "翻译": ""
+    "翻译": "他愤怒地喊叫。"
   },
   {
     "原型": "zuletzt",
@@ -1413,7 +1413,7 @@
     "最高级": "",
     "意思": "lastly; finally",
     "例句": "Wann hast du zuletzt mit ihm geredet?",
-    "翻译": ""
+    "翻译": "你最后一次和他说话是什么时候？"
   },
   {
     "原型": "erwachsen",
@@ -1421,7 +1421,7 @@
     "最高级": "",
     "意思": "grown-up; mature",
     "例句": "Ich bin erwachsen.",
-    "翻译": ""
+    "翻译": "我已成年。"
   },
   {
     "原型": "streng",
@@ -1429,7 +1429,7 @@
     "最高级": "strengsten",
     "意思": "severe; strict",
     "例句": "(Mann streng) \"Pauline.\" - \"Willst du das hier?",
-    "翻译": ""
+    "翻译": "（男子严厉）\"保罗林恩。\" - \"你想要这个吗？\""
   },
   {
     "原型": "ambulant",
@@ -1437,7 +1437,7 @@
     "最高级": "",
     "意思": "outpatient门诊",
     "例句": "Das ist ein ambulanter Eingriff.",
-    "翻译": ""
+    "翻译": "这是一个门诊手术。"
   },
   {
     "原型": "ausgezeichnet",
@@ -1445,7 +1445,7 @@
     "最高级": "",
     "意思": "excellent",
     "例句": "Mein Kuchen war ausgezeichnet.",
-    "翻译": ""
+    "翻译": "我的蛋糕非常出色。"
   },
   {
     "原型": "mobil",
@@ -1453,7 +1453,7 @@
     "最高级": "mobilsten",
     "意思": "mobile; portable; movable",
     "例句": "Ich erinnere mich an die Elefanten im Mobile über meinem Bett.",
-    "翻译": ""
+    "翻译": "我記得床上方-Mobile上的大象。"
   },
   {
     "原型": "schwach",
@@ -1461,7 +1461,7 @@
     "最高级": "schwächsten",
     "意思": "weak",
     "例句": "Wenn ich's zulasse, schwach zu sein, auch nur einen Moment, dann bin ich komplett verloren.",
-    "翻译": ""
+    "翻译": "如果我允许自己在哪怕仅仅一 moment 软弱，那么我就彻底完了。"
   },
   {
     "原型": "leer",
@@ -1469,7 +1469,7 @@
     "最高级": "leersten",
     "意思": "empty",
     "例句": "- Na ja, wir räumten sechs leere Getränkedosen ausm Kofferraum.",
-    "翻译": ""
+    "翻译": "嗯，我们从后备箱里拿出了六个空易拉罐。"
   },
   {
     "原型": "voll",
@@ -1477,7 +1477,7 @@
     "最高级": "",
     "意思": "full, filled, very, super",
     "例句": "Ich hatte voll den Tunnelblick.",
-    "翻译": ""
+    "翻译": "我完全陷入了隧道视野。"
   },
   {
     "原型": "direkt",
@@ -1485,7 +1485,7 @@
     "最高级": "",
     "意思": "directly",
     "例句": "Der Rucksack kommt direkt von deiner Quelle?",
-    "翻译": ""
+    "翻译": "这个背包直接来自你的源头？"
   },
   {
     "原型": "gegenüber",
@@ -1493,7 +1493,7 @@
     "最高级": "",
     "意思": "across the way; opposite",
     "例句": "Hat Mikey dir gegenüber je etwas davon erwähnt?",
-    "翻译": ""
+    "翻译": "迈克曾经对你提起过吗？"
   },
   {
     "原型": "nebenan",
@@ -1501,7 +1501,7 @@
     "最高级": "",
     "意思": "next door",
     "例句": "Ich habe im OP-Saal nebenan die Schreie gehört.",
-    "翻译": ""
+    "翻译": "我听到隔壁手术室里传来了尖叫声。"
   },
   {
     "原型": "unhöflich",
@@ -1509,7 +1509,7 @@
     "最高级": "unhöflichsten",
     "意思": "impolite",
     "例句": "Wenn Außenstehende dich sehen, denken sie, dass du unhöflich bist, aber in Wirklichkeit hast du über deine Arbeit gesprochen.",
-    "翻译": ""
+    "翻译": "当外人看到你时，他们会认为你不礼貌，但实际上你只是在谈论你的工作。"
   },
   {
     "原型": "schulpflichtig",
@@ -1517,7 +1517,7 @@
     "最高级": "",
     "意思": "a status where (old enough) attending school is compulsory",
     "例句": "Ihr Sohn ist 17, nicht mehr schulpflichtig.",
-    "翻译": ""
+    "翻译": "您的儿子17岁了，不再需要接受义务教育。"
   },
   {
     "原型": "freiwillig",
@@ -1525,7 +1525,7 @@
     "最高级": "freiwilligsten",
     "意思": "voluntary, free-willingly",
     "例句": "Ich gehe nicht freiwillig.",
-    "翻译": ""
+    "翻译": "我并不是自愿的。"
   },
   {
     "原型": "schwanger",
@@ -1533,7 +1533,7 @@
     "最高级": "",
     "意思": "pregnant",
     "例句": "Hast du 'nen Kleinen gehabt, oder bist du schwanger?",
-    "翻译": ""
+    "翻译": "你生过孩子吗，还是怀孕了？"
   },
   {
     "原型": "schwierig",
@@ -1541,7 +1541,7 @@
     "最高级": "schwierigsten",
     "意思": "difficult",
     "例句": "Ich war einer von diesen schwierigen Jugendlichen, und das Boxen war für mich mein Wasserloch, meine Oase.",
-    "翻译": ""
+    "翻译": "我是一个难管的青少年之一，而拳击对我来说是我的避风港，我的绿洲。"
   },
   {
     "原型": "besonder",
@@ -1549,7 +1549,7 @@
     "最高级": "",
     "意思": "special",
     "例句": "Der Club liegt fast in der Stadt und ist für Golfspieler etwas ganz Besonderes.",
-    "翻译": ""
+    "翻译": "该俱乐部几乎位于城市内，对高尔夫球手来说非常特别。"
   },
   {
     "原型": "früher",
@@ -1557,7 +1557,7 @@
     "最高级": "",
     "意思": "previously",
     "例句": "Warum hast du nicht früher dran gedacht?",
-    "翻译": ""
+    "翻译": "你为什么 earlier 不早点想到呢？"
   },
   {
     "原型": "verwandt",
@@ -1565,7 +1565,7 @@
     "最高级": "",
     "意思": "related",
     "例句": "Ist dieser Mann ein Verwandter?",
-    "翻译": ""
+    "翻译": "这个男人是你的亲戚吗？"
   },
   {
     "原型": "praktisch",
@@ -1573,7 +1573,7 @@
     "最高级": "praktischsten",
     "意思": "practical",
     "例句": "Als Praktikantin habe ich praktisch im Krankenhaus gelebt.",
-    "翻译": ""
+    "翻译": "作为实习生，我几乎住在了医院里。"
   },
   {
     "原型": "privat",
@@ -1581,7 +1581,7 @@
     "最高级": "privatesten",
     "意思": "private",
     "例句": "Ich vermische private Dinge nicht mit der Arbeit.",
-    "翻译": ""
+    "翻译": "我不会把私人事情混到工作中。"
   },
   {
     "原型": "unterwegs",
@@ -1589,7 +1589,7 @@
     "最高级": "",
     "意思": "on the road",
     "例句": "Wir sind unterwegs Richtung Kikuyu, nordwestlich von Nairobi.",
-    "翻译": ""
+    "翻译": "我们正前往基库尤，位于内罗毕西北部。"
   },
   {
     "原型": "angenehm",
@@ -1597,7 +1597,7 @@
     "最高级": "angenehmsten",
     "意思": "pleasant",
     "例句": "Ich hoffe, Sie haben einen angenehmen Morgen.",
-    "翻译": ""
+    "翻译": "我希望您有一个愉快的早晨。"
   },
   {
     "原型": "erholsam",
@@ -1605,7 +1605,7 @@
     "最高级": "erholsamsten",
     "意思": "relaxing; restful",
     "例句": "Allen eine erholsame Nacht.",
-    "翻译": ""
+    "翻译": "给所有人一个安眠的好夜。"
   },
   {
     "原型": "inbegriffen",
@@ -1613,7 +1613,7 @@
     "最高级": "",
     "意思": "included",
     "例句": "Ok, aber der Unterboden ist nicht inbegriffen.",
-    "翻译": ""
+    "翻译": "好的，但是底板不包括在内。"
   },
   {
     "原型": "stressig",
@@ -1621,7 +1621,7 @@
     "最高级": "stressigsten",
     "意思": "stressful",
     "例句": "(swahili:) Mit dem Zug zu fahren, ist weniger stressig.",
-    "翻译": ""
+    "翻译": "乘坐火车出行更少压力。"
   },
   {
     "原型": "lustig",
@@ -1629,7 +1629,7 @@
     "最高级": "lustigsten",
     "意思": "funny, humorous",
     "例句": "-Klingt lustig!",
-    "翻译": ""
+    "翻译": "听起来很有趣！"
   },
   {
     "原型": "wahrscheinlich",
@@ -1637,7 +1637,7 @@
     "最高级": "",
     "意思": "probably",
     "例句": "Wahrscheinlich schon.",
-    "翻译": ""
+    "翻译": "很可能吧。"
   },
   {
     "原型": "automatisch",
@@ -1645,7 +1645,7 @@
     "最高级": "",
     "意思": "automatically",
     "例句": "-Automatische Zündung?",
-    "翻译": ""
+    "翻译": "自动点火？"
   },
   {
     "原型": "kostenlos",
@@ -1653,7 +1653,7 @@
     "最高级": "",
     "意思": "free of charge",
     "例句": "Nein, die verteilen wir kostenlos.",
-    "翻译": ""
+    "翻译": "不，我们免费发放。"
   },
   {
     "原型": "niedrig",
@@ -1661,6 +1661,6 @@
     "最高级": "niedrigsten",
     "意思": "low; menial",
     "例句": "(Berger) Blutdruck ist niedrig, aber stabil.",
-    "翻译": ""
+    "翻译": "(伯格)血压偏低，但稳定。"
   }
 ]
