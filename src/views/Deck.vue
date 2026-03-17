@@ -11,10 +11,16 @@
         :data="item"
         :deck="deckId"
         :quizMode="quizMode"
+        :choices="quizMode ? currentChoices : null"
+        @answer="handleAnswer"
       />
     </div>
     <div class="deck-actions">
-      <button class="next-btn" @click="showRandomCard">▷ Next</button>
+      <button
+        class="next-btn"
+        :disabled="quizMode && !currentAnswered"
+        @click="showRandomCard"
+      >▷ Next</button>
     </div>
   </div>
 </template>
@@ -24,6 +30,7 @@ import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import VocabCard from '../components/VocabCard.vue'
 import { deckNameMap } from '../constants'
+import { generateChoices, addWrongCard, removeWrongCard } from '../utils/wrongCards'
 
 const route  = useRoute()
 const router = useRouter()
@@ -31,14 +38,29 @@ const router = useRouter()
 const deckId   = route.params.deckId
 const deckName = deckNameMap[deckId] || deckId
 
-const allData      = ref([])
-const currentCards = ref([])
-const quizMode     = ref(localStorage.getItem('quizMode') === 'true')
+const allData        = ref([])
+const currentCards   = ref([])
+const currentChoices = ref([])
+const currentAnswered = ref(false)
+const quizMode       = ref(localStorage.getItem('quizMode') === 'true')
 
 function showRandomCard() {
   if (!allData.value.length) return
   const idx = Math.floor(Math.random() * allData.value.length)
-  currentCards.value = [allData.value[idx]]
+  currentCards.value   = [allData.value[idx]]
+  currentAnswered.value = false
+  if (quizMode.value) {
+    currentChoices.value = generateChoices(allData.value[idx], allData.value, deckId)
+  }
+}
+
+function handleAnswer(isCorrect) {
+  currentAnswered.value = true
+  if (!isCorrect) {
+    addWrongCard(deckId, currentCards.value[0])
+  } else {
+    removeWrongCard(deckId, currentCards.value[0])
+  }
 }
 
 function goHome() {

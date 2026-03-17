@@ -234,6 +234,78 @@ html, body {
 
 
 
+/* ============ Choice Buttons ============ */
+.choice-buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+.choice-btn {
+  width: 100%;
+  padding: 0.6em 1em;
+  font-size: 0.9rem;
+  border-radius: 0.5em;
+  border: 1px solid var(--card-border);
+  background: var(--card-bg);
+  color: var(--fg);
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s;
+}
+.choice-btn:hover:not(:disabled) {
+  background: var(--card-link-hover-bg);
+}
+.choice-btn:disabled {
+  cursor: default;
+}
+.choice-btn.correct {
+  background: #22c55e22;
+  border-color: #22c55e;
+  color: #16a34a;
+}
+.choice-btn.wrong {
+  background: #ef444422;
+  border-color: #ef4444;
+  color: #dc2626;
+}
+.choice-btn.dim {
+  opacity: 0.4;
+}
+@media (prefers-color-scheme: dark) {
+  .choice-btn.correct { color: #4ade80; border-color: #4ade80; }
+  .choice-btn.wrong   { color: #f87171; border-color: #f87171; }
+}
+
+/* ============ Review page ============ */
+.review-status {
+  text-align: center;
+  color: var(--gray);
+  padding: 2rem;
+  font-size: 1rem;
+}
+.review-count {
+  text-align: center;
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/* ============ 错题本链接 ============ */
+.card-link-wrong {
+  border-color: #ef444455;
+  color: #ef4444 !important;
+}
+.card-link-wrong:hover {
+  background: #ef444422 !important;
+  color: #ef4444 !important;
+}
+@media (prefers-color-scheme: dark) {
+  .card-link-wrong { color: #f87171 !important; border-color: #f8717155; }
+  .card-link-wrong:hover { background: #f8717122 !important; color: #f87171 !important; }
+}
+
 /* ============ Quiz Toggle ============ */
 .quiz-toggle {
   margin-bottom: 0.5rem;
