@@ -100,9 +100,9 @@ create_json_from_excel(
     json_path="public/data/adv_phrasen.json",
     excel_path="_A2/Adjektive.xlsx",
     sheet_name="AdvPhrasen",
-    key_fields=["单词"],
+    key_fields=["词组"],
     field_map={
-        "单词": "单词",
+        "词组": "单词",
         "意思": "意思"
     }
 )

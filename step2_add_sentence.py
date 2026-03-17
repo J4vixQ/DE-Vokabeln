@@ -10,13 +10,13 @@ def strip_article(word):
 
 # 各类型 pattern & key 构造函数
 def build_adj_patterns(entry):
-    word = entry.get("单词", "")
+    word = entry.get("词组", "")
     endings = ['', 'e', 'es', 'er', 'en', 'em', 'n', 's']
     patterns = [rf"\b{re.escape(word)}{end}\b" for end in endings]
     return re.compile('|'.join(patterns), flags=re.IGNORECASE) if word else None
 
 def adj_key(entry):
-    return entry.get("单词", "")
+    return entry.get("词组", "")
 
 def build_steigerung_patterns(entry):
     stems = []

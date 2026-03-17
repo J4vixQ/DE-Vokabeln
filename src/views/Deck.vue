@@ -10,6 +10,7 @@
         :key="idx"
         :data="item"
         :deck="deckId"
+        :quizMode="quizMode"
       />
     </div>
     <div class="deck-actions">
@@ -32,6 +33,7 @@ const deckName = deckNameMap[deckId] || deckId
 
 const allData      = ref([])
 const currentCards = ref([])
+const quizMode     = ref(localStorage.getItem('quizMode') === 'true')
 
 function showRandomCard() {
   if (!allData.value.length) return
@@ -44,8 +46,17 @@ function goHome() {
 }
 
 onMounted(async () => {
-  const res = await fetch(`${import.meta.env.BASE_URL}data/${deckId}.json`)
-  allData.value = await res.json()
+  if (deckId === 'phrasen') {
+    const [r1, r2] = await Promise.all([
+      fetch(`${import.meta.env.BASE_URL}data/verben_phrasen.json`),
+      fetch(`${import.meta.env.BASE_URL}data/adv_phrasen.json`),
+    ])
+    const [d1, d2] = await Promise.all([r1.json(), r2.json()])
+    allData.value = [...d1, ...d2]
+  } else {
+    const res = await fetch(`${import.meta.env.BASE_URL}data/${deckId}.json`)
+    allData.value = await res.json()
+  }
   showRandomCard()
 })
 </script>

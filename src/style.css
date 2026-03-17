@@ -234,6 +234,36 @@ html, body {
 
 
 
+/* ============ Quiz Toggle ============ */
+.quiz-toggle {
+  margin-bottom: 0.5rem;
+}
+.toggle-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: var(--fg);
+}
+.toggle-label input[type="checkbox"] {
+  width: 1.1rem;
+  height: 1.1rem;
+  cursor: pointer;
+  accent-color: var(--primary);
+}
+.toggle-text {
+  user-select: none;
+}
+
+/* ============ Quiz-mode card hint ============ */
+.quiz-hint {
+  font-size: 0.78rem;
+  color: var(--gray);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
 .gender-blocks {
   width: 100%;
   margin-top: 0.1em;
