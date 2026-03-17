@@ -83,6 +83,12 @@
       >
         {{ c.text }}
       </button>
+      <button
+        class="choice-btn choice-btn-unknown"
+        :class="selectedChoice !== null ? (selectedChoice === -1 ? 'wrong' : 'dim') : ''"
+        :disabled="selectedChoice !== null"
+        @click="selectChoice(-1, false)"
+      >?</button>
     </div>
 
   </div>

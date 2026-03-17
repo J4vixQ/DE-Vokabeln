@@ -273,6 +273,11 @@ html, body {
 .choice-btn.dim {
   opacity: 0.4;
 }
+.choice-btn-unknown {
+  text-align: center;
+  color: var(--gray);
+  /* border-color: var(--gray); */
+}
 @media (prefers-color-scheme: dark) {
   .choice-btn.correct { color: #4ade80; border-color: #4ade80; }
   .choice-btn.wrong   { color: #f87171; border-color: #f87171; }
