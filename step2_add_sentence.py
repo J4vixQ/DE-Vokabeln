@@ -91,16 +91,32 @@ def verb_key(entry):
     return entry.get("原型", "")
 
 # 通用主流程
-def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example=False):
+def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example=False,
+                  priority_file=None, upgrade_priority=False):
+    """
+    upgrade_priority=True：只用 priority_file 扫全部条目，
+    匹配到则替换例句+清空翻译，匹配不到则原样不动，不碰 OpenSubtitles。
+    """
     with open(json_path, "r", encoding="utf-8") as f:
         word_list = json.load(f)
 
-    # 用于记录需要填充例句的 key
-    if new_example:
+    # 建立全量 entry_map / pattern_map（upgrade_priority 需要扫全部）
+    need_fill = set()
+    entry_map = {}
+    pattern_map = {}
+
+    if upgrade_priority:
+        for entry in word_list:
+            key = key_func(entry)
+            if key:
+                need_fill.add(key)
+                entry_map[key] = entry
+                pattern = pattern_func(entry)
+                if pattern:
+                    pattern_map[key] = pattern
+        print(f"upgrade_priority 模式：扫全部条目，共 {len(need_fill)} 个")
+    elif new_example:
         # 所有单词都需要新例句
-        need_fill = set()
-        entry_map = {}
-        pattern_map = {}
         for entry in word_list:
             key = key_func(entry)
             if key:
@@ -112,9 +128,6 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
         print(f"需要为所有单词寻找全新例句，总数: {len(need_fill)}")
     else:
         # 仅为空的需要例句
-        need_fill = set()
-        entry_map = {}
-        pattern_map = {}
         for entry in word_list:
             if entry.get("例句", "") == "":
                 key = key_func(entry)
@@ -126,38 +139,64 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
                         pattern_map[key] = pattern
         print(f"需要填充例句数: {len(need_fill)}")
 
-    # 遍历文献文件
-    part_files = sorted(
-        [f for f in os.listdir(opensub_folder) if f.startswith("part_") and f.endswith(".txt")],
-        key=lambda x: int(x.split("_")[1].split(".")[0])
-    )
-    random.shuffle(part_files)
+    def assign(word, sent):
+        """写入例句；若句子有变化，同时清空翻译。"""
+        entry = entry_map[word]
+        old = entry.get("例句", "")
+        entry["例句"] = sent
+        if sent != old:
+            entry["翻译"] = ""
+        need_fill.remove(word)
+        print(f"找到例句: {word} → {sent}")
 
-    # 为所有需要的单词找例句
-    for fname in part_files:
-        if not need_fill:
-            print("全部找到例句！")
-            break
-        fpath = os.path.join(opensub_folder, fname)
-        with open(fpath, "r", encoding="utf-8", errors="ignore") as fin:
-            for line in fin:
-                sent = line.strip()
-                if not sent:
-                    continue
-                for word in list(need_fill):
-                    if pattern_map[word].search(sent):
-                        entry_map[word]["例句"] = sent
-                        need_fill.remove(word)
-                        print(f"找到例句: {word} → {sent}")
-                        break
+    # ── 第一轮：优先语料（手工例句）──────────────────────
+    if priority_file and need_fill:
+        with open(priority_file, "r", encoding="utf-8") as f:
+            priority_sents = [line.strip().replace('\xa0', ' ') for line in f if line.strip()]
+        print(f"优先语料共 {len(priority_sents)} 句，开始匹配…")
+        for sent in priority_sents:
+            if not need_fill:
+                break
+            for word in list(need_fill):
+                if pattern_map[word].search(sent):
+                    assign(word, sent)
+                    break
+        print(f"优先语料匹配后剩余: {len(need_fill)}")
+
+    # ── 第二轮：OpenSubtitles fallback ──────────────────
+    if need_fill:
+        part_files = sorted(
+            [f for f in os.listdir(opensub_folder) if f.startswith("part_") and f.endswith(".txt")],
+            key=lambda x: int(x.split("_")[1].split(".")[0])
+        )
+        random.shuffle(part_files)
+
+        for fname in part_files:
+            if not need_fill:
+                print("全部找到例句！")
+                break
+            fpath = os.path.join(opensub_folder, fname)
+            with open(fpath, "r", encoding="utf-8", errors="ignore") as fin:
+                for line in fin:
+                    sent = line.strip()
+                    if not sent:
+                        continue
+                    for word in list(need_fill):
+                        if pattern_map[word].search(sent):
+                            assign(word, sent)
+                            break
+
+    # upgrade_priority 模式：未匹配到的原样不动（不写入任何内容）
+    if upgrade_priority:
+        print(f"upgrade_priority 完成：替换了 {len(entry_map) - len(need_fill)} 条，"
+              f"{len(need_fill)} 条未匹配（原例句保留）")
+        # need_fill 里剩余的词原样不动，直接跳过
 
     # 如果 new_example=True 且还有没匹配到的单词，拷贝原有例句（如果有）
-    if new_example and need_fill:
+    elif new_example and need_fill:
         print(f"有 {len(need_fill)} 个单词未找到全新例句，保留原例句（如有）")
         for word in need_fill:
             entry = entry_map[word]
-            # 如果原来有例句，保留
-            # 若没有则为空字符串
             entry["例句"] = entry.get("例句", "")
 
     print(f"剩余未匹配到的单词数: {len(need_fill)}")
@@ -184,7 +223,31 @@ if __name__ == "__main__":
         {"json": "public/data/verben_base.json", "key_func": verb_key, "pattern_func": build_verb_patterns},
         # verben phrasen 需要手动添加
     ]
-    opensub_folder = "resource/OpenSubtitles"
+    opensub_folder  = "resource/OpenSubtitles"
+    priority_file   = "public/data/sentences.txt"
+
+    # ── 普通模式：新词填空 + sentences.txt 优先，找不到再 fallback 到 corpus ──
     for cfg in configs:
         print(f"\n正在处理 {cfg['json']}")
-        fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"])
+        fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
+                      priority_file=priority_file)
+
+    # ── 全量更新模式：所有词重新从语料找例句，找不到保留原句 ──
+    # sentences.txt 优先，找不到再 fallback 到 OpenSubtitles。
+    # 例句有变化的条目会自动清空翻译，运行完后需要重新跑 step3.ipynb 补充翻译。
+    # 用法：取消下面注释，运行一次，完成后再注释回来。
+    #
+    # for cfg in configs:
+    #     print(f"\n[new_example] 正在处理 {cfg['json']}")
+    #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
+    #                   priority_file=priority_file, new_example=True)
+
+    # ── 一次性升级模式：把现有 corpus 例句替换成 sentences.txt 的高质量版本 ──
+    # 匹配到则替换+清翻译，匹配不到则原样不动，不碰 OpenSubtitles。
+    # 运行完后需要重新跑 step3.ipynb 补充翻译。
+    # 用法：取消下面注释，运行一次，完成后再注释回来。
+    #
+    # for cfg in configs:
+    #     print(f"\n[upgrade] 正在处理 {cfg['json']}")
+    #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
+    #                   priority_file=priority_file, upgrade_priority=True)

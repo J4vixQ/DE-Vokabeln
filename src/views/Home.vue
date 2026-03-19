@@ -19,6 +19,9 @@
       <router-link v-if="wrongCount > 0" to="/review" class="card-link card-link-wrong">
         Review ({{ wrongCount }})
       </router-link>
+      <router-link to="/stats" class="card-link card-link-stats">
+        Stats
+      </router-link>
     </div>
   </div>
 </template>

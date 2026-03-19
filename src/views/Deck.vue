@@ -31,6 +31,7 @@ import { useRouter, useRoute } from 'vue-router'
 import VocabCard from '../components/VocabCard.vue'
 import { deckNameMap } from '../constants'
 import { generateChoices, addWrongCard, removeWrongCard } from '../utils/wrongCards'
+import { recordAnswer } from '../utils/stats'
 
 const route  = useRoute()
 const router = useRouter()
@@ -56,6 +57,7 @@ function showRandomCard() {
 
 function handleAnswer(isCorrect) {
   currentAnswered.value = true
+  recordAnswer(isCorrect)
   if (!isCorrect) {
     addWrongCard(deckId, currentCards.value[0])
   } else {

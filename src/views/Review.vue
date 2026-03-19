@@ -41,6 +41,7 @@ import VocabCard from '../components/VocabCard.vue'
 import {
   loadWrongCards, removeWrongCard, generateChoices
 } from '../utils/wrongCards'
+import { recordAnswer } from '../utils/stats'
 
 const router = useRouter()
 
@@ -77,6 +78,7 @@ function updateChoices() {
 
 function handleAnswer(isCorrect) {
   answeredCurrent.value = isCorrect
+  recordAnswer(isCorrect)
   if (isCorrect) {
     removeWrongCard(currentCard.value.deck, currentCard.value.data)
   }

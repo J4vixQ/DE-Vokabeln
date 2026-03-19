@@ -2716,5 +2716,203 @@
     "意思": "choose",
     "例句": "Ich wollte, dass sie Mink wählen, weil ich denke, dass sie die bessere Wahl ist.",
     "翻译": "我想要她选择Mink，因为我认为她是更好的人选。"
+  },
+  {
+    "原型": "trocknen ab",
+    "现在": "trocknet ab",
+    "过去": "trocknete ab",
+    "完成": "hat abgetrocknet",
+    "意思": "dry off",
+    "例句": "Wenn Sie von Komantschen abgetrocknet werden wollen, dann bleiben Sie ruhig.",
+    "翻译": "如果您想从Komantschen中脱敏，请保持冷静。"
+  },
+  {
+    "原型": "ziehen an",
+    "现在": "zieht an",
+    "过去": "zog an",
+    "完成": "hat angezogen",
+    "意思": "get dressed",
+    "例句": "Ja, Handbremse angezogen.",
+    "翻译": "是的，手刹拉上了。"
+  },
+  {
+    "原型": "regen auf",
+    "现在": "regt auf",
+    "过去": "regte auf",
+    "完成": "hat aufgeregt",
+    "意思": "excite, disturb, annoy",
+    "例句": "Ich bin wirklich aufgeregt wegen des Buchs.",
+    "翻译": "我真的很兴奋关于那本书。"
+  },
+  {
+    "原型": "cremen ein",
+    "现在": "cremt ein",
+    "过去": "cremte ein",
+    "完成": "hat eingecremt",
+    "意思": "put on lotion",
+    "例句": "Frisch eingecremt.",
+    "翻译": "新鲜涂抹了护肤品。"
+  },
+  {
+    "原型": "engagieren",
+    "现在": "engagiert",
+    "过去": "engagierte",
+    "完成": "hat engagiert",
+    "意思": "engage, get involved",
+    "例句": "Ich habe keinen Spion engagiert.",
+    "翻译": "我没有雇佣间谍。"
+  },
+  {
+    "原型": "entscheiden",
+    "现在": "entscheidet",
+    "过去": "entschied",
+    "完成": "hat entschieden",
+    "意思": "decide",
+    "例句": "Du hast Zeit, dich zu entscheiden.",
+    "翻译": "你有时间来做决定。"
+  },
+  {
+    "原型": "entspannen",
+    "现在": "entspannt",
+    "过去": "entspannte",
+    "完成": "hat entspannt",
+    "意思": "relax",
+    "例句": "Wir entspannen etwas.",
+    "翻译": "我们放松一下。"
+  },
+  {
+    "原型": "interessieren",
+    "现在": "interessiert",
+    "过去": "interessierte",
+    "完成": "hat interessiert",
+    "意思": "be interested in",
+    "例句": "Warum interessiert Sie das?",
+    "翻译": "为什么你对这个感兴趣？"
+  },
+  {
+    "原型": "kämmen",
+    "现在": "kämmt",
+    "过去": "kämmte",
+    "完成": "hat gekämmt",
+    "意思": "brush hair",
+    "例句": "An dreissig Hügeln rausche ich vorbei oder schlüpfe hindurch zwischen Kämmen.",
+    "翻译": "在三十个土堆旁疾驰而过或者从梳齿间穿行而过。"
+  },
+  {
+    "原型": "kommen nach",
+    "现在": "kommt nach",
+    "过去": "kam nach",
+    "完成": "ist nachgekommen",
+    "意思": "arrive later",
+    "例句": "Er kommt nach 3 Monaten Simbabwe nach Hause und ballert sich das Hirn weg.",
+    "翻译": "他回家后三个月去了津巴布韦，随后开枪自杀了。"
+  },
+  {
+    "原型": "rasieren",
+    "现在": "rasiert",
+    "过去": "rasierte",
+    "完成": "hat rasiert",
+    "意思": "shave",
+    "例句": "Ich habe mich rasiert.",
+    "翻译": "我刮了胡子。"
+  },
+  {
+    "原型": "schminken",
+    "现在": "schminkt",
+    "过去": "schminkte",
+    "完成": "hat geschminkt",
+    "意思": "put on makeup",
+    "例句": "Bin ich zu stark geschminkt?",
+    "翻译": "我化浓妆了吗？"
+  },
+  {
+    "原型": "unterhalten",
+    "现在": "unterhält",
+    "过去": "unterhielt",
+    "完成": "hat unterhalten",
+    "意思": "talk, chat",
+    "例句": "Habt ihr euch unterhalten?",
+    "翻译": "你们聊天了么？"
+  },
+  {
+    "原型": "verabreden",
+    "现在": "verabredet",
+    "过去": "verabredete",
+    "完成": "hat verabredet",
+    "意思": "make an appointment",
+    "例句": "Erika war mit Freunden verabredet.",
+    "翻译": "埃里卡和朋友们约好了。"
+  },
+  {
+    "原型": "erholen",
+    "现在": "erholt",
+    "过去": "erholte",
+    "完成": "hat erholt",
+    "意思": "recover, relax",
+    "例句": "Er hat sich nie davon erholt.",
+    "翻译": "他从未从中恢复过来。"
+  },
+  {
+    "原型": "informieren",
+    "现在": "informiert",
+    "过去": "informierte",
+    "完成": "hat informiert",
+    "意思": "inform",
+    "例句": "über Sie informiert.",
+    "翻译": "告知关于她的情况。"
+  },
+  {
+    "原型": "klicken",
+    "现在": "klickt",
+    "过去": "klickte",
+    "完成": "hat geklickt",
+    "意思": "click",
+    "例句": "(SCHALTER KLICKT)",
+    "翻译": "(开关点击声)"
+  },
+  {
+    "原型": "segeln",
+    "现在": "segelt",
+    "过去": "segelte",
+    "完成": "ist gesegelt",
+    "意思": "sail",
+    "例句": "- Fährst du zum Segeln?",
+    "翻译": "你去 sailing 了吗？（注：原文中\"Segeln\"是德语单词，在中文中通常写作\"帆船\"或\"划船\"等，此处直接翻译为\"sailing\"以保持原句结构）"
+  },
+  {
+    "原型": "surfen",
+    "现在": "surft",
+    "过去": "surfte",
+    "完成": "hat gesurft",
+    "意思": "surf",
+    "例句": "Ich habe manchmal echt Angst, wenn Jordi surft.",
+    "翻译": "有时候当乔迪冲浪时我真的很害怕。"
+  },
+  {
+    "原型": "überzeugen",
+    "现在": "überzeugt",
+    "过去": "überzeugte",
+    "完成": "hat überzeugt",
+    "意思": "convince",
+    "例句": "Ich bin davon überzeugt, dass sie uns etwas verschweigt.",
+    "翻译": "我确信她对我们隐瞒了些什么。"
+  },
+  {
+    "原型": "machen weiter",
+    "现在": "macht weiter",
+    "过去": "machte weiter",
+    "完成": "hat weitergemacht",
+    "意思": "continue, carry on, move on",
+    "例句": "Wir machen weitere Tests, aber die Ursachen von Anfällen bleiben oft unklar.",
+    "翻译": "我们进行进一步测试，但发作的原因往往不清楚。"
+  },
+  {
+    "原型": "haben zu tun",
+    "现在": "hat zu tun",
+    "过去": "hatte zu tun",
+    "完成": "hat zu tun gehabt",
+    "意思": "have something to do (busy)",
+    "例句": "Erika hätte einen Vater gehabt.",
+    "翻译": "埃里卡本该有一个父亲。"
   }
 ]

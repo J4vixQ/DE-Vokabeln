@@ -311,6 +311,20 @@ html, body {
   .card-link-wrong:hover { background: #f8717122 !important; color: #f87171 !important; }
 }
 
+/* ============ Stats 链接 ============ */
+.card-link-stats {
+  border-color: #22c55e55;
+  color: #22c55e !important;
+}
+.card-link-stats:hover {
+  background: #22c55e22 !important;
+  color: #22c55e !important;
+}
+@media (prefers-color-scheme: dark) {
+  .card-link-stats { color: #4ade80 !important; border-color: #4ade8055; }
+  .card-link-stats:hover { background: #4ade8022 !important; color: #4ade80 !important; }
+}
+
 /* ============ Quiz Toggle ============ */
 .quiz-toggle {
   margin-bottom: 0.5rem;
