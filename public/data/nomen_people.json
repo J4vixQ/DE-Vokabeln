@@ -938,5 +938,15 @@
     "意思女": "adult",
     "例句": "-Spaß für Erwachsene.",
     "翻译": "成人乐趣。"
+  },
+  {
+    "单数男": "der Ladenbesitzer",
+    "复数男": "die Ladenbesitzer",
+    "意思男": "shopkeeper",
+    "单数女": "die Ladenbesitzerin",
+    "复数女": "die Ladenbesitzerinnen",
+    "意思女": "shopkeeper",
+    "例句": "Der Ladenbesitzer.",
+    "翻译": "店主"
   }
 ]

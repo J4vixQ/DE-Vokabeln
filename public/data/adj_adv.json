@@ -1686,5 +1686,53 @@
     "意思": "wonderful",
     "例句": "Die Stadt ist wunderschön.",
     "翻译": "这座城市非常美丽。"
+  },
+  {
+    "原型": "aufgeregt",
+    "比较级": "aufgeregter",
+    "最高级": "aufgeregtesten",
+    "意思": "excited",
+    "例句": "Aufgeregte Rufe",
+    "翻译": "激动的呼喊"
+  },
+  {
+    "原型": "enttäuscht",
+    "比较级": "enttäuschter",
+    "最高级": "enttäuschtesten",
+    "意思": "disappointed",
+    "例句": "Wenn ich Leuten vertraue, werde ich selten enttäuscht, aber diesmal war es so.",
+    "翻译": "当我信任别人时，我通常不会失望，但这次情况不同。"
+  },
+  {
+    "原型": "genervt",
+    "比较级": "genervter",
+    "最高级": "genervtesten",
+    "意思": "irritated; annoyed",
+    "例句": "(genervt) Ach...",
+    "翻译": "哎……"
+  },
+  {
+    "原型": "glücklich",
+    "比较级": "glücklicher",
+    "最高级": "glücklichsten",
+    "意思": "happy",
+    "例句": "welche schauspiel aber auch ein schauspiel nur was ich dich unendlich natur wir haben das wird dieses zeichen auf mich ein begeisterter erde bist mir na ja schon fühle ich meine kräfte höre schon glücklich wie von neuem wein ich fühle mich in die welt zu wahren",
+    "翻译": "哪一种戏剧不过是一种戏剧而已，我对你无限自然我们拥有的这将此标志对我而言已是充满激情的地球我已经感觉到我的力量听到了幸福犹如重新品尝美酒我感觉自己要回到这个世界"
+  },
+  {
+    "原型": "überrascht",
+    "比较级": "überraschter",
+    "最高级": "überraschtesten",
+    "意思": "suprised",
+    "例句": "Wenn nicht die Maschine Druck macht, ist es das Gewitter, und wenn es uns überrascht, muss man nochmals beginnen mit dem nassen Gras.",
+    "翻译": "如果不是机器施压，就是暴风雨来袭，而当我们措手不及时，我们还得重新开始处理潮湿的草地。"
+  },
+  {
+    "原型": "unfreundlich",
+    "比较级": "unfreundlicher",
+    "最高级": "unfreundlichsten",
+    "意思": "unfriendly",
+    "例句": "Schade, dass du so unfreundlich bist.",
+    "翻译": "可惜你这么不友好。"
   }
 ]

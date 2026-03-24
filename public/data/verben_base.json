@@ -2914,5 +2914,194 @@
     "意思": "have something to do (busy)",
     "例句": "Erika hätte einen Vater gehabt.",
     "翻译": "埃里卡本该有一个父亲。"
+  },
+  {
+    "原型": "ärgern",
+    "现在": "ärgert",
+    "过去": "ärgerte",
+    "完成": "hat geärgert",
+    "意思": "get annoyed by",
+    "例句": "♪ Am liebsten macht er Schabernack, Leute ärgern nicht zu knapp.",
+    "翻译": "他最喜欢恶作剧，逗人乐不会太过分。"
+  },
+  {
+    "原型": "machen auf",
+    "现在": "macht auf",
+    "过去": "machte auf",
+    "完成": "hat aufgemacht",
+    "意思": "open sth",
+    "例句": "- Ich hab grad aufgemacht.",
+    "翻译": "我刚打开门。"
+  },
+  {
+    "原型": "bestätigen",
+    "现在": "bestätigt",
+    "过去": "bestätigte",
+    "完成": "hat bestätigt",
+    "意思": "confirm",
+    "例句": "Bestätigen.",
+    "翻译": "确认。"
+  },
+  {
+    "原型": "gucken",
+    "现在": "guckt",
+    "过去": "guckte",
+    "完成": "hat geguckt",
+    "意思": "watch",
+    "例句": "Aber wir sind noch Lehrerinnen des alten Schlages und so haben wir uns gedacht, wir gucken uns das Ganze vielleicht erst ein paar Tage an, bevor wir richtig mit der Arbeit beginnen.",
+    "翻译": "但我们还是传统意义上的老师，所以我们打算先观察几天再正式开始工作。"
+  },
+  {
+    "原型": "klappen",
+    "现在": "klappt",
+    "过去": "klappte",
+    "完成": "hat geklappt",
+    "意思": "succeed, work it out",
+    "例句": "Ich sprach normal - es hat geklappt.",
+    "翻译": "我正常说话了——成功了。"
+  },
+  {
+    "原型": "trauen",
+    "现在": "traut",
+    "过去": "traute",
+    "完成": "hat getraut",
+    "意思": "dare to do sth",
+    "例句": "Dann haben sie die andere Maus nicht gefangen, weil sie sich nicht getraut haben.",
+    "翻译": "然后他们没有抓住另一只老鼠，因为它们不敢。"
+  },
+  {
+    "原型": "werfen",
+    "现在": "wirft",
+    "过去": "warf",
+    "完成": "hat geworfen",
+    "意思": "throw",
+    "例句": "Er geht mit ihnen ins Bett und wirft sie dann weg.",
+    "翻译": "他和他们上床后会抛弃他们。"
+  },
+  {
+    "原型": "drücken aus",
+    "现在": "drückt aus",
+    "过去": "drückte aus",
+    "完成": "hat ausgedrückt",
+    "意思": "express",
+    "例句": "Ich bin auch ausgedrückt dageblieben.",
+    "翻译": "我也坚持表达了。"
+  },
+  {
+    "原型": "diskutieren",
+    "现在": "diskutiert",
+    "过去": "diskutierte",
+    "完成": "hat diskutiert",
+    "意思": "discuss",
+    "例句": "- Da brauchst Du nicht diskutieren.",
+    "翻译": "你不需要讨论。"
+  },
+  {
+    "原型": "erhöhen",
+    "现在": "erhöht",
+    "过去": "erhöhte",
+    "完成": "hat erhöht",
+    "意思": "increase",
+    "例句": "Du schläfst hier oben, eine erhöhte Position und auch bestens belüftet, siehst Du, ein Fensterchen.",
+    "翻译": "你在这里面睡觉，位置较高，通风也很好，你看，还有一个小窗户。"
+  },
+  {
+    "原型": "klären",
+    "现在": "klärt",
+    "过去": "klärte",
+    "完成": "hat geklärt",
+    "意思": "clarify",
+    "例句": "Ich muss ein paar Dinge klären.",
+    "翻译": "我必须澄清一些事情。"
+  },
+  {
+    "原型": "schließen",
+    "现在": "schließt",
+    "过去": "schloss",
+    "完成": "hat geschlossen",
+    "意思": "close",
+    "例句": "Das Geschäft ist schon geschlossen.",
+    "翻译": "这笔交易已经谈成了。"
+  },
+  {
+    "原型": "steigen",
+    "现在": "steigt",
+    "过去": "stieg",
+    "完成": "ist gestiegen",
+    "意思": "rise",
+    "例句": "Stürzlinger, steigen Sie rauf, sonst stürzt er.",
+    "翻译": "许尔齐unger，上车吧，不然他会掉下来。"
+  },
+  {
+    "原型": "verändern",
+    "现在": "verändert",
+    "过去": "veränderte",
+    "完成": "hat verändert",
+    "意思": "change",
+    "例句": "Ich habe geglaubt, jene Nacht hätte unser Leben verändert.",
+    "翻译": "我曾相信那个夜晚会改变我们的生活。"
+  },
+  {
+    "原型": "wundern",
+    "现在": "wundert",
+    "过去": "wunderte",
+    "完成": "hat gewundert",
+    "意思": "wonder",
+    "例句": "Du wirst dich wundern.",
+    "翻译": "你会感到惊奇。"
+  },
+  {
+    "原型": "bringen bei",
+    "现在": "bringt bei",
+    "过去": "brachte bei",
+    "完成": "hat beigebracht",
+    "意思": "teach",
+    "例句": "Wollen Sie sehen, was der Asp mir beigebracht hat?",
+    "翻译": "你想看看蜘蛛教给我的东西吗？"
+  },
+  {
+    "原型": "beschäftigen",
+    "现在": "beschäftigt",
+    "过去": "beschäftigte",
+    "完成": "hat beschäftigt",
+    "意思": "busy oneself with something",
+    "例句": "Außerdem schau, ich bin beschäftigt.",
+    "翻译": "另外看，我忙呢。"
+  },
+  {
+    "原型": "gehen fremd",
+    "现在": "geht fremd",
+    "过去": "ging fremd",
+    "完成": "ist fremdgegangen",
+    "意思": "cheat on sb",
+    "例句": "Die Tusse ist fremdgegangen, als ich im Knast war.",
+    "翻译": "她在我不在家的时候出轨了。"
+  },
+  {
+    "原型": "lügen",
+    "现在": "lügt",
+    "过去": "log",
+    "完成": "hat gelogen",
+    "意思": "tell a lie",
+    "例句": "Und du bist ein Lügen-Deifi.",
+    "翻译": "你是谎言之神。"
+  },
+  {
+    "原型": "versprechen",
+    "现在": "verspricht",
+    "过去": "versprach",
+    "完成": "hat versprochen",
+    "意思": "promise",
+    "例句": "Wie versprochen sind alle gekommen.",
+    "翻译": "如约，所有人都来了。"
+  },
+  {
+    "原型": "vertrauen",
+    "现在": "vertraut",
+    "过去": "vertraute",
+    "完成": "hat vertraut",
+    "意思": "trust",
+    "例句": "Hab Vertrauen zu mir.",
+    "翻译": "相信我。"
   }
 ]
