@@ -922,5 +922,29 @@
     "意思": "last",
     "例句": "Letzte Woche habe ich einen spannenden Film gesehen.",
     "翻译": "Last week I watched an exciting movie."
+  },
+  {
+    "词组": "niemand",
+    "意思": "no one",
+    "例句": "Niemand versteht mich.",
+    "翻译": "没有人理解我。"
+  },
+  {
+    "词组": "wenigstens",
+    "意思": "at least",
+    "例句": "Komm wenigstens morgen pünktlich.",
+    "翻译": "至少明天要准时来。"
+  },
+  {
+    "词组": "überall",
+    "意思": "everywhere; all over",
+    "例句": "In dieser Stadt gibt es überall Cafés.",
+    "翻译": "在这座城市到处都有咖啡馆。"
+  },
+  {
+    "词组": "ob",
+    "意思": "if, whether",
+    "例句": "Ich weiß nicht, ob er heute kommt.",
+    "翻译": "我不知道他今天是否会来。"
   }
 ]

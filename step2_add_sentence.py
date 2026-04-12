@@ -216,12 +216,11 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
 # 配置与批量调用
 if __name__ == "__main__":
     configs = [
-        {"json": "public/data/adv_phrasen.json", "key_func": adj_key, "pattern_func": build_adj_patterns},
+        # adv_phrasen 和 verben_phrasen 需要手动添加
         {"json": "public/data/adj_adv.json", "key_func": steigerung_key, "pattern_func": build_steigerung_patterns},
         {"json": "public/data/nomen_obj.json", "key_func": noun_key, "pattern_func": build_noun_pattern},
         {"json": "public/data/nomen_people.json", "key_func": person_key, "pattern_func": build_person_pattern},
         {"json": "public/data/verben_base.json", "key_func": verb_key, "pattern_func": build_verb_patterns},
-        # verben phrasen 需要手动添加
     ]
     opensub_folder  = "resource/OpenSubtitles"
     priority_file   = "public/data/sentences.txt"
@@ -236,7 +235,6 @@ if __name__ == "__main__":
     # sentences.txt 优先，找不到再 fallback 到 OpenSubtitles。
     # 例句有变化的条目会自动清空翻译，运行完后需要重新跑 step3.ipynb 补充翻译。
     # 用法：取消下面注释，运行一次，完成后再注释回来。
-    #
     # for cfg in configs:
     #     print(f"\n[new_example] 正在处理 {cfg['json']}")
     #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
@@ -246,7 +244,6 @@ if __name__ == "__main__":
     # 匹配到则替换+清翻译，匹配不到则原样不动，不碰 OpenSubtitles。
     # 运行完后需要重新跑 step3.ipynb 补充翻译。
     # 用法：取消下面注释，运行一次，完成后再注释回来。
-    #
     # for cfg in configs:
     #     print(f"\n[upgrade] 正在处理 {cfg['json']}")
     #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],

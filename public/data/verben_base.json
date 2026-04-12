@@ -5,8 +5,8 @@
     "过去": "studierte",
     "完成": "hat studiert",
     "意思": "study",
-    "例句": "Ein weiteres cooles Detail an Professor X ist, Graham Churchyard, unser Kostümdesigner hat die Zeichentrickserie studiert und fand das perfekte Olivgrün für den Anzug.",
-    "翻译": "另一个酷细节是教授X，我们的 Costume 设计师 Graham Churchyard 研究了动画系列，并找到了完美的橄榄绿作为他的西装颜色。"
+    "例句": "Ich möchte gerne wissen, was und wo Sie studiert haben.",
+    "翻译": "我想知道您在哪里学习了什么。"
   },
   {
     "原型": "buchstabieren",
@@ -14,8 +14,8 @@
     "过去": "buchstabierte",
     "完成": "hat buchstabiert",
     "意思": "spell",
-    "例句": "Rodriguez konnte kaum buchstabieren.",
-    "翻译": "罗德里格斯几乎不会拼写。"
+    "例句": "Und das \"Wo\" hast du buchstabiert.",
+    "翻译": "你把这个\"哪里\"拼写了出來。"
   },
   {
     "原型": "fliegen",
@@ -23,8 +23,8 @@
     "过去": "flog",
     "完成": "ist geflogen",
     "意思": "fly",
-    "例句": "In die Sonne fliegen?",
-    "翻译": "飞向太阳？"
+    "例句": "Etwa 45 % fahren mit dem Auto, 40 % fliegen mit dem Flugzeug, und nur etwa 15 % fahren mit dem Bus oder der Bahn in den Urlaub.",
+    "翻译": "大约45%的人开车去度假，40%的人乘飞机去度假，只有大约15%的人乘坐公共汽车或火车去度假。"
   },
   {
     "原型": "besuchen",
@@ -32,8 +32,8 @@
     "过去": "besuchte",
     "完成": "hat besucht",
     "意思": "visit",
-    "例句": "Du solltest einmal einen unserer Bälle besuchen.",
-    "翻译": "你应当来一次我们的星球。"
+    "例句": "Yara möchte wissen, welche Sprachschule Nico besucht.",
+    "翻译": "亚拉想知道尼科去了哪所语言学校。"
   },
   {
     "原型": "suchen",
@@ -41,8 +41,8 @@
     "过去": "suchte",
     "完成": "hat gesucht",
     "意思": "search, find",
-    "例句": "Sich vielleicht einen Job suchen?",
-    "翻译": "或许去找个工作？"
+    "例句": "Herr Murz sucht Streit, aber ich will nicht mit ihm streiten.",
+    "翻译": "穆尔茨先生在挑事，但我不想和他吵架。"
   },
   {
     "原型": "suchen weiter",
@@ -50,8 +50,8 @@
     "过去": "suchte weiter",
     "完成": "hat weitergesucht",
     "意思": "keep looking",
-    "例句": "-Wir suchen weiter.",
-    "翻译": "我们继续搜寻。"
+    "例句": "Wir behalten das Triebwerk hier und suchen weiter nach dem Fehler.",
+    "翻译": "我们在这里保留发动机并继续寻找故障。"
   },
   {
     "原型": "heißen",
@@ -59,8 +59,8 @@
     "过去": "heiß",
     "完成": "hat geheißen",
     "意思": "be called",
-    "例句": "Von alltäglichen Ereignissen und Zufällen und dem heißen Begehren, das Tage und Nächte miteinander verbindet.",
-    "翻译": "从日常事件和偶然相遇以及将日夜相连的炽热渴望。"
+    "例句": "In einem anderen Brief steht eine Absage. Das heißt, dass sie die Stelle nicht bekommen hat.",
+    "翻译": "在另一封信中有一份拒绝的通知。这意味着她没有得到那份工作。"
   },
   {
     "原型": "helfen",
@@ -68,8 +68,8 @@
     "过去": "half",
     "完成": "hat geholfen",
     "意思": "help",
-    "例句": "Aber es hilft.",
-    "翻译": "但是有效。"
+    "例句": "Yara möchte wissen, wie sie Nico helfen kann.",
+    "翻译": "亚拉想知道她能怎样帮助尼科。"
   },
   {
     "原型": "lernen",
@@ -77,8 +77,8 @@
     "过去": "lernte",
     "完成": "hat gelernt",
     "意思": "learn",
-    "例句": "Man muss doch Latein lernen, um Arzt werden zu können?",
-    "翻译": "难道要成为医生就必须学习拉丁语？"
+    "例句": "Nico sagt, dass er jeden Tag Deutsch lernt.",
+    "翻译": "尼科说他每天都在学德语。"
   },
   {
     "原型": "lernen kennen",
@@ -86,8 +86,8 @@
     "过去": "lernte kennen",
     "完成": "hat kennengelernt",
     "意思": "know sb/sth",
-    "例句": "Ich muss sagen, von den beiden Doctor Strange, die ich bisher kennengelernt habe, bist du nicht mein Favorit.",
-    "翻译": "我必须说，在我认识的两个奇异博士中，你都不是我最喜欢的。"
+    "例句": "Ich habe eben meinen Vater kennengelernt.",
+    "翻译": "我刚刚见到了我的父亲。"
   },
   {
     "原型": "kommen",
@@ -95,8 +95,8 @@
     "过去": "kam",
     "完成": "ist gekommen",
     "意思": "come",
-    "例句": "Danke, dass ich kommen durfte.",
-    "翻译": "感谢我能来。"
+    "例句": "Tarek kommt zwar aus der Türkei, aber er spricht meistens Deutsch.",
+    "翻译": "塔雷克虽然来自土耳其，但他大多数时候说德语。"
   },
   {
     "原型": "kommen mit",
@@ -104,8 +104,8 @@
     "过去": "kam mit",
     "完成": "ist mitgekommen",
     "意思": "come along with someone",
-    "例句": "Schöne Menschen kommen mit zu viel davon.",
-    "翻译": "美丽的人都带太多:mysql/40001"
+    "例句": "Sie kommen mit dem nächsten Flugzeug.",
+    "翻译": "他们乘下一班飞机到来。"
   },
   {
     "原型": "kommen an",
@@ -113,8 +113,8 @@
     "过去": "kam an",
     "完成": "ist angekommen",
     "意思": "arrive",
-    "例句": "Kaum angekommen und schon stürzen wir uns in ein Abenteuer.",
-    "翻译": "一到那里我们就一头扎进了冒险中。"
+    "例句": "- Ich bin gerade erst angekommen.",
+    "翻译": "我刚到。"
   },
   {
     "原型": "komemn wieder",
@@ -122,8 +122,8 @@
     "过去": "kam wieder",
     "完成": "ist wiedergekommen",
     "意思": "come back",
-    "例句": "Dein Bild kommt wieder auf Lunchboxen.",
-    "翻译": "你的图片将会再次出现在午餐盒上。"
+    "例句": "Da kommt wieder eine.",
+    "翻译": "又来一个。"
   },
   {
     "原型": "kommen her",
@@ -131,8 +131,8 @@
     "过去": "kam her",
     "完成": "isr her gekommen",
     "意思": "come from",
-    "例句": "Kommt her!",
-    "翻译": "过来！"
+    "例句": "Yara möchte wissen, warum Nico zu ihr gekommen ist.",
+    "翻译": "亚拉想知道尼科为什么来找她。"
   },
   {
     "原型": "machen",
@@ -140,8 +140,8 @@
     "过去": "machte",
     "完成": "hat gemacht",
     "意思": "make/do",
-    "例句": "Sie machte die Tomatensuppe komplett selbst.",
-    "翻译": "她完全自己做了番茄汤。"
+    "例句": "Sollen wir zusammen beim Arzt anrufen und einen Termin machen?",
+    "翻译": "我们一起去医生那里打电话约个时间吗？"
   },
   {
     "原型": "sprechen",
@@ -149,8 +149,8 @@
     "过去": "sprach",
     "完成": "hat gesprochen",
     "意思": "speak",
-    "例句": "Und mit wem willst du Latein sprechen?",
-    "翻译": "你想要和谁用拉丁语说话？"
+    "例句": "Ich weiß, dass ich noch besser Deutsch sprechen muss.",
+    "翻译": "我知道我还需要更好地讲德语。"
   },
   {
     "原型": "wohnen",
@@ -158,8 +158,8 @@
     "过去": "wohnte",
     "完成": "hat gewohnt",
     "意思": "live",
-    "例句": "Dort wohnen Kristín, Pétur und ihre Schafe.",
-    "翻译": "Kristín、Pétur和他们的羊住在那儿。"
+    "例句": "Nico möchte nicht mehr bei seinen Eltern wohnen.",
+    "翻译": "尼科不再想和他的父母一起住了。"
   },
   {
     "原型": "haben",
@@ -167,8 +167,8 @@
     "过去": "hatte",
     "完成": "hat gehabt",
     "意思": "have",
-    "例句": "Kardinal Matthews hat nach Ihnen verlangt.",
-    "翻译": "马修主教想见您。"
+    "例句": "Nico hat gesagt, dass er mit den Händen arbeiten möchte.",
+    "翻译": "尼科说他想动手做事。"
   },
   {
     "原型": "haben an",
@@ -176,8 +176,8 @@
     "过去": "hatte an",
     "完成": "hat angehabet",
     "意思": "have on, wear sth",
-    "例句": "300 Millionen, die die US-Regierung Lightstone zur stillen Verteilung im Nahen Osten gegeben hat an all die schlimmsten Leute, um die Räder zu schmieren und das süße Öl am Fließen zu halten.",
-    "翻译": "美国政府给Lightstone的3亿美元被用来在中东悄悄分配给所有最糟糕的人，以润滑 Wheels 和保持甜油流动。"
+    "例句": "Sie haben an alles gedacht:",
+    "翻译": "他们想到了一切："
   },
   {
     "原型": "haben frei",
@@ -185,8 +185,8 @@
     "过去": "hatte frei",
     "完成": "hat freigehabt",
     "意思": "have time off",
-    "例句": "Die ganze Schule hat frei?",
-    "翻译": "整个学校都放假了吗？"
+    "例句": "- Danke, wir haben frei bekommen.",
+    "翻译": "谢谢，我们放假了。"
   },
   {
     "原型": "feiern (feieren)",
@@ -194,8 +194,8 @@
     "过去": "feierte",
     "完成": "hat gefeiert",
     "意思": "celebrate",
-    "例句": "Er hatte Dienstag, aber feiert die ganze Woche.",
-    "翻译": "他只有星期二上班，但整个 week 都是假期。"
+    "例句": "Wir feierten ihn ein paarmal.",
+    "翻译": "我们偶尔庆祝过他。"
   },
   {
     "原型": "antworten",
@@ -203,8 +203,8 @@
     "过去": "antwortete",
     "完成": "hat geantwortet",
     "意思": "answer",
-    "例句": "Und was antwortete sie?",
-    "翻译": "她是怎么回答的？"
+    "例句": "Frau Steinhaus, antworten Sie dem Verteidiger.",
+    "翻译": "施泰因豪斯女士，请回答辩护律师。"
   },
   {
     "原型": "fragen",
@@ -212,8 +212,8 @@
     "过去": "fragte",
     "完成": "hat gefragt",
     "意思": "ask",
-    "例句": "Sie war eine kluge, alte Frau, und einmal fragte ich sie:",
-    "翻译": "她是一位聪明的老妇人，有一次我问她："
+    "例句": "Darf ich Sie fragen, wie alt Sie sind?",
+    "翻译": "我可以问您多大年纪吗？"
   },
   {
     "原型": "hören",
@@ -221,8 +221,8 @@
     "过去": "hörte",
     "完成": "hat gehört",
     "意思": "hear",
-    "例句": "Doch unter der Leitung des jungen Geschäftsführers wurde etwas geschaffen, wovon wir noch nie gehört hatten:",
-    "翻译": "然而，在年轻总经理的领导下创造了一些我们从未听说过的東西："
+    "例句": "Opa braucht ein Hörgerät, weil er nicht mehr gut hören kann.",
+    "翻译": "爷爷需要一个助听器，因为他听力不好了。"
   },
   {
     "原型": "verlieren",
@@ -230,8 +230,8 @@
     "过去": "verlor",
     "完成": "hat verloren",
     "意思": "lose",
-    "例句": "Da ist es natürlich, sich verloren zu fühlen.",
-    "翻译": "当然会感到迷茫。"
+    "例句": "Wie wahrscheinlich ist es, dass Frau Rombach einen Mord begeht, die Leiche im Wald versteckt und einen Abholschein verliert?",
+    "翻译": "罗姆巴赫女士谋杀一个人，把尸体藏在森林里并且丢失了取尸证明的可能性有多大？"
   },
   {
     "原型": "fehlen",
@@ -239,8 +239,8 @@
     "过去": "fehlte",
     "完成": "hat gefehlt",
     "意思": "miss",
-    "例句": "Und ich will nicht fehlen.",
-    "翻译": "我也不想缺席。"
+    "例句": "Meine Familie fehlt mir.",
+    "翻译": "我想念我的家人。"
   },
   {
     "原型": "schreiben",
@@ -248,8 +248,8 @@
     "过去": "schrieb",
     "完成": "hat geschrieben",
     "意思": "write",
-    "例句": "Er war doch stockbesoffen, als er das geschrieben hat.",
-    "翻译": "他写这个的时候当然是醉醺醺的。"
+    "例句": "Ich habe hier ein Schreiben Ihres Mannes vom...",
+    "翻译": "我这里有您丈夫从……的来信。"
   },
   {
     "原型": "telefonieren",
@@ -257,8 +257,8 @@
     "过去": "telefonierte",
     "完成": "hat telefoniert",
     "意思": "phone call",
-    "例句": "- Entschuldigt mich, ich muss telefonieren.",
-    "翻译": "对不起，我需要打电话。"
+    "例句": "Aber erst wird telefoniert.",
+    "翻译": "但是首先会打电话。"
   },
   {
     "原型": "kosten",
@@ -266,8 +266,8 @@
     "过去": "kostete",
     "完成": "hat gekostet",
     "意思": "cost",
-    "例句": "- Auf Kosten des Lebens eines Kindes.",
-    "翻译": "为了一个孩子的生命牺牲。"
+    "例句": "Das hat Sie 100 Mark gekostet.",
+    "翻译": "这花了您一百马克。"
   },
   {
     "原型": "funktionieren",
@@ -275,8 +275,8 @@
     "过去": "funktionierte",
     "完成": "hat funktioniert",
     "意思": "function, work",
-    "例句": "Wenn es nicht funktioniert, geben wir eine Stellenanzeige auf.",
-    "翻译": "如果不行，我们就刊登招聘启事。"
+    "例句": "Ich habe Respekt vor deiner Entscheidung.Aber ich glaube, das funktioniert so nicht.",
+    "翻译": "我尊重你的决定，但我认为这样行不通。"
   },
   {
     "原型": "trinken",
@@ -284,8 +284,8 @@
     "过去": "trank",
     "完成": "hat getrunken",
     "意思": "drink",
-    "例句": "Kaffee zu trinken und an einem stillen Morgen wie diesem die Welt zu empfangen.",
-    "翻译": "喝咖啡并在这样一个宁静的早晨迎接世界。"
+    "例句": "Trinken Sie was mit?",
+    "翻译": "你要喝点什么吗？"
   },
   {
     "原型": "kennen",
@@ -293,8 +293,8 @@
     "过去": "kannte",
     "完成": "hat gekannt",
     "意思": "know someone",
-    "例句": "Jetzt, wo Sie den Teufel kennen, kennt der Teufel auch Sie.",
-    "翻译": "现在您认识了魔鬼，魔鬼也认识您。"
+    "例句": "Herrn Dr.Franck kennen Sie ja.",
+    "翻译": "您肯定认识弗兰克博士。"
   },
   {
     "原型": "posten",
@@ -302,8 +302,8 @@
     "过去": "postete",
     "完成": "hat gepostet",
     "意思": "post",
-    "例句": "Alle werden Videos posten, wie sie dazu zum Altar tanzen.",
-    "翻译": "所有人都会拍视频，展示他们如何围绕祭坛起舞。"
+    "例句": "- Auf eure Posten.",
+    "翻译": "上各自的岗位。"
   },
   {
     "原型": "essen",
@@ -311,8 +311,8 @@
     "过去": "aß",
     "完成": "hat gegessen",
     "意思": "eat",
-    "例句": "Ich dachte, wir wollten zusammen essen.",
-    "翻译": "我以為我們想要一起吃飯。"
+    "例句": "Heißer Tee, schöne Musik, leckeres Essen und gute Freunde machen Nico glücklich.",
+    "翻译": "热茶、美妙的音乐、美味的食物和好朋友让尼科感到幸福。"
   },
   {
     "原型": "bestellen",
@@ -320,8 +320,8 @@
     "过去": "bestellte",
     "完成": "hat bestellt",
     "意思": "oder food or drink",
-    "例句": "Soll ich 200 oder 300 Spulen bestellen?",
-    "翻译": "我应该订购200还是300卷？"
+    "例句": "Kannst du schon mal etwas für uns bestellen? Wir sind gleich da.",
+    "翻译": "你能先帮我们点些什么吗？我们就快到了。"
   },
   {
     "原型": "lieben",
@@ -329,8 +329,8 @@
     "过去": "liebte",
     "完成": "hat geliebt",
     "意思": "like, love",
-    "例句": "An meinen geliebten Sohn.",
-    "翻译": "给我我心爱的儿子。"
+    "例句": "Zuerst steht die Ehefrau drin, nach der Trennung die Geliebte.",
+    "翻译": "先是妻子，分开后是情人。"
   },
   {
     "原型": "nehmen",
@@ -338,8 +338,8 @@
     "过去": "nahm",
     "完成": "hat genommen",
     "意思": "take, have",
-    "例句": "Genau genommen sind Sie eigentlich nicht der erste weibliche Exorzist.",
-    "翻译": "事实上你并不是第一个女性驱魔人。"
+    "例句": "Du sollst deine Medikamente doch jeden Tag nehmen.",
+    "翻译": "你每天都应该吃你的药。"
   },
   {
     "原型": "sagen",
@@ -347,8 +347,8 @@
     "过去": "sagte",
     "完成": "hat gesagt",
     "意思": "say",
-    "例句": "Ansonsten gibt es nicht Bemerkenswertes über uns zu sagen.",
-    "翻译": "否则就没有值得说的关于我们的事情了。"
+    "例句": "Nico hat gesagt, dass er nicht nach Spanien zurückgehen möchte.",
+    "翻译": "尼科说他不想回到西班牙。"
   },
   {
     "原型": "sagen ab",
@@ -356,8 +356,8 @@
     "过去": "sagte ab",
     "完成": "hat abgesagt",
     "意思": "say off, cancel",
-    "例句": "Sie hat uns abgesagt.",
-    "翻译": "她取消了我们的安排。"
+    "例句": "- Ich habe abgesagt.",
+    "翻译": "我取消了。"
   },
   {
     "原型": "zahlen",
@@ -365,8 +365,8 @@
     "过去": "zahlte",
     "完成": "hat gezahlt",
     "意思": "pay",
-    "例句": "Ich frage mich, ob er jemals diesen Preis zahlen wird?",
-    "翻译": "我怀疑他是否 ever 要支付这个价格？"
+    "例句": "Glauben Sie, dass ich 25 000 Mark SOFORT zahlen kann?",
+    "翻译": "你认为我可以立即支付25000马克吗？"
   },
   {
     "原型": "begrüßen",
@@ -374,8 +374,8 @@
     "过去": "begrüßte",
     "完成": "hat begrüßt",
     "意思": "greet",
-    "例句": "Begrüßen wir herzlich den Kandidaten für das Amt des",
-    "翻译": "热烈欢迎这位担任职务的候选人"
+    "例句": "Sie begrüßt die Gäste, beantwortet Fragen und gibt ihnen die Schlüsselkarte zum Hotelzimmer.",
+    "翻译": "她迎接客人，回答问题，并给他们酒店房间的钥匙卡。"
   },
   {
     "原型": "besichtigen",
@@ -383,8 +383,8 @@
     "过去": "besichtigte",
     "完成": "hat besichtigt",
     "意思": "visit",
-    "例句": "Wir wollten noch die Region besichtigen.",
-    "翻译": "我们还想参观一下这个地区。"
+    "例句": "Nach dem ersten Jahr besichtigten die Mitarbeiter ein Kernkraftwerk.",
+    "翻译": "在第一年后，员工参观了一个核电站。"
   },
   {
     "原型": "fahren",
@@ -392,8 +392,8 @@
     "过去": "fuhr",
     "完成": "ist gefahren",
     "意思": "drive, travel",
-    "例句": "Dass ich für einen Lateinkurs nach Reykjavík gefahren bin.",
-    "翻译": "我为了上拉丁语课程去了雷克雅未克。"
+    "例句": "Selma fährt mit dem Bus.",
+    "翻译": "塞尔玛乘公共汽车出行。"
   },
   {
     "原型": "spielen",
@@ -401,8 +401,8 @@
     "过去": "spielte",
     "完成": "hat gespielt",
     "意思": "play",
-    "例句": "Wir zwei spielen jetzt Verstecken, okay?",
-    "翻译": "我们两个现在玩捉迷藏，okay？"
+    "例句": "Ich bin überrascht, dass Kinder hier nicht auf der Straße spielen.",
+    "翻译": "我惊讶这里的孩子们不在街上玩耍。"
   },
   {
     "原型": "gewinnen",
@@ -410,8 +410,8 @@
     "过去": "gewann",
     "完成": "hat gewonnen",
     "意思": "win",
-    "例句": "Du hast gewonnen.",
-    "翻译": "你赢了。"
+    "例句": "Gewonnen.",
+    "翻译": "赢了。"
   },
   {
     "原型": "liegen",
@@ -419,8 +419,8 @@
     "过去": "lag",
     "完成": "hat gelegen",
     "意思": "lie, locate",
-    "例句": "[Pater Quinn] Ihre Kraft liegt im Geist, nicht im Fleisch.",
-    "翻译": "[奎因神父] 他们的力量在于精神，而不在于肉体。"
+    "例句": "Selbst als sie todkrank in der Klinik lag, nahm er sie noch aus.",
+    "翻译": "即使她病重躺在医院里，他仍然纠缠她。"
   },
   {
     "原型": "tanzen",
@@ -428,8 +428,8 @@
     "过去": "tanzte",
     "完成": "hat getanzt",
     "意思": "dance",
-    "例句": "Um selbstständig zu werden und sich nicht auf der Nase tanzen zu lassen.",
-    "翻译": "为了独立自主，不人云亦云。"
+    "例句": "Jetzt müsst ihr tanzen.",
+    "翻译": "现在你们必须跳舞。"
   },
   {
     "原型": "singen",
@@ -437,8 +437,8 @@
     "过去": "sang",
     "完成": "hat gesungen",
     "意思": "sing",
-    "例句": "[Natalie singt] Ich kann dich nicht hören.",
-    "翻译": "[Natalie唱歌] 我听不见你。"
+    "例句": "Die Gäste singen:",
+    "翻译": "客人唱道："
   },
   {
     "原型": "bleiben",
@@ -446,8 +446,8 @@
     "过去": "blieb",
     "完成": "ist geblieben",
     "意思": "stay",
-    "例句": "Ihr bleiben nur noch Stunden und nicht Tage.",
-    "翻译": "你们只剩下几个小时，而不是几天。"
+    "例句": "Nico ist sicher, dass er in Deutschland bleiben will.",
+    "翻译": "尼科确信他想留在德国。"
   },
   {
     "原型": "bleiben stehen",
@@ -455,8 +455,8 @@
     "过去": "blieb stehen",
     "完成": "ist stehengeblieben",
     "意思": "remain still",
-    "例句": "- Mir ist fast das Herz stehengeblieben.",
-    "翻译": "我的心几乎停了下来。"
+    "例句": "Die Uhr ist stehengeblieben.",
+    "翻译": "钟停了。"
   },
   {
     "原型": "unterrichten",
@@ -464,8 +464,8 @@
     "过去": "unterrichtete",
     "完成": "hat unterrichtet",
     "意思": "teach, instruct",
-    "例句": "Travis unterrichtet Strand-Po bei Muscle Confusion.",
-    "翻译": "特拉维斯在肌肉困惑中教授strand-po。"
+    "例句": "Jazz konnte nur um diese Zeit kommen, um sie zu unterrichten.",
+    "翻译": "爵士只能在这个时候来教她。"
   },
   {
     "原型": "lesen",
@@ -473,8 +473,8 @@
     "过去": "las",
     "完成": "hat gelesen",
     "意思": "read",
-    "例句": "Wobei ich gelesen habe, dass die Äbtissin Benedetta Carlini ihre letzten 35 Jahre in einem kleinen Loch verbrachte.",
-    "翻译": "我读到比内黛塔·卡尔利修女院长在其最后的35年里一直住在一个小洞里。"
+    "例句": "Lesen Sie selbst.",
+    "翻译": "你自己读吧。"
   },
   {
     "原型": "üben",
@@ -482,8 +482,8 @@
     "过去": "übte",
     "完成": "hat geübt",
     "意思": "practice",
-    "例句": "Ich glaube, das war einer der Tage, an denen wir Blackjack auf unseren Handys geübt haben.",
-    "翻译": "我相信，那是一天我们用手机练习玩21点游戏的日子。"
+    "例句": "Mädels, denkt dran, mehr zu üben, ok?",
+    "翻译": "姑娘们，记得要多练习，好吗？"
   },
   {
     "原型": "wiederholen",
@@ -491,8 +491,8 @@
     "过去": "wiederholte",
     "完成": "hat wiederholt",
     "意思": "repeat, review",
-    "例句": "Und Lizzie war immer bereit, die beste Darstellung abzuliefern, egal, wie oft wir sie wiederholen ließen.",
-    "翻译": "而莉齐总是准备好给出最好的表现，无论我们让她重复多少次。"
+    "例句": "Auch, wenn ich riskiere, mich zu wiederholen, das Essen ist serviert.",
+    "翻译": "即使冒着重复的风险，我要说饭菜已经上了桌。"
   },
   {
     "原型": "hoffen",
@@ -500,8 +500,8 @@
     "过去": "hoffte",
     "完成": "hat gehofft",
     "意思": "hope",
-    "例句": "[Priester] Der Gottlose hat viele Plagen, wer aber auf den Herrn hofft... [schreit]",
-    "翻译": "无赖有无数灾殃，但仰靠耶和华的必得着慈爱。[喊叫]"
+    "例句": "Selma hofft, dass ihr Vater bald weniger Stress hat.",
+    "翻译": "塞尔玛希望她父亲不久能少一些压力。"
   },
   {
     "原型": "leben",
@@ -509,8 +509,8 @@
     "过去": "lebte",
     "完成": "hat gelebt",
     "意思": "live",
-    "例句": "Pater Dantes Schwester Emilia nahm sich gestern Abend das Leben.",
-    "翻译": "达特内斯神父的妹妹埃米莉亚昨晚自杀身亡。"
+    "例句": "Meine Eltern leben nicht bei mir zu Hause, weil meine Wohnung zu klein ist.",
+    "翻译": "我的父母不和我住在一起，因为我的公寓太小了。"
   },
   {
     "原型": "teilen",
@@ -518,8 +518,8 @@
     "过去": "teilte",
     "完成": "hat geteilt",
     "意思": "share",
-    "例句": "Die Rutschbahn teilt sich.",
-    "翻译": "滑道分开了。"
+    "例句": "Er teilt uns eine Änderung seiner Lebensversicherung mit.",
+    "翻译": "他告诉我们他对人寿保险进行了更改。"
   },
   {
     "原型": "ziehne an",
@@ -527,8 +527,8 @@
     "过去": "zog an",
     "完成": "ist angezogen",
     "意思": "put on (clothes)",
-    "例句": "Und plötzlich seh ich dich, angezogen wie ich, und ...",
-    "翻译": "然后我突然看见你，像我一样穿着……"
+    "例句": "Sie wurde erdrosselt, vor zwei Tagen, angezogen wie eine Nutte.",
+    "翻译": "她两天前被勒死了，打扮得像妓女一样。"
   },
   {
     "原型": "ziehne aus",
@@ -536,8 +536,8 @@
     "过去": "zog aus",
     "完成": "hat ausgezogen",
     "意思": "take off (clothes)",
-    "例句": "Aber ausgezogen würde es mir noch besser gefallen.",
-    "翻译": "但是脱掉衣服我会更舒服。"
+    "例句": "Nachdem ich mich komplett ausgezogen hatte, sah ich seinen Bademantel mit seinen Initialen dort hängen.",
+    "翻译": "脱掉所有衣服后，我看到了挂在那里的印有他姓名首字母的浴袍。"
   },
   {
     "原型": "ziehen um",
@@ -545,8 +545,8 @@
     "过去": "zog um",
     "完成": "ist umgezogen",
     "意思": "move (house, city)",
-    "例句": "Ihr zieht um.",
-    "翻译": "你们要搬家了。"
+    "例句": "Damit Ma bis dahin in mein Zimmer umgezogen ist.",
+    "翻译": "以便玛能在那之前搬进我的房间。"
   },
   {
     "原型": "sitzen",
@@ -554,8 +554,8 @@
     "过去": "saß",
     "完成": "hat gesessen",
     "意思": "sit",
-    "例句": "Du kannst nicht den ganzen Tag da drin sitzen.",
-    "翻译": "你不能整天待在里面。"
+    "例句": "Das Kostüm saß wie maßgeschneidert.",
+    "翻译": "这套衣服就像量身定做的一样合身。"
   },
   {
     "原型": "finden",
@@ -563,8 +563,8 @@
     "过去": "fand",
     "完成": "hat gefunden",
     "意思": "find",
-    "例句": "Du musst versuchen, das allerbeste Versteck zu finden, okay?",
-    "翻译": "你必须尝试找到最好的藏身之处，okay？"
+    "例句": "Es ist wichtig, dass Nico eine Arbeit findet.",
+    "翻译": "尼科找到工作很重要。"
   },
   {
     "原型": "finden statt",
@@ -572,8 +572,8 @@
     "过去": "fand statt",
     "完成": "hat stattgefunden",
     "意思": "take place; occur",
-    "例句": "Nun, die gute Nachricht ist, dass letzte Nacht eine Hochzeit stattgefunden hat.",
-    "翻译": "现在，好消息是昨晚举行了一次婚礼。"
+    "例句": "Das Spiel findet statt.",
+    "翻译": "比赛举行了。"
   },
   {
     "原型": "duschen",
@@ -581,8 +581,8 @@
     "过去": "duschte",
     "完成": "hat geduscht",
     "意思": "take a shower",
-    "例句": "Ich muss mal duschen.",
-    "翻译": "我得去洗个澡。"
+    "例句": "Sie muss sich noch duschen. Dann muss sie sich anziehen. Und sie muss sich noch schminken.",
+    "翻译": "她还得洗澡。然后得穿衣服。还得分分钟化妆。"
   },
   {
     "原型": "putzen",
@@ -590,8 +590,8 @@
     "过去": "putzte",
     "完成": "hat geputzt",
     "意思": "clean",
-    "例句": "Ich entsorgte die Leiche, putzte alles dreimal, packte, und weg waren wir.",
-    "翻译": "我处理了尸体，彻底清理了一番，打包后我们就走了。"
+    "例句": "Bitte bringen Sie den Müll raus, räumen Sie auf, putzen Sie das Badezimmer. (Sie祈使句)",
+    "翻译": "请把垃圾拿出去，收拾一下，打扫浴室。"
   },
   {
     "原型": "schlafen",
@@ -599,8 +599,8 @@
     "过去": "schlief",
     "完成": "hat geschlafen",
     "意思": "sleep",
-    "例句": "Wir verbringen viel zu viel Zeit mit schlafen, statt mit den Sternen zu wachen.",
-    "翻译": "我们花费了太多时间睡觉，而不是守望着星空。"
+    "例句": "Der Mann, der mit einer Granate schläft?",
+    "翻译": "那个和手榴弹一起睡觉的人？"
   },
   {
     "原型": "schlafen ein",
@@ -608,8 +608,8 @@
     "过去": "schlief ein",
     "完成": "ist eingeschlafen",
     "意思": "fall asleep",
-    "例句": "Ich bin schon beim Gedanken daran eingeschlafen, aber...",
-    "翻译": "我刚一想到这里就睡着了，但..."
+    "例句": "Ich muss eingeschlafen sein, als Ralf mir vorlas.",
+    "翻译": "我在拉尔夫给我朗读的时候睡着了。"
   },
   {
     "原型": "schlafen aus",
@@ -617,8 +617,8 @@
     "过去": "schlief aus",
     "完成": "hat ausgeschlafen",
     "意思": "sleep in",
-    "例句": "Ausgeschlafen?",
-    "翻译": "睡饱了吗？"
+    "例句": "Du hast offenbar schon ausgeschlafen.",
+    "翻译": "你显然已经睡饱了。"
   },
   {
     "原型": "beginnen",
@@ -626,8 +626,8 @@
     "过去": "begann",
     "完成": "hat begonnen",
     "意思": "begin",
-    "例句": "So begann es.",
-    "翻译": "这就开始了。"
+    "例句": "Können Sie mir sagen, wann der Kurs beginnt?",
+    "翻译": "您能告诉我课程什么时候开始吗？"
   },
   {
     "原型": "rufen an",
@@ -635,8 +635,8 @@
     "过去": "rief an",
     "完成": "hat angerufen",
     "意思": "call someone",
-    "例句": "Frau Präsidentin, die Staatschefs rufen an, darunter Frankreich, Deutschland, die USA und der russische Premierminister.",
-    "翻译": "女士总统，国家首脑们打来电话，其中包括法国、德国、美国以及俄罗斯总理。"
+    "例句": "Wissen Sie, wie oft ich heute schon angerufen habe?",
+    "翻译": "你知道我今天已经打了多少次电话了吗？"
   },
   {
     "原型": "räumen auf",
@@ -644,8 +644,8 @@
     "过去": "räumte auf",
     "完成": "hat aufgeräumt",
     "意思": "clean up",
-    "例句": "HAT AUFGERÄUMT ZU ALLEN LIEB",
-    "翻译": "收拾干净了，全都清理掉了。"
+    "例句": "Bitte bringt den Müll raus, räumt auf, putzt das Badezimmer. (ihr祈使句)",
+    "翻译": "请把垃圾拿出去，收拾一下，打扫浴室。（你们）"
   },
   {
     "原型": "gehen",
@@ -653,8 +653,8 @@
     "过去": "ging",
     "完成": "ist gegangen",
     "意思": "go",
-    "例句": "Nach der Untersuchung wurde sie entlassen und konnte mit ihrer Mutter nach Hause gehen.",
-    "翻译": "经过检查后，她被释放，并能和她的母亲回家。"
+    "例句": "Ich bin müde, weil ich gestern spät ins Bett gegangen bin.",
+    "翻译": "我累了，因为昨天睡觉很晚。"
   },
   {
     "原型": "gehen aus",
@@ -662,8 +662,8 @@
     "过去": "ging aus",
     "完成": "ist ausgegangen",
     "意思": "go out",
-    "例句": "Ihr seid für was ausgegangen, zwei Wochen?",
-    "翻译": "你们出去玩了两周？"
+    "例句": "Jazz ist also mit Christina ausgegangen.",
+    "翻译": "贾斯特和克里斯蒂娜出去了。"
   },
   {
     "原型": "gehen entlang",
@@ -671,8 +671,8 @@
     "过去": "ging entlang",
     "完成": "ist entlanggegangen",
     "意思": "go along",
-    "例句": "Ich bin also die Straße entlanggegangen...",
-    "翻译": "我于是沿着街道走……"
+    "例句": "Ich bin an dem Tag nämlich dort entlanggegangen - so etwa 30 Minuten, nachdem das Feuer anfing.",
+    "翻译": "那天我大约在火灾开始后三十分钟左右走过那里。"
   },
   {
     "原型": "gehen vorbei",
@@ -680,8 +680,8 @@
     "过去": "ging vorbei",
     "完成": "ist vorbeigegangen",
     "意思": "go pass by",
-    "例句": "Ich dachte, es geht vorbei.",
-    "翻译": "我thought以为它会过去。"
+    "例句": "Das geht vorbei.",
+    "翻译": "这会过去的。"
   },
   {
     "原型": "kaufen",
@@ -689,8 +689,8 @@
     "过去": "kaufte",
     "完成": "hat gekauft",
     "意思": "buy",
-    "例句": "Und wer zur Hölle kauft Bücher für mehrere Millionen Kronen?",
-    "翻译": "谁在 hell 买书花了数百万克朗？"
+    "例句": "Er muss nie sparen und kann sich alles kaufen, was er will.",
+    "翻译": "他不必省钱，想买什么就买什么。"
   },
   {
     "原型": "kaufen ein",
@@ -698,8 +698,8 @@
     "过去": "kaufte ein",
     "完成": "hat eingekauft",
     "意思": "go shopping",
-    "例句": "Mein Dad hat dich eingekauft?",
-    "翻译": "你是我爸爸买来的？"
+    "例句": "Wir kaufen einen neuen, mit Großbild... lebensechten Farben und einem Tisch, um ihn an Feiertagen ins Esszimmer zu rollen.",
+    "翻译": "我们买了一个新的大屏幕电视，色彩逼真，还有一个桌子，在节日时可以把电视推到餐厅去。"
   },
   {
     "原型": "verkaufen",
@@ -707,8 +707,8 @@
     "过去": "verkaufte",
     "完成": "hat verkauft",
     "意思": "sell",
-    "例句": "Vielleicht, wenn man es richtig verkauft.",
-    "翻译": "也许如果把它卖好了。"
+    "例句": "Warum haben Sie uns diese langsamen Tablets verkauft? Wie bekomme ich mein Geld zurück?",
+    "翻译": "为什么你把这些慢的平板卖给我们？我怎么才能退款？"
   },
   {
     "原型": "sehen",
@@ -716,8 +716,8 @@
     "过去": "sah",
     "完成": "hat gesehen",
     "意思": "see",
-    "例句": "Du hast nichts gesehen ...",
-    "翻译": "你什么也没有看到……"
+    "例句": "Die ältere Frau braucht eine Brille und eine Lupe, weil sie nicht mehr gut sehen kann.",
+    "翻译": "这位老妇人需要戴眼镜和放大镜，因为她看不清了。"
   },
   {
     "原型": "sehen fern",
@@ -725,8 +725,8 @@
     "过去": "sah fern",
     "完成": "hat ferngesehen",
     "意思": "watch television",
-    "例句": "Ich hatte ferngesehen und da klopfte es an die Tür und da war er.",
-    "翻译": "我刚看电视，这时门敲了一下，是他来了。"
+    "例句": "Sie wären überrascht, wie viele Paare behaupten, Sie hätten ferngesehen.",
+    "翻译": "他们会惊讶于有多少对情侣声称他们一直在看电视。"
   },
   {
     "原型": "sehen aus",
@@ -734,8 +734,8 @@
     "过去": "sah aus",
     "完成": "hat ausgeshen",
     "意思": "look like",
-    "例句": "Du hattest gesagt, du willst Wanda da drin mit den Illuminati sehen, und sie sieht aus wie Carrie, aber wie machen wir das ohne Blut?",
-    "翻译": "你之前说过你想让瓦nda在里面看到 illuminati，而且她看起来像carrie，但我们怎么不用血来做到呢？"
+    "例句": "Sieht aus wie ein Teil von einem Schmuckstück.",
+    "翻译": "看起来像是一件饰品的部件。"
   },
   {
     "原型": "stehen",
@@ -743,8 +743,8 @@
     "过去": "stand",
     "完成": "hat gestanden",
     "意思": "stand, fit, looks good",
-    "例句": "Alle Kinder müssen in die Schule gehen, um gerades Stehen zu lernen.",
-    "翻译": "所有的孩子都必须上学，以便学会直立行走。"
+    "例句": "In einem Brief steht eine Zusage: Sie hat die Stelle bekommen.",
+    "翻译": "在一封信中有一项承诺：她得到了那份工作。"
   },
   {
     "原型": "stehen auf",
@@ -752,8 +752,8 @@
     "过去": "stand auf",
     "完成": "ist aufgestanden",
     "意思": "get up",
-    "例句": "Das Gebäude steht auf einem alten Bauernhof.",
-    "翻译": "这座建筑坐落在一个旧农庄上。"
+    "例句": "Sie stehen auf einer druckempfindlichen Platte, die mit über 30 kg hochexplosivem Plastik-Sprengstoff verbunden ist.",
+    "翻译": "他们站在一张感压板上，这张板与超过30公斤的高爆炸药相连。"
   },
   {
     "原型": "verstehen",
@@ -761,8 +761,8 @@
     "过去": "verstand",
     "完成": "hat verstanden",
     "意思": "understand",
-    "例句": "Er hatte etwas an sich, was sie nicht verstanden.",
-    "翻译": "他身上有些东西让她无法理解。"
+    "例句": "Dass Nico das Studium hasst, verstehen seine Eltern nicht.",
+    "翻译": "尼科父母不明白尼科讨厌学习。"
   },
   {
     "原型": "frühstücken",
@@ -770,8 +770,8 @@
     "过去": "frühstückte",
     "完成": "hat gefrühstückt",
     "意思": "have breakfast",
-    "例句": "Hast du heute gefrühstückt?",
-    "翻译": "你今天吃早饭了没？"
+    "例句": "Frühstücken Sie mit?",
+    "翻译": "您要吃早餐吗？"
   },
   {
     "原型": "wissen",
@@ -779,8 +779,8 @@
     "过去": "wusste",
     "完成": "hat gewusst",
     "意思": "know",
-    "例句": "Ich wusste nicht, dass Sie mit dem Lexikon der katholischen Mythen so vertraut sind.",
-    "翻译": "我不知道你对天主教神话词典如此熟悉。"
+    "例句": "Ich weiß, dass ich viel Hilfe brauche.",
+    "翻译": "我知道我需要很多帮助。"
   },
   {
     "原型": "fangen an",
@@ -788,8 +788,8 @@
     "过去": "fing an",
     "完成": "hat angefangen",
     "意思": "start",
-    "例句": "Das Fest hat ja erst angefangen.",
-    "翻译": "这个派对才刚刚开始。"
+    "例句": "Na ja, alles fing an, als du vom Blitz getroffen wurdest.",
+    "翻译": "好吧，一切都是从你被闪电击中开始的。"
   },
   {
     "原型": "hören auf",
@@ -797,8 +797,8 @@
     "过去": "hörte auf",
     "完成": "hat aufgehört",
     "意思": "finish",
-    "例句": "[Ann] Meine Mutter hat nie aufgehört, den Dämon zu bekämpfen.",
-    "翻译": "我的母亲从未停止过与恶魔抗争。"
+    "例句": "Ladies, hört auf.",
+    "翻译": "女士们，请停下来。"
   },
   {
     "原型": "glauben",
@@ -806,8 +806,8 @@
     "过去": "glaubte",
     "完成": "hat geglaubt",
     "意思": "believe",
-    "例句": "Die meisten glaubten, das Projekt sei zum Scheitern verurteilt.",
-    "翻译": "大多数人认为这个项目注定会失败。"
+    "例句": "Nico glaubt, dass seine Eltern ihn nicht verstehen.",
+    "翻译": "尼科认为他的父母不理解他。"
   },
   {
     "原型": "kochen",
@@ -815,8 +815,8 @@
     "过去": "kochte",
     "完成": "hat gekocht",
     "意思": "cook",
-    "例句": "Dann kochte sie ein Couscous-Gericht mit allem Möglichen drin ...",
-    "翻译": "然后她做了一份含有各种食材的库斯科斯菜肴……"
+    "例句": "Ich übernehme das Kochen.",
+    "翻译": "我来做饭。"
   },
   {
     "原型": "korrigieren",
@@ -824,8 +824,8 @@
     "过去": "korrigierte",
     "完成": "hat korrigiert",
     "意思": "correct something",
-    "例句": "Ich muss einen Berg an Klausuren korrigieren, also...",
-    "翻译": "我必须批改一堆考试卷，所以……"
+    "例句": "Ich habe mich zum Beispiel hierhergesetzt zum Korrigieren.",
+    "翻译": "我比如坐在这里是为了批改。"
   },
   {
     "原型": "schreiben mit",
@@ -833,8 +833,8 @@
     "过去": "schrieb mit",
     "完成": "hat mitgeschrieben",
     "意思": "take notes",
-    "例句": "Jemand schrieb mit Scheiße auf die Klotüren.",
-    "翻译": "有人用粪便在厕所墙上写字。"
+    "例句": "Sie schreiben mit Füller?",
+    "翻译": "你用钢笔写吗？"
   },
   {
     "原型": "bereiten vor",
@@ -842,8 +842,8 @@
     "过去": "bereitete vor",
     "完成": "hat vorbereitet",
     "意思": "prepare",
-    "例句": "Ja, sie hat eng mit Joe und Brycen gearbeitet und sich viel vorbereitet.",
-    "翻译": "是的，她与乔和布雷森紧密合作，并做了充分的准备。"
+    "例句": "Ich habe keines vorbereitet.",
+    "翻译": "我没有准备。"
   },
   {
     "原型": "lesen vor",
@@ -851,8 +851,8 @@
     "过去": "las vor",
     "完成": "hat vorgelesen",
     "意思": "read something to somebody",
-    "例句": "Hat dir dein Latino-Shakespeare seine Liebesbriefe vorgelesen?",
-    "翻译": "你让你的拉丁莎士比亚给你读过情书吗？"
+    "例句": "Ich hätte ihn euch sowieso vorgelesen.",
+    "翻译": "我本打算给你们朗读的。"
   },
   {
     "原型": "waschen",
@@ -860,8 +860,8 @@
     "过去": "wusch",
     "完成": "hat gewaschen",
     "意思": "wash",
-    "例句": "Waschen wir die Sünden des Tages weg ... und begehen neue.",
-    "翻译": "洗净今日的罪孽……再去犯新的。"
+    "例句": "- Ist die Wäsche Seiner Hoheit gewaschen?",
+    "翻译": "殿下的衣服洗了吗？"
   },
   {
     "原型": "denken",
@@ -869,8 +869,8 @@
     "过去": "dachte",
     "完成": "hat gedacht",
     "意思": "think",
-    "例句": "Ja, ich dachte, dass ich...",
-    "翻译": "是的，我想到的是..."
+    "例句": "Sie dürfen nicht nur an sich denken.",
+    "翻译": "你不仅仅要考虑自己。"
   },
   {
     "原型": "schwimmen",
@@ -878,8 +878,8 @@
     "过去": "schwamm",
     "完成": "ist geschwommen",
     "意思": "swim",
-    "例句": "- Ich bin geschwommen.",
-    "翻译": "我游泳了。"
+    "例句": "Dein Vater weiß, wie man schwimmt.",
+    "翻译": "你父亲知道如何游泳。"
   },
   {
     "原型": "warten",
@@ -887,8 +887,8 @@
     "过去": "wartete",
     "完成": "hat gewartet",
     "意思": "wait",
-    "例句": "-Ich kann nicht so lange warten!",
-    "翻译": "我不能等那么久！"
+    "例句": "Warten Sie hier.",
+    "翻译": "请您在这里等待。"
   },
   {
     "原型": "brauchen",
@@ -896,8 +896,8 @@
     "过去": "brauchte",
     "完成": "hat gebraucht",
     "意思": "need",
-    "例句": "Jugendliche brauchen einen gesunden Menschenverstand.",
-    "翻译": "青少年需要良好的人际交往能力。"
+    "例句": "Der ältere Mann braucht einen Gehstock, weil er ein gebrochenes Bein hat.",
+    "翻译": "这位老人需要拐杖，因为他摔断了一条腿。"
   },
   {
     "原型": "treffen",
@@ -905,8 +905,8 @@
     "过去": "traf",
     "完成": "hat getroffen",
     "意思": "meet",
-    "例句": "Es vergehen nur Sekundenbruchteile, bis sie ihr Ziel trifft.",
-    "翻译": "仅仅几秒钟后，它就会命中目标。"
+    "例句": "Aber du hast gesagt, dass wir uns heute treffen. Hast du das vergessen?",
+    "翻译": "但是你说过今天我们见面的。你忘了吗？"
   },
   {
     "原型": "geben",
@@ -914,8 +914,8 @@
     "过去": "gab",
     "完成": "hat gegeben",
     "意思": "give",
-    "例句": "Ich befürchte, es gibt tragische Neuigkeiten.",
-    "翻译": "我担心有一些悲惨的新闻。"
+    "例句": "In den Kindertagesstätten gibt es aber nicht immer genug freie Plätze für alle Kinder.",
+    "翻译": "但是幼儿园里并不总是有足够的空位来容纳所有孩子。"
   },
   {
     "原型": "geben zurück",
@@ -923,8 +923,8 @@
     "过去": "gab zurück",
     "完成": "hat zurückgegeben",
     "意思": "return, give back",
-    "例句": "Der Geheimdienst denkt, dass Trident die Raketen gestohlen haben könnte und sie dann möglicherweise den Russen wieder zurückgegeben hat.",
-    "翻译": "情报机构认为Trident可能偷走了火箭，然后可能又把它们退还给了俄罗斯。"
+    "例句": "Die hat er zurückgegeben.",
+    "翻译": "他把那个还回来了。"
   },
   {
     "原型": "leiten",
@@ -932,8 +932,8 @@
     "过去": "leitete",
     "完成": "hat geleitet",
     "意思": "manage",
-    "例句": "Und es leitet alles und jeden zum Schlechten, der es berührt.",
-    "翻译": "并且它会引导一切和任何人走向邪恶。"
+    "例句": "Du folgst nur den Linien in der Mitte der Gänge, die leiten dich zum Lift.",
+    "翻译": "你只沿着通道中间的线走，它们会引导你到电梯。"
   },
   {
     "原型": "mögen",
@@ -941,8 +941,8 @@
     "过去": "mochte",
     "完成": "hat gemocht",
     "意思": "like",
-    "例句": "-Was mögen die anderen?",
-    "翻译": "其他人喜欢什么？"
+    "例句": "Niemand mag Regen. Jemand mag Regen. Nicht alle mögen Regen. Nur wenige mögen ihn.",
+    "翻译": "没有人喜欢雨。有人喜欢雨。不是所有人都喜欢雨。只有少数人喜欢它。"
   },
   {
     "原型": "beraten",
@@ -950,8 +950,8 @@
     "过去": "beriet",
     "完成": "hat beraten",
     "意思": "advise",
-    "例句": "Nein, Doug, du berätst und unterstützt den Verteidigungsminister.",
-    "翻译": "不，Doug，你咨询并支持国防部长。"
+    "例句": "Ich kann, soll, will sie beraten.",
+    "翻译": "我可以、应该、想要给她提建议。"
   },
   {
     "原型": "bringen",
@@ -959,8 +959,8 @@
     "过去": "brachte",
     "完成": "hat gebracht",
     "意思": "bring",
-    "例句": "Sie ist ein unheilbarer Fall und wird nach Rom gebracht.",
-    "翻译": "她是一个无法治愈的病例，将被送往罗马。"
+    "例句": "Sie bestreitet nicht, eine Decke zur Reinigung gebracht zu haben.",
+    "翻译": "她不否认曾把一条毯子拿来清洗。"
   },
   {
     "原型": "buchen",
@@ -968,8 +968,8 @@
     "过去": "buchte",
     "完成": "hat gebucht",
     "意思": "book, make appointment",
-    "例句": "Oh, wir buchen die ganze Woche Interviews.",
-    "翻译": "哦，我们整个星期都要进行面试。"
+    "例句": "Ich möchte bitte einen Flug von Berlin nach München buchen.",
+    "翻译": "我想要预订从柏林到慕尼黑的航班。"
   },
   {
     "原型": "überprüfen",
@@ -977,8 +977,8 @@
     "过去": "überprüfte",
     "完成": "hat überprüft",
     "意思": "check, review",
-    "例句": "Ich muss etwas überprüfen.",
-    "翻译": "我必须检查一下。"
+    "例句": "Herr Steiner überprüft sicher auch das.",
+    "翻译": "施泰纳先生也会检查的。"
   },
   {
     "原型": "kontrollieren",
@@ -986,8 +986,8 @@
     "过去": "kontrollierte",
     "完成": "hat kontrolliert",
     "意思": "inspect, double-check",
-    "例句": "- Du kannst sie nicht kontrollieren.",
-    "翻译": "你无法控制他们。"
+    "例句": "Schmeichle ihrer Katze und Juden kontrollieren den Planeten.",
+    "翻译": "奉承他们的猫，犹太人控制着这个星球。"
   },
   {
     "原型": "organisieren",
@@ -995,8 +995,8 @@
     "过去": "organisierte",
     "完成": "hat organisiert",
     "意思": "organize",
-    "例句": "Wir müssen 'ne Bandprobe und 'n Fitting organisieren.",
-    "翻译": "我们需要组织一次乐队试听和一次合练。"
+    "例句": "Sie weiß nicht, wie sie als Alleinerziehende ein Leben mit Kind organisieren kann.",
+    "翻译": "她不知道如何独自一人抚养孩子，组织自己的生活。"
   },
   {
     "原型": "planen",
@@ -1004,8 +1004,8 @@
     "过去": "plante",
     "完成": "hat geplant",
     "意思": "plan",
-    "例句": "Wir scherzten, dass wir einen Überfall planen.",
-    "翻译": "我们开玩笑说要策划一次袭击。"
+    "例句": "Sie findet das Planen von Ausflügen nicht so einfach.",
+    "翻译": "她觉得规划旅行并不那么容易。"
   },
   {
     "原型": "reparieren",
@@ -1013,8 +1013,8 @@
     "过去": "reparierte",
     "完成": "hat repariert",
     "意思": "repair",
-    "例句": "Das Schlimmste ist, dass ich dachte, ich könnte die Dinge reparieren.",
-    "翻译": "最糟糕的是，我以为我可以修复这些事情。"
+    "例句": "Werkzeuge, Dinge, Sachen reparieren.",
+    "翻译": "工具，物品，东西修理。"
   },
   {
     "原型": "unterschreiben",
@@ -1022,8 +1022,8 @@
     "过去": "unterschrieb",
     "完成": "hat unterschrieben",
     "意思": "sign paper, sign contract",
-    "例句": "♪ Oh, würden Sie Ihren Namen nicht unterschreiben?",
-    "翻译": "哦，您不会签署您的名字吗？"
+    "例句": "- Unterschreiben Sie meine Vollmacht.",
+    "翻译": "签署我的授权书。"
   },
   {
     "原型": "zählen",
@@ -1031,8 +1031,8 @@
     "过去": "zählte",
     "完成": "hat gezählt",
     "意思": "count",
-    "例句": "Aber im großen Kalkül des Multiversums zählt dein Opfer mehr als dein Leben.",
-    "翻译": "但在多元宇宙的大局中，你的牺牲比你的生命更重要。"
+    "例句": "Nur das Original zählt.",
+    "翻译": "只有原件才重要。"
   },
   {
     "原型": "hängen",
@@ -1040,8 +1040,8 @@
     "过去": "hing",
     "完成": "hat gehangen",
     "意思": "hang",
-    "例句": "Und natürlich wollen wir von der Nacht erzählen, die über uns hängt und ihre Kraft aus den Tiefen des Weltraums zieht.",
-    "翻译": "当然，我们想讲述笼罩在我们身上的那个夜晚，它的力量源自宇宙的深处。"
+    "例句": "Jeder wusste, wie sehr Angelika an ihrem Bruder hing.",
+    "翻译": "每个人都知道安杰莉卡多么依恋她的弟弟。"
   },
   {
     "原型": "hassen",
@@ -1049,8 +1049,8 @@
     "过去": "hasste",
     "完成": "gehasst",
     "意思": "hate",
-    "例句": "Da, wo ich herkomme, hast du mich gehasst.",
-    "翻译": "在我来自的地方，你曾经恨我。"
+    "例句": "Nico sagt, dass er das Studium hasst.",
+    "翻译": "尼科说他讨厌学习。"
   },
   {
     "原型": "werden",
@@ -1058,8 +1058,8 @@
     "过去": "wurde",
     "完成": "ist geworden",
     "意思": "become",
-    "例句": "Sie sind sicher erfreut zu hören, dass Natalie entlassen wurde.",
-    "翻译": "你一定会高兴地听到娜塔莉被解雇了。"
+    "例句": "Ich hoffe, es wird nicht zu langweilig. Aber vielleicht sind ja auch nette und lustige Leute dabei. Mal sehen.",
+    "翻译": "我希望不要太无聊。但也可能有一些 nice 和有趣的人在场。我们拭目以待吧。注：德语中的\"nice\"直接译为中文的\"nice\"，因为此处没有完全对应的中文词汇，保持原汁原味更符合原文语气。其余部分按常规翻译。"
   },
   {
     "原型": "behalten",
@@ -1067,8 +1067,8 @@
     "过去": "behielt",
     "完成": "hat behalten",
     "意思": "keep, maintain",
-    "例句": "Er behielt die Bücher, die alte Standuhr und David, der blieb, um sich um seinen Vater zu kümmern.",
-    "翻译": "他留下了那些书、旧挂钟以及大卫，后者留下照顾他的父亲。"
+    "例句": "Wie lange wollen die uns hier behalten?",
+    "翻译": "他们打算把我们扣留多久？"
   },
   {
     "原型": "schenken",
@@ -1076,8 +1076,8 @@
     "过去": "schenkte",
     "完成": "hat geschenkt",
     "意思": "give sth as a present",
-    "例句": "Es wurde mir bei meiner Ankunft im Saint Marys geschenkt.",
-    "翻译": "在我抵达圣玛丽斯时，有人给了我一件礼物。"
+    "例句": "Nico ist dankbar, dass Yara ihm ein Fahrrad geschenkt hat.",
+    "翻译": "尼科感谢雅拉送给他的自行车。"
   },
   {
     "原型": "parken",
@@ -1085,8 +1085,8 @@
     "过去": "parkte",
     "完成": "hat geparkt",
     "意思": "park a car",
-    "例句": "Können wir die Venture hier parken?",
-    "翻译": "我们能把这辆venture停在这里吗？"
+    "例句": "Würdest du so deinen Wagen parken?",
+    "翻译": "你会这样停车吗？"
   },
   {
     "原型": "biegen",
@@ -1094,8 +1094,8 @@
     "过去": "bog",
     "完成": "hat gebogen",
     "意思": "bend, turn",
-    "例句": "Der Bogen von Porpentine.",
-    "翻译": "佩罗派廷的bowen"
+    "例句": "Bis heute ist das das größte Nashorn, das mit Pfeil und Bogen erlegt wurde.",
+    "翻译": "直到今天，这仍然是用弓箭猎杀的最大犀牛。"
   },
   {
     "原型": "überqueren",
@@ -1103,8 +1103,8 @@
     "过去": "überquerte",
     "完成": "hat überquert",
     "意思": "cross",
-    "例句": "Die NSA hörte, ein Flüchtiger hätte die kanadische Grenze überquert.",
-    "翻译": "NSA监听到，一名难民已经越过了加拿大边境。"
+    "例句": "Schauen, ob ich die Ampel halb überqueren kann, bevor das Stoppzeichen erscheint?",
+    "翻译": "看看我能不能在红灯完全亮起之前横过一半的人行道？"
   },
   {
     "原型": "dauern",
@@ -1112,8 +1112,8 @@
     "过去": "dauerte",
     "完成": "hat gedauert",
     "意思": "last",
-    "例句": "Wie lange dauert das?",
-    "翻译": "这需要多长时间？"
+    "例句": "Das dauert einige Tage.",
+    "翻译": "这需要几天时间。"
   },
   {
     "原型": "steigen um",
@@ -1121,8 +1121,8 @@
     "过去": "stieg um",
     "完成": "ist umgestiegen",
     "意思": "change (trains, buses etc.)",
-    "例句": "Es ging darum, ob Sie schon auf Digital Payment umgestiegen sind.",
-    "翻译": "这关乎您是否已经切换到了数字支付。"
+    "例句": "Wir sind auf den 980-Z umgestiegen.",
+    "翻译": "我们换到了980型号。"
   },
   {
     "原型": "steigen aus",
@@ -1130,8 +1130,8 @@
     "过去": "stieg aus",
     "完成": "ist ausgesteigen",
     "意思": "get off",
-    "例句": "Wir gehen zum Palast und steigen aus.",
-    "翻译": "我们走到宫殿前然后下了车。"
+    "例句": "...Polizeibeamte steigen aus diesem verlassenen Eisenbahnwaggon aus...",
+    "翻译": "警察从这辆废弃的火车车厢里走出来……"
   },
   {
     "原型": "öffnen",
@@ -1139,8 +1139,8 @@
     "过去": "öffnete",
     "完成": "hat geöffnet",
     "意思": "open",
-    "例句": "Das war das erste Mal, dass du ein Portal geöffnet hast?",
-    "翻译": "这是你第一次打开门户吗？"
+    "例句": "Als ich öffnete, sprühten sie mir etwas ins Gesicht.",
+    "翻译": "当我打开的时候，他们往我脸上喷了些什么。"
   },
   {
     "原型": "schmecken",
@@ -1148,8 +1148,8 @@
     "过去": "schmeckte",
     "完成": "hat geschmeckt",
     "意思": "to taste",
-    "例句": "Schmeckt so viel besser.",
-    "翻译": "尝起来好吃多了。"
+    "例句": "Sie schmecken so natürlich und fruchtig.",
+    "翻译": "它们尝起来如此自然和多汁。"
   },
   {
     "原型": "angeln",
@@ -1157,8 +1157,8 @@
     "过去": "angelte",
     "完成": "hat geangelt",
     "意思": "fishing",
-    "例句": "Oder geh Angeln.",
-    "翻译": "或者去钓鱼。"
+    "例句": "Ich will mir immer noch James und Thomas angeln, also geh behutsam mit ihnen um.",
+    "翻译": "我还是想钓到詹姆斯和汤姆，所以对他们要小心点。"
   },
   {
     "原型": "fotografieren",
@@ -1166,8 +1166,8 @@
     "过去": "fotografierte",
     "完成": "hat fotografiert",
     "意思": "take a photo",
-    "例句": "Mr. Esser hat dich dreimal gebeten, dich fotografieren zu lassen.",
-    "翻译": "埃瑟先生让你拍了三张照片。"
+    "例句": "Und ich habe ihn mit jeder Person fotografiert, die er traf.",
+    "翻译": "而且我把他遇到的每一个人的照片都拍了下来。"
   },
   {
     "原型": "joggen",
@@ -1175,8 +1175,8 @@
     "过去": "joggte",
     "完成": "ist gejoggt",
     "意思": "jog",
-    "例句": "Wieso joggt Kristín immer?",
-    "翻译": "kristín为什么总是跑步？"
+    "例句": "Mr. Jennings meint, Sie und Ihr Mann gehen morgens joggen.",
+    "翻译": "詹宁斯先生认为你和你的丈夫早上跑步。"
   },
   {
     "原型": "laufen",
@@ -1184,8 +1184,8 @@
     "过去": "lief",
     "完成": "ist gelaufen",
     "意思": "run",
-    "例句": "-Läuft er?",
-    "翻译": "他跑了吗？"
+    "例句": "Dann haben wir geredet und seitdem läuft es.",
+    "翻译": "然后我们就谈了，从那以后一切顺利。"
   },
   {
     "原型": "wandern",
@@ -1193,8 +1193,8 @@
     "过去": "wanderte",
     "完成": "ist gewandert",
     "意思": "hike",
-    "例句": "Er sitzt nur in seinem Zimmer und bastelt oder er wandert in den Bergen umher.",
-    "翻译": "他只是待在他的房间里制作东西，或者他在山里徒步行走。"
+    "例句": "Sie wandert da draußen herum wie ein ruheloser Geist.",
+    "翻译": "她在外面游荡，像一个不安的灵魂。"
   },
   {
     "原型": "bekommen",
@@ -1202,8 +1202,8 @@
     "过去": "bekam",
     "完成": "hat bekommen",
     "意思": "get sth, receive sth",
-    "例句": "Wie ich sehe, hast du meine Einladung bekommen.",
-    "翻译": "如我所见，你收到了我的邀请。"
+    "例句": "Als ich nach einem Jahr Elternzeit wieder arbeiten wollte, habe ich keinen Platz in einer Kita bekommen.",
+    "翻译": "当我一年的育儿假结束后想要回去工作时，我没有为孩子找到一个托儿所的名额。"
   },
   {
     "原型": "bekommen zurück",
@@ -1211,8 +1211,8 @@
     "过去": "bekam zurück",
     "完成": "hat zurückbekommen",
     "意思": "get sth back",
-    "例句": "Wir haben viel Geld in das Land gesteckt, das wir nicht zurückbekommen.",
-    "翻译": "我们投入了大量资金到这个国家，但无法收回。"
+    "例句": "Ich will Lwaxana zurückbekommen.",
+    "翻译": "我想把Lwaxana要回来。"
   },
   {
     "原型": "reden",
@@ -1220,8 +1220,8 @@
     "过去": "redete",
     "完成": "hat geredet",
     "意思": "talk about",
-    "例句": "[reden miteinander]",
-    "翻译": "彼此交谈"
+    "例句": "Man versteht nicht, was Matula und der Verkäufer reden.",
+    "翻译": "不明白马图拉和销售员在说什么。"
   },
   {
     "原型": "schneiden",
@@ -1229,8 +1229,8 @@
     "过去": "schnitt",
     "完成": "hat geschnitten",
     "意思": "cut, slice",
-    "例句": "Er nahm ein Messer und schnitt beiden die Kehle durch.",
-    "翻译": "他拿起一把刀，割开了他们的喉咙。"
+    "例句": "Ein Koch schneidet das Gemüse in Streifen oder Würfel.",
+    "翻译": "一个厨师把蔬菜切成条或者块。"
   },
   {
     "原型": "vergessen",
@@ -1238,8 +1238,8 @@
     "过去": "vergaß",
     "完成": "hat vergessen",
     "意思": "forget sth/sb",
-    "例句": "Ich weiß, du kannst es dir nicht vorstellen, aber wenn du endlich Zuhause bist, mit deiner Familie und deinen Freunden, wirst du alles über diesen Ort vergessen.",
-    "翻译": "我知道你无法想象，但当你终于回到家，和你的家人与朋友在一起时，你会忘了这里的一切。"
+    "例句": "Ich glaube, ich habe das heute vergessen.",
+    "翻译": "我相信我今天忘了这个。"
   },
   {
     "原型": "backen",
@@ -1247,8 +1247,8 @@
     "过去": "bäckt",
     "完成": "hat gebacken",
     "意思": "bake烘焙",
-    "例句": "Schließlich backen wir den Kuchen... und bauen die Autos und schmelzen das Metall.",
-    "翻译": "最后我们烤蛋糕……造汽车和熔化金属。"
+    "例句": "Und was machst du dann, Kekse backen?",
+    "翻译": "那你做什么，烤饼干吗？"
   },
   {
     "原型": "bestreuen",
@@ -1256,8 +1256,8 @@
     "过去": "bestreute",
     "完成": "hat bestreut",
     "意思": "springkle撒粉",
-    "例句": "-Bestreuen Sie ihn mit Parmesan.",
-    "翻译": "用帕尔马干酪粉覆盖它。"
+    "例句": "Es reichen auch zwei Scheiben von frischem Brot, ein paar Mohnkuchen, aber schön mit Zucker bestreut.",
+    "翻译": "两片新鲜的面包、几个撒上糖的罂粟籽蛋糕就足够了。"
   },
   {
     "原型": "braten",
@@ -1265,8 +1265,8 @@
     "过去": "briet",
     "完成": "hat gebraten",
     "意思": "fry炒",
-    "例句": "Briet die Tomaten und die Zwiebeln und ...",
-    "翻译": "把番茄和洋葱切片……"
+    "例句": "Weil wir jetzt einen Truthahn haben, den ich selber perfekt gebraten habe.",
+    "翻译": "因为我们现在有一个火鸡，我自己把它烤得完美无缺。"
   },
   {
     "原型": "gießen",
@@ -1274,8 +1274,8 @@
     "过去": "goss",
     "完成": "hat gegossen",
     "意思": "pour, water",
-    "例句": "Nicht zu viel gießen.",
-    "翻译": "不要浇太多水。"
+    "例句": "Ich bin in der Gosse aufgewachsen wie du.",
+    "翻译": "我像你一样是在贫民窟长大的。"
   },
   {
     "原型": "schälen",
@@ -1283,8 +1283,8 @@
     "过去": "schälte",
     "完成": "hat geschält",
     "意思": "peel削皮",
-    "例句": "Du bist knusprig verbrannt, du wirst dich roh schälen!",
-    "翻译": "你焦了，你会长皮！"
+    "例句": "Ich habe genug vom Schälen.",
+    "翻译": "我受够了剥皮。"
   },
   {
     "原型": "servieren",
@@ -1292,8 +1292,8 @@
     "过去": "servierte",
     "完成": "hat serviet",
     "意思": "serve",
-    "例句": "Gleich wird serviert.",
-    "翻译": "马上就好。"
+    "例句": "Das Abendessen ist serviert.",
+    "翻译": "晚餐已经上了。"
   },
   {
     "原型": "reservieren",
@@ -1301,8 +1301,8 @@
     "过去": "reservierte",
     "完成": "hat reserviert",
     "意思": "reserve",
-    "例句": "Ich hab heute nur für uns reserviert.",
-    "翻译": "我今天只预订了我们俩的。"
+    "例句": "Dort ist ein Zimmer reserviert.",
+    "翻译": "那里预订了一间房间。"
   },
   {
     "原型": "verrühren",
@@ -1310,8 +1310,8 @@
     "过去": "verrührte",
     "完成": "hat verrührt",
     "意思": "stir搅拌",
-    "例句": "Was für eine Firma verkauft Eier, die man nicht brät, verrührt oder kocht?",
-    "翻译": "卖不能煎、打或煮的鸡蛋的公司是什么公司？"
+    "例句": "Frischkäse, gemischt mit karamellisiertem Zucker, verrührt mit Rum.",
+    "翻译": "新鲜奶酪与焦糖混合，加入朗姆酒搅拌。"
   },
   {
     "原型": "würzen",
@@ -1319,8 +1319,8 @@
     "过去": "würzte",
     "完成": "hat gewürzt",
     "意思": "season调味",
-    "例句": "Ich habe auch die Soße anders gewürzt.",
-    "翻译": "我also也改变了酱料的调味。"
+    "例句": "\"Mächt'ger Zauber würzt die Brühe, Höllenbrei im Kessel glühe.\"",
+    "翻译": "强大的魔法调味着汤汁，锅里的地狱浓汤发出光芒。"
   },
   {
     "原型": "faulenzen",
@@ -1328,8 +1328,8 @@
     "过去": "faulenzte",
     "完成": "hat gefaulenzt",
     "意思": "lounge around",
-    "例句": "Nein, aber wenn ihr Macker immer nur faulenzt, hält das keine Frau lange aus.",
-    "翻译": "不，但是如果你哥们总是偷懒，那女人可不会干等太久。"
+    "例句": "Ihr faulenzt.",
+    "翻译": "你们在偷懒。"
   },
   {
     "原型": "holen",
@@ -1337,8 +1337,8 @@
     "过去": "holte",
     "完成": "hat geholt",
     "意思": "get, fetch",
-    "例句": "Ich wollte nur ein Buch holen.",
-    "翻译": "我只是想拿一本书。"
+    "例句": "Soll ich einen Arzt holen? Möchtest du, dass ich einen Arzt hole?",
+    "翻译": "我要叫医生吗？你想让我叫医生吗？"
   },
   {
     "原型": "stoppen",
@@ -1346,8 +1346,8 @@
     "过去": "stoppte",
     "完成": "hat gestoppt",
     "意思": "stop",
-    "例句": "(Musik stoppt.)",
-    "翻译": "(音乐停止。)"
+    "例句": "Er stoppt, er wirft und es ist...",
+    "翻译": "他停了下来，他扔了出去，然后就是……"
   },
   {
     "原型": "übernachten",
@@ -1355,8 +1355,8 @@
     "过去": "übernachtete",
     "完成": "hat übernachtet",
     "意思": "spend the night",
-    "例句": "Wir übernachten hier.",
-    "翻译": "我们在这里过夜。"
+    "例句": "Er klopfte an die Tür und fragte, ob er im Bauernhaus übernachten dürfe.",
+    "翻译": "他敲了敲门，问是否可以在这座农舍过夜。"
   },
   {
     "原型": "zelten",
@@ -1364,8 +1364,8 @@
     "过去": "zeltete",
     "完成": "hat gezeltet",
     "意思": "camp in tent",
-    "例句": "Bei uns war's 'ne Dating-App und er lud mich beim zweiten Date zum Zelten ein.",
-    "翻译": "我们在那里用的是 dating-app，而且他在我第二次约会的时候邀请我一起去露营。"
+    "例句": "Sie zeltet in den Bergen mit Freunden kommt aber bald zurück.",
+    "翻译": "她和朋友们在山上露营，但很快就会回来。"
   },
   {
     "原型": "frieren",
@@ -1373,8 +1373,8 @@
     "过去": "fror",
     "完成": "hat gefroren",
     "意思": "freeze",
-    "例句": "Wir werden frieren.",
-    "翻译": "我们会冻僵。"
+    "例句": "Da werden Sie noch frieren...",
+    "翻译": "你还会冻僵的……"
   },
   {
     "原型": "nehmen mit",
@@ -1382,8 +1382,8 @@
     "过去": "nahm mit",
     "完成": "hat mitgenommen",
     "意思": "take sth/sb along",
-    "例句": "Wer hat dich das eine Mal in seinem Wasserflugzeug mitgenommen?",
-    "翻译": "是谁带你坐了一次他的水上飞机？"
+    "例句": "Du hast doch keine Karte mitgenommen.",
+    "翻译": "你没带地图吧？"
   },
   {
     "原型": "grillen",
@@ -1391,8 +1391,8 @@
     "过去": "grillte",
     "完成": "hat gegrillt",
     "意思": "grill, BBQ",
-    "例句": "* Grillen zirpen. *",
-    "翻译": "蟋蟀鸣叫。"
+    "例句": "Holen wir was zum Grillen und treiben es.",
+    "翻译": "我们去拿点东西来烧烤吧。"
   },
   {
     "原型": "lachen",
@@ -1400,8 +1400,8 @@
     "过去": "lachte",
     "完成": "hat gelacht",
     "意思": "laugh",
-    "例句": "(Sie lacht.)",
-    "翻译": "（她笑了。）"
+    "例句": "Lautes Lachen Warum lachen Sie?",
+    "翻译": "大声笑 你为什么笑？"
   },
   {
     "原型": "reisen",
@@ -1409,8 +1409,8 @@
     "过去": "reiste",
     "完成": "is gereist",
     "意思": "travel",
-    "例句": "Stimmt es, dass du ins Ausland reist?",
-    "翻译": "你确实要出国吗？"
+    "例句": "Manche reisen nicht gern allein und machen deshalb Gruppenreisen – das ist vor allem bei älteren Menschen und Singles beliebt.",
+    "翻译": "有些人不喜欢独自旅行，因此他们参加团体旅游——这在老年人和单身人士中尤其流行。"
   },
   {
     "原型": "fahren weg",
@@ -1418,8 +1418,8 @@
     "过去": "fuhr weg",
     "完成": "ist weggefahren",
     "意思": "go away",
-    "例句": "Andrea ist eine Weile weggefahren, also...",
-    "翻译": "安德烈亚开车出去了一段时间，所以……"
+    "例句": "Ich bin schon seit einigen Jahren nicht mehr weggefahren.",
+    "翻译": "我已经好几年没有外出旅行了。"
   },
   {
     "原型": "wachen auf",
@@ -1427,8 +1427,8 @@
     "过去": "wachte auf",
     "完成": "ist aufgewacht",
     "意思": "wake up",
-    "例句": "Wacht auf!",
-    "翻译": "起床！"
+    "例句": "Ich bin aus Geilheit aufgewacht.",
+    "翻译": "我因兴奋而醒来。"
   },
   {
     "原型": "passieren",
@@ -1436,8 +1436,8 @@
     "过去": "passierte",
     "完成": "ist passiert",
     "意思": "happen",
-    "例句": "Ich habe gehört, was passiert ist, mit Pater Dantes Schwester.",
-    "翻译": "我听说了达特神父妹妹的事情。"
+    "例句": "Das passiert mir leider oft.",
+    "翻译": "这不幸经常发生在我身上。"
   },
   {
     "原型": "regnen",
@@ -1445,8 +1445,8 @@
     "过去": "regnete",
     "完成": "hat geregnet",
     "意思": "rain",
-    "例句": "Früher oder später... wird es regnen.",
-    "翻译": "迟早会下雨。"
+    "例句": "Es begann zu regnen.",
+    "翻译": "开始下雨了。"
   },
   {
     "原型": "scheinen",
@@ -1454,8 +1454,8 @@
     "过去": "schien",
     "完成": "hat geschienen",
     "意思": "shine",
-    "例句": "Wie es scheint, lag ich falsch.",
-    "翻译": "看来我错了。"
+    "例句": "In gebrauchten Scheinen.",
+    "翻译": "在旧票据中。"
   },
   {
     "原型": "schneien",
@@ -1463,8 +1463,8 @@
     "过去": "schneite",
     "完成": "hat geschneit",
     "意思": "snow",
-    "例句": "Es schneit.",
-    "翻译": "下雪了。"
+    "例句": "Du weißt schon, da, wo es schneit... und der Weihnachtsmann auf einem Norelco-Rasierapparat reitet?",
+    "翻译": "你知道那个下雪的地方……还有圣诞老人骑在诺烈可电动剃须刀上的地方？"
   },
   {
     "原型": "wehen",
@@ -1472,8 +1472,8 @@
     "过去": "wehte",
     "完成": "hat geweht",
     "意思": "blow",
-    "例句": "Weil diese Blüten alle aus Plastik waren, sind das falsche Blüten, die im Wind wehen.",
-    "翻译": "因为这些花朵都是塑料做的，所以它们是随风飘动的假花。"
+    "例句": "Daher weht der Wind.",
+    "翻译": "因此风在吹。"
   },
   {
     "原型": "pack ein",
@@ -1481,8 +1481,8 @@
     "过去": "packte ein",
     "完成": "hat eingepackt",
     "意思": "pack up",
-    "例句": "Ich weiß nicht, was du alles eingepackt hast.",
-    "翻译": "我不知道你打包了什么。"
+    "例句": "Ich habe es selbst eingepackt.",
+    "翻译": "我自己打包的。"
   },
   {
     "原型": "tragen",
@@ -1490,8 +1490,8 @@
     "过去": "trug",
     "完成": "hat getragen",
     "意思": "wear",
-    "例句": "Dennoch tragen wir sie in uns, die Sehnsucht, Gott zu begegnen.",
-    "翻译": "我们内心深处渴望与上帝相遇。"
+    "例句": "Er trug eine Wollmaske.",
+    "翻译": "他戴着羊毛口罩。"
   },
   {
     "原型": "mischen",
@@ -1499,8 +1499,8 @@
     "过去": "mischte",
     "完成": "hat gemischt",
     "意思": "mix",
-    "例句": "Und dann hat er die mit Whiskey gemischt und einfach geschnupft, um high zu werden.",
-    "翻译": "然后他混合了威士忌并简单吸鼻以寻求兴奋感。"
+    "例句": "Wenn eine von euch mit Fidel ausgeht, mischt sich die andere nicht ein.",
+    "翻译": "如果你们中有人和费德尔出去，另一个就不干涉。"
   },
   {
     "原型": "probieren an",
@@ -1508,8 +1508,8 @@
     "过去": "probierte an",
     "完成": "hat anprobiert",
     "意思": "try sth on",
-    "例句": "Wie man Schuhe anprobiert.",
-    "翻译": "如何试穿鞋子。"
+    "例句": "Nur die Bettdecke hab ich nicht anprobiert.",
+    "翻译": "只有被子我没有试过。"
   },
   {
     "原型": "gefallen",
@@ -1517,8 +1517,8 @@
     "过去": "gefiel",
     "完成": "hat gefallen",
     "意思": "appeal sb",
-    "例句": "Du bist also von der Ladefläche des LKW gefallen?",
-    "翻译": "你是从卡车的货厢上掉下来的吗？"
+    "例句": "Mit anderen zusammenwohnen gefällt mir auch am besten.",
+    "翻译": "和别人合住我也最喜欢。"
   },
   {
     "原型": "passen",
@@ -1526,8 +1526,8 @@
     "过去": "passte",
     "完成": "hat gepasst",
     "意思": "fit sb",
-    "例句": "Helga passt auf sie auf, während ich bei der Prüfung bin.",
-    "翻译": "海尔加会在家里照看她们，因为我去考试了。"
+    "例句": "Sie passten nicht zusammen?",
+    "翻译": "他们不合适？"
   },
   {
     "原型": "erreichen",
@@ -1535,8 +1535,8 @@
     "过去": "erreichte",
     "完成": "hat erreicht",
     "意思": "reach, contact",
-    "例句": "Eine Pistolenkugel erreicht eine hohe Geschwindigkeit.",
-    "翻译": "一颗子弹可以达到很高的速度。"
+    "例句": "Ich konnte erreichen, dass nur ein Strafbefehl erstellt wurde.",
+    "翻译": "我成功确保只开具了一张罚单。"
   },
   {
     "原型": "streiten",
@@ -1544,8 +1544,8 @@
     "过去": "stritt",
     "完成": "hat gestritten",
     "意思": "argue",
-    "例句": "In Ordnung, streitet ihr schön weiter.",
-    "翻译": "好的，你们继续beautiful地争论吧。"
+    "例句": "Ich will mich nicht mit ihm streiten, aber er sucht den Streit mit mir.",
+    "翻译": "我不想和他吵架，但他来找我的茬儿。"
   },
   {
     "原型": "verreisen",
@@ -1553,8 +1553,8 @@
     "过去": "verreiste",
     "完成": "ist verreist",
     "意思": "travel",
-    "例句": "Wenn das Haus sich schnell verkauft, könnten wir verreisen.",
-    "翻译": "如果房子很快卖出去，我们可以去旅行。"
+    "例句": "Ich hätte gerne jemanden zum Spielen, aber alle meine Freunde verreisen jedes Jahr und ich sitze hier alleine fest.",
+    "翻译": "我本想找个玩伴，但每年我的朋友们都会外出旅行，把我一个人留在这里。"
   },
   {
     "原型": "legen auf",
@@ -1562,8 +1562,8 @@
     "过去": "legte auf",
     "完成": "hat aufgelegt",
     "意思": "hang up挂电话",
-    "例句": "* Sie legt auf. *",
-    "翻译": "她挂断了电话。"
+    "例句": "Aufgelegt",
+    "翻译": "挂断"
   },
   {
     "原型": "heiraten",
@@ -1571,8 +1571,8 @@
     "过去": "heiratete",
     "完成": "hat geheiratet",
     "意思": "marry",
-    "例句": "- Du hast sie geheiratet?",
-    "翻译": "你娶了她？"
+    "例句": "Vor einem Jahr haben wir geheiratet.",
+    "翻译": "去年我们结婚了。"
   },
   {
     "原型": "füttern",
@@ -1580,8 +1580,8 @@
     "过去": "fütterte",
     "完成": "hat gefüttert",
     "意思": "feed",
-    "例句": "Wie sollen wir jetzt das Grizzly-Baby füttern, hm?",
-    "翻译": "我们现在怎么喂那只灰熊宝宝呢？hm？"
+    "例句": "Weil du mich einmal gefüttert hast und ich bei dir blieb?",
+    "翻译": "因为你曾经喂过我，所以我留在了你身边？"
   },
   {
     "原型": "rauchen",
@@ -1589,8 +1589,8 @@
     "过去": "rauchte",
     "完成": "hat geraucht",
     "意思": "smoke",
-    "例句": "Rauchen zerstört die Fähigkeit,",
-    "翻译": "吸烟会破坏肺功能"
+    "例句": "Kann man den rauchen?",
+    "翻译": "这个能抽烟吗？"
   },
   {
     "原型": "klettern",
@@ -1598,8 +1598,8 @@
     "过去": "kletterte",
     "完成": "ist geklettert",
     "意思": "climb",
-    "例句": "Klettert, schießt Netze.",
-    "翻译": "爬上去，投下网。"
+    "例句": "Er kämpfte sich durch die Menge, kletterte auf den Haufen, schnappte die brennende Fackel und schrie die Menge an:",
+    "翻译": "他奋力挤过人群，爬上堆垛，抓起燃烧的火把并对人群喊叫："
   },
   {
     "原型": "verletzen",
@@ -1607,8 +1607,8 @@
     "过去": "verletzte",
     "完成": "hat verlezt",
     "意思": "hurt, injure",
-    "例句": "Du bist verletzt, erschöpft, stehst kurz davor, zu zerbrechen.",
-    "翻译": "你受伤了，疲惫不堪，几乎要崩溃了。"
+    "例句": "Hat sie sich den Kopf verletzt und sieht seitdem wieder?",
+    "翻译": "她撞到头了吗？从那以后她的视力恢复了？"
   },
   {
     "原型": "ruhen aus",
@@ -1616,8 +1616,8 @@
     "过去": "ruhte aus",
     "完成": "hat ausgeruht",
     "意思": "relax",
-    "例句": "-Sie sehen braun und ausgeruht aus.",
-    "翻译": "他们看起来棕色且休息充足。"
+    "例句": "Dann müssen Sie ausgeruht sein.",
+    "翻译": "然后您必须休息好。"
   },
   {
     "原型": "bewegen",
@@ -1625,8 +1625,8 @@
     "过去": "bewegte",
     "完成": "hat bewegt",
     "意思": "move, excercise",
-    "例句": "Und er hatte einen Plan, um uns so durch den Obstgarten zu bewegen, dass die Sonne immer von hinten auf die falschen Blüten scheint, um diese idyllische Wanda-Welt zu kreieren.",
-    "翻译": "他有一个计划，让我们在果园区移动时总让阳光照在假花的背面，以此来创造这个田园般的瓦nda世界。"
+    "例句": "Ich kann meine Arme nicht bewegen.",
+    "翻译": "我不能动我的胳膊。"
   },
   {
     "原型": "empfehlen",
@@ -1634,8 +1634,8 @@
     "过去": "empfahl",
     "完成": "hat empfohlen",
     "意思": "recommend",
-    "例句": "Dazu empfehlen wir von Caroline Morey einen Chassagne-Montrachet,",
-    "翻译": "我们推荐卡罗琳·莫雷（Caroline Morey）的夏斯内-蒙哈榭（Chassagne-Montrachet）葡萄酒。"
+    "例句": "Darf ich Ihnen einen Kollegen empfehlen?",
+    "翻译": "我可以给您推荐一位同事吗？"
   },
   {
     "原型": "fühlen",
@@ -1643,8 +1643,8 @@
     "过去": "fühlte",
     "完成": "hat gefühlt",
     "意思": "feel",
-    "例句": "Fühlt sich echt an.",
-    "翻译": "感觉很真实。"
+    "例句": "Kannst du mal meine Stirn fühlen?",
+    "翻译": "你能摸一下我的额头吗？"
   },
   {
     "原型": "springen",
@@ -1652,8 +1652,8 @@
     "过去": "sprang",
     "完成": "ist gesprungen",
     "意思": "jump",
-    "例句": "- Springen!",
-    "翻译": "跳起来！"
+    "例句": "Ein junger Mann in seinem Alter sollte etwas mehr draufhaben als Kämpfen und über Zäune springen.",
+    "翻译": "一个他这个年纪的年轻男子不应该只会打架和翻墙。"
   },
   {
     "原型": "tun",
@@ -1661,8 +1661,8 @@
     "过去": "tat",
     "完成": "hat getan",
     "意思": "do something",
-    "例句": "Es tut mir so leid.",
-    "翻译": "真对不起。"
+    "例句": "Ich möchte mich nicht mit ihm streiten, aber ich weiß nicht, was ich tun kann.",
+    "翻译": "我不想和他吵架，但我不知道我能做什么。"
   },
   {
     "原型": "nehmen ab",
@@ -1670,8 +1670,8 @@
     "过去": "nahm ab",
     "完成": "hat abgenommen",
     "意思": "lose weight",
-    "例句": "Deine Frau sagt, du hast etwas abgenommen.",
-    "翻译": "你的妻子说你瘦了一些。"
+    "例句": "Schuster kann Brandauer das Geld selber wieder abgenommen haben um den Verdacht auf einen Dritten zu lenken.",
+    "翻译": "制鞋匠布兰道尔可能自己拿走了钱，以使怀疑指向第三方。"
   },
   {
     "原型": "nehmen zu",
@@ -1679,8 +1679,8 @@
     "过去": "nahm zu",
     "完成": "hat zugenommen",
     "意思": "gain weight",
-    "例句": "[Volumen nimmt zu]",
-    "翻译": "体积增大"
+    "例句": "Die Luftverschmutzung in der Stadt nimmt zu, ich will nicht dazu beitragen.",
+    "翻译": "城市里的空气污染越来越严重，我不想为此添麻烦。"
   },
   {
     "原型": "kühlen",
@@ -1688,8 +1688,8 @@
     "过去": "kühlte",
     "完成": "hat gekühlt",
     "意思": "cool something",
-    "例句": "Selbst die heißesten Kohlen kühlen ab.",
-    "翻译": "即使是最热的煤也会冷却下来。"
+    "例句": "Jetzt steigt der Wasserdampf auf, kühlt ab an der Glasscheibe.",
+    "翻译": "现在水蒸气上升，在玻璃板上冷却下来。"
   },
   {
     "原型": "stürzen",
@@ -1697,8 +1697,8 @@
     "过去": "stürzte",
     "完成": "ist gestürzt",
     "意思": "fall down, fall off",
-    "例句": "Die Urkraft, die das Rad des Lebens antreibe und verhindere, dass wir kopfüber in die graue Sinnlosigkeit des Lebens gestürzt werden.",
-    "翻译": "驱动生命之轮运转的原始力量，防止我们头朝下坠入生活的灰暗无意义之中。"
+    "例句": "Die ist ein Bus mit Kindern, der in einen Abgrund stürzt.",
+    "翻译": "这是一个载有儿童的公交车坠入深渊。"
   },
   {
     "原型": "tun weh",
@@ -1706,8 +1706,8 @@
     "过去": "tat weh",
     "完成": "hat wehgetan",
     "意思": "hurt",
-    "例句": "Das tut weh!",
-    "翻译": "这好痛！"
+    "例句": "Das tut weh.",
+    "翻译": "这很痛。"
   },
   {
     "原型": "bluten",
@@ -1715,8 +1715,8 @@
     "过去": "blutete",
     "完成": "hat geblutet",
     "意思": "bleed",
-    "例句": "Ja, ich glaube, meine Hüfte blutet ein bisschen, aber... ansonsten geht es mir gut.",
-    "翻译": "是的，我觉得我的髋部有点出血，但……除此之外我感觉还好。"
+    "例句": "- Lass die Wände bluten.",
+    "翻译": "让墙壁流血。"
   },
   {
     "原型": "schauen an",
@@ -1724,8 +1724,8 @@
     "过去": "schaute an",
     "完成": "hat angeschaut",
     "意思": "look at sth",
-    "例句": "Ja, ich glaube, ich habe Aliens angeschaut und dachte nur darüber nach, wie diese Marines massakriert werden.",
-    "翻译": "是的，我相信我看到了外星人，并且只是在想这些海军如何被屠杀的事情。"
+    "例句": "- Nun, ich habe mir die Bänder angeschaut.",
+    "翻译": "现在我看了那些录像带。"
   },
   {
     "原型": "freuen",
@@ -1733,8 +1733,8 @@
     "过去": "freute",
     "完成": "hat gefreut",
     "意思": "look forward to sth/sb",
-    "例句": "Nichts würde deinen Papa mehr freuen, als wenn du eines schönen Tages diese Uniform anziehen würdest.",
-    "翻译": "你的爸爸看到你有一天穿上这套制服会比什么都高兴。"
+    "例句": "Nico freut sich, dass er jetzt mit dem Fahrrad fahren kann.",
+    "翻译": "尼科很高兴现在可以骑自行车了。"
   },
   {
     "原型": "röntgen",
@@ -1742,8 +1742,8 @@
     "过去": "röntgte",
     "完成": "hat geröntgt",
     "意思": "X-ray sth",
-    "例句": "Sie machten eine Feinnadelpunktion und röntgen den Brustkorb.",
-    "翻译": "他们进行了细针穿刺，并拍摄了胸部X光片。"
+    "例句": "Bringen wir ihn zum Röntgen.",
+    "翻译": "把他送去拍X光。"
   },
   {
     "原型": "kommen vorbei",
@@ -1751,8 +1751,8 @@
     "过去": "kam vorbei",
     "完成": "ist vorbeigekommen",
     "意思": "come by",
-    "例句": "Er kam vorbei und half uns mit dieser Szene.",
-    "翻译": "他过来帮我们处理了这个场景。"
+    "例句": "Er kommt vorbei.",
+    "翻译": "他过来一下。"
   },
   {
     "原型": "zeigen",
@@ -1760,8 +1760,8 @@
     "过去": "zeigte",
     "完成": "hat gezeigt",
     "意思": "show",
-    "例句": "Wenn sie in die Atmosphäre der Erde eintreten, zeigen sich die Kräfte der Natur in einem grandiosen Schauspiel.",
-    "翻译": "当它们进入地球大气层时，自然力量会在一场壮丽的表演中展现出来。"
+    "例句": "Alle Spuren zeigen:",
+    "翻译": "所有的线索都表明："
   },
   {
     "原型": "bremsen",
@@ -1769,8 +1769,8 @@
     "过去": "bremste",
     "完成": "hat gebremst",
     "意思": "brake",
-    "例句": "Aber es bremste den Anfang zu sehr aus, also mussten wir es loswerden.",
-    "翻译": "但它刹车太猛了，所以我们必须摆脱它。"
+    "例句": "Da musste ich scharf bremsen.",
+    "翻译": "我不得不紧急刹车。"
   },
   {
     "原型": "untersuchen",
@@ -1778,8 +1778,8 @@
     "过去": "untersuchte",
     "完成": "hat untersucht",
     "意思": "check, examine",
-    "例句": "Wir untersuchen einen Raubüberfall auf eine Kutsche der Crimson Federal Bank.",
-    "翻译": "我们调查一起针对 Crimson 联邦银行马车的抢劫案。"
+    "例句": "Man muss dich untersuchen.",
+    "翻译": "必须检查你。"
   },
   {
     "原型": "ändern",
@@ -1787,8 +1787,8 @@
     "过去": "änderte",
     "完成": "hat geändert",
     "意思": "change sth",
-    "例句": "-Träume können sich ändern.",
-    "翻译": "梦想可以改变。"
+    "例句": "Du musst dich direkt bei deinem Vermieter beschweren, sonst ändert sich nie was.",
+    "翻译": "你必须直接向你的房东投诉，否则情况永远不会改变。"
   },
   {
     "原型": "atemn ein",
@@ -1796,8 +1796,8 @@
     "过去": "atmete ein",
     "完成": "hat eingeatmet",
     "意思": "breath in",
-    "例句": "[atmet ein und aus]",
-    "翻译": "[吸气和呼气]"
+    "例句": "Laut Autopsiebericht hat er das Gift kurz vor seinem Tod eingeatmet.",
+    "翻译": "根据尸检报告，他在死前吸入了毒物。"
   },
   {
     "原型": "atmen aus",
@@ -1805,8 +1805,8 @@
     "过去": "atmete aus",
     "完成": "hat ausgeatmet",
     "意思": "breath out",
-    "例句": "- [Jeff] Ich könnte ... [atmet aus] [schwer atmen]",
-    "翻译": "-[杰夫]我可以……[呼气]【喘息】"
+    "例句": "(Jesse atmet aus und räuspert sich)",
+    "翻译": "（杰西叹了口气并清了清嗓子）"
   },
   {
     "原型": "bedeuten",
@@ -1814,8 +1814,8 @@
     "过去": "bedeutete",
     "完成": "hat bedeutet",
     "意思": "mean",
-    "例句": "Aber im großen Kalkül des Multiversums bedeutet dein Opfer mehr als dein Leben.",
-    "翻译": "但在多元宇宙的大局中，你的牺牲比你的生命更重要。"
+    "例句": "Mit sechs Jahren ist ein Kind schulpflichtig. Das bedeutet, dass jedes Kind eine Schule besuchen muss.",
+    "翻译": "六岁儿童开始上学是强制性的。这意味着每个孩子都必须上学。"
   },
   {
     "原型": "benutzen",
@@ -1823,8 +1823,8 @@
     "过去": "benutzte",
     "完成": "hat benutzt",
     "意思": "use sth",
-    "例句": "Der Dämon benutzt sie, um an mich zu kommen.",
-    "翻译": "这个恶魔利用她们来接近我。"
+    "例句": "Ich möchte wissen, wie oft du soziale Netzwerke benutzt.",
+    "翻译": "我想知道你多久使用一次社交网络。"
   },
   {
     "原型": "schreiben krank",
@@ -1832,8 +1832,8 @@
     "过去": "schrieb krank",
     "完成": "hat krankgeschrieben",
     "意思": "take sick leave note",
-    "例句": "Soweit ich weiß, waren Sie aus psychischen Gründen krankgeschrieben?",
-    "翻译": "据我所知，你因为心理原因请了病假？"
+    "例句": "Ohne Lang wären Sie krankgeschrieben.",
+    "翻译": "没有郎格（Lang），你会休病假。"
   },
   {
     "原型": "operieren",
@@ -1841,8 +1841,8 @@
     "过去": "operierte",
     "完成": "hat operiert",
     "意思": "operate",
-    "例句": "Nein, ich habe eine Niere verkauft, die wir letzte Woche operiert haben.",
-    "翻译": "不，我卖了一个肾脏，我们上周进行了手术。"
+    "例句": "Ich bereue zutiefst, mich nicht um die Gallenblase gekümmert zu haben und dass ich mich in dem Krankenhaus operieren und mir von ihnen Blut geben ließ, ohne vorher zu fragen:",
+    "翻译": "我深深地后悔没有处理好我的胆囊问题，而且在医院接受手术时让他们给我输血，却没有事先询问。"
   },
   {
     "原型": "verschreiben",
@@ -1850,8 +1850,8 @@
     "过去": "verschrieb",
     "完成": "hat verschrieben",
     "意思": "prescribe",
-    "例句": "...der wir uns verschrieben haben?",
-    "翻译": "……这是我们承诺过的吗？"
+    "例句": "Ich habe mich vielleicht verschrieben.",
+    "翻译": "我可能写错了。"
   },
   {
     "原型": "gehen weg",
@@ -1859,8 +1859,8 @@
     "过去": "ging weg",
     "完成": "ist weggegangen",
     "意思": "leave, go away",
-    "例句": "Geht weg!",
-    "翻译": "走开！"
+    "例句": "Er ging weg zwischendurch.",
+    "翻译": "他中途离开了。"
   },
   {
     "原型": "probieren",
@@ -1868,8 +1868,8 @@
     "过去": "probierte",
     "完成": "hat probiert",
     "意思": "try",
-    "例句": "Sigfús, der Betriebsleiter, könnte es mal ein paar Wochen mit ihm probieren.",
-    "翻译": "Sigfús，这位车间主任可以让他试一试几个星期。"
+    "例句": "- Ihr solltet sie probieren, aber für mehr als 2 Teller war nicht genug Frosch da.",
+    "翻译": "你们应该尝一尝，但是青蛙肉不够，超过两盘就没有了。"
   },
   {
     "原型": "vermissen",
@@ -1877,8 +1877,8 @@
     "过去": "vermisste",
     "完成": "hat vermisst",
     "意思": "miss",
-    "例句": "Ich werde dich vermissen, mein Freund.",
-    "翻译": "我会想念你，我的朋友。"
+    "例句": "Ich würde Sie vermissen.",
+    "翻译": "我会想你的。"
   },
   {
     "原型": "beenden",
@@ -1886,8 +1886,8 @@
     "过去": "beendete",
     "完成": "hat beendet",
     "意思": "end, finish, terminate",
-    "例句": "Damit ist die heutige Diskussionsrunde beendet.",
-    "翻译": "本次讨论环节到此结束。"
+    "例句": "Sie ändern gar nichts mehr. Unsere Zusammenarbeit ist beendet.",
+    "翻译": "他们什么都不改了。我们的合作结束了。"
   },
   {
     "原型": "träumen",
@@ -1895,8 +1895,8 @@
     "过去": "träumte",
     "完成": "hat geträumt",
     "意思": "dream; to dream of something",
-    "例句": "Ich erinnere mich, was ich geträumt habe.",
-    "翻译": "我记起了我做的梦。"
+    "例句": "Der träumt nur davon.",
+    "翻译": "他只是梦想着那件事。"
   },
   {
     "原型": "wünschen",
@@ -1904,8 +1904,8 @@
     "过去": "wünschte",
     "完成": "hat gewünscht",
     "意思": "to wish for something",
-    "例句": "Ich wünschte, ich könnte es dir zeigen.",
-    "翻译": "我希望能把它展示给你。"
+    "例句": "Wir können die Webseite nach ihren Wünschen ändern.",
+    "翻译": "我们可以根据她的愿望修改网页。"
   },
   {
     "原型": "erscheinen",
@@ -1913,8 +1913,8 @@
     "过去": "erschien",
     "完成": "ist erschienen",
     "意思": "release, publish (book)",
-    "例句": "In Kürze werden meine Männer hier erscheinen, und dann werdet ihr erfahren, wie es ist, wenn man euch den Hals umdreht.",
-    "翻译": "不久我的手下就会出现在这里，然后你们会知道 what you owe你们的脖子将被扭断是什么意思。"
+    "例句": "Du meinst, Ashley wäre im Tennisanzug beim Geigenunterricht erschienen?",
+    "翻译": "你意思是艾希礼穿着网球服去上了小提琴课？"
   },
   {
     "原型": "fliehen",
@@ -1922,8 +1922,8 @@
     "过去": "floh",
     "完成": "ist geflohen",
     "意思": "flee",
-    "例句": "- Fliehe, wenn du fliehen kannst.",
-    "翻译": "如果你能逃走，就逃走。"
+    "例句": "Du willst fliehen.",
+    "翻译": "你想逃跑。"
   },
   {
     "原型": "gehören",
@@ -1931,8 +1931,8 @@
     "过去": "gehörte",
     "完成": "hat gehört",
     "意思": "belong to someone",
-    "例句": "Die Lorbeeren gehören nicht mir, sondern Ihrem Mann.",
-    "翻译": "laurels 不属于我，而是属于你的丈夫。"
+    "例句": "Er gehört zu einem Gegenstand der Karin gehört.",
+    "翻译": "它属于卡琳的那个物品。"
   },
   {
     "原型": "sterben",
@@ -1940,8 +1940,8 @@
     "过去": "starb",
     "完成": "ist gestorben",
     "意思": "die",
-    "例句": "Da bleiben sie, bis sie sterben.",
-    "翻译": "它们会待在那里，直到死去。"
+    "例句": "Sie ist letzte Nacht gestorben.",
+    "翻译": "她昨晚去世了。"
   },
   {
     "原型": "sehen an",
@@ -1949,8 +1949,8 @@
     "过去": "sah an",
     "完成": "hat angesehen",
     "意思": "look at sth",
-    "例句": "Ich hatte meine Geburtsurkunde nie richtig angesehen.",
-    "翻译": "我从未真正看过我的出生证明。"
+    "例句": "Sie hat mich so angesehen.",
+    "翻译": "她那样看着我。"
   },
   {
     "原型": "packen",
@@ -1958,8 +1958,8 @@
     "过去": "packt",
     "完成": "hat gepackt",
     "意思": "pack",
-    "例句": "Ja, aber sie muss doch was packen.",
-    "翻译": "是的，但她总该带点东西吧。"
+    "例句": "Mama, zwei Männer packten mich, als ich am Tor stand.",
+    "翻译": "妈妈，当我站在门口时，有两个男人抓住了我。"
   },
   {
     "原型": "verdienen",
@@ -1967,8 +1967,8 @@
     "过去": "verdiente",
     "完成": "hat verdient",
     "意思": "earn",
-    "例句": "Ich hab dich nicht verdient.",
-    "翻译": "我配不上你。"
+    "例句": "Das ist doch klar. Alle wollen Geld verdienen.",
+    "翻译": "这还用说，大家都想赚钱。"
   },
   {
     "原型": "verlassen",
@@ -1976,8 +1976,8 @@
     "过去": "verließ",
     "完成": "hat verlassen",
     "意思": "leave sth or sb",
-    "例句": "Julia hat mich verlassen.",
-    "翻译": "朱莉娅离开了我。"
+    "例句": "Sie verließ die Schule und arbeitete als Sekretärin um ihren jüngeren Bruder zu ernähren.",
+    "翻译": "她离开了学校，作为一名秘书工作以抚养她的弟弟。"
   },
   {
     "原型": "weinen",
@@ -1985,8 +1985,8 @@
     "过去": "weinte",
     "完成": "hat geweint",
     "意思": "cry",
-    "例句": "Fragen Sie ihn, warum meine Schwester auf ihrer Hochzeitsreise weint?",
-    "翻译": "问他我妹妹为什么在蜜月旅行中哭泣？"
+    "例句": "Und nur weil ich 20 Kilo zugenommen hatte und immerzu weinte, ging dein Vater fremd.",
+    "翻译": "而我只是因为体重增加了二十公斤并且总是哭泣，你的父亲就开始了婚外情。"
   },
   {
     "原型": "sehen nach",
@@ -1994,8 +1994,8 @@
     "过去": "sah nach",
     "完成": "hat nachgesehen",
     "意思": "look up, check",
-    "例句": "Sieht nach roter Farbe aus.",
-    "翻译": "看起来是红色。"
+    "例句": "Das sieht nach einem ertappten Einbrecher aus.",
+    "翻译": "这看起来像一个被抓的窃贼。"
   },
   {
     "原型": "schaffen",
@@ -2003,8 +2003,8 @@
     "过去": "schaffte",
     "完成": "hat geschafft",
     "意思": "manage",
-    "例句": "Wir schaffen das.",
-    "翻译": "我们能做到。"
+    "例句": "Ich kann mir nicht vorstellen, dass du es ohne Hilfe schaffen kannst.",
+    "翻译": "我无法想象你能在没有帮助的情况下做到这一点。"
   },
   {
     "原型": "verbessern",
@@ -2012,8 +2012,8 @@
     "过去": "verbesserte",
     "完成": "hat verbessert",
     "意思": "improve, correct",
-    "例句": "Jemand muss den Wasserpark in Schuss halten und verbessern.",
-    "翻译": "有人必须维护并改善水上公园。"
+    "例句": "Ich möchte gerne wissen, wie ich meine Deutschkenntnisse verbessern kann.",
+    "翻译": "我想知道如何能够提高我的德语水平。"
   },
   {
     "原型": "vereinbaren",
@@ -2021,8 +2021,8 @@
     "过去": "vereinbarte",
     "完成": "hat vereinbart",
     "意思": "arrange sth, agree on sth",
-    "例句": "Wir haben gestern an der Sitzung Stillschweigen vereinbart.",
-    "翻译": "我们昨天在会议上同意保持沉默。"
+    "例句": "Ich dachte, wir hätten vereinbart, dass du kommen kannst, aber niemanden fälschlicherweise verhaften.",
+    "翻译": "我以为我们已经达成一致，你可以来，但不要错误地逮捕任何人。"
   },
   {
     "原型": "melden an",
@@ -2030,8 +2030,8 @@
     "过去": "meldete an",
     "完成": "hat angemeldet",
     "意思": "register",
-    "例句": "Ich bin da gar nicht mehr angemeldet.",
-    "翻译": "我根本就没有登记。"
+    "例句": "Er war nicht angemeldet?",
+    "翻译": "他没有注册吗？"
   },
   {
     "原型": "geben aus",
@@ -2039,8 +2039,8 @@
     "过去": "gab aus",
     "完成": "hat ausgegeben",
     "意思": "spend",
-    "例句": "Wir haben all unser Geld in Eurer Stadt ausgegeben und wollten fragen, ob Ihr uns umsonst ausreisen lasst.",
-    "翻译": "我们在你们城市花光了所有钱，并想问一下是否可以免费让我们出境。"
+    "例句": "Sophia, vergiss nicht, gefundenes Geld soll für etwas Frivoles ausgegeben werden, etwas, das man niemals selbst kaufen würde.",
+    "翻译": "索菲亚，别忘了，捡到的钱应该用来买一些奢侈的东西，那些是你永远不会自己去买的东西。"
   },
   {
     "原型": "eröffnen",
@@ -2048,8 +2048,8 @@
     "过去": "eröffnete",
     "完成": "hat eröffnet",
     "意思": "open up, initialize",
-    "例句": "Als Herausforderer dürft ihr den ersten Zug machen und die Partie eröffnen.",
-    "翻译": "作为挑战者，你们可以先手开局。"
+    "例句": "Als Präsident des Studentenrats erkläre ich dieses Tribunal für eröffnet.",
+    "翻译": "作为学生会主席，我宣布本次法庭会议现在开始。"
   },
   {
     "原型": "sparen",
@@ -2057,8 +2057,8 @@
     "过去": "sparte",
     "完成": "hat gespart",
     "意思": "save (money)",
-    "例句": "Dem hab ich auch erst lernen müssen, wie man spart.",
-    "翻译": "我首先得学会如何节省。"
+    "例句": "Er kann deshalb sparen und kann sich bald ein Motorrad leisten.",
+    "翻译": "因此他可以省钱，并且很快就能买得起一辆摩托车。"
   },
   {
     "原型": "legen zurück",
@@ -2066,8 +2066,8 @@
     "过去": "legte zurück",
     "完成": "hat zurückgelegt",
     "意思": "to save; to set aside",
-    "例句": "Seit dem Auslaufen aus Semarang haben wir bereits 243 Seemeilen zurückgelegt.",
-    "翻译": "自从离开塞马旺以来，我们已经航行了243海里。"
+    "例句": "- Sieh mal, was ich dir zurückgelegt habe.",
+    "翻译": "你看，我把这个给你留着呢。"
   },
   {
     "原型": "heben ab",
@@ -2075,8 +2075,8 @@
     "过去": "hob ab",
     "完成": "hat abgehoben",
     "意思": "withdraw",
-    "例句": "Hab ich abgehoben, für 'ne gebrauchte Vespa.",
-    "翻译": "我取出了钱，买了一辆二手的 vespa。"
+    "例句": "Aber da wir wissen, wann Mr. Chambers Bargeld abgehoben hat, muss sein Tod nach 21:45 Uhr erfolgt sein.",
+    "翻译": "但是既然我们知道钱伯斯先生是什么时候取的现金，那么他的死亡时间就必须是在晚上九点四十五分之后。"
   },
   {
     "原型": "füllen aus",
@@ -2084,8 +2084,8 @@
     "过去": "füllte aus",
     "完成": "hat ausgefüllt",
     "意思": "fill out",
-    "例句": "Er hat eine Umfrage von Nyaboron beim Kulturfestival ausgefüllt!",
-    "翻译": "他参加了文化节上Nyaboron的调查！"
+    "例句": "Zum Schluss, können diejenigen, die den grünen Fragebogen ausgefüllt haben",
+    "翻译": "最后，请填写了绿色问卷的人注意"
   },
   {
     "原型": "leihen",
@@ -2093,8 +2093,8 @@
     "过去": "lieh",
     "完成": "hat geliehen",
     "意思": "lend",
-    "例句": "Nett von Jakob, dass er uns sein Auto geliehen hat.",
-    "翻译": "Jakob很仗义，把他的车借给我们了。"
+    "例句": "Vielleicht hat sie sich die 50 000 von Freunden geliehen.",
+    "翻译": "也许她从朋友那里借了五万。"
   },
   {
     "原型": "meinen",
@@ -2102,8 +2102,8 @@
     "过去": "meinte",
     "完成": "hat gemeint",
     "意思": "mean",
-    "例句": "Du musst bitte trotzdem meinen Anwalt anrufen.",
-    "翻译": "你还是必须联系我的律师。"
+    "例句": "Das ist Herr Friese, mein Vermieter. Ich habe mich bei ihm über meinen Nachbarn beschwert.",
+    "翻译": "这是弗里斯先生，我的房东。我向他投诉了我的邻居。"
   },
   {
     "原型": "fragen nach",
@@ -2111,8 +2111,8 @@
     "过去": "fragte nach",
     "完成": "hat nachgefragt",
     "意思": "inquire",
-    "例句": "Dann geht rein und fragt nach Meister Stockfuß.",
-    "翻译": "然后进去问一下 STOCKFUSS大师。"
+    "例句": "Sie war hier und fragte nach Neuigkeiten.",
+    "翻译": "她在这里询问了一些消息。"
   },
   {
     "原型": "buchen ab",
@@ -2120,8 +2120,8 @@
     "过去": "buchte ab",
     "完成": "hat abgebucht",
     "意思": "debit sth",
-    "例句": "Eine Bar hat etwas abgebucht.",
-    "翻译": "一家酒吧有所收入减少。"
+    "例句": "Nein, wird alles abgebucht.",
+    "翻译": "不，一切都会被扣除。"
   },
   {
     "原型": "gehen ab",
@@ -2129,8 +2129,8 @@
     "过去": "ging ab",
     "完成": "ist abgegangen",
     "意思": "deducted",
-    "例句": "Was geht ab, Badou?",
-    "翻译": "发生了什么，Badou？"
+    "例句": "Was geht ab, Mann, ich habe die neue Ice-Cube-Scheibe.",
+    "翻译": "兄弟，我有新的冰块了。"
   },
   {
     "原型": "lassen an",
@@ -2138,8 +2138,8 @@
     "过去": "ließ an",
     "完成": "hat angelassen",
     "意思": "leave sth on and running",
-    "例句": "Ich habe das Radio angelassen.",
-    "翻译": "我打开了收音机。"
+    "例句": "Jemand hat das Verandalicht angelassen.",
+    "翻译": "有人忘了关阳台的灯。"
   },
   {
     "原型": "schalten aus",
@@ -2147,8 +2147,8 @@
     "过去": "schaltete aus",
     "完成": "hat ausgeschaltet",
     "意思": "turn sth",
-    "例句": "Deshalb wurde Runge ausgeschaltet.",
-    "翻译": "因此，Runge 被关闭了。"
+    "例句": "- Da hat keiner ausgeschaltet.",
+    "翻译": "没有人关掉的。"
   },
   {
     "原型": "bescheinigen",
@@ -2156,8 +2156,8 @@
     "过去": "bescheinigte",
     "完成": "hat bescheinigt",
     "意思": "attest",
-    "例句": "Aufgrund dieser wurde die Echtheit des Eis bescheinigt.",
-    "翻译": "因此，确认了冰的真伪。"
+    "例句": "Sie haben Herrn Krafft bescheinigt, dass er nicht unter den Gewinnern der 47.",
+    "翻译": "他们证明克拉夫特先生不是第47届的获奖者。"
   },
   {
     "原型": "geben ein",
@@ -2165,8 +2165,8 @@
     "过去": "gab ein",
     "完成": "hat eingegeben",
     "意思": "enter sth (pswd)",
-    "例句": "Ja, es gibt einen.",
-    "翻译": "是的，有一个。"
+    "例句": "Es gibt eine Blickverbindung vom Parkplatz zur Mordstelle.",
+    "翻译": "从停车场可以望见案发现场。"
   },
   {
     "原型": "richten ein",
@@ -2174,8 +2174,8 @@
     "过去": "richtete ein",
     "完成": "hat eingerichtet",
     "意思": "set up",
-    "例句": "Es ist total schön eingerichtet.",
-    "翻译": "它布置得really漂亮。"
+    "例句": "Sie richtete eine Fangschaltung ein.",
+    "翻译": "她设置了一个陷阱。"
   },
   {
     "原型": "zahlen ein",
@@ -2183,8 +2183,8 @@
     "过去": "zahlte ein",
     "完成": "hat eingezahlt",
     "意思": "deposit",
-    "例句": "Ich habe 9.000 Euro eingezahlt.",
-    "翻译": "我存入了9000欧元。"
+    "例句": "Aber wir zahlen einen niedrigen Preis für spitzenmäßige Unterhaltung.",
+    "翻译": "但我们为顶级娱乐支付低廉的价格。"
   },
   {
     "原型": "erinnern",
@@ -2192,8 +2192,8 @@
     "过去": "erinnerte",
     "完成": "hat erinnert",
     "意思": "remind sb of sth",
-    "例句": "Erinnert mich irgendwie an ...",
-    "翻译": "让我想起了……"
+    "例句": "Erinnern Sie sich an Willi Schumann?",
+    "翻译": "你还记得威利·舒曼吗？"
   },
   {
     "原型": "kümmern",
@@ -2201,8 +2201,8 @@
     "过去": "kümmerte",
     "完成": "hat gekümmert",
     "意思": "look after, take care of",
-    "例句": "Seit Sie da sind, kann ich mich wieder um meine Patienten kümmern.",
-    "翻译": "自从你来之后，我又可以照顾我的病人了。"
+    "例句": "Die Kinder können auch in der Schule zum Mittagessen und die Erzieher kümmern sich um sie.",
+    "翻译": "孩子们也可以在学校吃午饭，保育员会照顾他们。"
   },
   {
     "原型": "rechnen",
@@ -2210,8 +2210,8 @@
     "过去": "rechnete",
     "完成": "hat gerechnet",
     "意思": "calculate",
-    "例句": "Es wird nicht einfach und du musst damit rechnen, dass ich manchmal noch wütend oder traurig sein werde.",
-    "翻译": "这不会容易，你必须预料到我有时可能会生气或悲伤。"
+    "例句": "Er hatte damit sogar gerechnet.",
+    "翻译": "他甚至对此有所预料。"
   },
   {
     "原型": "schauen",
@@ -2219,8 +2219,8 @@
     "过去": "schaute",
     "完成": "hat geschaut",
     "意思": "look",
-    "例句": "Da lernt man, tief in Frauenseelen zu schauen.",
-    "翻译": "在这里，你将学会深入女性的心灵。"
+    "例句": "Also, schauen wir uns das Spiel an.",
+    "翻译": "那么，让我们来看这场比赛吧。"
   },
   {
     "原型": "schicken",
@@ -2228,8 +2228,8 @@
     "过去": "schickte",
     "完成": "hat geschickt",
     "意思": "send",
-    "例句": "Ich habe eine heiße Spur und Sie schicken den nach Hause!",
-    "翻译": "我有了线索，你们把他带回去！"
+    "例句": "Sie schickte mich.",
+    "翻译": "她派了我。"
   },
   {
     "原型": "schulden",
@@ -2237,8 +2237,8 @@
     "过去": "schuldete",
     "完成": "hat geschuldet",
     "意思": "owe",
-    "例句": "Wir sind Fischer und konnten unsere Schulden nicht bezahlen.",
-    "翻译": "我们是渔民，无法偿还我们的债务。"
+    "例句": "Ich will DICH loswerden - und meine Schulden.",
+    "翻译": "我想摆脱你——还有我的债务。"
   },
   {
     "原型": "überweisen",
@@ -2246,8 +2246,8 @@
     "过去": "überwies",
     "完成": "hat überwiesen",
     "意思": "transfer money",
-    "例句": "Schuster überwies nur 9.000 Euro, schreibt aber 90.000 Euro ab.",
-    "翻译": "施图希只转账了9000欧元，但卻記作了90000欧元。"
+    "例句": "Ich rufe mein Büro an und lasse mir Geld überweisen.",
+    "翻译": "我打电话给我的办公室让他们汇钱给我。"
   },
   {
     "原型": "verbrauchen",
@@ -2255,8 +2255,8 @@
     "过去": "verbrauchte",
     "完成": "hat verbraucht",
     "意思": "use sth up, consume sth",
-    "例句": "Aber bei jeder Nutzung wird ein Großteil meiner Lebenszeit verbraucht.",
-    "翻译": "但是每次使用都会消耗掉我大量的时间。"
+    "例句": "Und wenn das Geld verbraucht ist?",
+    "翻译": "钱花光了怎么办？"
   },
   {
     "原型": "drucken aus",
@@ -2264,8 +2264,8 @@
     "过去": "druckte aus",
     "完成": "hat ausgedruckt",
     "意思": "print out",
-    "例句": "Wir haben eine Liste ihrer Lover ausgedruckt.",
-    "翻译": "我们打印了一份她的情人列表。"
+    "例句": "Es ist längst ausgedruckt.",
+    "翻译": "它早就打印出来了。"
   },
   {
     "原型": "wählen aus",
@@ -2273,8 +2273,8 @@
     "过去": "wählte aus",
     "完成": "hat ausgewählt",
     "意思": "choose, select",
-    "例句": "Wir bekommen ständig Anfragen, welche Marken ausgewählt wurden.",
-    "翻译": "我们不断收到关于选择了哪些品牌的询问。"
+    "例句": "Tom Poston wurde ausgewählt...",
+    "翻译": "汤姆·波斯顿被选中了……"
   },
   {
     "原型": "drucken",
@@ -2282,8 +2282,8 @@
     "过去": "druckte",
     "完成": "hat gedruckt",
     "意思": "print",
-    "例句": "Überprüfen Sie das gedruckte Material und alle Fakten.",
-    "翻译": "检查打印材料和所有事实。"
+    "例句": "Soll das heißen, dass St. Olaf seine eigenen Kriegsanleihen druckte?",
+    "翻译": "这是否意味着圣奥拉夫自己印刷了战争债券？"
   },
   {
     "原型": "drücken",
@@ -2291,8 +2291,8 @@
     "过去": "drückte",
     "完成": "hat gedrückt",
     "意思": "press",
-    "例句": "Darf ich auf den Knopf drücken?",
-    "翻译": "我可以按这个按钮吗？"
+    "例句": "- Nochmal drücken, dann haben wir es.",
+    "翻译": "再按一次，我们就完成了。"
   },
   {
     "原型": "kommen heraus",
@@ -2300,8 +2300,8 @@
     "过去": "kam heraus",
     "完成": "ist herausgekommen",
     "意思": "come out",
-    "例句": "Bei unseren Vernehmungen von Phelan kam heraus, dass Roberts annahm,",
-    "翻译": "在我们对菲兰的审问中得知，罗伯茨认为"
+    "例句": "WÃ€re doch alles herausgekommen und hÃ€tte man mich verurteilt!",
+    "翻译": "要是所有事情都暴露了，他们也判了我的罪！"
   },
   {
     "原型": "stecken",
@@ -2309,8 +2309,8 @@
     "过去": "steckte",
     "完成": "hat gesteckt",
     "意思": "stick inside",
-    "例句": "Und, wo steckt Lea?",
-    "翻译": "莱아在哪里？"
+    "例句": "Man hÃ€tte mich dann in ein Pflegeheim gesteckt.",
+    "翻译": "他们当时就会把我送到养老院。"
   },
   {
     "原型": "tippen",
@@ -2318,8 +2318,8 @@
     "过去": "tippte",
     "完成": "hat getippt",
     "意思": "click",
-    "例句": "* Dick tippt. *",
-    "翻译": "* 迪克在打字。*"
+    "例句": "Reine Spekulation natürlich, aber ich würde auf Herrn William tippen.",
+    "翻译": "当然只是猜测，但我倾向于认为是威廉先生。"
   },
   {
     "原型": "hauen ab",
@@ -2327,8 +2327,8 @@
     "过去": "haute ab",
     "完成": "ist abgehauen",
     "意思": "leave; dip out; scram",
-    "例句": "Ich dachte, ihr seid abgehauen.",
-    "翻译": "我以为你们逃走了。"
+    "例句": "Er schießt und sie hauen ab.",
+    "翻译": "他开枪了，他们倒下了。"
   },
   {
     "原型": "schieben",
@@ -2336,8 +2336,8 @@
     "过去": "schob",
     "完成": "hat geschoben",
     "意思": "push, move",
-    "例句": "Ich würde es nicht gleich auf sie schieben.",
-    "翻译": "我不会马上推卸给她们。"
+    "例句": "Dann schieben Sie mal 100 Mark für meine Angaben rüber.",
+    "翻译": "那你给我提供的信息付一百马克吧。"
   },
   {
     "原型": "hören zu",
@@ -2345,8 +2345,8 @@
     "过去": "hörte zu",
     "完成": "hat zugehört",
     "意思": "listen to sb",
-    "例句": "Wenn ich ihm zugehört hätte, dann wäre er vielleicht noch am Leben, oder?",
-    "翻译": "如果我听了他的话，他也许还活着，对吗？"
+    "例句": "Ich habe ihm nicht zugehört, Süße, sondern ihm die Brieftasche geklaut.",
+    "翻译": "我没有听他的，甜心，而是偷了他的钱包。"
   },
   {
     "原型": "begleiten",
@@ -2354,8 +2354,8 @@
     "过去": "begleitete",
     "完成": "hat begleitet",
     "意思": "accompany, support, care",
-    "例句": "Begleiten Sie sie hinaus.",
-    "翻译": "陪他们出去。"
+    "例句": "Mimi, wenn du für Freitagabend noch nichts vorhast, würdest du mich dann zum Apple-Blossom-Ball begleiten?",
+    "翻译": "米咪，如果你星期五晚上还没安排的话，你能陪我去参加苹果花舞会吗？"
   },
   {
     "原型": "pflegen",
@@ -2363,8 +2363,8 @@
     "过去": "pflegte",
     "完成": "hat gepflegt",
     "意思": "care, nurse",
-    "例句": "Wir lieben die Brüderlichkeit untereinander und genießen das Spiel auf dem Grün, das der Club für uns pflegt.",
-    "翻译": "我们彼此热爱兄弟般的友谊，在俱乐部为我们维护的绿地上尽情享受游戏。"
+    "例句": "Und ihren Bruder fÃŒttere ich auch mit durch, damit er sie pflegt.",
+    "翻译": "而且我也喂饱她的兄弟，好让他照顾她。"
   },
   {
     "原型": "laufen aus",
@@ -2372,8 +2372,8 @@
     "过去": "lief raus",
     "完成": "ist rausgelaufen",
     "意思": "run out, (spatial movement or expense)",
-    "例句": "- Dann bin ich rausgelaufen.",
-    "翻译": "然后我跑出去了。"
+    "例句": "Wie auch immer, die Zeugen behaupten, die Statuen sind von allein rausgelaufen.",
+    "翻译": "不管怎样，目击者声称雕像自己走了出来。"
   },
   {
     "原型": "unterstützen",
@@ -2381,8 +2381,8 @@
     "过去": "unterstützte",
     "完成": "hat unterstützt",
     "意思": "support, assist",
-    "例句": "Kannst du mir nicht vertrauen und meine Entscheidung unterstützen?",
-    "翻译": "你能不信任我并支持我的决定吗？"
+    "例句": "Kann dich ein Altenpfleger zu Hause im Haushalt unterstützen?",
+    "翻译": "一个护工能在家里的日常生活中帮助你吗？"
   },
   {
     "原型": "bügeln",
@@ -2390,8 +2390,8 @@
     "过去": "bügelte",
     "完成": "hat gebügelt",
     "意思": "iron clothing",
-    "例句": "Sie ist im Behälter unter den Bügeln.",
-    "翻译": "她位于熨斗下的容器中。"
+    "例句": "- Gebügelt?",
+    "翻译": "熨平？"
   },
   {
     "原型": "ziehen ein",
@@ -2399,8 +2399,8 @@
     "过去": "zog ein",
     "完成": "ist eingezogen",
     "意思": "move in",
-    "例句": "Die Frage ist, ob man sich wegen einem eingezogenen Führerschein von einem Mord abhalten lässt?",
-    "翻译": "问题是，一个吊销驾照的人是否会因此避免杀人？"
+    "例句": "Ich zog ein Schwein für die Farmer-Vereinigung auf.",
+    "翻译": "我为农民协会画了一头猪。"
   },
   {
     "原型": "fegen",
@@ -2408,8 +2408,8 @@
     "过去": "fegte",
     "完成": "hat gefegt",
     "意思": "sweep",
-    "例句": "Und schauen Sie mal hier, der Monitor... den hat sie vom Tisch gefegt und hat geschrien:",
-    "翻译": "看看这里，这个显示器……她是从桌子上推开的，并且喊叫着："
+    "例句": "Dieser Typ, der in einem solchen Chaos lebt, dass er nur einen Quadratmeter Boden freilässt, den seine Haushälterin dann fegen darf.",
+    "翻译": "这个生活在混乱中的人，只留出一平方米的地盘让他的女仆打扫。"
   },
   {
     "原型": "bringen aus",
@@ -2417,8 +2417,8 @@
     "过去": "brachte raus",
     "完成": "hat rausgebracht",
     "意思": "take out",
-    "例句": "Ich meine, vor dem Arzt hast du kein Wort rausgebracht.",
-    "翻译": "我认为，在看医生之前你一句话都没说。"
+    "例句": "Die sie durch den Hinterausgang rausgebracht hat, du Idiot.",
+    "翻译": "那个她把你从后门带出去的白痴。"
   },
   {
     "原型": "saugen",
@@ -2426,8 +2426,8 @@
     "过去": "saugte",
     "完成": "hat gesaugt",
     "意思": "vacuum",
-    "例句": "Saugen.",
-    "翻译": "吸吮。"
+    "例句": "Damit soll das Fett aus dem Körper gesaugt werden.",
+    "翻译": "这样就可以把体内的脂肪吸出来。"
   },
   {
     "原型": "trocknen",
@@ -2435,8 +2435,8 @@
     "过去": "trocknete",
     "完成": "hat getrocknet",
     "意思": "dry",
-    "例句": "Wie lange muss er trocknen?",
-    "翻译": "他需要干燥多长时间？"
+    "例句": "Und sie trocknen auch nicht aus.",
+    "翻译": "它们也不会干枯。"
   },
   {
     "原型": "bringen weg",
@@ -2444,8 +2444,8 @@
     "过去": "brachte weg",
     "完成": "hat weggebracht",
     "意思": "take away",
-    "例句": "Er wurde bestimmt schon weggebracht.",
-    "翻译": "他肯定已经被送走了。"
+    "例句": "Die Leiche könnte weggebracht worden sein.",
+    "翻译": "尸体可能已经被移走了。"
   },
   {
     "原型": "wischen",
@@ -2453,8 +2453,8 @@
     "过去": "wischte",
     "完成": "hat gewischt",
     "意思": "to dust; to wipe; to mop",
-    "例句": "Als du verschwunden bist, weil Yu-rim nach Russland ging, sagte ich es, als wir das Graffiti von der Wand wischten.",
-    "翻译": "当你消失的时候，因为Yu-rim去俄罗斯了，我们在擦除墙上的涂鸦时说了这件事。"
+    "例句": "Haben Sie mal versucht, etwas so von Ihrem Hemd zu wischen?",
+    "翻译": "你试过用什么东西把东西从衬衫上擦掉吗？"
   },
   {
     "原型": "schließen ab",
@@ -2462,8 +2462,8 @@
     "过去": "schloss ab",
     "完成": "hat abgeschlossen",
     "意思": "lock up",
-    "例句": "Meine Tochter hat ihre Grundausbildung mit Bravour abgeschlossen, aber dennoch hätte ich jemanden, der sie im Auge behält.",
-    "翻译": "我的女儿以优异的成绩完成了基础教育，但我仍然希望有人能照看着她。"
+    "例句": "-Fall abgeschlossen.",
+    "翻译": "案件结案。"
   },
   {
     "原型": "bedanken",
@@ -2471,8 +2471,8 @@
     "过去": "bedankte",
     "完成": "hat bedankt",
     "意思": "thank",
-    "例句": "Um mich zu bedanken, für das, was du über Geduld gesagt hast.",
-    "翻译": "为了感谢你关于耐心的那些话。"
+    "例句": "Ich will mich gerne mit Blumen bei dir bedanken.",
+    "翻译": "我想用鲜花来感谢你。"
   },
   {
     "原型": "beschweren",
@@ -2480,8 +2480,8 @@
     "过去": "beschwerte",
     "完成": "hat beschwert",
     "意思": "complain",
-    "例句": "Die Kundschaft beschwert sich, dass es nicht mehr schneit in den Bergen.",
-    "翻译": "顾客抱怨山里不再下雪了。"
+    "例句": "Ich habe mich bei ihm über meinen Nachbarn beschwert.",
+    "翻译": "我向他投诉了我的邻居。"
   },
   {
     "原型": "bieten an",
@@ -2489,8 +2489,8 @@
     "过去": "bot an",
     "完成": "hat angeboten",
     "意思": "offer, serve, in discount",
-    "例句": "Und... als ich mitbekommen habe, die Usha will das auch machen, da habe ich ihr meine Hilfe angeboten.",
-    "翻译": "而且……当我得知乌莎也想这么做时，我就主动提出帮助她。"
+    "例句": "Mir wurde ein Job in einem anderen Forschungsinstitut angeboten.",
+    "翻译": "有人给我提供了另一个研究机构的工作机会。"
   },
   {
     "原型": "betreuen",
@@ -2498,8 +2498,8 @@
     "过去": "betreute",
     "完成": "hat betreut",
     "意思": "maintain, look after",
-    "例句": "Sie wird von Chan-mi betreut, oder?",
-    "翻译": "她是由-chanmi照顾的，对吗？"
+    "例句": "In Deutschland ist der Kindergarten freiwillig. Das heißt, Eltern können ihr Kind in den Kindergarten bringen oder zu Hause betreuen.",
+    "翻译": "在德国，幼儿园是自愿的。这意味着父母可以选择把孩子送到幼儿园，或者在家里照顾孩子。"
   },
   {
     "原型": "enden",
@@ -2507,8 +2507,8 @@
     "过去": "endete",
     "完成": "hat geendet",
     "意思": "end",
-    "例句": "(Musik endet.)",
-    "翻译": "(音乐结束。)"
+    "例句": "Der Kindergarten beginnt mit zweieinhalb und endet mit sechs Jahren.",
+    "翻译": "幼儿园从两岁半开始，六岁结束。"
   },
   {
     "原型": "erziehen",
@@ -2516,8 +2516,8 @@
     "过去": "erzog",
     "完成": "hat erzogen",
     "意思": "educate",
-    "例句": "Gut erzogen, respektvoll und bereit, Befehle entgegenzunehmen.",
-    "翻译": "well educated, respectful and willing to accept orders."
+    "例句": "Aber vergiss nicht, du wurdest als Dame erzogen.",
+    "翻译": "但是别忘了，你是一位 lady，是被当作女士抚养长大的。"
   },
   {
     "原型": "ziehen aus",
@@ -2525,8 +2525,8 @@
     "过去": "zog aus",
     "完成": "ist ausgezogen",
     "意思": "move out",
-    "例句": "Im Moment darum, dass du ausgezogen bist.",
-    "翻译": "关于你搬出去的事情。"
+    "例句": "Er hat mich mit seinen Augen ausgezogen.",
+    "翻译": "他用眼神把我脱光了。"
   },
   {
     "原型": "wiegen",
@@ -2534,8 +2534,8 @@
     "过去": "wog",
     "完成": "hat gewogen",
     "意思": "weigh",
-    "例句": "Sie wiegt um die 500 Gramm.",
-    "翻译": "它大约重500克。"
+    "例句": "\"Baute im Kongo meine Hütte und sie wiegte mich in den Schlaf",
+    "翻译": "在刚果建造了我的小屋，它摇晃着让我入睡"
   },
   {
     "原型": "ziehen",
@@ -2543,8 +2543,8 @@
     "过去": "zog",
     "完成": "ist gezogen",
     "意思": "move",
-    "例句": "Ich zog Dan-dan auf, seit sie ein Baby war.",
-    "翻译": "我从她还是婴儿的时候就抚养丹丹。"
+    "例句": "Die meisten Leute ziehen heute nach der Schule für die Ausbildung oder das Studium in andere Städte.",
+    "翻译": "大多数人今天会在完成学业后去别的城市接受培训或上学。"
   },
   {
     "原型": "wohnen zusammen",
@@ -2552,8 +2552,8 @@
     "过去": "wohnte zusammen",
     "完成": "hat zusammengewohnt",
     "意思": "live together (mit sb)",
-    "例句": "Sie wohnen zusammen?",
-    "翻译": "他们一起住？"
+    "例句": "Diese Leute wohnen zusammen und so was.",
+    "翻译": "这些人住在一起之类的。"
   },
   {
     "原型": "fallen aus",
@@ -2561,8 +2561,8 @@
     "过去": "fiel aus",
     "完成": "ist ausgefallen",
     "意思": "be canceled",
-    "例句": "Wir fliegen, aber ein Triebwerk fiel aus.",
-    "翻译": "我们飞行中，但一台发动机脱落了。"
+    "例句": "Zuerst wollte ich fliegen, aber der Flug ist ausgefallen.",
+    "翻译": "起初我想坐飞机，但是航班取消了。"
   },
   {
     "原型": "fliegen hin",
@@ -2570,8 +2570,8 @@
     "过去": "flog hin",
     "完成": "ist hingeflogen",
     "意思": "fly to",
-    "例句": "Bist ja hingeflogen.",
-    "翻译": "你真是:'.$飞了.'（意为表现得很差劲）"
+    "例句": "Sie fliegt hin und her wie ein Ping-Pong-Ball.",
+    "翻译": "她像乒乓球一样来来回回飞舞。"
   },
   {
     "原型": "kriegen",
@@ -2579,8 +2579,8 @@
     "过去": "kriegte",
     "完成": "hat gekriegt",
     "意思": "to get something; to have",
-    "例句": "Und er meint, dass da noch Wohnungen zu kriegen sind.",
-    "翻译": "他认为还有房子可以租到。"
+    "例句": "Datum für den Hinflug eingeben, für den Rückflug, Uhrzeit und dann kriegt man das günstigste Angebot.",
+    "翻译": "输入往返航班的日期，时间，然后就能得到最优惠的报价。"
   },
   {
     "原型": "fliegen zurück",
@@ -2588,8 +2588,8 @@
     "过去": "flog zurück",
     "完成": "ist zurückgeflogen",
     "意思": "fly back",
-    "例句": "Vielleicht gefällt ihr das Festival auch nicht und sie fliegt zurück.",
-    "翻译": "也许你们不喜欢这个节日，也会飞回去。"
+    "例句": "Wir fliegen zurück nach Kynast!",
+    "翻译": "我们飞回基纳斯特！"
   },
   {
     "原型": "biegen ab",
@@ -2597,8 +2597,8 @@
     "过去": "bog ab",
     "完成": "ist abgebogen",
     "意思": "turn (left/right)",
-    "例句": "Wenn du früher abgebogen wärst, wären wir jetzt schon da.",
-    "翻译": "如果你早点儿拐弯了，我们现在就已经到了。"
+    "例句": "Ein Anruf, falsch abgebogen, und man geht auf ein Schicksal zu, das man sich nie erträumt hätte.",
+    "翻译": "一个错误的电话转接，就会导向一个从未梦想过的命运。"
   },
   {
     "原型": "akzeptieren",
@@ -2606,8 +2606,8 @@
     "过去": "akzeptierte",
     "完成": "hat akzeptiert",
     "意思": "accept",
-    "例句": "Sagst du, ich soll ihn akzeptieren?",
-    "翻译": "你说让我接受他？"
+    "例句": "Manchmal akzeptiert der Automaten nur Münzen und keine Eckarte oder Geldscheine.",
+    "翻译": "有时候自动售货机只接受硬币，不接受信用卡或者纸币。  \n\n注：原句中的\"Eckarte\"可能是指信用卡，但德语中通常使用\"Kreditkarte\"来表示信用卡，可能是输入错误或方言表达，因此根据上下文翻译为“信用卡”。如果\"Eckarte\"有特定含义，请提供更多信息以便更准确地翻译。"
   },
   {
     "原型": "benötigen",
@@ -2615,8 +2615,8 @@
     "过去": "benötigte",
     "完成": "hat benötigt",
     "意思": "need sth",
-    "例句": "Mit dem Auto benötigen Sie nur drei Stunden.",
-    "翻译": "开车只需要三个小时。"
+    "例句": "Sir, benötigen Sie mich noch?",
+    "翻译": "先生，您还需要我吗？"
   },
   {
     "原型": "sorgen",
@@ -2624,8 +2624,8 @@
     "过去": "sorgte",
     "完成": "hat gesorgt",
     "意思": "ensure, provide",
-    "例句": "Ich weiß, ihr habt euch Sorgen um mich gemacht.",
-    "翻译": "我知道你们担心我。"
+    "例句": "Unsere Eltern machen sich Sorgen.",
+    "翻译": "我们的父母在担心。"
   },
   {
     "原型": "fahren ab",
@@ -2633,8 +2633,8 @@
     "过去": "fuhr ab",
     "完成": "ist abgefahren",
     "意思": "depart",
-    "例句": "Der Zug ist abgefahren.",
-    "翻译": "火车已经出发了。"
+    "例句": "Ich bin den Weg zwischen Schusters Büro und dem Kino abgefahren.",
+    "翻译": "我开车行驶在鞋匠办公室和电影院之间的路上。"
   },
   {
     "原型": "steigen ein",
@@ -2642,8 +2642,8 @@
     "过去": "stieg ein",
     "完成": "ist eingestiegen",
     "意思": "get on (a train)",
-    "例句": "Kinder, beeilt euch und steigt ein.",
-    "翻译": "孩子们，快点上车。"
+    "例句": "Eine Stunde später steigen so viele Menschen aus, wie die Hälfte... der verstrichenen Minuten, aber drei Mal so viele plus sechs steigen ein.",
+    "翻译": "一小时后，下车的人数是过去分钟数的一半，但是上车的人数是这个数字的三倍还多六人。"
   },
   {
     "原型": "fahren hin",
@@ -2651,8 +2651,8 @@
     "过去": "fuhr hin",
     "完成": "ist hingefahren",
     "意思": "travel to",
-    "例句": "Wir fahren hin und holen deine Sachen.",
-    "翻译": "我们去一趟帮你把东西拿过来。"
+    "例句": "Wir fahren hin.",
+    "翻译": "我们去那儿。"
   },
   {
     "原型": "vermuten",
@@ -2660,8 +2660,8 @@
     "过去": "vermutete",
     "完成": "hat vermutet",
     "意思": "assume, suppose",
-    "例句": "Den Ermittlern zufolge wird vermutet, dass das Feuer wegen eines überhitzten Ventilators ausbrach.",
-    "翻译": "据调查人员推测，火灾是由过热的风扇引起的。"
+    "例句": "Führen Sie Ihre Kopfschmerzen, Sir, nur auf den Umbau in Ihrer Kanzlei zurück oder vermuten Sie noch andere Stressfaktoren?",
+    "翻译": "先生，您只是把头痛归因于办公室的装修，还是怀疑还有其他的压力因素？"
   },
   {
     "原型": "fahren zurück",
@@ -2669,8 +2669,8 @@
     "过去": "fuhr zurück",
     "完成": "ist zurückgefahren",
     "意思": "travel back",
-    "例句": "Ich fuhr zurück ins Hotel mit Pat, die mir Gesellschaft leistete, weil ich deprimiert war.",
-    "翻译": "我和帕特一起返回了酒店，因为她陪我是因为我觉得抑郁。"
+    "例句": "Wir fahren zurück nach Paris.",
+    "翻译": "我们开车回巴黎。"
   },
   {
     "原型": "holen ab",
@@ -2678,8 +2678,8 @@
     "过去": "holte ab",
     "完成": "hat abgeholt",
     "意思": "pick up",
-    "例句": "Aber Rocco wurde schon abgeholt.",
-    "翻译": "但是罗科已经被接走了。"
+    "例句": "- Ich werde abgeholt.",
+    "翻译": "我被接走了。"
   },
   {
     "原型": "fahren durch",
@@ -2687,8 +2687,8 @@
     "过去": "fuhr durch",
     "完成": "ist durchgefahren",
     "意思": "direct way",
-    "例句": "Ich war nicht der Einzige, der da durchgefahren ist.",
-    "翻译": "我不是唯一一个闯红灯的人。"
+    "例句": "Tom, das muss ein Irrtum sein, ich bin nur einmal durchgefahren.",
+    "翻译": "汤姆，这肯定是个误会，我只路过一次。"
   },
   {
     "原型": "entwerten",
@@ -2696,8 +2696,8 @@
     "过去": "entwertete",
     "完成": "hat entwertet",
     "意思": "validate",
-    "例句": "Und das entwertete Gefühl, welches wir Zuneigung nennen.",
-    "翻译": "我们所谓的爱的感觉其实是在贬值。"
+    "例句": "Ihr Land entwertet ihre Währung.",
+    "翻译": "您的国家正在贬值其货币。"
   },
   {
     "原型": "halten",
@@ -2705,8 +2705,8 @@
     "过去": "hielt",
     "完成": "hat gehalten",
     "意思": "hold",
-    "例句": "Es ist wichtig, dass du dich ruhig hältst, Lea.",
-    "翻译": "莱亚，你需要保持冷静。"
+    "例句": "Er leidet und hält die Schnauze.",
+    "翻译": "他痛苦却一声不吭。"
   },
   {
     "原型": "wählen",
@@ -2714,8 +2714,8 @@
     "过去": "wählte",
     "完成": "hat gewählt",
     "意思": "choose",
-    "例句": "Ich wollte, dass sie Mink wählen, weil ich denke, dass sie die bessere Wahl ist.",
-    "翻译": "我想要她选择Mink，因为我认为她是更好的人选。"
+    "例句": "Haben Sie gewählt?",
+    "翻译": "您投票了吗？"
   },
   {
     "原型": "trocknen ab",
@@ -2723,8 +2723,8 @@
     "过去": "trocknete ab",
     "完成": "hat abgetrocknet",
     "意思": "dry off",
-    "例句": "Wenn Sie von Komantschen abgetrocknet werden wollen, dann bleiben Sie ruhig.",
-    "翻译": "如果您想从Komantschen中脱敏，请保持冷静。"
+    "例句": "- Charlie spült, Jimmy trocknet ab.",
+    "翻译": "查理在洗碗，吉米在擦干。"
   },
   {
     "原型": "ziehen an",
@@ -2732,8 +2732,8 @@
     "过去": "zog an",
     "完成": "hat angezogen",
     "意思": "get dressed",
-    "例句": "Ja, Handbremse angezogen.",
-    "翻译": "是的，手刹拉上了。"
+    "例句": "Manchmal vergessen sie sie, bevor du dich wieder angezogen hast.",
+    "翻译": "有时候他们在你还没来得及穿好衣服之前就忘了你了。"
   },
   {
     "原型": "regen auf",
@@ -2741,8 +2741,8 @@
     "过去": "regte auf",
     "完成": "hat aufgeregt",
     "意思": "excite, disturb, annoy",
-    "例句": "Ich bin wirklich aufgeregt wegen des Buchs.",
-    "翻译": "我真的很兴奋关于那本书。"
+    "例句": "Es hatte sie alles sehr aufgeregt.",
+    "翻译": "这让她非常激动。"
   },
   {
     "原型": "cremen ein",
@@ -2750,8 +2750,8 @@
     "过去": "cremte ein",
     "完成": "hat eingecremt",
     "意思": "put on lotion",
-    "例句": "Frisch eingecremt.",
-    "翻译": "新鲜涂抹了护肤品。"
+    "例句": "Blake hat mich lediglich mit harmloser Sonnenmilch eingecremt, zum Schutz vor der sengenden italienischen Sonne.",
+    "翻译": "布莱克只是用无害的防晒霜把我抹了一遍，以防意大利炽热的阳光。"
   },
   {
     "原型": "engagieren",
@@ -2759,8 +2759,8 @@
     "过去": "engagierte",
     "完成": "hat engagiert",
     "意思": "engage, get involved",
-    "例句": "Ich habe keinen Spion engagiert.",
-    "翻译": "我没有雇佣间谍。"
+    "例句": "Außerdem engagiert sich jeder Dritte ehrenamtlich – zum Beispiel im Fußballverein oder im Chor.",
+    "翻译": "此外，每三个人中就有一个自愿从事公益活动，比如在足球俱乐部或者合唱团。"
   },
   {
     "原型": "entscheiden",
@@ -2768,8 +2768,8 @@
     "过去": "entschied",
     "完成": "hat entschieden",
     "意思": "decide",
-    "例句": "Du hast Zeit, dich zu entscheiden.",
-    "翻译": "你有时间来做决定。"
+    "例句": "Hmm, muss ich mich jetzt entscheiden?",
+    "翻译": "哼，我现在必须做决定吗？"
   },
   {
     "原型": "entspannen",
@@ -2777,8 +2777,8 @@
     "过去": "entspannte",
     "完成": "hat entspannt",
     "意思": "relax",
-    "例句": "Wir entspannen etwas.",
-    "翻译": "我们放松一下。"
+    "例句": "Wir haben beide viel zu tun, aber das geht nicht im Auto, also, warum nutzen wir die Zeit nicht zum Entspannen?",
+    "翻译": "我们俩都很忙，但是这不在车上解决，所以为什么不利用这段时间放松一下呢？"
   },
   {
     "原型": "interessieren",
@@ -2786,8 +2786,8 @@
     "过去": "interessierte",
     "完成": "hat interessiert",
     "意思": "be interested in",
-    "例句": "Warum interessiert Sie das?",
-    "翻译": "为什么你对这个感兴趣？"
+    "例句": "Es interessiert mich, warum Sie Mandarin lernen.",
+    "翻译": "我对您为什么学习普通话感到好奇。"
   },
   {
     "原型": "kämmen",
@@ -2795,8 +2795,8 @@
     "过去": "kämmte",
     "完成": "hat gekämmt",
     "意思": "brush hair",
-    "例句": "An dreissig Hügeln rausche ich vorbei oder schlüpfe hindurch zwischen Kämmen.",
-    "翻译": "在三十个土堆旁疾驰而过或者从梳齿间穿行而过。"
+    "例句": "Sie kämmte mich immer ohne Vorwarnung:",
+    "翻译": "她总是不打招呼就给我梳头："
   },
   {
     "原型": "kommen nach",
@@ -2804,8 +2804,8 @@
     "过去": "kam nach",
     "完成": "ist nachgekommen",
     "意思": "arrive later",
-    "例句": "Er kommt nach 3 Monaten Simbabwe nach Hause und ballert sich das Hirn weg.",
-    "翻译": "他回家后三个月去了津巴布韦，随后开枪自杀了。"
+    "例句": "Er kommt nach Hause.",
+    "翻译": "他回家了。"
   },
   {
     "原型": "rasieren",
@@ -2813,8 +2813,8 @@
     "过去": "rasierte",
     "完成": "hat rasiert",
     "意思": "shave",
-    "例句": "Ich habe mich rasiert.",
-    "翻译": "我刮了胡子。"
+    "例句": "Die Dumme hier rasierte sich den Kopf und bekam die Rolle nicht.",
+    "翻译": "这里的傻瓜剃了光头但没有得到角色。"
   },
   {
     "原型": "schminken",
@@ -2822,8 +2822,8 @@
     "过去": "schminkte",
     "完成": "hat geschminkt",
     "意思": "put on makeup",
-    "例句": "Bin ich zu stark geschminkt?",
-    "翻译": "我化浓妆了吗？"
+    "例句": "Meine Freundin schminkt sich nicht. Aber ich schminke mich jeden Tag.",
+    "翻译": "我的朋友不化妆。但我每天都要化妆。"
   },
   {
     "原型": "unterhalten",
@@ -2831,8 +2831,8 @@
     "过去": "unterhielt",
     "完成": "hat unterhalten",
     "意思": "talk, chat",
-    "例句": "Habt ihr euch unterhalten?",
-    "翻译": "你们聊天了么？"
+    "例句": "Wir unterhalten uns morgen nochmal.",
+    "翻译": "我们明天再聊。"
   },
   {
     "原型": "verabreden",
@@ -2840,8 +2840,8 @@
     "过去": "verabredete",
     "完成": "hat verabredet",
     "意思": "make an appointment",
-    "例句": "Erika war mit Freunden verabredet.",
-    "翻译": "埃里卡和朋友们约好了。"
+    "例句": "Wir sind am Samstag zum Dinner verabredet.",
+    "翻译": "我们星期六约好了吃晚饭。"
   },
   {
     "原型": "erholen",
@@ -2849,8 +2849,8 @@
     "过去": "erholte",
     "完成": "hat erholt",
     "意思": "recover, relax",
-    "例句": "Er hat sich nie davon erholt.",
-    "翻译": "他从未从中恢复过来。"
+    "例句": "Nein, mir wurde gesagt, sie müsste sich erholen...",
+    "翻译": "不，有人告诉我，她需要休息……"
   },
   {
     "原型": "informieren",
@@ -2858,8 +2858,8 @@
     "过去": "informierte",
     "完成": "hat informiert",
     "意思": "inform",
-    "例句": "über Sie informiert.",
-    "翻译": "告知关于她的情况。"
+    "例句": "Möchtest du dich über einen Ausflug nach Berlin informieren?",
+    "翻译": "你想要了解关于柏林旅行的信息吗？"
   },
   {
     "原型": "klicken",
@@ -2867,8 +2867,8 @@
     "过去": "klickte",
     "完成": "hat geklickt",
     "意思": "click",
-    "例句": "(SCHALTER KLICKT)",
-    "翻译": "(开关点击声)"
+    "例句": "(klicken)",
+    "翻译": "点击"
   },
   {
     "原型": "segeln",
@@ -2876,8 +2876,8 @@
     "过去": "segelte",
     "完成": "ist gesegelt",
     "意思": "sail",
-    "例句": "- Fährst du zum Segeln?",
-    "翻译": "你去 sailing 了吗？（注：原文中\"Segeln\"是德语单词，在中文中通常写作\"帆船\"或\"划船\"等，此处直接翻译为\"sailing\"以保持原句结构）"
+    "例句": "Faulenzen, ein bisschen Segeln ...",
+    "翻译": "懒惰一下，稍微去航海一会儿..."
   },
   {
     "原型": "surfen",
@@ -2885,8 +2885,8 @@
     "过去": "surfte",
     "完成": "hat gesurft",
     "意思": "surf",
-    "例句": "Ich habe manchmal echt Angst, wenn Jordi surft.",
-    "翻译": "有时候当乔迪冲浪时我真的很害怕。"
+    "例句": "Inge interessiert sich nicht für das Surfen.",
+    "翻译": "英格对冲浪不感兴趣。"
   },
   {
     "原型": "überzeugen",
@@ -2894,8 +2894,8 @@
     "过去": "überzeugte",
     "完成": "hat überzeugt",
     "意思": "convince",
-    "例句": "Ich bin davon überzeugt, dass sie uns etwas verschweigt.",
-    "翻译": "我确信她对我们隐瞒了些什么。"
+    "例句": "Vielleicht überzeugt sie das hier.",
+    "翻译": "也许这个能说服她。"
   },
   {
     "原型": "machen weiter",
@@ -2903,8 +2903,8 @@
     "过去": "machte weiter",
     "完成": "hat weitergemacht",
     "意思": "continue, carry on, move on",
-    "例句": "Wir machen weitere Tests, aber die Ursachen von Anfällen bleiben oft unklar.",
-    "翻译": "我们进行进一步测试，但发作的原因往往不清楚。"
+    "例句": "Kommen Sie zurück, wir machen weiter.",
+    "翻译": "回来吧，我们继续。"
   },
   {
     "原型": "haben zu tun",
@@ -2912,8 +2912,8 @@
     "过去": "hatte zu tun",
     "完成": "hat zu tun gehabt",
     "意思": "have something to do (busy)",
-    "例句": "Erika hätte einen Vater gehabt.",
-    "翻译": "埃里卡本该有一个父亲。"
+    "例句": "Sie hätten ein Motiv gehabt.",
+    "翻译": "他们有动机。"
   },
   {
     "原型": "ärgern",
@@ -2921,8 +2921,8 @@
     "过去": "ärgerte",
     "完成": "hat geärgert",
     "意思": "get annoyed by",
-    "例句": "♪ Am liebsten macht er Schabernack, Leute ärgern nicht zu knapp.",
-    "翻译": "他最喜欢恶作剧，逗人乐不会太过分。"
+    "例句": "Inge ärgert sich über die Werbung.",
+    "翻译": "英格对广告感到不满。"
   },
   {
     "原型": "machen auf",
@@ -2930,8 +2930,8 @@
     "过去": "machte auf",
     "完成": "hat aufgemacht",
     "意思": "open sth",
-    "例句": "- Ich hab grad aufgemacht.",
-    "翻译": "我刚打开门。"
+    "例句": "Macht auf.",
+    "翻译": "开门。"
   },
   {
     "原型": "bestätigen",
@@ -2939,8 +2939,8 @@
     "过去": "bestätigte",
     "完成": "hat bestätigt",
     "意思": "confirm",
-    "例句": "Bestätigen.",
-    "翻译": "确认。"
+    "例句": "Die bestätigt den Änderungswunsch, und es ist Bestandteil des Versicherungsschadens.",
+    "翻译": "这确认了变更愿望，并且它是保险损失的一部分。"
   },
   {
     "原型": "gucken",
@@ -2948,8 +2948,8 @@
     "过去": "guckte",
     "完成": "hat geguckt",
     "意思": "watch",
-    "例句": "Aber wir sind noch Lehrerinnen des alten Schlages und so haben wir uns gedacht, wir gucken uns das Ganze vielleicht erst ein paar Tage an, bevor wir richtig mit der Arbeit beginnen.",
-    "翻译": "但我们还是传统意义上的老师，所以我们打算先观察几天再正式开始工作。"
+    "例句": "Lass mich mal gucken.",
+    "翻译": "让我看看。"
   },
   {
     "原型": "klappen",
@@ -2957,8 +2957,8 @@
     "过去": "klappte",
     "完成": "hat geklappt",
     "意思": "succeed, work it out",
-    "例句": "Ich sprach normal - es hat geklappt.",
-    "翻译": "我正常说话了——成功了。"
+    "例句": "Das ist wirklich schade. Aber da kann man nichts machen. Das nächste Mal klappt es bestimmt.",
+    "翻译": "这真是可惜。但是对此无能为力。下次一定可以的。"
   },
   {
     "原型": "trauen",
@@ -2966,8 +2966,8 @@
     "过去": "traute",
     "完成": "hat getraut",
     "意思": "dare to do sth",
-    "例句": "Dann haben sie die andere Maus nicht gefangen, weil sie sich nicht getraut haben.",
-    "翻译": "然后他们没有抓住另一只老鼠，因为它们不敢。"
+    "例句": "Sie hat Angst und traut sich nicht.",
+    "翻译": "她很害怕，不敢去做。"
   },
   {
     "原型": "werfen",
@@ -2975,8 +2975,8 @@
     "过去": "warf",
     "完成": "hat geworfen",
     "意思": "throw",
-    "例句": "Er geht mit ihnen ins Bett und wirft sie dann weg.",
-    "翻译": "他和他们上床后会抛弃他们。"
+    "例句": "Ich warf ihn raus:",
+    "翻译": "我把他赶出去了："
   },
   {
     "原型": "drücken aus",
@@ -2984,8 +2984,8 @@
     "过去": "drückte aus",
     "完成": "hat ausgedrückt",
     "意思": "express",
-    "例句": "Ich bin auch ausgedrückt dageblieben.",
-    "翻译": "我也坚持表达了。"
+    "例句": "Vielleicht habe ich mich nicht klar ausgedrückt.",
+    "翻译": "也许我没有表达清楚。"
   },
   {
     "原型": "diskutieren",
@@ -2993,8 +2993,8 @@
     "过去": "diskutierte",
     "完成": "hat diskutiert",
     "意思": "discuss",
-    "例句": "- Da brauchst Du nicht diskutieren.",
-    "翻译": "你不需要讨论。"
+    "例句": "Und wir beide können hier diskutieren, bis die Kühe kommen.",
+    "翻译": "我们俩可以在这里讨论，直到牛都来了。"
   },
   {
     "原型": "erhöhen",
@@ -3002,8 +3002,8 @@
     "过去": "erhöhte",
     "完成": "hat erhöht",
     "意思": "increase",
-    "例句": "Du schläfst hier oben, eine erhöhte Position und auch bestens belüftet, siehst Du, ein Fensterchen.",
-    "翻译": "你在这里面睡觉，位置较高，通风也很好，你看，还有一个小窗户。"
+    "例句": "Ein bisschen Risiko erhöht die Spannung.",
+    "翻译": "一点风险能增加刺激感。"
   },
   {
     "原型": "klären",
@@ -3011,8 +3011,8 @@
     "过去": "klärte",
     "完成": "hat geklärt",
     "意思": "clarify",
-    "例句": "Ich muss ein paar Dinge klären.",
-    "翻译": "我必须澄清一些事情。"
+    "例句": "Ihr Polizeiapparat wird diese Fragen schon klären...",
+    "翻译": "你的警察机关会解决这些问题的……"
   },
   {
     "原型": "schließen",
@@ -3020,8 +3020,8 @@
     "过去": "schloss",
     "完成": "hat geschlossen",
     "意思": "close",
-    "例句": "Das Geschäft ist schon geschlossen.",
-    "翻译": "这笔交易已经谈成了。"
+    "例句": "Ich brauche mehr Kunden. Sonst muss ich den Laden schließen.",
+    "翻译": "我需要更多的客户。否则我就得关门了。"
   },
   {
     "原型": "steigen",
@@ -3029,8 +3029,8 @@
     "过去": "stieg",
     "完成": "ist gestiegen",
     "意思": "rise",
-    "例句": "Stürzlinger, steigen Sie rauf, sonst stürzt er.",
-    "翻译": "许尔齐unger，上车吧，不然他会掉下来。"
+    "例句": "Keine Ahnung, zu wem die ins Auto gestiegen ist.",
+    "翻译": "不知道她上了谁的车。"
   },
   {
     "原型": "verändern",
@@ -3038,8 +3038,8 @@
     "过去": "veränderte",
     "完成": "hat verändert",
     "意思": "change",
-    "例句": "Ich habe geglaubt, jene Nacht hätte unser Leben verändert.",
-    "翻译": "我曾相信那个夜晚会改变我们的生活。"
+    "例句": "Was ich euch jetzt erzähle, wird euer Leben für immer verändern.",
+    "翻译": "我现在告诉你们的事情将会永远改变你的生活。"
   },
   {
     "原型": "wundern",
@@ -3047,8 +3047,8 @@
     "过去": "wunderte",
     "完成": "hat gewundert",
     "意思": "wonder",
-    "例句": "Du wirst dich wundern.",
-    "翻译": "你会感到惊奇。"
+    "例句": "Das wundert mich nicht.",
+    "翻译": "这不让我感到惊讶。"
   },
   {
     "原型": "bringen bei",
@@ -3056,8 +3056,8 @@
     "过去": "brachte bei",
     "完成": "hat beigebracht",
     "意思": "teach",
-    "例句": "Wollen Sie sehen, was der Asp mir beigebracht hat?",
-    "翻译": "你想看看蜘蛛教给我的东西吗？"
+    "例句": "Bis letztes Jahr konnte Peter nicht schwimmen. Im Sommer haben wir ihm Schwimmen beigebracht.",
+    "翻译": "直到去年彼得都不会游泳。夏天我们教他学会了游泳。"
   },
   {
     "原型": "beschäftigen",
@@ -3065,8 +3065,8 @@
     "过去": "beschäftigte",
     "完成": "hat beschäftigt",
     "意思": "busy oneself with something",
-    "例句": "Außerdem schau, ich bin beschäftigt.",
-    "翻译": "另外看，我忙呢。"
+    "例句": "Beschäftigen wir uns also mit Geschichte.",
+    "翻译": "那么让我们来谈谈历史。"
   },
   {
     "原型": "gehen fremd",
@@ -3074,8 +3074,8 @@
     "过去": "ging fremd",
     "完成": "ist fremdgegangen",
     "意思": "cheat on sb",
-    "例句": "Die Tusse ist fremdgegangen, als ich im Knast war.",
-    "翻译": "她在我不在家的时候出轨了。"
+    "例句": "Ich vertraue meinem Mann nicht mehr. Er ist mir zu oft fremdgegangen.",
+    "翻译": "我不再信任我的丈夫了。他太经常出轨了。"
   },
   {
     "原型": "lügen",
@@ -3083,8 +3083,8 @@
     "过去": "log",
     "完成": "hat gelogen",
     "意思": "tell a lie",
-    "例句": "Und du bist ein Lügen-Deifi.",
-    "翻译": "你是谎言之神。"
+    "例句": "Egal, sie hat gelogen.",
+    "翻译": "不管怎样，她撒谎了。"
   },
   {
     "原型": "versprechen",
@@ -3092,8 +3092,8 @@
     "过去": "versprach",
     "完成": "hat versprochen",
     "意思": "promise",
-    "例句": "Wie versprochen sind alle gekommen.",
-    "翻译": "如约，所有人都来了。"
+    "例句": "Du hast mir letztes Jahr schon versprochen, dass wir eine Reise zusammen machen.",
+    "翻译": "你去年就已经答应过我，我们要一起旅行。"
   },
   {
     "原型": "vertrauen",
@@ -3101,7 +3101,277 @@
     "过去": "vertraute",
     "完成": "hat vertraut",
     "意思": "trust",
-    "例句": "Hab Vertrauen zu mir.",
-    "翻译": "相信我。"
+    "例句": "Er hat seiner Freundin vertraut, aber sie hat sein Vertrauen missbraucht.",
+    "翻译": "他信任了他的女友，但她却滥用了他的信任。"
+  },
+  {
+    "原型": "fangen",
+    "现在": "fängt",
+    "过去": "fing",
+    "完成": "hat gefangen",
+    "意思": "catch",
+    "例句": "Wir waren bestimmt zehnmal angeln und wir haben einen Fisch gefangen, und er hat fürchterlich geschmeckt.",
+    "翻译": "我们肯定钓了十次鱼，但只捕到一条，而且那条鱼难吃极了。"
+  },
+  {
+    "原型": "gründen",
+    "现在": "gründet",
+    "过去": "gründete",
+    "完成": "hat gegründet",
+    "意思": "found 成立/建立",
+    "例句": "Ja, die wollten ihr eigenes Land gründen.",
+    "翻译": "是的，他们想建立自己的国家。"
+  },
+  {
+    "原型": "reiten",
+    "现在": "reitet",
+    "过去": "ritt",
+    "完成": "ist geritten",
+    "意思": "ride (horse)",
+    "例句": "Ich weiß nicht, was uns geritten hat.",
+    "翻译": "我不知道是什么让我们这么做的。"
+  },
+  {
+    "原型": "turnen",
+    "现在": "turnt",
+    "过去": "turnte",
+    "完成": "hat geturnt",
+    "意思": "do gymnastics",
+    "例句": "Sogar Turnen.",
+    "翻译": "甚至体操。"
+  },
+  {
+    "原型": "verbringen",
+    "现在": "verbringt",
+    "过去": "verbrachte",
+    "完成": "hat verbracht",
+    "意思": "spend",
+    "例句": "Er verbrachte die Tage auf der Jagd und die Abende bei sehr angenehmen Diners mit seiner reizenden Gattin, Lady Celia.",
+    "翻译": "他白天打猎，晚上则与迷人的妻子塞莉娅女爵共进非常愉快的晚餐。"
+  },
+  {
+    "原型": "beruhigen",
+    "现在": "beruhigt",
+    "过去": "beruhigte",
+    "完成": "hat beruhigt",
+    "意思": "calm down",
+    "例句": "Da kann ich Sie vÃ¶llig beruhigen.",
+    "翻译": "这我可以完全让您放心。"
+  },
+  {
+    "原型": "küssen",
+    "现在": "küsst",
+    "过去": "küsste",
+    "完成": "hat geküsst",
+    "意思": "kiss",
+    "例句": "Die kannst du ohne die Erlaubnis ihres Vaters nicht mal küssen.",
+    "翻译": "你甚至不能在没有他们父亲许可的情况下吻他们。"
+  },
+  {
+    "原型": "melden",
+    "现在": "meldet",
+    "过去": "meldete",
+    "完成": "hat gemeldet",
+    "意思": "contact",
+    "例句": "Er hat sich nicht mehr gemeldet.",
+    "翻译": "他再也没有出现过。"
+  },
+  {
+    "原型": "überlegen",
+    "现在": "überlegt",
+    "过去": "überlegte",
+    "完成": "hat überlegt",
+    "意思": "think",
+    "例句": "Ich habe mir überlegt, dass wir alle zusammen eine Lösung finden müssen.",
+    "翻译": "我已经想清楚了，我们必须一起找到一个解决方案。"
+  },
+  {
+    "原型": "umarmen",
+    "现在": "umarmt",
+    "过去": "umarmte",
+    "完成": "hat umarmt",
+    "意思": "hug, embrace (formal)",
+    "例句": "Ich habe ihn umarmt!",
+    "翻译": "我拥抱了他！"
+  },
+  {
+    "原型": "haben vor",
+    "现在": "hat vor",
+    "过去": "hatte vor",
+    "完成": "hat vorgehabt",
+    "意思": "plan, intend",
+    "例句": "Ich hatte vor Angelika ein Verhältnis mit seiner Frau.",
+    "翻译": "我在安杰利卡之前与他的妻子有过一段婚外情。"
+  },
+  {
+    "原型": "stellen vor",
+    "现在": "stellt vor",
+    "过去": "stellte vor",
+    "完成": "hat vorgestellt",
+    "意思": "imagine",
+    "例句": "In meinen wildesten Träumen hätte ich mir das nie vorgestellt, und du weißt, wie wild die werden können.",
+    "翻译": "在我的最疯狂的梦里我也从未想象过这样的事，你知道我的梦想能有多疯狂。"
+  },
+  {
+    "原型": "gehen weiter",
+    "现在": "geht weiter",
+    "过去": "ging weiter",
+    "完成": "ist weitergegangen",
+    "意思": "continue, go on",
+    "例句": "Bart, diese Angelegenheit war scheußlich, doch das Leben geht weiter.",
+    "翻译": "巴特，这件事很糟糕，但生活还要继续。"
+  },
+  {
+    "原型": "gratulieren",
+    "现在": "gratuliert",
+    "过去": "gratulierte",
+    "完成": "hat gratuliert",
+    "意思": "congratulate",
+    "例句": "Dir zum Geburtstag gratulieren.",
+    "翻译": "祝你生日快乐。"
+  },
+  {
+    "原型": "schaden",
+    "现在": "schadet",
+    "过去": "schadete",
+    "完成": "hat geschadet",
+    "意思": "harm, hurt, damage",
+    "例句": "Wenn Geoffrey Interesse zeigt, sehe ich keinen Schaden darin, ihn einer netten Frau vorzustellen.",
+    "翻译": "如果杰弗里表现出兴趣，我认为没有害处把他介绍给一个 nice 的女士。注：德语中的\"nette\"可以翻译为“nice”、“nice and”或直接翻译为“善良的、友好的”，根据上下文这里选择最合适的中文表达可能需要更多背景信息。若要更自然地表达，可译为：“如果杰弗里表现出兴趣，我认为没有害处把他介绍给一位友善的女士。”"
+  },
+  {
+    "原型": "übernehmen",
+    "现在": "übernimmt",
+    "过去": "übernahm",
+    "完成": "hat übernommen",
+    "意思": "take",
+    "例句": "Welchen Job könnte er in einer Anwaltskanzlei übernehmen?",
+    "翻译": "他在律师事务所能做什么样的工作？"
+  },
+  {
+    "原型": "googeln",
+    "现在": "googelt",
+    "过去": "googelte",
+    "完成": "hat gegoogelt",
+    "意思": "google search",
+    "例句": "Denkst du, nur du kannst googeln?",
+    "翻译": "你以为只有你会用谷歌搜索吗？"
+  },
+  {
+    "原型": "laden herunter",
+    "现在": "lädt herunter",
+    "过去": "lud herunter",
+    "完成": "hat heruntergeladen",
+    "意思": "download",
+    "例句": "Ich habe mit der Befugnis von Manus ... die Internet-Suchprotokolle unserer Verdächtigen heruntergeladen.",
+    "翻译": "我利用Manus的权限下载了我们怀疑对象的互联网搜索记录。"
+  },
+  {
+    "原型": "mailen",
+    "现在": "mailt",
+    "过去": "mailte",
+    "完成": "hat gemailt",
+    "意思": "send email",
+    "例句": "Könnte Ihre Sekretärin uns die Liste vielleicht mailen oder faxen?",
+    "翻译": "您的秘书能将这份名单通过邮件或者传真发给我们吗？"
+  },
+  {
+    "原型": "nutzen",
+    "现在": "nutzt",
+    "过去": "nutzte",
+    "完成": "hat genutzt",
+    "意思": "use",
+    "例句": "Zwischen verschiedenen Städten kann man die Regionalbahn oder den ICE nutzen.",
+    "翻译": "可以在不同的城市之间乘坐区域列车或者ICE（高速列车）。"
+  },
+  {
+    "原型": "designen",
+    "现在": "designt",
+    "过去": "designte",
+    "完成": "hat designt",
+    "意思": "design",
+    "例句": "Newkirk übernimmt das Nähen und ich das Designen.",
+    "翻译": "纽克尔负责缝纫，我负责设计。"
+  },
+  {
+    "原型": "erstellen",
+    "现在": "erstellt",
+    "过去": "erstellte",
+    "完成": "hat erstellt",
+    "意思": "create, build",
+    "例句": "Wir erstellen Statistiken über Zusätze zur Gesundheitsfürsorge für Rentner.",
+    "翻译": "我们为退休人员创建关于保健补充服务的统计资料。"
+  },
+  {
+    "原型": "kommunizieren",
+    "现在": "kommuniziert",
+    "过去": "kommunizierte",
+    "完成": "hat kommuniziert",
+    "意思": "communicate",
+    "例句": "Man lernt eben, wie man kommuniziert, ok?",
+    "翻译": "我们就学着怎么沟通吧，好吗？"
+  },
+  {
+    "原型": "lohnen",
+    "现在": "lohnt",
+    "过去": "lohnte",
+    "完成": "hat gelohnt",
+    "意思": "worthwhile",
+    "例句": "Das lohnt sich nicht.",
+    "翻译": "这不值得。"
+  },
+  {
+    "原型": "laden auf",
+    "现在": "lädt auf",
+    "过去": "lud auf",
+    "完成": "hat aufgeladen",
+    "意思": "charge充电",
+    "例句": "Schon aufgeladen?",
+    "翻译": "已经充电了吗？"
+  },
+  {
+    "原型": "empfangen",
+    "现在": "empfängt",
+    "过去": "empfing",
+    "完成": "hat empfangen",
+    "意思": "receive",
+    "例句": "Möge uns der Herr dankbar machen, für die Geschenke, die wir jetzt empfangen.",
+    "翻译": "愿主使我们感恩，对于我们现在所收到的礼物。"
+  },
+  {
+    "原型": "verschicken",
+    "现在": "verschickt",
+    "过去": "verschickte",
+    "完成": "hat verschickt",
+    "意思": "send",
+    "例句": "Ma hat sicher über 500 Einladungen in den Umschlag gesteckt und verschickt.",
+    "翻译": "妈妈肯定往信封里放了五百多张邀请函并寄出了。"
+  },
+  {
+    "原型": "versenden",
+    "现在": "versendet",
+    "过去": "versendete",
+    "完成": "hat versendet",
+    "意思": "send",
+    "例句": "Ich hab ihn erst jetzt erhalten, aber laut dem Rabbi wurde er vor 8 Monaten versendet.",
+    "翻译": "我刚刚才收到它，但据拉比说，它是八个月前寄出的。"
+  },
+  {
+    "原型": "reklamieren",
+    "现在": "reklamiert",
+    "过去": "reklamierte",
+    "完成": "hat reklamiert",
+    "意思": "complain",
+    "例句": "Ist da nicht eine Welle von Ihnen reklamiert worden?",
+    "翻译": "有没有人投诉过您呢？"
+  },
+  {
+    "原型": "tauschen um",
+    "现在": "tauscht um",
+    "过去": "tauschte um",
+    "完成": "hat umgetauscht",
+    "意思": "exchange",
+    "例句": "Wo hast du dein Geld umgetauscht, Janet?",
+    "翻译": "简特，你在哪里兑换的钱？"
   }
 ]

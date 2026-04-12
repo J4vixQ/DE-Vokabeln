@@ -6,8 +6,8 @@
     "单数女": "die Mutter",
     "复数女": "die Mütter",
     "意思女": "mother",
-    "例句": "Sie kämpft gegen einen Gargoyle und hält sich für Mutter Teresa.",
-    "翻译": "她与石像鬼搏斗，自认为是特蕾莎修女。"
+    "例句": "Selma geht mit ihrer Mutter einkaufen.",
+    "翻译": "塞尔玛和她的妈妈去购物。"
   },
   {
     "单数男": "",
@@ -16,8 +16,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Denn ich muss jetzt eine 17-Jährige in einen Leichensack verpacken und ihren Eltern die wahre Todesursache verheimlichen.",
-    "翻译": "因为现在我必须把一个17岁的女孩装进尸袋，并且隐瞒她的真实死因告知她的父母。"
+    "例句": "Nico glaubt, dass seine Eltern ihn nicht verstehen.",
+    "翻译": "尼科认为他的父母不理解他。"
   },
   {
     "单数男": "das Kind",
@@ -26,8 +26,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Wir kennen uns, seitdem ich ein Kind bin.",
-    "翻译": "自从我小时候我们就认识了。"
+    "例句": "Sie weiß nicht, wie sie als Alleinerziehende ein Leben mit Kind organisieren kann.",
+    "翻译": "她不知道如何独自一人抚养孩子，组织自己的生活。"
   },
   {
     "单数男": "der Sohn",
@@ -36,8 +36,8 @@
     "单数女": "die Tochter",
     "复数女": "die Töchter",
     "意思女": "daughter",
-    "例句": "Deiner Tochter bleibt sicher noch eine Stunde, bevor ihr die Luft ausgeht.",
-    "翻译": "你女儿的氧气还能持续一个小时。"
+    "例句": "Inges Sohn findet, dass seine Mutter einsam ist.",
+    "翻译": "英格的儿子觉得他的母亲很孤单。"
   },
   {
     "单数男": "der Junge",
@@ -46,8 +46,8 @@
     "单数女": "das Mädchen",
     "复数女": "die Mädchen",
     "意思女": "girl",
-    "例句": "Er steht immer auf die falsche Art Mädchen.",
-    "翻译": "他总是喜欢错类型的女孩。"
+    "例句": "Nach der Schule können aber nicht alle jungen Menschen zu Hause wohnen.",
+    "翻译": "但是放学后，并不是所有的年轻人都能住在家里。"
   },
   {
     "单数男": "das Einzelkind",
@@ -56,8 +56,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Bis ich 15 war, war ich ein Einzelkind.",
-    "翻译": "在我15岁之前，我是独生子女。"
+    "例句": "Mein Vater war 'n Einzelkind.",
+    "翻译": "我父亲是独生子。"
   },
   {
     "单数男": "der Bruder",
@@ -66,8 +66,8 @@
     "单数女": "die Schwester",
     "复数女": "die Schwestern",
     "意思女": "sister",
-    "例句": "Bei der Schwester.",
-    "翻译": "在姐姐那里。"
+    "例句": "Mein Vater hat gefragt, warum ich nicht wie mein Bruder bin.",
+    "翻译": "我父亲问我为什么不像我哥哥。"
   },
   {
     "单数男": "das Geschwister",
@@ -76,8 +76,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Liebenswerte Spitznamen sind für Geschwister reserviert, die mich nicht vor Jahrtausenden im Stich gelassen haben.",
-    "翻译": "可爱的绰号留给我的兄弟姐妹们了，他们可是在上千年之前就没有抛弃我。"
+    "例句": "Sie sind Geschwister.",
+    "翻译": "他们是兄弟姐妹。"
   },
   {
     "单数男": "der Großvater",
@@ -86,8 +86,8 @@
     "单数女": "die Großmutter",
     "复数女": "die Großmütter",
     "意思女": "grandmother",
-    "例句": "Deine Ur-Großmutter Imogene winkt mir, direkt über deiner Schulter.",
-    "翻译": "你的曾祖母伊莫金在你肩膀上方向我挥手。"
+    "例句": "Der beste Freund meines Großvaters, sie waren 40 Jahre befreundet, und der Kerl flirtet eines Tages mit meiner Großmutter,",
+    "翻译": "我祖父最好的朋友，他们交往了四十年，有一天那个家伙却跟我祖母调情。"
   },
   {
     "单数男": "",
@@ -96,8 +96,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Man sollte machen, was die Großeltern gemacht haben.",
-    "翻译": "你应该做祖父母那一辈做过的事情。"
+    "例句": "Die kleine Inga verbrachte das Wochenende bei ihren Großeltern.",
+    "翻译": "小英格周末和她的祖父母在一起。"
   },
   {
     "单数男": "der Opa",
@@ -106,8 +106,8 @@
     "单数女": "die Oma",
     "复数女": "die Omas",
     "意思女": "gradma",
-    "例句": "- Mein Opa hat mit 16 geheiratet.",
-    "翻译": "我的祖父在十六岁时结婚了。"
+    "例句": "Opa braucht ein Hörgerät, weil er nicht mehr gut hören kann.",
+    "翻译": "爷爷需要一个助听器，因为他听力不好了。"
   },
   {
     "单数男": "der Enkelkind",
@@ -116,8 +116,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Es ging darum, dich, Zoe und unser Enkelkind in Sicherheit zu bringen.",
-    "翻译": "这关乎把你们三人带进安全的地方——你、佐伊和我们的孙子女。"
+    "例句": "Mein Enkelkind soll nicht als Erstes ein Schimpfwort sagen.",
+    "翻译": "我的孙子不该首先学会骂人的话。"
   },
   {
     "单数男": "der Enkelsohn",
@@ -126,8 +126,8 @@
     "单数女": "die Enkeltochter",
     "复数女": "die Enkeltöchter",
     "意思女": "granddaughter",
-    "例句": "Enkeltochter.",
-    "翻译": "独生女"
+    "例句": "Und die Information, dass sie einen Enkelsohn haben, der jetzt ein neues Heim braucht.",
+    "翻译": "他们有一个孙子现在需要一个新的家这个信息。"
   },
   {
     "单数男": "der Onkel",
@@ -136,8 +136,8 @@
     "单数女": "die Tante",
     "复数女": "die Tanten",
     "意思女": "aunt",
-    "例句": "Meine Tante Freya hat mir einen Zauber beigebracht.",
-    "翻译": "我的姑妈弗亚教给我一个魔法。"
+    "例句": "Sogar nach dem ganzen Chaos mit Onkel Johnny?",
+    "翻译": "甚至在与约翰叔叔的所有混乱之后？"
   },
   {
     "单数男": "der Cousin",
@@ -146,8 +146,8 @@
     "单数女": "die Cousine",
     "复数女": "die Cousinen",
     "意思女": "cousin",
-    "例句": "Und, Cousin?",
-    "翻译": "而且，堂兄弟？"
+    "例句": "Heh, ich weiß nicht ob Cousin Eddie dir gesagt hat, aber Mütter gegen Trunkenheit am Steuer hat eine Liste mit 600 Unterschriften die sie dem Gericht vorlegen werden, damit du frei kommst.",
+    "翻译": "嘿，我不知道表哥埃迪有没有告诉你，反酒驾母亲协会有一份六百人签名的名单，他们将会把这份名单提交给法庭，以便你能获得释放。"
   },
   {
     "单数男": "der Neffe",
@@ -156,8 +156,8 @@
     "单数女": "die Nichte",
     "复数女": "die Nitchten",
     "意思女": "niece",
-    "例句": "Darf ich Ihnen meinen Neffen Darius Tanz vorstellen?",
-    "翻译": "我可以向您介绍我的侄子达里乌斯·塔兹吗？"
+    "例句": "Dein Neffe und ich haben eine ganz besondere Beziehung.",
+    "翻译": "你的侄子和我有着一种非常特别的关系。"
   },
   {
     "单数男": "der Verwante",
@@ -166,8 +166,8 @@
     "单数女": "der Verwante",
     "复数女": "die Verwandten",
     "意思女": "relative",
-    "例句": "Irgendwelche Verwandten?",
-    "翻译": "有任何亲属吗？"
+    "例句": "Meine schrecklichen Verwandten kommen!",
+    "翻译": "我的可怕亲戚来了！"
   },
   {
     "单数男": "der Zwillingsbruder",
@@ -176,8 +176,8 @@
     "单数女": "die Zwillingsschwester",
     "复数女": "die Zwillingsschwestern",
     "意思女": "twin sister",
-    "例句": "Mein Psycho-Zwillingsbruder, der ein Messer, das riesig ist, schwingt.",
-    "翻译": "我的心理双胞胎兄弟挥舞着一把巨大的刀。"
+    "例句": "- Ich hab einen Zwillingsbruder?",
+    "翻译": "我有一个孪生兄弟？"
   },
   {
     "单数男": "der Freund",
@@ -186,8 +186,8 @@
     "单数女": "die Freundin",
     "复数女": "die Freundinnen",
     "意思女": "friend",
-    "例句": "Aber ich bin heimlich in den Freund meiner besten Freundin, Sasha, verliebt.",
-    "翻译": "但我暗恋着沙莎最好的朋友。"
+    "例句": "Es is gut, dass ich deutsche freunde habe.",
+    "翻译": "有德国朋友很好。"
   },
   {
     "单数男": "der Student",
@@ -196,8 +196,8 @@
     "单数女": "die Studentin",
     "复数女": "die Studentinnen",
     "意思女": "student",
-    "例句": "Ich wurde gefeuert, meine Frau ließ sich scheiden, sie bekam eine Riesenabfindung, und ein Student hat alle meine Daten ins Netz gestellt.",
-    "翻译": "我被解雇了，我的妻子离婚了，她得到了一大笔赔偿金，而且有一个学生把所有我的数据都放到了网上。"
+    "例句": "Dieser Student sieht genauso aus wie Kyle, außer, dass er seit den 80'ern vermisst wird.",
+    "翻译": "这个学生看起来和凯尔一模一样，只不过他自上世纪80年代起就失踪了。"
   },
   {
     "单数男": "der Schüler",
@@ -206,8 +206,8 @@
     "单数女": "die Schülerin",
     "复数女": "die Schülerinnen",
     "意思女": "pupil",
-    "例句": "Dann entscheiden wir im besten Interesse unserer Schüler.",
-    "翻译": "然后我们会在我们学生的最佳利益下作出决定。"
+    "例句": "Mein bester Schüler.",
+    "翻译": "我最好的学生。"
   },
   {
     "单数男": "der Pilot",
@@ -216,8 +216,8 @@
     "单数女": "die Pilotin",
     "复数女": "die Pilotinnen",
     "意思女": "pilot",
-    "例句": "(Lizzie) Und sie konnte keinen Privatjet- Piloten manipulieren, damit er sie fliegt?",
-    "翻译": "(莉齐) 她不能操纵私人飞机的飞行员让她飞吗？"
+    "例句": "Du kannst sein, was du willst, Von mir aus Pilot.",
+    "翻译": "你可以成为你想成为的人，如果你想成为一名飞行员也没问题。"
   },
   {
     "单数男": "der Lehrer",
@@ -226,8 +226,8 @@
     "单数女": "die Lehrerin",
     "复数女": "die Lehrerinnen",
     "意思女": "teacher",
-    "例句": "(Lehrer) Das war's.",
-    "翻译": "老师：这就完了。"
+    "例句": "Wir waren euch gute Lehrer.",
+    "翻译": "我们是好老师。"
   },
   {
     "单数男": "der Fahrer",
@@ -236,8 +236,8 @@
     "单数女": "die Fahrerin",
     "复数女": "die Fahrerinnen",
     "意思女": "driver",
-    "例句": "Ich bin der Fahrer.",
-    "翻译": "我是司机。"
+    "例句": "Einen betrunkenen Fahrer, der ein Kind tötet?",
+    "翻译": "一个醉酒驾驶导致儿童死亡的司机？"
   },
   {
     "单数男": "der Tourist",
@@ -246,8 +246,8 @@
     "单数女": "die Touristin",
     "复数女": "die Touristinnen",
     "意思女": "tourist",
-    "例句": "Touristen plattfahren?",
-    "翻译": "游客压死人？"
+    "例句": "Touristen kommen eh keine mehr.",
+    "翻译": "游客不会再来了。"
   },
   {
     "单数男": "der Polizist",
@@ -256,8 +256,8 @@
     "单数女": "die Polizistin",
     "复数女": "die Polizistinnen",
     "意思女": "police",
-    "例句": "Redet sie mit Polizisten immer so?",
-    "翻译": "你总是和警察这样说话吗？"
+    "例句": "Ich wusste nicht, dass ihre Schwester Polizistin ist.",
+    "翻译": "我不知道她的姐姐是警察。"
   },
   {
     "单数男": "der Vegetarier",
@@ -266,8 +266,8 @@
     "单数女": "die Vegetarierin",
     "复数女": "die Vegetarierinnen",
     "意思女": "vegetarian",
-    "例句": "Abgehangener Steak, geplankter Weißfisch, und für Vegetarier, gedünstete Linsen- und Kichererbsen.",
-    "翻译": "挂牛肉片，烤白鱼，以及素食者可以选择的炒扁豆和蚕豆。"
+    "例句": "Ich esse kein Fleisch, weil ich Vegetarier bin.",
+    "翻译": "我不吃肉，因为我是一名素食者。"
   },
   {
     "单数男": "der Gast",
@@ -276,8 +276,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Deine Gäste warten schon.",
-    "翻译": "你的客人已经等待很久了。"
+    "例句": "Sie begrüßt die Gäste, beantwortet Fragen und gibt ihnen die Schlüsselkarte zum Hotelzimmer.",
+    "翻译": "她迎接客人，回答问题，并给他们酒店房间的钥匙卡。"
   },
   {
     "单数男": "der Kunde",
@@ -286,8 +286,8 @@
     "单数女": "die Kundin",
     "复数女": "die Kundinnen",
     "意思女": "customer",
-    "例句": "Sagen meine Kunden auch alle.",
-    "翻译": "我的客户也是这么说的。"
+    "例句": "Ich brauche mehr Kunden. Sonst muss ich den Laden schließen.",
+    "翻译": "我需要更多的客户。否则我就得关门了。"
   },
   {
     "单数男": "der Kellner",
@@ -296,8 +296,8 @@
     "单数女": "die Kellnerin",
     "复数女": "die Kellnerinnen",
     "意思女": "waitress",
-    "例句": "Die Kellnerin nicht nach ihrem Namen zu fragen.",
-    "翻译": "不要问服务员的名字。"
+    "例句": "Weil ihr beiden euch fast totgetreten habt, um zum Klo zu kommen, als der Kellner mit der Rechnung kam.",
+    "翻译": "因为你们俩为了去厕所差点跑断腿，结果服务员送来账单的时候你们还没付钱。"
   },
   {
     "单数男": "der Kursteilnehmer",
@@ -306,8 +306,8 @@
     "单数女": "die Kursteilnehmerin",
     "复数女": "die Kursteilnehmerinnen",
     "意思女": "course participant",
-    "例句": "Eine der Kursteilnehmerinnen singt es immer.",
-    "翻译": "其中一个课程参与者总是唱它。"
+    "例句": "Ich hatte mal einen Kursteilnehmer namens Robert.",
+    "翻译": "我曾经有一个叫罗伯特的课程参与者。"
   },
   {
     "单数男": "der Mieter",
@@ -316,8 +316,8 @@
     "单数女": "die Mieterin",
     "复数女": "die Mieterinnen",
     "意思女": "tenant; renter",
-    "例句": "Oh, das ist die Mieterin aus dem dritten Stock!",
-    "翻译": "哦，那是第三层楼的租客！"
+    "例句": "Ich glaube, jemand schießt auf den ehemaligen Mieter.",
+    "翻译": "我认为有人在向那个前房客开枪。"
   },
   {
     "单数男": "der Bekannte",
@@ -326,8 +326,8 @@
     "单数女": "die Bekannte",
     "复数女": "die Bekannten",
     "意思女": "acquaintance",
-    "例句": "Weitere bekannte Namen?",
-    "翻译": "其他知名的名称？"
+    "例句": "- Gewissen Bekannten.",
+    "翻译": "一些熟人。"
   },
   {
     "单数男": "der Mitbewohner",
@@ -336,8 +336,8 @@
     "单数女": "die Mitbewohnerin",
     "复数女": "die Mitbewohnerinnen",
     "意思女": "roommate",
-    "例句": "Wir sind Mitbewohner.",
-    "翻译": "我们是室友。"
+    "例句": "Wir möchten uns nicht immer mit unserem Mitbewohner streiten, aber er ist so unordentlich.",
+    "翻译": "我们不想总是和室友吵架，但他太不整洁了。"
   },
   {
     "单数男": "der Interessent",
@@ -346,8 +346,8 @@
     "单数女": "die Interessentin",
     "复数女": "die Interessentinnen",
     "意思女": "interested/potential person",
-    "例句": "Das Inserat ist online, und die ersten Interessenten haben sich bereits gemeldet.",
-    "翻译": "这则招聘启事已上线，已有初步感兴趣的人员报名。"
+    "例句": "Ich habe schon drei Tutoren unter Vertrag und weitere Interessenten warten.",
+    "翻译": "我已经签约了三位家教，还有更多的感兴趣的人在等待。"
   },
   {
     "单数男": "der Nachbar",
@@ -356,8 +356,8 @@
     "单数女": "die Nachbarin",
     "复数女": "die Nachbarinnen",
     "意思女": "neighbor",
-    "例句": "Als Kinder hatten Claire und ich einen Nachbarn, der eine Flagge vor dem Haus hatte, auf der \"Tritt nicht auf mich\" stand.",
-    "翻译": "克莱尔和我小时候有一个邻居，在房子前挂着一面旗子，上面写着“请勿踏足”。"
+    "例句": "Ich habe mich bei ihm über meinen Nachbarn beschwert.",
+    "翻译": "我向他投诉了我的邻居。"
   },
   {
     "单数男": "der Arzt",
@@ -366,8 +366,8 @@
     "单数女": "die Ärztin",
     "复数女": "die Ärztinnen",
     "意思女": "doctor",
-    "例句": "- Ich bin Ärztin.",
-    "翻译": "我是一名医生。"
+    "例句": "Nico ist beim Arzt.",
+    "翻译": "尼科在看医生。"
   },
   {
     "单数男": "der Babysitter",
@@ -376,8 +376,8 @@
     "单数女": "die Babysitterin",
     "复数女": "die Babysitterinnen",
     "意思女": "babysitter",
-    "例句": "Ihr musstet euch Babysitter oder Tanten oder einen Nachbarn besorgen, aber das wird schon.",
-    "翻译": "你们得找个临时看护或者阿姨，但这个问题解决了。"
+    "例句": "Bin ich ein Babysitter?",
+    "翻译": "我是保姆吗？"
   },
   {
     "单数男": "der Deutsche",
@@ -386,8 +386,8 @@
     "单数女": "die Deutsche",
     "复数女": "die Deutschen",
     "意思女": "German person",
-    "例句": "Ich habe meine Aussage gemacht und die deutsche Polizei hat darauf geschissen.",
-    "翻译": "我做了陈述，德国警察根本不在意。"
+    "例句": "Besonders Sport und Wellness sind bei den Deutschen im Trend.",
+    "翻译": "体育和 wellness 在德国很流行。"
   },
   {
     "单数男": "der Europäer",
@@ -396,8 +396,8 @@
     "单数女": "die Europäerin",
     "复数女": "die Europäerinnen",
     "意思女": "European person",
-    "例句": "Aber ein paar Millionen Europäer hatten in dem Jahr eine schöne Weihnacht.",
-    "翻译": "但是有一百万欧洲人在那年过了一个美好的圣诞节。"
+    "例句": "Natürlich erklärt man uns, dass die Korruption sowohl die Afrikaner als auch die Europäer betrifft.",
+    "翻译": "当然告诉我们的是，腐败既涉及非洲人也涉及欧洲人。"
   },
   {
     "单数男": "der Anwalt",
@@ -406,8 +406,8 @@
     "单数女": "die Anwältin",
     "复数女": "die Anwältinnen",
     "意思女": "lawyer",
-    "例句": "Ms. Barrows, ich war 20 Jahre lang Anwalt.",
-    "翻译": "巴罗斯女士，我是一名律师，已经做了20年。"
+    "例句": "Ich meine es ernst: Morgen spreche ich mit meinem Anwalt.",
+    "翻译": "我说 serious：明天我会咨询我的律师。注意，这里的\"serious\"在原文中用斜体标出，可能是强调意味，直译可能不太自然，因此翻译时保持了原意的强调语气。如果要严格按照字面意思翻译，则为：“我是认真的：明天我会和我的律师说话。”"
   },
   {
     "单数男": "der Bankkaufmann",
@@ -416,8 +416,8 @@
     "单数女": "die Bankkauffrau",
     "复数女": "die Bankkauffrauen",
     "意思女": "bank clerk; banker",
-    "例句": "Er ist Bankkaufmann.",
-    "翻译": "他是一名银行职员。"
+    "例句": "Bankkaufmann von Beruf.",
+    "翻译": "职业是银行职员。"
   },
   {
     "单数男": "der Chef",
@@ -426,8 +426,8 @@
     "单数女": "die Chefin",
     "复数女": "die Chefinnen",
     "意思女": "boss; manager",
-    "例句": "Einer von den Chefs lebt nicht weit von hier.",
-    "翻译": "其中一个主管不住太远。"
+    "例句": "Erst willst du dir Geld leihen, dann sagst du mir wer hier der Chef ist.",
+    "翻译": "你先是想借钱，然后又告诉我谁是这里的老板。"
   },
   {
     "单数男": "der Elektriker",
@@ -436,8 +436,8 @@
     "单数女": "die Elektrikerin",
     "复数女": "die Elektrikerinnen",
     "意思女": "electrician",
-    "例句": "-Ich bin Elektriker.",
-    "翻译": "我是一名电工。"
+    "例句": "Hast den Elektriker g'macht?",
+    "翻译": "你找电工了吗？"
   },
   {
     "单数男": "der Friseur",
@@ -446,8 +446,8 @@
     "单数女": "die Friseurin",
     "复数女": "die Friseurinnen",
     "意思女": "hairdresser",
-    "例句": "Ich muss jetzt los zum Friseur.",
-    "翻译": "我必须现在去理发店。"
+    "例句": "Der Kunde ist beim Friseur und ärgert sich. Der Friseur hat die Haare nicht gut geschnitten.",
+    "翻译": "顾客在理发店感到不满，因为理发师没有把头发剪好。"
   },
   {
     "单数男": "der Informatiker",
@@ -456,8 +456,8 @@
     "单数女": "die Informatikerin",
     "复数女": "die Informatikerinnen",
     "意思女": "computer scientist",
-    "例句": "Sie sind unser bester Informatiker.",
-    "翻译": "他是我们最好的计算机科学家。"
+    "例句": "Warum nicht Larry, die Informatikerin oder Lowjack?",
+    "翻译": "为什么不是拉里，那个女程序员或者洛杰克？"
   },
   {
     "单数男": "der Ingenieur",
@@ -466,8 +466,8 @@
     "单数女": "die Ingenieurin",
     "复数女": "die Ingenieurinnen",
     "意思女": "engineer",
-    "例句": "Was ich ja schätze, aber bis die Ingenieure grünes Licht geben, nehmen wir an, dass das Gebäude einstürzt.",
-    "翻译": "我倒是觉得这样不错，但直到工程师们给出绿灯之前，我们假设这座建筑会倒塌。"
+    "例句": "So große Maschinen brauchen Ingenieure zur Wartung, und wenn etwas kaputtgeht...",
+    "翻译": "这么大的机器需要工程师来维护，如果坏了……"
   },
   {
     "单数男": "der Kfz-Mechatroniker",
@@ -476,8 +476,8 @@
     "单数女": "die Kfz-Mechatronikerin",
     "复数女": "die Kfz-Mechatronikerinnen",
     "意思女": "automotive mechatronics engineer",
-    "例句": "Er macht dort eine Lehre zum Kfz-Mechatroniker.",
-    "翻译": "他在那里做汽车机械电子技工学徒。"
+    "例句": "Ausbildung zur Kfz-Mechatronikerin.",
+    "翻译": "汽车机电一体化学徒培训"
   },
   {
     "单数男": "der Koch",
@@ -486,8 +486,8 @@
     "单数女": "die Köchin",
     "复数女": "die Köchinnen",
     "意思女": "cook",
-    "例句": "Er sieht aus wie ein geflohenes Schwein, das sich als Koch ausgibt.",
-    "翻译": "他看起来像是一只逃亡的猪，却充当厨师。"
+    "例句": "Ein Koch schneidet das Gemüse in Streifen oder Würfel.",
+    "翻译": "一个厨师把蔬菜切成条或者块。"
   },
   {
     "单数男": "der Kollege",
@@ -496,8 +496,8 @@
     "单数女": "die Kollegin",
     "复数女": "die Kolleginnen",
     "意思女": "colleague",
-    "例句": "Zu eurer Linken seht ihr meinen Kollegen, der mal wieder nichts zu tun hat, außer sich zu sonnen.",
-    "翻译": "在你们左边是我的那位同事，他又一次没事干，在那儿晒太阳。"
+    "例句": "Weißt du, ich muss für drei Kollegen einspringen.",
+    "翻译": "你知道吗，我得顶替三个同事。"
   },
   {
     "单数男": "der Verkäufer",
@@ -506,8 +506,8 @@
     "单数女": "die Verkäuferin",
     "复数女": "die Verkäuferinnen",
     "意思女": "salesperson",
-    "例句": "Wir sind Verkäuferinnen bei Zara.",
-    "翻译": "我们是Zara的销售人员。"
+    "例句": "Und dann mache ich den Verkäufer mental fertig.",
+    "翻译": "然后我就把销售人员的心理搞清楚了。"
   },
   {
     "单数男": "der Erzieher",
@@ -516,8 +516,8 @@
     "单数女": "die Erzieherin",
     "复数女": "die Erzieherinnen",
     "意思女": "kindergarten teacher",
-    "例句": "- Durch meinen Erzieher.",
-    "翻译": "通过我的教育者。"
+    "例句": "Die Kinder können auch in der Schule zum Mittagessen und die Erzieher kümmern sich um sie.",
+    "翻译": "孩子们也可以在学校吃午饭，老师会照顾他们。"
   },
   {
     "单数男": "der Mitarbeiter",
@@ -526,8 +526,8 @@
     "单数女": "die Mitarbeiterin",
     "复数女": "die Mitarbeiterinnen",
     "意思女": "employee",
-    "例句": "Die Regel für Mitarbeiter, die damit konfrontiert werden, lautet, dass sie in öffentlichen Zonen strikt untersagt sind.",
-    "翻译": "面对这种情况的员工规则是，在公共区域严格禁止。"
+    "例句": "Ich, ich bin zwar nicht direkt ein Mitarbeiter der Stadtreinigung, obwohl ich mich schon immer wie einer gefühlt habe... im Geiste.",
+    "翻译": "我虽然不是市容清洁工的正式员工，但一直以来都感觉自己像是一个……精神上的。"
   },
   {
     "单数男": "der Sekretär",
@@ -536,8 +536,8 @@
     "单数女": "die Sekretärin",
     "复数女": "die Sekretärinnen",
     "意思女": "secretary",
-    "例句": "Was sagt die Familie der Sekretärin?",
-    "翻译": "秘书的家人怎么说？"
+    "例句": "Dann rufe ich bei Ihrer Sekretärin an und hoffe, dass wir das Problem bald lösen können.",
+    "翻译": "然后我就会给您秘书打电话，并希望我们能尽快解决这个问题。"
   },
   {
     "单数男": "der Architekt",
@@ -546,8 +546,8 @@
     "单数女": "die Architektin",
     "复数女": "die Architektinnen",
     "意思女": "architect",
-    "例句": "Der Architekt Hohmann, ein Herr Kurz, offenbar Stadtplaner und Frau Jäger von der Baubehörde.",
-    "翻译": "霍曼拱itect，一位库尔兹先生，显然是一位城市规划师，而Jäger女士则来自建筑管理部门。"
+    "例句": "Gut, dann gehe ich zum Architekten.",
+    "翻译": "好的，然后我去见建筑师。"
   },
   {
     "单数男": "der Designer",
@@ -556,8 +556,8 @@
     "单数女": "die Designerin",
     "复数女": "die Designerinnen",
     "意思女": "designer",
-    "例句": "Sie arbeiten einen Monat lang mit einem Designer zusammen, um ihr Restaurant zum Leben zu erwecken.",
-    "翻译": "他们与一位设计师合作一个月，让他们的餐厅焕然一新。"
+    "例句": "YURIKO HOSONO 2DCG-DESIGNER:",
+    "翻译": "hosono裕里子 2D CG设计师："
   },
   {
     "单数男": "der Fotograf",
@@ -566,8 +566,8 @@
     "单数女": "die Fotografin",
     "复数女": "die Fotografinnen",
     "意思女": "photographer",
-    "例句": "Der Fotograf sagte, er sah die Sektenleute in der Geisterstadt Esperanza.",
-    "翻译": "摄影师说他在希望之灵城市中看到了 sect 信徒。"
+    "例句": "Ihr braucht einen Fotografen, jemanden für das Video, einen Floristen.",
+    "翻译": "你们需要一个摄影师，一个拍视频的人，一个花店师傅。"
   },
   {
     "单数男": "der Bauer",
@@ -576,8 +576,8 @@
     "单数女": "die Bäuerin",
     "复数女": "die Bäuerinen",
     "意思女": "farmer",
-    "例句": "Sie ist kaum mehr als eine Bäuerin.",
-    "翻译": "她几乎只是一个农民妇女。"
+    "例句": "- Bauer.",
+    "翻译": "农民。"
   },
   {
     "单数男": "der Krankenpfleger",
@@ -586,8 +586,8 @@
     "单数女": "die Krankenschwester",
     "复数女": "die Krankenschwestern",
     "意思女": "nurse",
-    "例句": "-Sie sind Krankenschwester?",
-    "翻译": "她是一名护士？"
+    "例句": "Ja, ich habe vor einer Stunde angerufen, aber es gibt einen Killer da draußen der Huren und Sicherheitsleuten nachstellt, aber ich wette Krankenschwestern sind als Nächstes dran.",
+    "翻译": "是的，我一个小时之前打过电话，但是外面有个杀手在追杀妓女和保镖，但我敢打赌下一个目标就是护士了。"
   },
   {
     "单数男": "der Auszubildende",
@@ -596,8 +596,8 @@
     "单数女": "der Auszubildende",
     "复数女": "die Auszubildenden",
     "意思女": "trainee",
-    "例句": "Einen anderen Auszubildenden geschlagen.\"",
-    "翻译": "打了另一个学徒。"
+    "例句": "Ich habe den Auszubildenden neulich unsere Büros gezeigt und sie wollen alle in die BAU.",
+    "翻译": "我最近带实习生参观了我们的办公室，他们都想加入建筑行业。"
   },
   {
     "单数男": "der Bäcker",
@@ -606,8 +606,8 @@
     "单数女": "die Bäckerin",
     "复数女": "die Bäckerinen",
     "意思女": "baker",
-    "例句": "Der Bäcker ist im nächsten Dorf.",
-    "翻译": "面包师在下一个村庄。"
+    "例句": "-Wo hast du die her, vom Bäcker?",
+    "翻译": "你从面包师那里得来的吗？"
   },
   {
     "单数男": "der Fahrradhändler",
@@ -616,8 +616,8 @@
     "单数女": "die Fahrradhändlerin",
     "复数女": "die Fahrradhändlerinen",
     "意思女": "bike dealer",
-    "例句": "Wussten Sie von der im Internet kursierenden Geschichte über einen Fahrradhändler, der Schulkinder sexuell belästigen wollte?",
-    "翻译": "您知道关于一位自行车卖家想要性骚扰校学生的网络故事吗？"
+    "例句": "Eisenbahner oder Fahrradhändler?",
+    "翻译": "铁路工人还是自行车商人？"
   },
   {
     "单数男": "",
@@ -626,8 +626,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Auf geht's, Leute.",
-    "翻译": "走吧，人们。"
+    "例句": "Die meisten Leute ziehen heute nach der Schule für die Ausbildung oder das Studium in andere Städte.",
+    "翻译": "大多数人今天会在完成学业后去别的城市接受培训或上学。"
   },
   {
     "单数男": "der Zahnarzt",
@@ -636,8 +636,8 @@
     "单数女": "die Zahnärztin",
     "复数女": "die Zahnärztinnen",
     "意思女": "dentist",
-    "例句": "Den Spruch kenn ich von 'nem Poster beim Zahnarzt.",
-    "翻译": "这个谚语我是在牙医那张海报上看到的。"
+    "例句": "Nun, ich bin kein Zahnarzt.",
+    "翻译": "好吧，我可不是牙医。"
   },
   {
     "单数男": "der Patient",
@@ -646,8 +646,8 @@
     "单数女": "die Patientin",
     "复数女": "die Patientinnen",
     "意思女": "patient",
-    "例句": "Der Patientin nicht.",
-    "翻译": "病人不在。"
+    "例句": "Schwester Jones, eine Patientin von mir...",
+    "翻译": "琼斯护士，我的一位病人……"
   },
   {
     "单数男": "der Arzthelfer",
@@ -656,8 +656,8 @@
     "单数女": "die Arzthelferin",
     "复数女": "die Arzthelferinnen",
     "意思女": "doctor's assistant",
-    "例句": "Ich möchte Arzthelferin werden, wie Sie.",
-    "翻译": "我想要成为一名像您那样的护士助理。"
+    "例句": "Sie ist Arzthelferin.",
+    "翻译": "她是医助。"
   },
   {
     "单数男": "der Anfänger",
@@ -666,8 +666,8 @@
     "单数女": "die Anfängerin",
     "复数女": "die Anfängerinnen",
     "意思女": "beginner",
-    "例句": "Anfängerin?",
-    "翻译": "新手？"
+    "例句": "Ich bin kunstfertig und unterrichte auch Anfänger.",
+    "翻译": "我技艺精湛，也教初学者。"
   },
   {
     "单数男": "der Autor",
@@ -676,8 +676,8 @@
     "单数女": "die Autorin",
     "复数女": "die Autorinnen",
     "意思女": "author",
-    "例句": "Nein, das ist dieser amerikanische Autor.",
-    "翻译": "不，这是那位美国作者。"
+    "例句": "Und du bist drauf und dran, ein Buch zu lesen, dessen Autor mein Fuß ist.",
+    "翻译": "你正准备读一本作者是我的脚趾头的书。"
   },
   {
     "单数男": "der Fortgeschrittene",
@@ -686,8 +686,8 @@
     "单数女": "die Fortgeschrittene",
     "复数女": "die Fortgeschrittenen",
     "意思女": "advanced student",
-    "例句": "Der Verstorbene war über Siebzig und litt an einer fortgeschrittenen Arteriosklerose.",
-    "翻译": "逝者七十多岁，患有晚期动脉硬化症。"
+    "例句": "Fortgeschrittene Verteidigungsforschung.",
+    "翻译": "高级防御研究。"
   },
   {
     "单数男": "der Künstler",
@@ -696,8 +696,8 @@
     "单数女": "die Künstlerin",
     "复数女": "die Künstlerinnen",
     "意思女": "artist",
-    "例句": "Ich bin Künstler und ziehe den Frieden vor.",
-    "翻译": "我是一名艺术家，更喜欢和平。"
+    "例句": "Sie ist Künstlerin.",
+    "翻译": "她是艺术家。"
   },
   {
     "单数男": "der Maler",
@@ -706,8 +706,8 @@
     "单数女": "die Malerin",
     "复数女": "die Malerinnen",
     "意思女": "painter",
-    "例句": "Du willst ja immer nur Maler.",
-    "翻译": "你总是只想当画家。"
+    "例句": "War er ein berühmter Maler, dem ein Ohr fehlte?",
+    "翻译": "他是一位耳朵缺失的著名画家吗？"
   },
   {
     "单数男": "der Schauspieler",
@@ -716,8 +716,8 @@
     "单数女": "die Schauspielerin",
     "复数女": "die Schauspielerinnen",
     "意思女": "actress",
-    "例句": "Nächste Woche kehrt der berühmte Schauspieler Cliff Robertson zurück.",
-    "翻译": "下周著名的演员克利夫·罗伯逊将回归。"
+    "例句": "Schauspielerin?",
+    "翻译": "演员？"
   },
   {
     "单数男": "der Migrant",
@@ -726,8 +726,8 @@
     "单数女": "die Migrantin",
     "复数女": "die Migrantinnen",
     "意思女": "migrant",
-    "例句": "* Handy klingelt. * (Radio) An der serbischen Grenze wurde die bisher höchste Zahl von Migranten festgenommen.",
-    "翻译": "* 手机响了。 * （广播）在塞尔维亚边境，当局逮捕了迄今为止最多数量的移民。"
+    "例句": "Nein, wir nehmen keine Migranten auf.",
+    "翻译": "不，我们不会接收难民。"
   },
   {
     "单数男": "der Praktikant",
@@ -736,8 +736,8 @@
     "单数女": "die Praktikantin",
     "复数女": "die Praktikantinnen",
     "意思女": "intern",
-    "例句": "Ich glaube, er ist Praktikant.",
-    "翻译": "我相信他是实习生。"
+    "例句": "- Du wirst Praktikantin.",
+    "翻译": "你将成为实习生。"
   },
   {
     "单数男": "der König",
@@ -746,8 +746,8 @@
     "单数女": "die Königin",
     "复数女": "die Königinnen",
     "意思女": "queen",
-    "例句": "Das ist ein Geschenk für Königin Hamel, meine Gemahlin.",
-    "翻译": "这是给贺尔姆王后的一份礼物，我的妻子。"
+    "例句": "Ich bin ein König hier.",
+    "翻译": "我是这里的国王。"
   },
   {
     "单数男": "der Ausländer",
@@ -756,8 +756,8 @@
     "单数女": "die Ausländerin",
     "复数女": "die Ausländerinnen",
     "意思女": "foreigner",
-    "例句": "Wenn Ausländerinnen französisch sprechen, ist das sehr hübsch.",
-    "翻译": "当外国女性说法语时，这非常漂亮。"
+    "例句": "Hast schon recht, was verstehen Ausländer schon von Illusionen?",
+    "翻译": "你说得对，外国人能懂什么幻觉呢？"
   },
   {
     "单数男": "der EU-Bürger",
@@ -776,8 +776,8 @@
     "单数女": "die Bankangestellte",
     "复数女": "die Bankangestellten",
     "意思女": "bank clerk",
-    "例句": "Der älteste Sohn vom Alten, er sollte wegen Mord an einem Bankangestellten in den Knast, also schickte sein Alter ihn nach New York zurück.",
-    "翻译": "这个老人的 oldest 儿子因为谋杀了一名银行职员而被判入狱，所以他的老父亲把他遣返回了纽约。"
+    "例句": "Bis die Bankangestellten Ihre Pässe genau überprüft haben, sind wir schon lange wieder weg.",
+    "翻译": "等银行职员仔细检查了我们的护照，我们早就已经离开了。"
   },
   {
     "单数男": "der Bankräuber",
@@ -786,8 +786,8 @@
     "单数女": "die Bankräuberin",
     "复数女": "die Bankräuberinnen",
     "意思女": "bank thief",
-    "例句": "Nimm eine Hypothek auf dein Schloss auf, werd Taschendieb oder Bankräuber.",
-    "翻译": "抵押你的城堡，当小偷或银行抢劫犯。"
+    "例句": "Ist er ein Bankräuber?",
+    "翻译": "他是银行劫匪吗？"
   },
   {
     "单数男": "der Vorgesetzte",
@@ -796,8 +796,8 @@
     "单数女": "der Vorgesetzte",
     "复数女": "die Vorgesetzten",
     "意思女": "superior",
-    "例句": "Hören Sie, Robert, Ihren Vorgesetzten in der Öffentlichkeit einen Mörder zu nennen, ist wohl kaum konstruktive Kritik.",
-    "翻译": "听吧，罗伯特，在公开场合称呼你的上司为杀人犯，恐怕算不上建设性的批评。"
+    "例句": "- Nur mit Vorgesetzten.",
+    "翻译": "仅与上级。"
   },
   {
     "单数男": "der Empfänger",
@@ -806,8 +806,8 @@
     "单数女": "die Empfängerin",
     "复数女": "die Empfängerinnen",
     "意思女": "recipient",
-    "例句": "Wer ist der Empfänger von King Kong?",
-    "翻译": "KING Kong的收件人是谁？"
+    "例句": "Absender, Empfänger ...",
+    "翻译": "发件人，收件人 ..."
   },
   {
     "单数男": "der Kontoinhaber",
@@ -816,8 +816,8 @@
     "单数女": "die Kontoinhaberin",
     "复数女": "die Kontoinhaberinnen",
     "意思女": "account holder",
-    "例句": "Willkommen in der Familie der Kontoinhaber!",
-    "翻译": "欢迎来到账户持有人家庭！"
+    "例句": "Ich kann da nicht draufklicken, und dann kommt Kontoinhaber und Führungszeugnis.",
+    "翻译": "我无法点击那个链接，然后就会出现账户持有人信息和品行证明。"
   },
   {
     "单数男": "der Vermieter",
@@ -826,8 +826,8 @@
     "单数女": "die Vermieterin",
     "复数女": "die Vermieterinnen",
     "意思女": "landlord",
-    "例句": "Sie wird sicher eine überaus interessante Vermieterin sein, nicht?",
-    "翻译": "她一定会是个非常有趣的房东，不是吗？"
+    "例句": "Du musst dich direkt bei deinem Vermieter beschweren, sonst ändert sich nie was.",
+    "翻译": "你必须直接向你的房东投诉，否则情况永远不会改变。"
   },
   {
     "单数男": "der Single",
@@ -836,8 +836,8 @@
     "单数女": "",
     "复数女": "",
     "意思女": "",
-    "例句": "Sie hat 'ne Freundin dabei, die Single ist.",
-    "翻译": "她有一个朋友一起去，那个朋友是单身。"
+    "例句": "Manche reisen nicht gern allein und machen deshalb Gruppenreisen – das ist vor allem bei älteren Menschen und Singles beliebt.",
+    "翻译": "有些人不喜欢独自旅行，因此他们参加团体旅游——这在老年人和单身人士中尤其流行。"
   },
   {
     "单数男": "der Altenpfleger",
@@ -846,8 +846,8 @@
     "单数女": "die Altenpflegerin",
     "复数女": "die Altenpflegerinnen",
     "意思女": "elderly-caring nurse",
-    "例句": "Die Altenpflegerin Hatice C.",
-    "翻译": "护理员Hatice C."
+    "例句": "Kann dich ein Altenpfleger zu Hause im Haushalt unterstützen?",
+    "翻译": "一个护工能在家里的日常生活中帮助你吗？"
   },
   {
     "单数男": "der Rentner",
@@ -856,8 +856,8 @@
     "单数女": "die Rentnerin",
     "复数女": "die Rentnerinnen",
     "意思女": "retired people",
-    "例句": "(flüstert) Außer einer, der seine Rentner für sich arbeiten lässt.",
-    "翻译": "（耳语）除了一个，他让自己的退休人员为自己工作。"
+    "例句": "Ich bin nicht so unterbelichtet, wie die Rentner, die ich donnerstags unterhalte.",
+    "翻译": "我并不像那些我在星期四陪伴的老人那样无知。"
   },
   {
     "单数男": "der Alleinerziehende",
@@ -866,8 +866,8 @@
     "单数女": "die Alleinerziehende",
     "复数女": "die Alleinerziehenden",
     "意思女": "single mother",
-    "例句": "Oder die alleinerziehende Mutter, die um ihr Überleben kämpft.",
-    "翻译": "或者那个为了生存而奋斗的单亲母亲。"
+    "例句": "Ich begreife wahrscheinlich nicht, wie schwer es für dich als Alleinerziehende gewesen sein muss.",
+    "翻译": "我可能无法理解你作为一个单亲家长有多难。"
   },
   {
     "单数男": "der Bewohner",
@@ -876,8 +876,8 @@
     "单数女": "die Bewohnerin",
     "复数女": "die Bewohnerinnen",
     "意思女": "resident",
-    "例句": "Und sie wollten uns zu einem Getränk einladen, die freundlichen Bewohner dieses Dorfes.",
-    "翻译": "他们想邀请我们喝一杯，这些友好村庄的居民。"
+    "例句": "Ein Hund braucht eine Hütte, und eine Hütte braucht einen Bewohner, also... hab ich dir als Zeichen meiner Dankbarkeit etwas dagelassen.",
+    "翻译": "一只狗需要一个窝，而一个窝需要一个主人，所以……我留下了这个东西作为我对你的感激之情。"
   },
   {
     "单数男": "der Befragte",
@@ -886,8 +886,8 @@
     "单数女": "die Befragte",
     "复数女": "die Befragten",
     "意思女": "respondent",
-    "例句": "Joseph Folio und Robert Patton den Befragten vertreten.",
-    "翻译": "乔弗里·约瑟夫和罗伯特·帕特森代表被询问者。"
+    "例句": "Ich rief Jimmy gegen Mitternacht an und befragte ihn dazu.",
+    "翻译": "我在午夜左右给吉米打了电话询问此事。"
   },
   {
     "单数男": "der Hotelmanager",
@@ -896,8 +896,8 @@
     "单数女": "die Hotelmanagerin",
     "复数女": "die Hotelmanagerinnen",
     "意思女": "hotel manager",
-    "例句": "Jetzt brauchen die spanischen Hotelmanager nur schnellstmöglich ein Briefing, damit die wissen, wohin die Reise geht.",
-    "翻译": "现在西班牙酒店经理只需尽快召开一次简报会，让他们知道旅行的目的地。"
+    "例句": "Wir sprachen mit dem Hotelmanager, Peter.",
+    "翻译": "我们与酒店经理彼得交谈了。"
   },
   {
     "单数男": "der Rezeptionist",
@@ -906,8 +906,8 @@
     "单数女": "die Rezeptionistin",
     "复数女": "die Rezeptionistinnen",
     "意思女": "front desk clerk",
-    "例句": "Gita, die Rezeptionistin des Hotels.",
-    "翻译": "吉塔，酒店的前台接待员。"
+    "例句": "Der Manager sagt dasselbe wie der Rezeptionist.",
+    "翻译": "经理说得和前台一样。"
   },
   {
     "单数男": "der Roomboy",
@@ -916,8 +916,8 @@
     "单数女": "das Zimmermädchen",
     "复数女": "die Zimmermädchen",
     "意思女": "housekeeping person",
-    "例句": "Zimmermädchen.",
-    "翻译": "女清洁工"
+    "例句": "Dein Zimmermädchen ist nicht die Erste, die übers Ohr gehauen wird.",
+    "翻译": "你的女服务员不是第一个被骗的人。"
   },
   {
     "单数男": "der Senior",
@@ -926,8 +926,8 @@
     "单数女": "die Seniorin",
     "复数女": "die Seniorinnen",
     "意思女": "old people",
-    "例句": "Senioren schätzen junge Leute, die sich nicht scheuen, ihre Ideen zu äußern.",
-    "翻译": "老年人欣赏那些不畏表达自己想法的年轻人。"
+    "例句": "Die Senioren von Eureka gabe uns so viel.",
+    "翻译": "尤里卡的老年人给了我们这么多。"
   },
   {
     "单数男": "der Erwachsene",
@@ -936,8 +936,8 @@
     "单数女": "die Erwachsene",
     "复数女": "die Erwachsenen",
     "意思女": "adult",
-    "例句": "-Spaß für Erwachsene.",
-    "翻译": "成人乐趣。"
+    "例句": "Das reicht, um einen erwachsenen Mann um den Verstand zu bringen.",
+    "翻译": "这足以让一个成年人变得神志不清。"
   },
   {
     "单数男": "der Ladenbesitzer",
@@ -946,7 +946,67 @@
     "单数女": "die Ladenbesitzerin",
     "复数女": "die Ladenbesitzerinnen",
     "意思女": "shopkeeper",
-    "例句": "Der Ladenbesitzer.",
-    "翻译": "店主"
+    "例句": "Ein Bewaffneter hat sich den Ladenbesitzer geschnappt.",
+    "翻译": "一名武装分子抓住了店主。"
+  },
+  {
+    "单数男": "die Feuerwehr",
+    "复数男": "",
+    "意思男": "fire department",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "-Sie sind bei der Feuerwehr?",
+    "翻译": "你在消防队工作吗？"
+  },
+  {
+    "单数男": "das Mitglied",
+    "复数男": "die Mitglieder",
+    "意思男": "member",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Als stolzes Mitglied obliegt es mir...",
+    "翻译": "作为自豪的一员，我有责任……"
+  },
+  {
+    "单数男": "der Selbstständige",
+    "复数男": "die Selbstständigen",
+    "意思男": "self-employed person",
+    "单数女": "die Selbstständige",
+    "复数女": "die Selbstständigen",
+    "意思女": "self-employed person",
+    "例句": "- Schön, eine selbstständige Frau zu haben?",
+    "翻译": "有个独立的女性很好吧？"
+  },
+  {
+    "单数男": "der Jugendliche",
+    "复数男": "die Jugendlichen",
+    "意思男": "youth",
+    "单数女": "die Jugendliche",
+    "复数女": "die Jugendlichen",
+    "意思女": "youth",
+    "例句": "Regeln wir das doch wie Jugendliche mit schlechter Urteilskraft.",
+    "翻译": "我们就像那些判断力差的青少年一样制定规则吧。"
+  },
+  {
+    "单数男": "der Teenager",
+    "复数男": "die Teenager",
+    "意思男": "teenager",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Ja, sie ist richtig für jeden Teenager.",
+    "翻译": "是的，它确实适合每个青少年。"
+  },
+  {
+    "单数男": "der Techniker",
+    "复数男": "die Techniker",
+    "意思男": "technician",
+    "单数女": "die Technikerin",
+    "复数女": "die Technikerinnen",
+    "意思女": "technician",
+    "例句": "- Wir brauchen jetzt einen Techniker hier oben.",
+    "翻译": "我们现在需要一个技术人员在这里。"
   }
 ]
