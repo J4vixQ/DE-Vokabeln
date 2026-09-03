@@ -6347,5 +6347,887 @@
     "意思": "wish",
     "例句": "Ich wünsche dir und deiner Familie alles Gute.",
     "翻译": "祝你和你的家人一切顺利。"
+  },
+  {
+    "单数": "die Beere",
+    "复数": "die Beeren",
+    "意思": "berry",
+    "例句": "- Wir sollten ein paar Beeren essen.",
+    "翻译": "我们应该吃一些浆果。"
+  },
+  {
+    "单数": "das Besteck",
+    "复数": "die Bestecke",
+    "意思": "cutlery餐具",
+    "例句": "Tische decken, Teller, Besteck ...",
+    "翻译": "摆桌子，盘子，餐具..."
+  },
+  {
+    "单数": "der Betrieb",
+    "复数": "die Betriebe",
+    "意思": "business; company",
+    "例句": "Die Protonenwaffen des Schiffes sind außer Betrieb, aber ich nehme an, dass Sie nicht unvorbereitet gekommen sind.",
+    "翻译": "飞船的质子武器无法使用，但我猜想您不会空手而来。"
+  },
+  {
+    "单数": "die Bohne",
+    "复数": "die Bohnen",
+    "意思": "bean",
+    "例句": "Thymian, Linsen und weiße Bohnen sind gut für Menschen, die Eisen brauchen.",
+    "翻译": "百里香、扁豆和白豆适合需要铁元素的人。"
+  },
+  {
+    "单数": "die Brotzeit",
+    "复数": "",
+    "意思": "light meal; snack",
+    "例句": "Eine Brotzeit ist ein Gericht, das aus Broten mit Schinken, Wurst und Käse besteht.",
+    "翻译": "一份小吃是由面包、火腿、香肠和奶酪组成的菜肴。"
+  },
+  {
+    "单数": "das Curry",
+    "复数": "",
+    "意思": "curry",
+    "例句": "Ich hab' neulich ein tolles Curry gekocht.",
+    "翻译": "我最近做了一道很棒的咖喱。"
+  },
+  {
+    "单数": "das Eisen",
+    "复数": "",
+    "意思": "iron",
+    "例句": "Eigentlich sind Dickschädel und Eisen-Hemd doch nur Jungs von der Strasse.",
+    "翻译": "其实厚脑袋和铁胸膛只不过是街头小子。"
+  },
+  {
+    "单数": "die Erdbeere",
+    "复数": "die Erdbeeren",
+    "意思": "strawberry",
+    "例句": "Sie fangen an mit gratiniertem frankokanadischem Hummer, dann folgt Edelhirsch mit Waldorff-Salat und Preiselbeerkompott und als Nachtisch Soufflé mit Erdbeeren und Zitronensorbet?",
+    "翻译": "他们从烤法裔加拿大龙虾开始，然后是高级黇鹿配核桃沙拉和蔓越莓酱，最后的甜点是覆盆子奶油冻和柠檬 sorbet。"
+  },
+  {
+    "单数": "der Feierabend",
+    "复数": "die Feierabende",
+    "意思": "closing time, finishing work",
+    "例句": "-Versau mir nicht den Feierabend.",
+    "翻译": "别把我的下班时间给毁了。"
+  },
+  {
+    "单数": "die Frucht",
+    "复数": "die Früchte",
+    "意思": "fruit",
+    "例句": "Was dagegen, dass ich die Frucht ernte, die du mir gebracht hast?",
+    "翻译": "你介意我收获你带给我的果实吗？"
+  },
+  {
+    "单数": "die Gabel",
+    "复数": "die Gabeln",
+    "意思": "fork",
+    "例句": "Zuletzt verbog er nur noch Gabeln.",
+    "翻译": "最后他只能弯曲叉子了。"
+  },
+  {
+    "单数": "die Kneipe",
+    "复数": "die Kneipen",
+    "意思": "bar, pub",
+    "例句": "In der Kneipe verbringen viele Leute ihren Feierabend oder einen Abend am Wochenende.",
+    "翻译": "许多人会在酒吧度过下班后的时间或者周末的某个晚上。"
+  },
+  {
+    "单数": "die Linse",
+    "复数": "die Linsen",
+    "意思": "lentil扁豆",
+    "例句": "Denn das waren die einzigen Kameras, wo die riesigen Zeiss-Linsen passten.",
+    "翻译": "因为只有那种相机才能装下巨大的蔡司镜头。"
+  },
+  {
+    "单数": "der Löffel",
+    "复数": "die Löffel",
+    "意思": "spoon",
+    "例句": "Und der bringt dich um, nachdem ich meinen Löffel in deinen Pudding getaucht habe.",
+    "翻译": "然后在我把勺子蘸过你的布丁之后，他就来把你杀了。"
+  },
+  {
+    "单数": "die Mahlzeit",
+    "复数": "die Mahlzeiten",
+    "意思": "meal; meal break",
+    "例句": "Für eine kleine Mahlzeit wie ein Frühstück oder eine Kaffeepause geht man in Cafés.",
+    "翻译": "对于像早餐或咖啡休息这样的小餐，人们会去咖啡馆。"
+  },
+  {
+    "单数": "die Mensa",
+    "复数": "die Mensen",
+    "意思": "canteen",
+    "例句": "Das Vogelnest in der Mensa gehört wohl dem seltenen Ohrentaucher.",
+    "翻译": "食堂里的鸟巢可能是稀有的耳燕筑的。"
+  },
+  {
+    "单数": "das Messer",
+    "复数": "die Messer",
+    "意思": "knife",
+    "例句": "Meine Feinde versuchen, mich ans Messer zu liefern.",
+    "翻译": "我的敌人试图让我落入圈套。"
+  },
+  {
+    "单数": "die Nuss",
+    "复数": "die Nüsse",
+    "意思": "nut",
+    "例句": "Du kriegst gleich eins auf die Nuss!",
+    "翻译": "你马上就要吃一记耳光！"
+  },
+  {
+    "单数": "das Schälchen",
+    "复数": "die Schälchen",
+    "意思": "small bowl",
+    "例句": "Du sortierst die Bohnen von einem Schälchen ins andere.",
+    "翻译": "你把豆子从一个碟子移到另一个碟子。"
+  },
+  {
+    "单数": "der Schnellimbiss",
+    "复数": "die Schnellimbisse",
+    "意思": "fast food restaurant",
+    "例句": "In einen Schnellimbiss gehen Leute, die nicht viel Zeit haben.",
+    "翻译": "没有时间的人会去快餐店。"
+  },
+  {
+    "单数": "die Schüssel",
+    "复数": "die Schüsseln",
+    "意思": "bowl",
+    "例句": "-Das Problem fängt schon an, wenn er mit der Schüssel ankommt, sagt:",
+    "翻译": "他说他一拿着碗就开始有问题了。"
+  },
+  {
+    "单数": "die Serviette",
+    "复数": "die Servietten",
+    "意思": "napkin",
+    "例句": "Menschen dagegen essen drin mit Bestecken und Servietten.",
+    "翻译": "人们在里面用刀叉和餐巾吃饭。"
+  },
+  {
+    "单数": "der Spinat",
+    "复数": "",
+    "意思": "spinach菠菜",
+    "例句": "Iß Spinat, Junge.",
+    "翻译": "吃菠菜，孩子。"
+  },
+  {
+    "单数": "der Thymian",
+    "复数": "",
+    "意思": "thyme百里香",
+    "例句": "Vielleicht mit Thymian und einem Hauch Marmit.",
+    "翻译": "也许用百里香和一点点马米特汤料。"
+  },
+  {
+    "单数": "die Tradition",
+    "复数": "die Traditionen",
+    "意思": "tradition",
+    "例句": "Das ist eine Tradition, die aus Bayern kommt.",
+    "翻译": "这是来自巴伐利亚的传统。"
+  },
+  {
+    "单数": "die Ameise",
+    "复数": "die Ameisen",
+    "意思": "ant",
+    "例句": "Ich wünschte, ich wäre eine Ameise.",
+    "翻译": "我希望我是一只蚂蚁。"
+  },
+  {
+    "单数": "der Appetit",
+    "复数": "",
+    "意思": "appetite",
+    "例句": "Ihr Freund hat ziemlich großen Appetit.",
+    "翻译": "你的朋友胃口相当大。"
+  },
+  {
+    "单数": "die Delikatesse",
+    "复数": "die Delikatessen",
+    "意思": "delicacy",
+    "例句": "Menschen waren eine seltene Delikatesse.",
+    "翻译": "人是一种稀有的奢侈品。"
+  },
+  {
+    "单数": "das Dessert",
+    "复数": "die Desserts",
+    "意思": "dessert",
+    "例句": "Das Dessert da nennt sich Pralinenfondue.",
+    "翻译": "那里的甜点叫做巧克力蘸酱 dessert。注意，更自然的表达可能是“那里的甜点叫做巧克力蘸酱拼盘”或者直接使用原文中的“普拉琳 Fondue”。"
+  },
+  {
+    "单数": "der Frosch",
+    "复数": "die Frösche",
+    "意思": "frog",
+    "例句": "Du willst ein Frosch sein, Nigga?",
+    "翻译": "你想当一只青蛙吗，伙计？"
+  },
+  {
+    "单数": "die Hauptspeise",
+    "复数": "die Hauptspeisen",
+    "意思": "main dish",
+    "例句": "Also das, was auf den Vorspeisen steht, kommt vor dem, was auf den Hauptspeisen steht.",
+    "翻译": "所以开胃菜后面的内容在主菜后面的內容之前。"
+  },
+  {
+    "单数": "der Honig",
+    "复数": "",
+    "意思": "honey",
+    "例句": "SaIbeitee mit Honig.",
+    "翻译": "蜂蜜沙拉酱"
+  },
+  {
+    "单数": "der Humor",
+    "复数": "",
+    "意思": "humor",
+    "例句": "-Er war nett, aber Humor hatte er nicht.",
+    "翻译": "他很友善，但没有幽默感。"
+  },
+  {
+    "单数": "das Kartoffelpüree",
+    "复数": "",
+    "意思": "mashed potatoes",
+    "例句": "Lammbraten, Kartoffelpüree und Eintopf, dass ganz Kambodscha davon satt werden würde.",
+    "翻译": "羊排、土豆泥和炖菜，足够整个柬埔寨都吃得很饱。"
+  },
+  {
+    "单数": "die Krokette",
+    "复数": "die Kroketten",
+    "意思": "croquette",
+    "例句": "Zeig mir die Silhouette von einer Krokette in einer Operette.",
+    "翻译": "出示一个女歌唱家在轻歌剧里的侧影。"
+  },
+  {
+    "单数": "die Kuh",
+    "复数": "die Kühe",
+    "意思": "cow",
+    "例句": "Heut hat sie 'ne halbe Kuh gefressen.",
+    "翻译": "今天她吃了一半的牛。"
+  },
+  {
+    "单数": "das Lamm",
+    "复数": "die Lämmer",
+    "意思": "lamb",
+    "例句": "Muss das verwaiste Lamm sein.",
+    "翻译": "这必须是那只被遗弃的小羊。"
+  },
+  {
+    "单数": "die Limette",
+    "复数": "die Limetten",
+    "意思": "lime",
+    "例句": "- Tequila-Wasser, Limette.",
+    "翻译": "龙舌兰水，柠檬。"
+  },
+  {
+    "单数": "die Mango",
+    "复数": "die Mangos",
+    "意思": "mango",
+    "例句": "- Mach dir keine Sorgen, ich werde ihr etwas schneidern, wo selbst diese Moskitostiche wie saftige Mangos aussehen werden.",
+    "翻译": "别担心，我会给她做点东西，甚至那些蚊帐都会看起来像鲜美的芒果。"
+  },
+  {
+    "单数": "das Meerschweinchen",
+    "复数": "die Meerschweinchen",
+    "意思": "guinea pig",
+    "例句": "Mein Baby soll sich nicht in ein Meerschweinchen verwandeln.",
+    "翻译": "我的宝宝不会变成一只仓鼠。"
+  },
+  {
+    "单数": "die Nachspeise",
+    "复数": "die Nachspeisen",
+    "意思": "dessert",
+    "例句": "Wünschen Sie eine Nachspeise?",
+    "翻译": "您想要甜点吗？"
+  },
+  {
+    "单数": "der Nachtisch",
+    "复数": "die Nachtische",
+    "意思": "dessert",
+    "例句": "Jackie, du musst nicht zum Nachtisch bleiben, wenn du nicht willst.",
+    "翻译": "杰基，如果你不想留下来吃甜点，你不必留。"
+  },
+  {
+    "单数": "die Portion",
+    "复数": "die Portionen",
+    "意思": "portion",
+    "例句": "Hör zu, du halbe Portion.",
+    "翻译": "听着，你这个小家伙。"
+  },
+  {
+    "单数": "die Region",
+    "复数": "die Regionen",
+    "意思": "region",
+    "例句": "Der Rotwein, der aus dieser Region kommt, schmeckt sehr gut.",
+    "翻译": "来自这个地区的红葡萄酒味道非常好。"
+  },
+  {
+    "单数": "das Rotkraut",
+    "复数": "",
+    "意思": "red cabbage",
+    "例句": "Hirschpfeffer mit Rotkraut.",
+    "翻译": "鹿肉炖酱配红卷心菜。"
+  },
+  {
+    "单数": "das Sauerkraut",
+    "复数": "",
+    "意思": "sauerkraut; pickled cabbage",
+    "例句": "Sauerkraut oder \"Sauerkopp\"?",
+    "翻译": "酸菜还是\"酸脾气\"?"
+  },
+  {
+    "单数": "die Schlange",
+    "复数": "die Schlangen",
+    "意思": "snake",
+    "例句": "Er trägt oft kurzärmelige Hemden und ich sah da nie eine Schlange.",
+    "翻译": "他经常穿短袖衬衫，我从没见过他的胳膊上有蛇。"
+  },
+  {
+    "单数": "das Vanilleeis",
+    "复数": "",
+    "意思": "vanilla ice cream",
+    "例句": "Zur Abrundung dann ein Zitronensoufflé mit hausgemachtem Vanilleeis.",
+    "翻译": "然后来一份柠檬舒芙蕾配自制香草冰淇淋。"
+  },
+  {
+    "单数": "die Vorspeise",
+    "复数": "die Vorspeisen",
+    "意思": "appetizer; entree",
+    "例句": "$19 für eine Sashimi Vorspeise sind schon ok.",
+    "翻译": "19元一份寿司刺身前菜已经可以了。"
+  },
+  {
+    "单数": "die Wette",
+    "复数": "die Wetten",
+    "意思": "bet",
+    "例句": "Sie wollen wetten?",
+    "翻译": "你们想打赌？"
+  },
+  {
+    "单数": "die Wurstplatte",
+    "复数": "die Wurstplatten",
+    "意思": "a plate of cold meat",
+    "例句": "Das ist nicht Ihr Büro, so wie auch Ihre Frau nicht Ihre Frau wäre, wenn ich sie nachts mit einer Wurstplatte besuchen würde.",
+    "翻译": "这不像是您的办公室，就像如果我晚上带着一盘香肠去拜访您的妻子，她也不再是您的妻子一样。"
+  },
+  {
+    "单数": "der Ziegenkäse",
+    "复数": "",
+    "意思": "goat cheese",
+    "例句": "Ein Omelett aus 3 Eiern mit Ziegenkäse und Pancetta, gegart in Sherry-Olivenöl.",
+    "翻译": "三个鸡蛋的煎蛋饼，配山羊奶酪和帕尼奈塔，用雪利酒橄榄油烹制。"
+  },
+  {
+    "单数": "der Champagner",
+    "复数": "die Champagner",
+    "意思": "champagne",
+    "例句": "Champagner, Kaviar...",
+    "翻译": "香槟、鱼子酱..."
+  },
+  {
+    "单数": "die Grapefruit",
+    "复数": "die Grapefruits",
+    "意思": "grapefruit",
+    "例句": "- Eine halbe Grapefruit und...",
+    "翻译": "一半葡萄柚和……"
+  },
+  {
+    "单数": "die Konditorei",
+    "复数": "die Konditoreien",
+    "意思": "confectionery; pastry shop",
+    "例句": "Vielleicht gibt's hier 'ne Konditorei.",
+    "翻译": "也许这里有家糕点店。"
+  },
+  {
+    "单数": "der Sekt",
+    "复数": "die Sekte",
+    "意思": "sparkling wine",
+    "例句": "Vor über 100 Jahren gehörte mein Urgroßvater einer Sekte an, die glaubte, das Reich sei vom rechten Weg abgekommen.",
+    "翻译": "一百多年前，我的曾祖父属于一个 sect，他们相信帝国偏离了正道。  \n\n注：此处的“sect”直译为“教派”，但根据上下文可能更适合翻译为“团体”或“组织”。如果需要更自然的表达可以改为：“一百多年前，我的曾祖父属于一个认为帝国偏离了正道的团体。”"
+  },
+  {
+    "单数": "die Gesellschaft",
+    "复数": "",
+    "意思": "society; company",
+    "例句": "Dann hättest du Gesellschaft.",
+    "翻译": "那样你就有伴了。"
+  },
+  {
+    "单数": "die Kasse",
+    "复数": "die Kassen",
+    "意思": "checkout; cash register",
+    "例句": "Das ließ die Kassen des Kinobesitzers in Perpignan klingeln.",
+    "翻译": "这使得佩皮尼昂的电影院老板的钱箱响了起来。"
+  },
+  {
+    "单数": "die Kritik",
+    "复数": "die Kritiken",
+    "意思": "criticism",
+    "例句": "Das ist ein Restaurantkritiker, der Restaurants testet und Kritiken über die Restaurants schreibt.",
+    "翻译": "这是一位餐厅评论家，他测试餐厅并撰写关于餐厅的评论。"
+  },
+  {
+    "单数": "das Logo",
+    "复数": "die Logos",
+    "意思": "logo",
+    "例句": "Das ist das Logo eines verbotenen Pyramidenspiels.",
+    "翻译": "这是被禁止的金字塔游戏的标志。"
+  },
+  {
+    "单数": "der Magen",
+    "复数": "die Mägen",
+    "意思": "stomach",
+    "例句": "Geht's deinem Magen nicht gut?",
+    "翻译": "你的胃不舒服吗？"
+  },
+  {
+    "单数": "die Nachtschicht",
+    "复数": "die Nachtschichten",
+    "意思": "night shift",
+    "例句": "O'Boyle lässt ihn Nachtschicht schieben.",
+    "翻译": "奥博伊让他上夜班。"
+  },
+  {
+    "单数": "die Qualität",
+    "复数": "die Qualitäten",
+    "意思": "quality",
+    "例句": "Nein, ich will nur die Qualität sehen.",
+    "翻译": "不，我只是想看看质量。"
+  },
+  {
+    "单数": "der Service",
+    "复数": "die Services",
+    "意思": "service",
+    "例句": "Hier gibt's einen tollen Pizza-Service!",
+    "翻译": "这里有一个很棒的披萨配送服务！"
+  },
+  {
+    "单数": "der Tagesablauf",
+    "复数": "die Tagesabläufe",
+    "意思": "daily agenda",
+    "例句": "- Den Tagesablauf besprechen.",
+    "翻译": "讨论日程安排。"
+  },
+  {
+    "单数": "das Fell",
+    "复数": "die Felle",
+    "意思": "fur",
+    "例句": "Er hat ein dickes Fell.",
+    "翻译": "他有一层厚皮肤。"
+  },
+  {
+    "单数": "die Idee",
+    "复数": "die Ideen",
+    "意思": "idea",
+    "例句": "Haben Sie eine Idee, wie man am besten Vokabeln lernt?",
+    "翻译": "你有没有想过怎样最好地学习单词？"
+  },
+  {
+    "单数": "die Kraft",
+    "复数": "die Kräfte",
+    "意思": "power, force, energy",
+    "例句": "Du bist eine wertvolle Kraft.",
+    "翻译": "你是一个宝贵的力量。"
+  },
+  {
+    "单数": "das Model",
+    "复数": "die Models",
+    "意思": "model",
+    "例句": "Ich finde es so toll, dass deine models immer ihr höschen vergessen.",
+    "翻译": "我觉得你的模型总是忘记穿内裤这件事太棒了。"
+  },
+  {
+    "单数": "die Krankheit",
+    "复数": "die Krankheiten",
+    "意思": "illness",
+    "例句": "Gespräche über Krankheiten finde ich gar nicht angenehm.",
+    "翻译": "我觉得谈论疾病一点也不愉快。"
+  },
+  {
+    "单数": "die Beziehung",
+    "复数": "die Beziehungen",
+    "意思": "relationship",
+    "例句": "Wir waren vielleicht arm, aber verlobt und glücklich. Unsere Beziehung war wunderbar. Nach Jahren haben wir geheiratet.",
+    "翻译": "我们或许很穷，但订婚了并且很快乐。我们的关系非常美妙。几年后我们结了婚。"
+  },
+  {
+    "单数": "die Ehe",
+    "复数": "die Ehen",
+    "意思": "marriage",
+    "例句": "Sehen Sie sich das an, ehe wir uns dem Tagesgeschäft widmen.",
+    "翻译": "看看这个，在我们处理日常事务之前。"
+  },
+  {
+    "单数": "der Ehering",
+    "复数": "die Eheringe",
+    "意思": "wedding ring",
+    "例句": "Was für ein hübscher Ehering.",
+    "翻译": "多么漂亮的结婚戒指。"
+  },
+  {
+    "单数": "die Freundschaft",
+    "复数": "die Freundschaften",
+    "意思": "friendship",
+    "例句": "Zuerst haben wir Freundschaft geschlossen und später haben wir uns verliebt. Wir hatten eine wunderbare Zeit zusammen.",
+    "翻译": "首先我们成为了朋友，后来我们相爱了。我们一起度过了美好的时光。"
+  },
+  {
+    "单数": "die Verlobung",
+    "复数": "die Verlobungen",
+    "意思": "engagement of marriage",
+    "例句": "Ende der Verlobung.",
+    "翻译": "解除婚约。"
+  },
+  {
+    "单数": "der Verlobungsring",
+    "复数": "die Verlobungsringe",
+    "意思": "engagement ring",
+    "例句": "Wir haben uns verliebt, aber ich hatte kein Geld für einen Verlobungsring.",
+    "翻译": "我们坠入了爱河，但我没有钱买订婚戒指。"
+  },
+  {
+    "单数": "die Wahrheit",
+    "复数": "die Wahrheiten",
+    "意思": "truth",
+    "例句": "Das ist eine schöne Fantasie aber die Wahrheit ist noch besser.",
+    "翻译": "这是美好的幻想，但现实还要更好。"
+  },
+  {
+    "单数": "die gute Laune",
+    "复数": "",
+    "意思": "good mood",
+    "例句": "Habe keine gute Laune heute.",
+    "翻译": "今天心情不好。"
+  },
+  {
+    "单数": "der Hochzeitstag",
+    "复数": "die Hochzeitstage",
+    "意思": "wedding day",
+    "例句": "Piper, heute ist dein Hochzeitstag.",
+    "翻译": "皮珀，今天是你的结婚纪念日。"
+  },
+  {
+    "单数": "das Jubiläum",
+    "复数": "die Jubiläen",
+    "意思": "anniversary",
+    "例句": "- Alles Gute zum Jubiläum.",
+    "翻译": "祝您周年纪念快乐。"
+  },
+  {
+    "单数": "das Argument",
+    "复数": "die Argumente",
+    "意思": "argument",
+    "例句": "Ihr wollt meine Freundin vernichten, ohne ihre Argumente anzuhören?",
+    "翻译": "你们想毁掉我的朋友，却不听她的理由？"
+  },
+  {
+    "单数": "die Baustelle",
+    "复数": "die Baustellen",
+    "意思": "building site",
+    "例句": "Ich habe die Baustelle dafür einrichten lassen.",
+    "翻译": "我为此安排了施工场地。"
+  },
+  {
+    "单数": "das Benzin",
+    "复数": "",
+    "意思": "gasoline, petrol",
+    "例句": "Ich musste mit dem Auto zur Arbeit nach Stuttgart fahren, stand immer im Stau, und das Benzin war auch teuer.",
+    "翻译": "我必须开车去斯图加特上班，总是遇到堵车，而且汽油也很贵。"
+  },
+  {
+    "单数": "der Dreck",
+    "复数": "",
+    "意思": "mess",
+    "例句": "Wie bitte, du rauchst diesen Dreck?",
+    "翻译": "你说什么，你抽这个东西？"
+  },
+  {
+    "单数": "das Freizeitangebot",
+    "复数": "die Freizeitangebote",
+    "意思": "leisure opportunity",
+    "例句": "Ich finde es in der Stadt schöner als auf dem Land, weil das Freizeitangebot größer ist.",
+    "翻译": "我觉得在城市里比在乡村更美好，因为休闲选择更多。"
+  },
+  {
+    "单数": "die Großstadt",
+    "复数": "die Großstädte",
+    "意思": "big city, metropolis",
+    "例句": "Die Großstadt hat mir gefehlt.",
+    "翻译": "我想念大都市。"
+  },
+  {
+    "单数": "das Kulturprogramm",
+    "复数": "die Kulturprogramme",
+    "意思": "cultural program",
+    "例句": "Ein traumhaftes Kulturprogramm, mit einem Lunch über der Stadt!",
+    "翻译": "一场梦幻的文化节目，还有一顿城市上空的午餐！"
+  },
+  {
+    "单数": "der Lärm",
+    "复数": "",
+    "意思": "noise",
+    "例句": "n Großstädten gibt es einfach viel mehr Dreckund Lärm als auf dem Land.",
+    "翻译": "在大城市里，污垢和噪音比乡村多得多。"
+  },
+  {
+    "单数": "die Luft",
+    "复数": "",
+    "意思": "air",
+    "例句": "Außerdem ist die Luft mit Sicherheit besser als hier.",
+    "翻译": "此外，那里的空气肯定比这里好。"
+  },
+  {
+    "单数": "der Nachteil",
+    "复数": "die Nachteile",
+    "意思": "disadvantage",
+    "例句": "Dann bin ich wohl etwas im Nachteil.",
+    "翻译": "那么我恐怕处于不利地位。"
+  },
+  {
+    "单数": "der Vorteil",
+    "复数": "die Vorteile",
+    "意思": "advantage",
+    "例句": "Mit Kindern hatte das Leben auf dem Land nur Vorteile.",
+    "翻译": "和孩子们在一起，乡村生活只有好处。"
+  },
+  {
+    "单数": "das Verkehrsmittel",
+    "复数": "die Verkehrsmittel",
+    "意思": "means of transportation",
+    "例句": "Sie haben öffentliche Verkehrsmittel benutzt.",
+    "翻译": "他们使用了公共交通工具。"
+  },
+  {
+    "单数": "der Altbau",
+    "复数": "die Altbauten",
+    "意思": "old building",
+    "例句": "Ein Altbau hat mehr Charme.",
+    "翻译": "老建筑更有魅力。"
+  },
+  {
+    "单数": "der Neubau",
+    "复数": "die Neubauten",
+    "意思": "new building",
+    "例句": "Die sind in exklusiven Neubauten groß in Mode.",
+    "翻译": "他们很流行住在豪华的新建住宅里。"
+  },
+  {
+    "单数": "das Appartement",
+    "复数": "die Appartements",
+    "意思": "apartment",
+    "例句": "Kennen Sie sein Appartement?",
+    "翻译": "你知道他的公寓吗？"
+  },
+  {
+    "单数": "der Bauernhof",
+    "复数": "die Bauernhöfe",
+    "意思": "farm",
+    "例句": "Danach folgte \"Bauernhof der sieben Sünden\".",
+    "翻译": "然后是“七宗罪农场”。"
+  },
+  {
+    "单数": "die Besichtigung",
+    "复数": "die Besichtigungen",
+    "意思": "visit; tour",
+    "例句": "Die Besichtigung müssen wir verschieben.",
+    "翻译": "参观我们需要推迟。"
+  },
+  {
+    "单数": "das Dachgeschoss",
+    "复数": "die Dachgeschosse",
+    "意思": "attic; top floor",
+    "例句": "Woher wusstest du von dem Dachgeschoss?",
+    "翻译": "你怎么知道阁楼的事？"
+  },
+  {
+    "单数": "das Erdgeschoss",
+    "复数": "die Erdgeschoss",
+    "意思": "ground floor; ground level",
+    "例句": "Dann müssen Sie zu deren Büro in Gebäude D, Erdgeschoss und sich das Formular E 111 holen.",
+    "翻译": "然后您必须去他们位于大楼D的一楼的办公室领取表格E111。"
+  },
+  {
+    "单数": "die Kaution",
+    "复数": "die Kautionen",
+    "意思": "security deposit",
+    "例句": "Sie sind auf Kaution raus.",
+    "翻译": "他（她）保释出来了。"
+  },
+  {
+    "单数": "die Lage",
+    "复数": "die Lagen",
+    "意思": "situation; position",
+    "例句": "Und nur jene, die sieben siegel genannt werden, sind in der Lage, gegen die sieben BOTEN zu kämpfen um die Bannkreise zu beschützen.",
+    "翻译": "只有被称为七印的人才有能力对抗七大使者，以保护禁咒圈。"
+  },
+  {
+    "单数": "die Monatsmiete",
+    "复数": "die Monatsmieten",
+    "意思": "monthly rent",
+    "例句": "(10.000 Euro und drei Monatsmieten.)",
+    "翻译": "（1万欧元和三个月的房租。）"
+  },
+  {
+    "单数": "",
+    "复数": "die Nebenkosten",
+    "意思": "utilities; amenities; additional costs",
+    "例句": "Können Sie mir bitte auch noch mitteilen, wie hoch die Nebenkosten sind?",
+    "翻译": "请您也告诉我一下附加费用是多少？"
+  },
+  {
+    "单数": "der Stellplatz",
+    "复数": "die Stellplätze",
+    "意思": "parking space",
+    "例句": "Nehme ich richtig an, dass der Cadillac, der zwei Stellplätze auf dem Parkplatz... der Bruderschaft einnimmt, deiner ist?",
+    "翻译": "我猜得没错吧，那个占了两个停车位的凯迪拉克是你的？"
+  },
+  {
+    "单数": "der Vorort",
+    "复数": "die Vororte",
+    "意思": "suburb",
+    "例句": "Ist vielleicht aufregender als der Vorort.",
+    "翻译": "也许比郊区更令人兴奋。"
+  },
+  {
+    "单数": "der Ärger",
+    "复数": "",
+    "意思": "frustration; aggravation",
+    "例句": "Du willst Ärger?",
+    "翻译": "你想找麻烦？"
+  },
+  {
+    "单数": "der Haken",
+    "复数": "die Haken",
+    "意思": "hook",
+    "例句": "Da gibt's einen Haken.",
+    "翻译": "但是有个条件。"
+  },
+  {
+    "单数": "der Inhalt",
+    "复数": "die Inhalte",
+    "意思": "content",
+    "例句": "Ich denke, das hängt vom Inhalt der Dose ab, die Sie da haben.",
+    "翻译": "我认为这取决于您手中的那罐东西的内容。"
+  },
+  {
+    "单数": "der Karton",
+    "复数": "die Kartons",
+    "意思": "carton; box",
+    "例句": "Steht auf dem Karton.",
+    "翻译": "箱子里写着什么。"
+  },
+  {
+    "单数": "der Lastwagen",
+    "复数": "die Lastwagen",
+    "意思": "truck; lorry (also known as LKW)",
+    "例句": "Ibrahim stellt die Kiste in den Lastwagen.Aya stellt den Spiegel an die Wand.Selma stellt die Tasche unter den Tisch.Aya hängt die Jacken über den Stuhl.Selma setzt den Teddy auf die Tasche.Ibrahim legt den Teppich vor den Schrank.Selma stellt die Stühle hinter das Regal.Aya legt die Lampe neben den Schrank.Ibrahim stellt die Kiste zwischen die Stühle.",
+    "翻译": "伊布拉希姆把箱子放到卡车上。\n亚娅把镜子挂在墙上。\n塞尔玛把包放在桌子下。\n亚娅把夹克搭在椅子上。\n塞尔玛把泰迪熊放在包上。\n伊布拉希姆把地毯铺在柜子前。\n塞尔玛把椅子放在书架后面。\n亚娅把台灯放在柜子旁边。\n伊布拉希姆把箱子放在椅子之间。"
+  },
+  {
+    "单数": "die Seite",
+    "复数": "die Seiten",
+    "意思": "side",
+    "例句": "Auf welcher Seite ist das Hotelzimmer? Auf der linken Seite.",
+    "翻译": "酒店房间在哪个侧边？在左边。"
+  },
+  {
+    "单数": "der Umzugskarton",
+    "复数": "die Umzugskartons",
+    "意思": "moving box",
+    "例句": "Hast du schon Umzugskartons besorgt?",
+    "翻译": "你已经弄好搬家用的纸箱了吗？"
+  },
+  {
+    "单数": "der Werkzeugkasten",
+    "复数": "die Werkzeugkästen",
+    "意思": "toolbox",
+    "例句": "Wenn wir Hilfe brauchen, dann kommt er mit seinem Werkzeugkasten.",
+    "翻译": "当我们需要帮助时，他就带着他的工具箱来了。"
+  },
+  {
+    "单数": "das Desinfektionsmittel",
+    "复数": "die Desinfektionsmittel",
+    "意思": "disinfectant 消毒剂",
+    "例句": "Nein, ich habe kein Desinfektionsmittel benutzt.",
+    "翻译": "不，我没有使用消毒剂。"
+  },
+  {
+    "单数": "die Fensterbank",
+    "复数": "die Fensterbänke",
+    "意思": "windowsill 窗台",
+    "例句": "Kaum hatte ich einen Kuchen gebacken, da habt ihr mit den schon geklaut, direkt von der Fensterbank.",
+    "翻译": "我才刚烤了一个蛋糕，你们就把它从窗台上偷走了。"
+  },
+  {
+    "单数": "der Gegenstand",
+    "复数": "die Gegenstände",
+    "意思": "object",
+    "例句": "Als sie damit ins Wohnzimmer geht,  stolpert sie über einen Gegenstand und verschüttet den Kaffee.",
+    "翻译": "当她带着它走进客厅时，她绊到了一个东西，把咖啡洒了。"
+  },
+  {
+    "单数": "das Glas",
+    "复数": "",
+    "意思": "glass",
+    "例句": "Das Schnitzel ist für den Mann am Nachbartisch.Inge und Jacques wetten um eine Verabredung.Der Kellner geht durch den Flur von der Küche ins Restaurant.Inge kann die Speisekarte ohne ihre Brille nicht lesen.Inge entscheidet sich gegen den Wein. Sie bestellt ein Glas Wasser.",
+    "翻译": "牛排是给邻桌的那个男人的。英格和雅克在打赌约会的机会。服务员穿过走廊从厨房走到餐厅。英格不戴眼镜无法阅读菜单。英格决定不要点酒，她要了一杯水。"
+  },
+  {
+    "单数": "die Leiter",
+    "复数": "die Leitern",
+    "意思": "ladder",
+    "例句": "Stellvertretender Leiter von 2002, tolle Uniform, bessere Bezahlung, nicht übel.",
+    "翻译": "代理负责人从二零零二年开始，不错的制服，更好的薪酬，还不错。"
+  },
+  {
+    "单数": "der Apparat",
+    "复数": "die Apparate",
+    "意思": "device",
+    "例句": "Ein herrlicher Apparat.",
+    "翻译": "一个美妙的装置。"
+  },
+  {
+    "单数": "der Elektroherd",
+    "复数": "die Elektroherde",
+    "意思": "electric stove",
+    "例句": "Damals hatten die Menschen keine Elektroherde, sondern mussten Feuer machen.",
+    "翻译": "当时人们没有电炉，而是必须生火。"
+  },
+  {
+    "单数": "das Feuer",
+    "复数": "die Feuer",
+    "意思": "fire",
+    "例句": "Zuerst musste man Holz sammeln, dann das Feuer machen.",
+    "翻译": "首先必须收集木头，然后生火。"
+  },
+  {
+    "单数": "das Holz",
+    "复数": "",
+    "意思": "wood",
+    "例句": "Das Holz hält mich gefangen.",
+    "翻译": "这块木头困住了我。"
+  },
+  {
+    "单数": "die Kerze",
+    "复数": "die Kerzen",
+    "意思": "candle",
+    "例句": "Heute kann man einfach so das Licht anmachen, weil man Strom im Haus hat. Aber früher mussten die Menschen Kerzen anzünden,",
+    "翻译": "今天人们可以轻松地开灯，因为家里有电。但以前人们必须点燃蜡烛。"
+  },
+  {
+    "单数": "die Einkaufsstraße",
+    "复数": "die Einkaufsstraßen",
+    "意思": "shopping street",
+    "例句": "Ich gehe durch Nakamise, die älteste Einkaufsstraße Japans, die es seit der Edo-Zeit gibt.",
+    "翻译": "我穿过 Nakamise 街，这是日本最古老的购物街，自江户时代以来就存在。"
+  },
+  {
+    "单数": "der Kiosk",
+    "复数": "die Kioske",
+    "意思": "kiosk; newsstand",
+    "例句": "Verizon will sie morgen um 8 Uhr abreißen... und durch einen Kiosk ersetzen.",
+    "翻译": "Verizon打算明天早上八点拆除它……并用一个自助服务亭取代。"
+  },
+  {
+    "单数": "die Kutsche",
+    "复数": "die Kutschen",
+    "意思": "carriage",
+    "例句": "Konnte die zweite Kutsche noch durchfahren?",
+    "翻译": "第二辆马车还能通过吗？"
   }
 ]

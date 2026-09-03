@@ -502,5 +502,131 @@
     "意思": "solve a problem",
     "例句": "Wir müssen dieses Problem schnell lösen.",
     "翻译": "我们必须尽快解决这个问题。"
+  },
+  {
+    "词组": "aus etwas bestehen",
+    "意思": "to consist of; to be made up of",
+    "例句": "Das Team besteht aus fünf erfahrenen Mitarbeitern.",
+    "翻译": "这个团队由五名有经验的员工组成。"
+  },
+  {
+    "词组": "etwas zu sich nehmen",
+    "意思": "eat or drink something",
+    "例句": "Vor der Untersuchung dürfen Sie nichts zu sich nehmen.",
+    "翻译": "检查前您不能吃或喝任何东西。"
+  },
+  {
+    "词组": "sich setzen",
+    "意思": "to sit down",
+    "例句": "Bitte setzen Sie sich, der Arzt kommt gleich.",
+    "翻译": "请坐，医生马上就来。"
+  },
+  {
+    "词组": "den Tisch decken",
+    "意思": "set the table",
+    "例句": "Kannst du bitte den Tisch decken? Das Essen ist gleich fertig.",
+    "翻译": "你能摆一下餐桌吗？饭马上就好了。"
+  },
+  {
+    "词组": "als etwas/jemand gelten",
+    "意思": "to be considered as; to be classified as; to pass for",
+    "例句": "Er gilt als einer der besten Ärzte der Stadt.",
+    "翻译": "他被认为是这座城市最好的医生之一。"
+  },
+  {
+    "词组": "alles unter einen Hut bringen",
+    "意思": "multitasking",
+    "例句": "Als berufstätige Mutter muss sie Arbeit, Kinder und Haushalt unter einen Hut bringen.",
+    "翻译": "作为一名职业母亲，她必须同时兼顾工作、孩子和家务。"
+  },
+  {
+    "词组": "dabei sein",
+    "意思": "be in, take part, be present",
+    "例句": "Morgen ist das Fußballspiel – bist du auch dabei?",
+    "翻译": "明天有足球赛，你也参加吗？"
+  },
+  {
+    "词组": "ein dickes Fell haben",
+    "意思": "脸皮厚（但是非贬义）",
+    "例句": "In diesem Beruf muss man ein dickes Fell haben.",
+    "翻译": "干这一行必须心理素质强、经得起批评。"
+  },
+  {
+    "词组": "jemanden über den Tisch ziehen",
+    "意思": "忽悠/欺骗/宰客",
+    "例句": "Pass auf, dass dich der Verkäufer nicht über den Tisch zieht.",
+    "翻译": "小心，别让那个售货员宰了你。"
+  },
+  {
+    "词组": "sein verabredet",
+    "意思": "date / to have an appointment",
+    "例句": "Ich kann heute Abend nicht, ich bin schon mit Freunden verabredet.",
+    "翻译": "我今晚不行，我已经和朋友约好了。"
+  },
+  {
+    "词组": "stand mit einem Bein im Grab",
+    "意思": "stand with one leg in the grave (too old)",
+    "例句": "Nach dem schweren Unfall stand er mit einem Bein im Grab.",
+    "翻译": "那场严重事故后，他一只脚已经踏进了鬼门关。"
+  },
+  {
+    "词组": "für jemanden da sein",
+    "意思": "to be there for someone",
+    "例句": "In schwierigen Zeiten ist meine Familie immer für mich da.",
+    "翻译": "在困难的时候，我的家人总是在我身边支持我。"
+  },
+  {
+    "词组": "jemandem von etwas erzählen",
+    "意思": "to tell someone about something",
+    "例句": "Sie hat mir gestern von ihrer Reise nach Japan erzählt.",
+    "翻译": "她昨天给我讲了她的日本之行。"
+  },
+  {
+    "词组": "Freundschaft schließen",
+    "意思": "become friends",
+    "例句": "Im Sprachkurs habe ich mit vielen Leuten Freundschaft geschlossen.",
+    "翻译": "在语言班上我和很多人成了朋友。"
+  },
+  {
+    "词组": "sich an etwas/jemanden gewöhnen",
+    "意思": "to get used to someone/something",
+    "例句": "Am Anfang war das Klima schwierig, aber jetzt habe ich mich daran gewöhnt.",
+    "翻译": "一开始这里的气候让我很难受，但现在我已经习惯了。"
+  },
+  {
+    "词组": "(auf etwas/jemanden) an|stoßen",
+    "意思": "make a toast to something/someone",
+    "例句": "Lasst uns auf das Brautpaar anstoßen!",
+    "翻译": "让我们为这对新人举杯！"
+  },
+  {
+    "词组": "Auf ...! Prost!",
+    "意思": "To.../Here's to...Cheers!",
+    "例句": "Auf deinen neuen Job! Prost!",
+    "翻译": "为你的新工作干杯！"
+  },
+  {
+    "词组": "sich auf etwas/jemanden verlassen",
+    "意思": "rely on sth/sb",
+    "例句": "Du kannst dich auf mich verlassen, ich helfe dir.",
+    "翻译": "你可以信赖我，我会帮你的。"
+  },
+  {
+    "词组": "ein schlechtes Gewissen haben",
+    "意思": "feel bad about something",
+    "例句": "Ich habe ein schlechtes Gewissen, weil ich ihren Geburtstag vergessen habe.",
+    "翻译": "我很内疚，因为我忘了她的生日。"
+  },
+  {
+    "词组": "jemanden bei etwas erwischen",
+    "意思": "to catch someone at something",
+    "例句": "Die Lehrerin hat ihn beim Abschreiben erwischt.",
+    "翻译": "老师抓到他在考试时抄袭。"
+  },
+  {
+    "词组": "sich verändern",
+    "意思": "change",
+    "例句": "Hast du dich verändert, Ada?",
+    "翻译": "你变了吗，艾达？"
   }
 ]

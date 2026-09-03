@@ -522,7 +522,7 @@
     "翻译": "他告诉我们他对人寿保险进行了更改。"
   },
   {
-    "原型": "ziehne an",
+    "原型": "ziehen an",
     "现在": "zieht an",
     "过去": "zog an",
     "完成": "ist angezogen",
@@ -531,7 +531,7 @@
     "翻译": "她两天前被勒死了，打扮得像妓女一样。"
   },
   {
-    "原型": "ziehne aus",
+    "原型": "ziehen aus",
     "现在": "zieht aus",
     "过去": "zog aus",
     "完成": "hat ausgezogen",
@@ -3373,5 +3373,536 @@
     "意思": "exchange",
     "例句": "Wo hast du dein Geld umgetauscht, Janet?",
     "翻译": "简特，你在哪里兑换的钱？"
+  },
+  {
+    "原型": "besitzen",
+    "现在": "besitzt",
+    "过去": "besaß",
+    "完成": "hat besessen",
+    "意思": "to own something",
+    "例句": "Ich weiß, dass ich besessen von ihr bin.",
+    "翻译": "我知道我被她迷住了。"
+  },
+  {
+    "原型": "bestehen",
+    "现在": "besteht",
+    "过去": "bestand",
+    "完成": "bestanden",
+    "意思": "consist of",
+    "例句": "Eine Brotzeit ist ein Gericht, das aus Broten mit Schinken, Wurst und Käse besteht.",
+    "翻译": "一份小吃是由面包、火腿、香肠和奶酪组成的菜肴。"
+  },
+  {
+    "原型": "setzen",
+    "现在": "setzt",
+    "过去": "setzte",
+    "完成": "hat gesetzt",
+    "意思": "sit down",
+    "例句": "Die letzte Leidenschaft, bevor du dich endgültig zur Ruhe setzt.",
+    "翻译": "在你最终退休之前的最后一份热情。"
+  },
+  {
+    "原型": "zapfen",
+    "现在": "zapft",
+    "过去": "zapfte",
+    "完成": "hat gezapft",
+    "意思": "tap, draw, open",
+    "例句": "Jetzt will ich ein kaltes Bier, das frisch gezapft ist.",
+    "翻译": "现在我想喝一杯新鲜扎好的冷啤酒。"
+  },
+  {
+    "原型": "gelten",
+    "现在": "gilt",
+    "过去": "galt",
+    "完成": "hat gegolten",
+    "意思": "to be considered as; to be classified as; to pass for",
+    "例句": "Seine Gelüste oder Bündnisse gelten nur denen, die ihn in die Führungsetage von CCA bringen können.",
+    "翻译": "他的欲望或联盟只为那些能把他带进CCA高层的人服务。"
+  },
+  {
+    "原型": "wetten",
+    "现在": "wettet",
+    "过去": "wettete",
+    "完成": "hat gewettet",
+    "意思": "bet",
+    "例句": "Sie wollen wetten?",
+    "翻译": "你们想打赌？"
+  },
+  {
+    "原型": "suchen aus",
+    "现在": "sucht aus",
+    "过去": "suchte aus",
+    "完成": "hat ausgesucht",
+    "意思": "choose",
+    "例句": "Ich hab Lopez ausgesucht!",
+    "翻译": "我选中了洛佩兹！"
+  },
+  {
+    "原型": "bereiten zu",
+    "现在": "bereitet zu",
+    "过去": "bereitete zu",
+    "完成": "hat zubereitet",
+    "意思": "prepare",
+    "例句": "Am Ende dieser demütigenden Versuche, gelang es mir, das Problem insofern zu lösen... als ich mir eine schöne Portion Bandnudeln auf Miesmuschel zubereitete.",
+    "翻译": "经过这些令人沮丧的尝试，我总算解决了这个问题……因为我做了一大份方便面拌 noodles（这里的“Bandnudeln”直译为带状面条，通常指的是方便面，而“Miesmuschel”是一种贝类，但在这种语境下可能是指调料包）。为了更自然流畅，可以理解为：我总算解决了这个问题……因为我做了一大份美味的方便面。"
+  },
+  {
+    "原型": "runden auf",
+    "现在": "rundet auf",
+    "过去": "rundete auf",
+    "完成": "hat aufgerundet",
+    "意思": "round up",
+    "例句": "Das ist ein freies Rennen, 2 Runden auf dem Kurs.",
+    "翻译": "这是一场自由的比赛，在赛道上跑两圈。"
+  },
+  {
+    "原型": "bedienen",
+    "现在": "bedient",
+    "过去": "bediente",
+    "完成": "hat bedient",
+    "意思": "serve",
+    "例句": "Sie können die Maschine nicht bedienen.",
+    "翻译": "你不能操作这台机器。"
+  },
+  {
+    "原型": "laden ein",
+    "现在": "lädt ein",
+    "过去": "lud ein",
+    "完成": "hat eingeladen",
+    "意思": "treat, invite",
+    "例句": "Ich muss Ihnen gestehen, dass wir Sie zu diesem Essen nicht ganz ohne Absicht eingeladen haben.",
+    "翻译": "我必须坦白，我们邀请您参加这次宴会并非完全没有目的。"
+  },
+  {
+    "原型": "koordinieren",
+    "现在": "koordiniert",
+    "过去": "koordinierte",
+    "完成": "hat koordiniert",
+    "意思": "coordinate",
+    "例句": "Ich möchte dem Vorstand daher heute einen Plan vorstellen, der die Profitzentren koordiniert und die einzelnen Unternehmensbereiche stärker dem Management unterstellt.",
+    "翻译": "因此，我想今天向董事会提出一个计划，该计划将协调利润中心，并使各个业务部门更受管理层的控制。"
+  },
+  {
+    "原型": "kritisieren",
+    "现在": "kritisiert",
+    "过去": "kritisierte",
+    "完成": "hat kritisiert",
+    "意思": "criticize",
+    "例句": "Ich denke, irgendwann wollte ich dann nicht mehr kritisieren.",
+    "翻译": "我想，后来我就不想再批评了。"
+  },
+  {
+    "原型": "optimieren",
+    "现在": "optimiert",
+    "过去": "optimierte",
+    "完成": "hat optimiert",
+    "意思": "optimize",
+    "例句": "- Stimmt unsere Vermutung, dann kann Tretonin nicht optimiert werden.",
+    "翻译": "如果我们的猜想正确，那么就不能优化特雷托宁了。"
+  },
+  {
+    "原型": "rufen",
+    "现在": "ruft",
+    "过去": "rief",
+    "完成": "hat gerufen",
+    "意思": "call",
+    "例句": "Selma ruft Nico an, weil sie mit ihm sprechen möchte.",
+    "翻译": "塞尔玛给尼科打电话，因为她想和他说话。"
+  },
+  {
+    "原型": "stellen dar",
+    "现在": "stellt dar",
+    "过去": "stellte dar",
+    "完成": "hat dargestellt",
+    "意思": "represent",
+    "例句": "Angenommen, es wäre ihm als Spaß dargestellt worden.",
+    "翻译": "假设有人把它当作一种乐趣告诉他。"
+  },
+  {
+    "原型": "packen ein",
+    "现在": "packt ein",
+    "过去": "packte ein",
+    "完成": "hat eingepackt",
+    "意思": "pack, wrap up",
+    "例句": "Ich hab dir alles eingepackt:",
+    "翻译": "我把一切都给你打包好了："
+  },
+  {
+    "原型": "klingeln",
+    "现在": "klingelt",
+    "过去": "klingelte",
+    "完成": "hat geklingelt",
+    "意思": "ring (the bell)",
+    "例句": "Herbs Telefon klingelt ständig.",
+    "翻译": "赫尔布的电话一直响个不停。"
+  },
+  {
+    "原型": "danken",
+    "现在": "dankt",
+    "过去": "dankte",
+    "完成": "hat gedankt",
+    "意思": "thank",
+    "例句": "Ich möchte dir für die gemeinsamen Jahre danken.",
+    "翻译": "我想感谢你我们一起度过的那些年。"
+  },
+  {
+    "原型": "erzählen",
+    "现在": "erzählt",
+    "过去": "erzählte",
+    "完成": "hat erzählt",
+    "意思": "tell",
+    "例句": "- Ich werde allen davon erzählen.",
+    "翻译": "我会把这件事告诉所有人。"
+  },
+  {
+    "原型": "gewöhnen",
+    "现在": "gewöhnt",
+    "过去": "gewöhnte",
+    "完成": "hat gewöhnt",
+    "意思": "get used to",
+    "例句": "Irgendwann gewöhnt man sich an sie und lernt, damit zu leben.",
+    "翻译": "渐渐地，你就习惯了它们，并学会与之共存。"
+  },
+  {
+    "原型": "kommen herein",
+    "现在": "kommt herein",
+    "过去": "kam herein",
+    "完成": "ist hereingekommen",
+    "意思": "enter",
+    "例句": "Jemand ist durch das Fenster hereingekommen und hat ihn mit einem Bajonett getötet.",
+    "翻译": "有人通过窗户进来，用刺刀杀了他。"
+  },
+  {
+    "原型": "trennen",
+    "现在": "trennt",
+    "过去": "trennte",
+    "完成": "hat getrennt",
+    "意思": "separate",
+    "例句": "(Zuschauer) Schiedsrichter, trennen!",
+    "翻译": "（观众）裁判，分开他们！"
+  },
+  {
+    "原型": "verlieben",
+    "现在": "verliebt",
+    "过去": "verliebte",
+    "完成": "hat verliebt",
+    "意思": "fall in love",
+    "例句": "Nico hat sich in eine junge Syrerin verliebt.",
+    "翻译": "尼科爱上了一个年轻的叙利亚女孩。"
+  },
+  {
+    "原型": "stoßen an",
+    "现在": "stößt an",
+    "过去": "stieß an",
+    "完成": "hat angestoßen",
+    "意思": "make a toast to something/someone",
+    "例句": "Stößt an Büchse",
+    "翻译": "撞击罐头盒"
+  },
+  {
+    "原型": "feien",
+    "现在": "feiert",
+    "过去": "feierte",
+    "完成": "hat gefeiert",
+    "意思": "celebrate",
+    "例句": "﻿Das muss gefeiert werden!",
+    "翻译": "这必须庆祝一下！"
+  },
+  {
+    "原型": "schätzen",
+    "现在": "schätzt",
+    "过去": "schätzte",
+    "完成": "hat geschätzt",
+    "意思": "value",
+    "例句": "Was schätzen Sie, wann wird sie ankommen?",
+    "翻译": "您估计她什么时候到达？"
+  },
+  {
+    "原型": "mieten",
+    "现在": "mietet",
+    "过去": "mietete",
+    "完成": "hat gemietet",
+    "意思": "rent",
+    "例句": "Hohe Mieten sind Überall ein großes Problem.",
+    "翻译": "高昂的租金到处都是一个大问题。"
+  },
+  {
+    "原型": "nerven",
+    "现在": "nervt",
+    "过去": "nervte",
+    "完成": "hat genervt",
+    "意思": "annoy",
+    "例句": "Ich bin genervt von meinem Beruf.",
+    "翻译": "我对我的工作感到厌烦。"
+  },
+  {
+    "原型": "teilen mit",
+    "现在": "teilt mit",
+    "过去": "teilte mit",
+    "完成": "hat mitgeteilt",
+    "意思": "to communicate something (to someone)",
+    "例句": "Einer seiner Rechtsanwälte teilte mit mir die Zelle.",
+    "翻译": "他的其中一位律师与我同住一个牢房。"
+  },
+  {
+    "原型": "stinken",
+    "现在": "stinkt",
+    "过去": "stank",
+    "完成": "hat gestunken",
+    "意思": "stink; smell bad",
+    "例句": "Deiner ist schwer wie ein Ochse, aber die Füße von meinem stinken!\"",
+    "翻译": "你的像一头笨重的公牛，但我的脚臭！"
+  },
+  {
+    "原型": "versuchen",
+    "现在": "versucht",
+    "过去": "versuchte",
+    "完成": "hat versucht",
+    "意思": "try sth",
+    "例句": "Ich finde, dass du es selbst versuchen musst.",
+    "翻译": "我认为你必须亲自试一试。"
+  },
+  {
+    "原型": "beschriften",
+    "现在": "beschriftet",
+    "过去": "beschriftete",
+    "完成": "hat beschriftet",
+    "意思": "label, put a label on, write a label on",
+    "例句": "Danach nummerieren und beschriften Sie die gelben Ordner genauso wie die grauen.",
+    "翻译": "然后像标号灰色文件夹一样给黄色文件夹编号和标注。"
+  },
+  {
+    "原型": "besorgen",
+    "现在": "besorgt",
+    "过去": "besorgte",
+    "完成": "hat besorgt",
+    "意思": "get, produce",
+    "例句": "Hast du schon Umzugskartons besorgt?",
+    "翻译": "你已经弄好搬家用的纸箱了吗？"
+  },
+  {
+    "原型": "erwischen",
+    "现在": "erwischt",
+    "过去": "erwischte",
+    "完成": "hat erwischt",
+    "意思": "catch someone at something",
+    "例句": "Sie hat mich beim Lügen erwischt.",
+    "翻译": "她抓住了我撒谎的把柄。"
+  },
+  {
+    "原型": "legen",
+    "现在": "legt",
+    "过去": "legte",
+    "完成": "hat gelegt",
+    "意思": "lay",
+    "例句": "Ibrahim stellt die Kiste in den Lastwagen.Aya stellt den Spiegel an die Wand.Selma stellt die Tasche unter den Tisch.Aya hängt die Jacken über den Stuhl.Selma setzt den Teddy auf die Tasche.Ibrahim legt den Teppich vor den Schrank.Selma stellt die Stühle hinter das Regal.Aya legt die Lampe neben den Schrank.Ibrahim stellt die Kiste zwischen die Stühle.",
+    "翻译": "伊布拉希姆把箱子放进卡车。亚娅把镜子挂在墙上。塞尔玛把包放在桌子下面。亚娅把夹克搭在椅子上。塞尔玛把泰迪熊放在包上。伊布拉希姆把地毯铺在柜子前。塞尔玛把椅子放在书架后面。亚娅把台灯放在柜子旁边。伊布拉希姆把箱子放在椅子之间。"
+  },
+  {
+    "原型": "sortieren",
+    "现在": "sortiert",
+    "过去": "sortierte",
+    "完成": "hat sortiert",
+    "意思": "sort",
+    "例句": "Hast du schon alle Sachen sortiert?",
+    "翻译": "你已经把所有东西整理好了吗？"
+  },
+  {
+    "原型": "stellen",
+    "现在": "stellt",
+    "过去": "stellte",
+    "完成": "hat gestellt",
+    "意思": "put, place",
+    "例句": "Emma setzt den Teddy auf den Boden.Selma legt den Teddy auf den Boden.Nina stellt den Teddy auf den Boden.Lisa hängt den Teddy auf die Leine.",
+    "翻译": "艾玛把泰迪熊放在地上。塞尔玛把泰迪熊放在地上。妮娜把泰迪熊放在地上。丽萨把泰迪熊挂在绳子上。"
+  },
+  {
+    "原型": "werfen weg",
+    "现在": "wirft weg",
+    "过去": "warf weg",
+    "完成": "hat weggeworfen",
+    "意思": "throw away",
+    "例句": "Warum hast du ihn weggeworfen?",
+    "翻译": "为什么你把他扔了？"
+  },
+  {
+    "原型": "strengen an",
+    "现在": "strengt an",
+    "过去": "strengte an",
+    "完成": "hat angestrengt",
+    "意思": "exert oneself; to make their most effort",
+    "例句": "* Angestrengte Laute *",
+    "翻译": "用力的声音"
+  },
+  {
+    "原型": "rutschen aus",
+    "现在": "rutscht aus",
+    "过去": "rutschte aus",
+    "完成": "ist ausgerutscht",
+    "意思": "to slip; to slip over",
+    "例句": "- Sag mir, er ist nur ausgerutscht.",
+    "翻译": "告诉我，他只是滑倒了。"
+  },
+  {
+    "原型": "brechen",
+    "现在": "bricht",
+    "过去": "brach",
+    "完成": "hat gebrochen",
+    "意思": "break",
+    "例句": "Yara ist gestürzt. Sie glaubt, dass ihr Fuß gebrochen ist. Sie ruft den Notarzt an.",
+    "翻译": "亚拉摔倒了。她认为自己的脚骨折了。她拨打了急救电话。"
+  },
+  {
+    "原型": "leben ein",
+    "现在": "lebt ein",
+    "过去": "lebte ein",
+    "完成": "hat eingelebt",
+    "意思": "settle in, settle down",
+    "例句": "Und nun gab es für sie nur noch den einen Weg, ihrem Leben ein Ende zu setzen.",
+    "翻译": "而现在她只剩下一条路，那就是结束自己的生命。"
+  },
+  {
+    "原型": "fallen",
+    "现在": "fällt",
+    "过去": "fiel",
+    "完成": "ist gefallen",
+    "意思": "fall",
+    "例句": "Es hat mir aber trotzdem gut gefallen.",
+    "翻译": "不过我还是很喜欢的。"
+  },
+  {
+    "原型": "halten fest",
+    "现在": "hält fest",
+    "过去": "hielt fest",
+    "完成": "hat festgehalten",
+    "意思": "hold on tight",
+    "例句": "Alles, was Sie sagen, wird schriftlich festgehalten und im Prozess als Beweismittel verwendet gegen dich.",
+    "翻译": "你所说的一切都将被记录下来，并在法庭上作为证据对你使用。"
+  },
+  {
+    "原型": "kleben",
+    "现在": "klebt",
+    "过去": "klebte",
+    "完成": "hat geklebt",
+    "意思": "glue, stick",
+    "例句": "Dann kleben wir sie eben wieder!",
+    "翻译": "那么我们就再把它们粘上吧！"
+  },
+  {
+    "原型": "reinigen",
+    "现在": "reinigt",
+    "过去": "reinigte",
+    "完成": "hat gereinigt",
+    "意思": "clean, disinfect",
+    "例句": "Selma hat sich in den Finger geschnitten. Sie reinigt die Wunde und klebt ein Pflaster auf die Stelle.",
+    "翻译": "塞尔玛切到了手指。她清理了伤口，并贴上了一块创可贴。"
+  },
+  {
+    "原型": "gehen schief",
+    "现在": "geht schief",
+    "过去": "ging schief",
+    "完成": "ist schiefgegangen",
+    "意思": "go wrong",
+    "例句": "Tut mir leid, dass das neulich schiefgegangen ist.",
+    "翻译": "那次出了点差错，真抱歉。"
+  },
+  {
+    "原型": "stolpern",
+    "现在": "stolpert",
+    "过去": "stolperte",
+    "完成": "ist gestolpert",
+    "意思": "stumble",
+    "例句": "Als sie damit ins Wohnzimmer geht,  stolpert sie über einen Gegenstand und verschüttet den Kaffee.",
+    "翻译": "当她端着咖啡走进客厅时，她绊到了一个东西，把咖啡洒了。"
+  },
+  {
+    "原型": "stoßen",
+    "现在": "stößt",
+    "过去": "stieß",
+    "完成": "hat gestoßen",
+    "意思": "bump, run into",
+    "例句": "Lisa hat sich den Kopf gestoßen. Sie kühlt die Verletzung und nimmt eine Salbe.",
+    "翻译": "丽莎撞到了头。她冷敷伤口并涂了药膏。"
+  },
+  {
+    "原型": "verbrennen",
+    "现在": "verbrennt",
+    "过去": "verbrannte",
+    "完成": "hat verbrannt",
+    "意思": "burn",
+    "例句": "Ich habe sogar schon gesehen, dass sich jemand an der Heizung verbrannt hat.",
+    "翻译": "我甚至已经看到有人被暖气烫伤了。"
+  },
+  {
+    "原型": "verschütten",
+    "现在": "verschüttet",
+    "过去": "verschüttete",
+    "完成": "hat verschüttet",
+    "意思": "spill",
+    "例句": "Whisky zu verschütten!",
+    "翻译": "泼掉威士忌！"
+  },
+  {
+    "原型": "zünden an",
+    "现在": "zündet an",
+    "过去": "zündete an",
+    "完成": "hat angezündet",
+    "意思": "ignite, light up",
+    "例句": "Ich bin gekommen um herauszufinden, wer und wie die Weizen angezündet hat.",
+    "翻译": "我来是为了查明是谁以及是如何点燃了小麦的。"
+  },
+  {
+    "原型": "bleiben auf",
+    "现在": "bleibt auf",
+    "过去": "blieb auf",
+    "完成": "ist aufgeblieben",
+    "意思": "stay up, stay awake",
+    "例句": "Bleibt auf der Schule und lernt was.",
+    "翻译": "留在学校里学习点东西。"
+  },
+  {
+    "原型": "reichen",
+    "现在": "reicht",
+    "过去": "reichte",
+    "完成": "hat gereicht",
+    "意思": "reach; suffice",
+    "例句": "Es reicht mir.",
+    "翻译": "够了。"
+  },
+  {
+    "原型": "sammeln",
+    "现在": "sammelt",
+    "过去": "sammelte",
+    "完成": "hat gesammelt",
+    "意思": "collect",
+    "例句": "Zuerst musste man Holz sammeln, dann das Feuer machen.",
+    "翻译": "首先必须收集木头，然后生火。"
+  },
+  {
+    "原型": "räumen weg",
+    "现在": "räumt weg",
+    "过去": "räumte weg",
+    "完成": "hat weggeräumt",
+    "意思": "clear, put away",
+    "例句": "Er hat nichts davon weggeräumt.",
+    "翻译": "他没有把那东西搬走。"
+  },
+  {
+    "原型": "renovieren",
+    "现在": "renoviert",
+    "过去": "renovierte",
+    "完成": "hat renoviert",
+    "意思": "renovate",
+    "例句": "Viele Gebäude waren auch schon renoviert.",
+    "翻译": "许多建筑物已经翻新了。"
+  },
+  {
+    "原型": "schauen um",
+    "现在": "schaut um",
+    "过去": "schaute um",
+    "完成": "hat umgeschaut",
+    "意思": "look around",
+    "例句": "Du, ich habe mich schon umgeschaut.",
+    "翻译": "你，我已经四处看了看。"
   }
 ]

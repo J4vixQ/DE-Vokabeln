@@ -1862,5 +1862,373 @@
     "意思": "satisfied; happy",
     "例句": "* Balduin seufzt zufrieden. *",
     "翻译": "巴尔杜因满意地叹了口气。"
+  },
+  {
+    "原型": "alkoholfrei",
+    "比较级": "",
+    "最高级": "",
+    "意思": "alcohol-free",
+    "例句": "-Vier Biere, und ein alkoholfreies.",
+    "翻译": "四杯啤酒，还有一杯无酒精的。"
+  },
+  {
+    "原型": "alkoholisch",
+    "比较级": "",
+    "最高级": "",
+    "意思": "alcoholic",
+    "例句": "Man kann dort in lockerer Atmosphäre ein Bier oder andere alkoholische und alkoholfreie Getränke trinken.",
+    "翻译": "在那里可以轻松地喝啤酒或其他含酒精和不含酒精的饮料。"
+  },
+  {
+    "原型": "das Baguette",
+    "比较级": "",
+    "最高级": "die Baguettes",
+    "意思": "baguette",
+    "例句": "Es ist das Baguette des Schicksals, denn dieses Jahr schlagen wir alle Vorsicht in den Wind.",
+    "翻译": "这是命运的法棍面包，因为今年我们都决定不再谨慎行事。"
+  },
+  {
+    "原型": "innovativ",
+    "比较级": "",
+    "最高级": "",
+    "意思": "innovative",
+    "例句": "Köche sollten Menschen sein, die innovativ sind.",
+    "翻译": "厨师应该是有创新精神的人。"
+  },
+  {
+    "原型": "heilig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "holy",
+    "例句": "Du musst mir hoch und heilig versprechen, dass du mein Geheimnis nicht weitersagst.",
+    "翻译": "你必须郑重地向我保证，你不會把我的秘密说出去。"
+  },
+  {
+    "原型": "unrein",
+    "比较级": "",
+    "最高级": "",
+    "意思": "unclean",
+    "例句": "Dies ist ein unreiner Ort, an dem alle den Tanz des Todes tanzen.",
+    "翻译": "这是一个不洁之地，所有人都在这里跳死亡之舞。"
+  },
+  {
+    "原型": "bitter",
+    "比较级": "bitterer",
+    "最高级": "bittersten",
+    "意思": "bitter",
+    "例句": "Das ist allerdings bitter.",
+    "翻译": "这确实很苦涩。"
+  },
+  {
+    "原型": "herzhaft",
+    "比较级": "herzhafter",
+    "最高级": "herzhaftesten",
+    "意思": "savory",
+    "例句": "Schau dir diesen herzhaften Männerschuh an.",
+    "翻译": "看看这双浓郁的男士皮鞋。"
+  },
+  {
+    "原型": "intensiv",
+    "比较级": "intensiver",
+    "最高级": "intensivsten",
+    "意思": "intense; acute",
+    "例句": "Gleichzeitig löst es ein intensives Verlangen nach Fleisch aus.",
+    "翻译": "同时引发了一种强烈的肉欲渴望。"
+  },
+  {
+    "原型": "kritisch",
+    "比较级": "kritischer",
+    "最高级": "kritischsten",
+    "意思": "critical; skeptical",
+    "例句": "Er hat einige kritische Artikel ins Netz gestellt.",
+    "翻译": "他把一些批评性的文章发布到了网上。"
+  },
+  {
+    "原型": "lieblich",
+    "比较级": "lieblicher",
+    "最高级": "lieblichsten",
+    "意思": "sweet",
+    "例句": "Die Frau möchte einen Wein trinken, der lieblich ist.",
+    "翻译": "这位女士想喝一种醇美的酒。"
+  },
+  {
+    "原型": "pikant",
+    "比较级": "pikanter",
+    "最高级": "pikantesten",
+    "意思": "spicy",
+    "例句": "Er wird sicher salzig-pikant und lecker schmecken!",
+    "翻译": "它一定会尝起来又咸又辣，非常美味！"
+  },
+  {
+    "原型": "salzig",
+    "比较级": "salziger",
+    "最高级": "salzigsten",
+    "意思": "salty",
+    "例句": "Aber die Soße ist zu salzig.",
+    "翻译": "但是酱料太咸了。"
+  },
+  {
+    "原型": "wunderbar",
+    "比较级": "wunderbarer",
+    "最高级": "wunderbarsten",
+    "意思": "wonderful",
+    "例句": "Zuerst haben wir Freundschaft geschlossen und später haben wir uns verliebt. Wir hatten eine wunderbare Zeit zusammen.",
+    "翻译": "首先我们成为了朋友，后来我们相爱了。我们一起度过了美好的时光。"
+  },
+  {
+    "原型": "flexibel",
+    "比较级": "flexibler",
+    "最高级": "flexibelsten",
+    "意思": "flexible",
+    "例句": "Heute darf man in vielen Jobs flexibler arbeiten. – Früher durfte man nur selten flexibel arbeiten.",
+    "翻译": "如今在许多工作中都可以更灵活地工作了。——以前很少有这样的灵活性。"
+  },
+  {
+    "原型": "knallig",
+    "比较级": "knalliger",
+    "最高级": "knalligsten",
+    "意思": "loud; brash",
+    "例句": "Es ist ein bisschen knallig, wenn du mich fragst.",
+    "翻译": "依我看来，这有点刺眼。"
+  },
+  {
+    "原型": "neugierig",
+    "比较级": "neugieriger",
+    "最高级": "neugierigsten",
+    "意思": "curious",
+    "例句": "Ihre Gras-Geschichte ist mir im Grunde egal... aber was mich neugierig macht, ist, warum Sie plötzlich...",
+    "翻译": "你的草坪故事我根本不在乎……但是让我好奇的是，你为什么突然……"
+  },
+  {
+    "原型": "schließlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "eventually; finally",
+    "例句": "Strafe muss sein. Schließlich hat sie einfach den Blick auf ihre spannende Weiblichkeits verbogen.",
+    "翻译": "惩罚是必要的。毕竟，她只是歪曲了自己有趣的女人身份。"
+  },
+  {
+    "原型": "selbstverständlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "obviously; naturally",
+    "例句": "Selbstverständlich.",
+    "翻译": "当然。"
+  },
+  {
+    "原型": "üblich",
+    "比较级": "üblicher",
+    "最高级": "üblichsten",
+    "意思": "usual",
+    "例句": "- Das Übliche.",
+    "翻译": "一如既往。"
+  },
+  {
+    "原型": "blind",
+    "比较级": "",
+    "最高级": "",
+    "意思": "blind",
+    "例句": "Unter den Blinden ist der Einäugige König.",
+    "翻译": "盲人国中独眼为王。"
+  },
+  {
+    "原型": "sensibel",
+    "比较级": "sensibler",
+    "最高级": "sensibelsten",
+    "意思": "sensitive",
+    "例句": "Wenn jemand nicht nett zu mir ist, dann ist mir das egal. Ich bin nicht so sensibel.",
+    "翻译": "如果有人对我不好，我无所谓。我不那么敏感。"
+  },
+  {
+    "原型": "nervig",
+    "比较级": "nerviger",
+    "最高级": "nervigsten",
+    "意思": "irritating, annoying",
+    "例句": "Es ist ein magischer Abend für Teds nervigen Freund und Dingsbums.",
+    "翻译": "这是一个神奇的夜晚，对于 Ted的那个烦人的朋友和某个东西来说。"
+  },
+  {
+    "原型": "trotzdem",
+    "比较级": "",
+    "最高级": "",
+    "意思": "still; nevertheless",
+    "例句": "Im See gibt es fast keine großen Fische. Viele sind klein, aber manche sind trotzdem sehr lecker.",
+    "翻译": "湖里几乎没有大鱼。很多鱼都很小，但有些却非常美味。"
+  },
+  {
+    "原型": "wirklich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "really",
+    "例句": "Ist das wirklich so ein großer Unterschied?",
+    "翻译": "这真的有那么大的差别吗？"
+  },
+  {
+    "原型": "ziemlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "pretty; quite; rather",
+    "例句": "Das Wetter war ziemlich schlecht.",
+    "翻译": "天气相当糟糕。"
+  },
+  {
+    "原型": "charmant",
+    "比较级": "charmanter",
+    "最高级": "charmantesten",
+    "意思": "charming",
+    "例句": "Am Anfang waren wir nur Freunde, doch du warst so charmant und schön.",
+    "翻译": "起初我们只是朋友，但你如此迷人和美丽。"
+  },
+  {
+    "原型": "ehrlich",
+    "比较级": "ehrlicher",
+    "最高级": "ehrlichsten",
+    "意思": "honest",
+    "例句": "Du bist ehrlich, zuverlässig und immer für mich da. Das ist für mich wichtiger als Geld.",
+    "翻译": "你诚实可靠，总是在我身边。这对我来说比钱更重要。"
+  },
+  {
+    "原型": "verliebt",
+    "比较级": "verliebter",
+    "最高级": "verliebtesten",
+    "意思": "in love",
+    "例句": "Nico hat sich in eine junge Syrerin verliebt.",
+    "翻译": "尼科爱上了一个年轻的叙利亚女孩。"
+  },
+  {
+    "原型": "verlobt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "engaged",
+    "例句": "Wir waren sehr lange verlobt und haben erst 1993 geheiratet.",
+    "翻译": "我们订婚很久，直到1993年才结婚。"
+  },
+  {
+    "原型": "zuverlässig",
+    "比较级": "zuverlässiger",
+    "最高级": "zuverlässigsten",
+    "意思": "reliable",
+    "例句": "Meine Familie ist ... weit weniger zuverlässig.",
+    "翻译": "我的家人……可靠程度低得多。"
+  },
+  {
+    "原型": "positiv",
+    "比较级": "positiver",
+    "最高级": "positivsten",
+    "意思": "",
+    "例句": "Sie sind erst 48 Stunden hier... und bereits positiv auf Drogen getestet worden.",
+    "翻译": "你才在这里48小时……就已经被检测出吸毒阳性了。"
+  },
+  {
+    "原型": "vergesslich",
+    "比较级": "vergesslicher",
+    "最高级": "vergesslichsten",
+    "意思": "forgetful",
+    "例句": "Also laufen die Leute seit Jahrzehnten in diesem Nebel herum, altern nicht, haben verworrene Erinnerungen, sind in einer verfluchten Stadt gefangen, die sie vergesslich macht.",
+    "翻译": "所以人们几十年来都在这种迷雾中奔跑，不会变老，有着模糊的记忆，被困在一个让他们健忘的诅咒之城。"
+  },
+  {
+    "原型": "echt",
+    "比较级": "echte",
+    "最高级": "echtesten",
+    "意思": "real",
+    "例句": "Wir haben echt Glück, dass die Mädchen sich gerade hinhocken muss, um etwas in ihrer Tasche zu suchen! Da können wir dem Mädchen endlich mal unter den Rock schauen.",
+    "翻译": "我们真的运气好，那个女孩正好蹲下来在她的包里找东西！这样我们终于可以偷偷看一眼她的裙子下面了。"
+  },
+  {
+    "原型": "kulturell",
+    "比较级": "",
+    "最高级": "",
+    "意思": "cultural",
+    "例句": "Wir leben in einem kulturellen Ghetto.",
+    "翻译": "我们生活在文化隔离区内。"
+  },
+  {
+    "原型": "unpersönlich",
+    "比较级": "unpersönlicher",
+    "最高级": "unpersönlichsten",
+    "意思": "impersonal",
+    "例句": "Hier ist alles eher unpersönlich.",
+    "翻译": "这里一切都比较缺乏个人色彩。"
+  },
+  {
+    "原型": "wahnsinnig",
+    "比较级": "wahnsinniger",
+    "最高级": "wahnsinnigsten",
+    "意思": "crazy, insane, wild",
+    "例句": "Diese Stadt macht mich wahnsinnig.",
+    "翻译": "这座城市的疯狂了我。 \n\n注：这句话的直译可能不太通顺，更自然的说法可以是“这座城市让我发狂”或者“我对这座城市感到厌烦到了极点”。如果严格按照句子结构翻译的话，应该是“这座城市使我疯狂”，但考虑到中文表达习惯，建议使用上述调整过的版本。不过根据您的要求只输出直接翻译，则为：“这座城市的疯狂了我。”或更正为标准表达：“这座城市使我发狂。”"
+  },
+  {
+    "原型": "möbliert",
+    "比较级": "",
+    "最高级": "",
+    "意思": "furnished",
+    "例句": "Das ist ein möbliertes Apartment.",
+    "翻译": "这是一套带家具的公寓。"
+  },
+  {
+    "原型": "teilweise",
+    "比较级": "",
+    "最高级": "",
+    "意思": "partially; in part",
+    "例句": "Ihre Mutter hat das Kennzeichen teilweise erkennt.",
+    "翻译": "她的母亲部分认出了车牌。"
+  },
+  {
+    "原型": "zentral",
+    "比较级": "zentraler",
+    "最高级": "zentralsten",
+    "意思": "central",
+    "例句": "Du warst ja noch nie in der Zentrale.",
+    "翻译": "你从来没有去过中央总部。"
+  },
+  {
+    "原型": "gefährlich",
+    "比较级": "gefährlicher",
+    "最高级": "gefährlichsten",
+    "意思": "dangerous",
+    "例句": "Ein Umzug ist gefährlich, weil Man sich ganz schnell verletzen kann",
+    "翻译": "搬家很危险，因为很容易受伤。"
+  },
+  {
+    "原型": "elektrisch",
+    "比较级": "",
+    "最高级": "",
+    "意思": "electric",
+    "例句": "Früher sind die Menschen früh ins Bett gegangen, weil es ohne elektrisches Licht gar nicht so lange hell im Haus war.",
+    "翻译": "以前人们早早上床睡觉，因为没有电灯，家里天黑得比较早。"
+  },
+  {
+    "原型": "hygienisch",
+    "比较级": "hygienischer",
+    "最高级": "hygienischsten",
+    "意思": "hygienic",
+    "例句": "Vor 200 Jahren gab es keine Waschmaschinen – man musste mit der Hand waschen, und das war nicht so hygienisch wie heute.",
+    "翻译": "两百年前没有洗衣机——人们必须手洗衣服，这不像今天那样卫生。"
+  },
+  {
+    "原型": "umständlich",
+    "比较级": "umständlicher",
+    "最高级": "am umständlichsten",
+    "意思": "inconvenient",
+    "例句": "Das war im Vergleich zu heute umständlich.",
+    "翻译": "相比今天来说，那时候很麻烦。"
+  },
+  {
+    "原型": "ständlich",
+    "比较级": "ständlicher",
+    "最高级": "am ständlichsten",
+    "意思": "convenient",
+    "例句": "Well, ich weiß nicht wer dafür verantwortlich ist, aber ihr müsst damit aufhören euch ständlich gegenseitig als Nuten und Schlampe zu bezeichen.",
+    "翻译": "好吧，我不知道是谁的责任，但你们必须停止互相指责对方是贱人和婊子。"
+  },
+  {
+    "原型": "komplett",
+    "比较级": "",
+    "最高级": "",
+    "意思": "complete/completely",
+    "例句": "Es hat sich wirklich viel verändert. Es sieht alles komplett anders aus.",
+    "翻译": "真的发生了很大的变化。一切都看起来完全不同了。"
   }
 ]

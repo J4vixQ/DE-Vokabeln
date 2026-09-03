@@ -23,6 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
+# Python
+__pycache__/
+*.pyc
+.venv
+
 # ignore my notes
 _A1
 _A2

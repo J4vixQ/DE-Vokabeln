@@ -1008,5 +1008,115 @@
     "意思女": "technician",
     "例句": "- Wir brauchen jetzt einen Techniker hier oben.",
     "翻译": "我们现在需要一个技术人员在这里。"
+  },
+  {
+    "单数男": "der Feinschmecker",
+    "复数男": "die Feinschmecker",
+    "意思男": "gourmet; epicure 美食家",
+    "单数女": "die Feinschmeckerin",
+    "复数女": "die Feinschmeckerinnen",
+    "意思女": "gourmet; epicure 美食家",
+    "例句": "Bitte, vier bestäubte Sphäroiden, zweimal Mondfinsternis, zorallinische Geleeraupen für den Feinschmecker.",
+    "翻译": "请给四颗授粉的球形果实，两次月食，以及佐拉利的细味凤蝶幼虫。"
+  },
+  {
+    "单数男": "der Konditor",
+    "复数男": "die Konditoren",
+    "意思男": "confectioner; pastry cook",
+    "单数女": "die Konditorin",
+    "复数女": "die Konditorinnen",
+    "意思女": "confectioner; pastry cook",
+    "例句": "Und ich glaube, mit einer angemessenen Lehrzeit, könnte er ein guter Konditor werden.",
+    "翻译": "而且我相信，经过适当的学习时间，他可以成为一个很好的糕点师。"
+  },
+  {
+    "单数男": "der Fachmann",
+    "复数男": "die Fachmänner",
+    "意思男": "specialist",
+    "单数女": "die Fachfrau",
+    "复数女": "die Fachfrauen",
+    "意思女": "specialist",
+    "例句": "Es ging um meine Kompetenz als Fachmann der Psychologie.",
+    "翻译": "这关乎我作为心理学专家的胜任能力。"
+  },
+  {
+    "单数男": "der Moderator",
+    "复数男": "die Moderatoren",
+    "意思男": "host, moderator",
+    "单数女": "die Moderatorin",
+    "复数女": "die Moderatorinnen",
+    "意思女": "host, moderator",
+    "例句": "-Ich bin der Moderator.",
+    "翻译": "我是主持人。"
+  },
+  {
+    "单数男": "das Paar",
+    "复数男": "die Paare",
+    "意思男": "pair, couple",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Wir machen zur Sicherheit noch ein paar Röntgenaufnahmen.",
+    "翻译": "我们再拍几张X光片以确保安全。"
+  },
+  {
+    "单数男": "der Partner",
+    "复数男": "die Partner",
+    "意思男": "partner",
+    "单数女": "die Partnerin",
+    "复数女": "die Partnerinnen",
+    "意思女": "partner",
+    "例句": "Dann werden ihre Partner hierherkommen.",
+    "翻译": "然后他们的伴侣会来这里。"
+  },
+  {
+    "单数男": "der beste Freund",
+    "复数男": "die besten Freunde",
+    "意思男": "best friend",
+    "单数女": "die beste Freundin",
+    "复数女": "die beste Freundinnen",
+    "意思女": "best friend",
+    "例句": "Wir sind die besten Freunde, und das schon seit ewig.",
+    "翻译": "我们是最好的朋友，而且已经很久了。"
+  },
+  {
+    "单数男": "der Ehemann",
+    "复数男": "die Ehemänner",
+    "意思男": "husband",
+    "单数女": "die Ehefrau",
+    "复数女": "die Ehefrauen",
+    "意思女": "wife",
+    "例句": "Höher als dein Ehemann.",
+    "翻译": "比你的丈夫高。"
+  },
+  {
+    "单数男": "der Traummann",
+    "复数男": "die Traummänner",
+    "意思男": "dream man",
+    "单数女": "die Traumfrau",
+    "复数女": "die Traumfrauen",
+    "意思女": "dream woman",
+    "例句": "Du bist eine Traumfrau.",
+    "翻译": "你是一个梦中女郎。"
+  },
+  {
+    "单数男": "der Helfer",
+    "复数男": "die Helfer",
+    "意思男": "assistant; helper",
+    "单数女": "die Helferin",
+    "复数女": "die Helferinnen",
+    "意思女": "assistant; helper",
+    "例句": "Es sollte kein Problem sein, sich unter die angestellten Helfer zu mischen.",
+    "翻译": "混入那些临时雇员中应该不会有问题。"
+  },
+  {
+    "单数男": "der Notarzt",
+    "复数男": "die Notärzte",
+    "意思男": "emergency doctor",
+    "单数女": "die Notärztin",
+    "复数女": "die Notärztinnen",
+    "意思女": "emergency doctor",
+    "例句": "Yara ist gestürzt. Sie glaubt, dass ihr Fuß gebrochen ist. Sie ruft den Notarzt an.",
+    "翻译": "亚拉摔倒了。她认为自己的脚骨折了。她拨打了急救电话。"
   }
 ]

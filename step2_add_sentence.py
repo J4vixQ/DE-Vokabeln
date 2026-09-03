@@ -213,38 +213,36 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
     os.replace(tmp_path, json_path)
     print(f"已完成，覆盖保存到 {json_path}")
 
-# 配置与批量调用
+# sentence_type -> (key_func, pattern_func)。build.py 的 DECKS 用字符串引用。
+SENTENCE_MATCHERS = {
+    "adj":        (adj_key,          build_adj_patterns),
+    "steigerung": (steigerung_key,   build_steigerung_patterns),
+    "noun":       (noun_key,         build_noun_pattern),
+    "person":     (person_key,       build_person_pattern),
+    "verb":       (verb_key,         build_verb_patterns),
+}
+
+
+def run(decks, opensub_folder, priority_file, mode="normal"):
+    """
+    按 build.py 的 DECKS 配置批量补例句。
+    mode: "normal" 新词填空 | "new_example" 全量重找 | "upgrade" 用 sentences.txt 升级现有例句
+    sentence_type 为空的 deck（如 phrasen）跳过。
+    """
+    for d in decks:
+        st = d.get("sentence_type")
+        if not st:
+            continue
+        key_func, pattern_func = SENTENCE_MATCHERS[st]
+        print(f"\n[{mode}] 正在处理 {d['json']}")
+        fill_examples(
+            d["json"], opensub_folder, key_func, pattern_func,
+            priority_file=priority_file,
+            new_example=(mode == "new_example"),
+            upgrade_priority=(mode == "upgrade"),
+        )
+
+
 if __name__ == "__main__":
-    configs = [
-        # adv_phrasen 和 verben_phrasen 需要手动添加
-        {"json": "public/data/adj_adv.json", "key_func": steigerung_key, "pattern_func": build_steigerung_patterns},
-        {"json": "public/data/nomen_obj.json", "key_func": noun_key, "pattern_func": build_noun_pattern},
-        {"json": "public/data/nomen_people.json", "key_func": person_key, "pattern_func": build_person_pattern},
-        {"json": "public/data/verben_base.json", "key_func": verb_key, "pattern_func": build_verb_patterns},
-    ]
-    opensub_folder  = "resource/OpenSubtitles"
-    priority_file   = "public/data/sentences.txt"
-
-    # ── 普通模式：新词填空 + sentences.txt 优先，找不到再 fallback 到 corpus ──
-    for cfg in configs:
-        print(f"\n正在处理 {cfg['json']}")
-        fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
-                      priority_file=priority_file)
-
-    # ── 全量更新模式：所有词重新从语料找例句，找不到保留原句 ──
-    # sentences.txt 优先，找不到再 fallback 到 OpenSubtitles。
-    # 例句有变化的条目会自动清空翻译，运行完后需要重新跑 step3.ipynb 补充翻译。
-    # 用法：取消下面注释，运行一次，完成后再注释回来。
-    # for cfg in configs:
-    #     print(f"\n[new_example] 正在处理 {cfg['json']}")
-    #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
-    #                   priority_file=priority_file, new_example=True)
-
-    # ── 一次性升级模式：把现有 corpus 例句替换成 sentences.txt 的高质量版本 ──
-    # 匹配到则替换+清翻译，匹配不到则原样不动，不碰 OpenSubtitles。
-    # 运行完后需要重新跑 step3.ipynb 补充翻译。
-    # 用法：取消下面注释，运行一次，完成后再注释回来。
-    # for cfg in configs:
-    #     print(f"\n[upgrade] 正在处理 {cfg['json']}")
-    #     fill_examples(cfg["json"], opensub_folder, cfg["key_func"], cfg["pattern_func"],
-    #                   priority_file=priority_file, upgrade_priority=True)
+    from build import DECKS, OPENSUB_FOLDER, SENTENCES_TXT
+    run(DECKS, OPENSUB_FOLDER, SENTENCES_TXT, mode="normal")

@@ -946,5 +946,125 @@
     "意思": "if, whether",
     "例句": "Ich weiß nicht, ob er heute kommt.",
     "翻译": "我不知道他今天是否会来。"
+  },
+  {
+    "词组": "(auf etwas/jemanden) neugierig",
+    "意思": "curious (about)",
+    "例句": "Ich bin sehr neugierig auf das Ergebnis der Prüfung.",
+    "翻译": "我非常好奇考试的结果。"
+  },
+  {
+    "词组": "ohne Kommentar",
+    "意思": "without comment",
+    "例句": "Er verließ die Pressekonferenz ohne Kommentar.",
+    "翻译": "他没有做任何评论就离开了新闻发布会。"
+  },
+  {
+    "词组": "Unter den Blinden ist der Einäugige König.",
+    "意思": "山中无老虎，猴子称霸王 / 矮子里拔将军",
+    "例句": "Er ist hier der beste Spieler, aber unter den Blinden ist der Einäugige König.",
+    "翻译": "他是这里最好的选手，不过是山中无老虎，猴子称霸王罢了。"
+  },
+  {
+    "词组": "vorher",
+    "意思": "beforehand",
+    "例句": "Wenn du kommst, ruf mich bitte vorher an.",
+    "翻译": "你来之前请先给我打个电话。"
+  },
+  {
+    "词组": "gemeinsam",
+    "意思": "together",
+    "例句": "Wir haben das Projekt gemeinsam fertig gemacht.",
+    "翻译": "我们一起完成了这个项目。"
+  },
+  {
+    "词组": "in der letzten Zeit",
+    "意思": "recently",
+    "例句": "In der letzten Zeit habe ich schlecht geschlafen.",
+    "翻译": "最近我睡眠不好。"
+  },
+  {
+    "词组": "im Voraus",
+    "意思": "in advance",
+    "例句": "Vielen Dank im Voraus für Ihre Hilfe.",
+    "翻译": "提前感谢您的帮助。"
+  },
+  {
+    "词组": "hinten",
+    "意思": "behind; at the back",
+    "例句": "Die Toiletten sind hinten links.",
+    "翻译": "洗手间在后面左边。"
+  },
+  {
+    "词组": "da hinten",
+    "意思": "over there; back there",
+    "例句": "Siehst du das Auto da hinten? Das ist meins.",
+    "翻译": "你看到后面那辆车了吗？那是我的。"
+  },
+  {
+    "词组": "jede Menge",
+    "意思": "all sorts of",
+    "例句": "Auf der Party gab es jede Menge zu essen und zu trinken.",
+    "翻译": "派对上有很多吃的和喝的。"
+  },
+  {
+    "词组": "vorne",
+    "意思": "ahead; in front",
+    "例句": "Komm nach vorne, hier ist noch ein Platz frei.",
+    "翻译": "到前面来，这里还有个空位。"
+  },
+  {
+    "词组": "da vorne",
+    "意思": "in front; up ahead",
+    "例句": "Da vorne an der Ampel musst du rechts abbiegen.",
+    "翻译": "前面红绿灯那儿你要右转。"
+  },
+  {
+    "词组": "auf dem Weg",
+    "意思": "on the way",
+    "例句": "Ich bin schon auf dem Weg und komme in zehn Minuten.",
+    "翻译": "我已经在路上了，十分钟后到。"
+  },
+  {
+    "词组": "gegen",
+    "意思": "effective against",
+    "例句": "Dieses Medikament hilft gut gegen Kopfschmerzen.",
+    "翻译": "这种药对头痛很有效。"
+  },
+  {
+    "词组": "früher",
+    "意思": "previously, in the past",
+    "例句": "Früher habe ich in einer kleinen Stadt gewohnt.",
+    "翻译": "以前我住在一个小城市里。"
+  },
+  {
+    "词组": "heutzutage",
+    "意思": "nowadays",
+    "例句": "Heutzutage kann man fast alles online kaufen.",
+    "翻译": "如今几乎什么都能在网上买到。"
+  },
+  {
+    "词组": "im Vergleich zu",
+    "意思": "compared to",
+    "例句": "Im Vergleich zu letztem Jahr ist die Miete stark gestiegen.",
+    "翻译": "与去年相比，房租涨了很多。"
+  },
+  {
+    "词组": "jahrelang",
+    "意思": "for years; many years",
+    "例句": "Sie hat jahrelang als Lehrerin gearbeitet.",
+    "翻译": "她当了很多年的老师。"
+  },
+  {
+    "词组": "sondern",
+    "意思": "rather, in contrast, in the opposite",
+    "例句": "Das ist nicht mein Auto, sondern das von meinem Bruder.",
+    "翻译": "这不是我的车，而是我哥哥的。"
+  },
+  {
+    "词组": "spätestens",
+    "意思": "at the latest; no later than",
+    "例句": "Der Bericht muss spätestens am Freitag fertig sein.",
+    "翻译": "报告最迟必须在周五完成。"
   }
 ]

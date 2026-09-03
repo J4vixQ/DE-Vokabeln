@@ -80,85 +80,20 @@ def create_json_from_excel(
           f"保存到 {json_path}")
 
 
+def run(decks, update_existing: bool = False):
+    """按 build.py 的 DECKS 配置批量把 Excel 写入 JSON。"""
+    for d in decks:
+        create_json_from_excel(
+            json_path=d["json"],
+            excel_path=d["excel"],
+            sheet_name=d["sheet"],
+            key_fields=d["key_fields"],
+            field_map=d["field_map"],
+            update_existing=update_existing,
+        )
 
 
-# Adjektive
-create_json_from_excel(
-    json_path="public/data/adj_adv.json",
-    excel_path="_A2/Adjektive.xlsx",
-    sheet_name="AdjAdv",
-    key_fields=["原型"],
-    field_map={
-        "原型": "原型",
-        "比较级": "比较级",
-        "最高级": "最高级",
-        "意思": "意思"
-    }
-)
-
-create_json_from_excel(
-    json_path="public/data/adv_phrasen.json",
-    excel_path="_A2/Adjektive.xlsx",
-    sheet_name="AdvPhrasen",
-    key_fields=["词组"],
-    field_map={
-        "词组": "单词",
-        "意思": "意思"
-    }
-)
-
-# Nomen
-create_json_from_excel(
-    json_path="public/data/nomen_obj.json",
-    excel_path="_A2/Nomen.xlsx",
-    sheet_name="Obj",
-    key_fields=["单数", "复数"],
-    field_map={
-        "单数": "单数",
-        "复数": "复数",
-        "意思": "意思"
-    }
-)
-
-create_json_from_excel(
-    json_path="public/data/nomen_people.json",
-    excel_path="_A2/Nomen.xlsx",
-    sheet_name="人",
-    key_fields=["单数男", "复数男", "单数女", "复数女"],
-    field_map={
-        "单数男": "单数男",
-        "复数男": "复数男",
-        "意思男": "意思男",
-        "单数女": "单数女",
-        "复数女": "复数女",
-        "意思女": "意思女"
-    }
-)
-
-
-# Verben
-create_json_from_excel(
-    json_path="public/data/verben_base.json",
-    excel_path="_A2/Verben.xlsx",
-    sheet_name="GrundVerben",
-    key_fields=["原型"],
-    field_map={
-        "原型": "原型",
-        "现在": "现在",
-        "过去": "过去",
-        "完成": "完成",
-        "意思": "意思"
-    }
-)
-
-create_json_from_excel(
-    json_path="public/data/verben_phrasen.json",
-    excel_path="_A2/Verben.xlsx",
-    sheet_name="VerbenPhrasen",
-    key_fields=["词组"],
-    field_map={
-        "词组": "词组",
-        "意思": "意思"
-    }
-)
+if __name__ == "__main__":
+    from build import DECKS
+    run(DECKS)
 
