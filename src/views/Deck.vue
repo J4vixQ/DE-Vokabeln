@@ -31,7 +31,7 @@ import { useRouter, useRoute } from 'vue-router'
 import VocabCard from '../components/VocabCard.vue'
 import { deckNameMap } from '../constants'
 import { generateChoices, addWrongCard, removeWrongCard } from '../utils/wrongCards'
-import { recordAnswer } from '../utils/stats'
+import { recordAnswer, recordView } from '../utils/stats'
 
 const route  = useRoute()
 const router = useRouter()
@@ -52,6 +52,8 @@ function showRandomCard() {
   currentAnswered.value = false
   if (quizMode.value) {
     currentChoices.value = generateChoices(allData.value[idx], allData.value, deckId)
+  } else {
+    recordView()
   }
 }
 
