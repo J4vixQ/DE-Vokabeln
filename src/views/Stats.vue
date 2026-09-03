@@ -20,25 +20,25 @@
     <template v-if="series.length > 0">
       <div class="stats-zoom">
         <button
-          v-for="z in zoomLevels"
-          :key="z.key"
+          v-for="z in zoomKeys"
+          :key="z"
           class="zoom-btn"
-          :class="{ active: zoom === z.key }"
-          @click="setZoom(z.key)"
-        >{{ z.key }}</button>
+          :class="{ active: zoom === z }"
+          @click="setZoom(z)"
+        >{{ z }}</button>
       </div>
 
       <div
         ref="scroller"
         class="stats-chart-scroll"
-        :class="{ grabbing: dragging }"
+        :class="{ draggable, grabbing: dragging }"
         @pointerdown="onPointerDown"
         @pointermove="onPointerMove"
         @pointerup="onPointerUp"
         @pointerleave="onPointerUp"
       >
         <svg :width="svgWidth" :height="svgHeight">
-          <g v-for="(entry, i) in series" :key="entry.date">
+          <g v-for="(entry, i) in visibleSeries" :key="entry.date">
             <title>{{ tooltip(entry) }}</title>
             <rect
               v-if="entry.correct > 0"
@@ -70,7 +70,7 @@
           </g>
         </svg>
       </div>
-      <p class="stats-hint">← ziehen zum Verschieben</p>
+      <p v-if="draggable" class="stats-hint">← ziehen zum Verschieben</p>
     </template>
 
     <div v-else class="review-status">No data yet</div>
@@ -78,7 +78,7 @@
 </template>
 
 <script setup>
-import { computed, nextTick, onMounted, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { dailySeries } from '../utils/stats'
 
@@ -88,39 +88,49 @@ const chartH = 160
 const labelH = 44
 const svgHeight = chartH + labelH
 
-const zoomLevels = [
-  { key: '2W', step: 32 },
-  { key: '1M', step: 18 },
-  { key: '3M', step: 9 },
-  { key: 'Alle', step: 4 },
-]
+// 每个视图渲染多少天（Alle = 全部历史）
+const WINDOWS = { '1W': 7, '1M': 30, 'Alle': Infinity }
+const zoomKeys = Object.keys(WINDOWS)
 
 const series = dailySeries()
 
 const todayStr = new Date().toISOString().slice(0, 10)
 const todayEntry = series.find(e => e.date === todayStr) || { correct: 0, wrong: 0, view: 0 }
 
-const maxTotal = Math.max(
-  ...series.map(e => e.correct + e.wrong + e.view),
-  1,
+const zoom = ref('1W')
+
+// 容器宽度（响应式）→ 决定 bar 宽度
+const scroller = ref(null)
+const wrapW = ref(320)
+let ro = null
+
+const visibleSeries = computed(() => {
+  const n = WINDOWS[zoom.value]
+  return n === Infinity ? series : series.slice(-n)
+})
+
+// 1M 和 Alle 用同一个 bar 宽度（按 30 天铺满容器）；1W 按 7 天铺满
+const barStep = computed(() => {
+  const perView = zoom.value === '1W' ? 7 : 30
+  return wrapW.value / perView
+})
+const gap = computed(() => Math.max(1, Math.round(barStep.value * 0.28)))
+const barW = computed(() => Math.max(1, barStep.value - gap.value))
+const labelEvery = computed(() => Math.max(1, Math.round(52 / barStep.value)))
+
+// 只有 Alle 会超出容器 → 可拖动
+const draggable = computed(() => zoom.value === 'Alle' && series.length > 30)
+const svgWidth = computed(() =>
+  draggable.value ? visibleSeries.value.length * barStep.value : wrapW.value,
 )
 
-function pickDefaultZoom(len) {
-  if (len <= 18) return '2W'
-  if (len <= 40) return '1M'
-  if (len <= 110) return '3M'
-  return 'Alle'
-}
-const zoom = ref(pickDefaultZoom(series.length))
-
-const barStep = computed(() => zoomLevels.find(z => z.key === zoom.value).step)
-const gap = computed(() => Math.max(2, Math.round(barStep.value * 0.28)))
-const barW = computed(() => Math.max(1, barStep.value - gap.value))
-const labelEvery = computed(() => Math.max(1, Math.round(56 / barStep.value)))
-const svgWidth = computed(() => Math.max(series.length * barStep.value + gap.value, 100))
+const maxTotal = computed(() => Math.max(
+  ...visibleSeries.value.map(e => e.correct + e.wrong + e.view),
+  1,
+))
 
 function barX(i) { return i * barStep.value + gap.value / 2 }
-function h(v) { return (v / maxTotal) * chartH }
+function h(v) { return (v / maxTotal.value) * chartH }
 
 function tooltip(e) {
   return `${e.date}  ✓${e.correct} ✗${e.wrong} 👁${e.view}`
@@ -129,28 +139,35 @@ function formatDate(d) {
   return d.slice(5).replace('-', '/')
 }
 
-// ── 缩放 / 拖动 ──────────────────────────────
-const scroller = ref(null)
-
 function scrollToToday() {
   nextTick(() => {
     const el = scroller.value
     if (el) el.scrollLeft = el.scrollWidth
   })
 }
-
 function setZoom(key) {
   zoom.value = key
 }
 watch(zoom, scrollToToday)
-onMounted(scrollToToday)
 
+onMounted(() => {
+  const el = scroller.value
+  if (el) {
+    wrapW.value = el.clientWidth
+    ro = new ResizeObserver(() => { wrapW.value = el.clientWidth })
+    ro.observe(el)
+  }
+  scrollToToday()
+})
+onBeforeUnmount(() => ro && ro.disconnect())
+
+// ── 拖动（仅 Alle，仅鼠标；触屏用原生横向滚动）──
 const dragging = ref(false)
 let startX = 0
 let startScroll = 0
 
 function onPointerDown(e) {
-  if (e.pointerType !== 'mouse') return  // 触屏用原生横向滚动
+  if (!draggable.value || e.pointerType !== 'mouse') return
   dragging.value = true
   startX = e.clientX
   startScroll = scroller.value.scrollLeft
@@ -220,8 +237,11 @@ function goHome() { router.push('/') }
 }
 
 .stats-chart-scroll {
-  overflow-x: auto;
+  overflow-x: hidden;
   padding-bottom: 0.5rem;
+}
+.stats-chart-scroll.draggable {
+  overflow-x: auto;
   cursor: grab;
   touch-action: pan-x;
 }
