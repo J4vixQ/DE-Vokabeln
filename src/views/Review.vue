@@ -42,6 +42,7 @@ import {
   loadWrongCards, removeWrongCard, generateChoices
 } from '../utils/wrongCards'
 import { recordAnswer } from '../utils/stats'
+import { recordResult } from '../utils/cardScores'
 
 const router = useRouter()
 
@@ -79,6 +80,7 @@ function updateChoices() {
 function handleAnswer(isCorrect) {
   answeredCurrent.value = isCorrect
   recordAnswer(isCorrect)
+  recordResult(currentCard.value.deck, currentCard.value.data, isCorrect)
   if (isCorrect) {
     removeWrongCard(currentCard.value.deck, currentCard.value.data)
   }

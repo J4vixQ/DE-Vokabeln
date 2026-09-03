@@ -24,12 +24,16 @@
   - Nomen – Objekte / Personen
   - Verben – Grundformen / Redewendungen
   - Adjektive – Allgemein / Steigerung
-- Random card display
-- Automatic dark mode
-- Responsive layout for mobile and desktop
-- Colored underline for grammatical gender
-- example sentences from hand-picked notes, with OpenSubtitles v.2024 as fallback
+- Two study modes: flip-only, or Quiz-Modus (multiple choice)
+- Weighted random cards — words you get wrong or haven't seen show up more often (familiarity level per card)
+- Review page: a queue of the words you answered wrong
+- Stats page: green / red / grey stacked bars (correct / wrong / just-viewed) per day
+- Automatic dark mode, responsive, colored underline for grammatical gender
+- Example sentences from hand-picked notes, with OpenSubtitles v.2024 as fallback
 - Chinese translation of example sentences via a local LLM (Ollama)
+
+All progress (wrong list, familiarity, daily stats, mode) is stored in the browser's
+localStorage — per device, nothing synced. Internal details in [CLAUDE.md](CLAUDE.md).
 
 
 

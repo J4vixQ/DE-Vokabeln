@@ -32,6 +32,7 @@ import VocabCard from '../components/VocabCard.vue'
 import { deckNameMap } from '../constants'
 import { generateChoices, addWrongCard, removeWrongCard } from '../utils/wrongCards'
 import { recordAnswer, recordView } from '../utils/stats'
+import { pickWeightedIndex, recordResult, recordCardView } from '../utils/cardScores'
 
 const route  = useRoute()
 const router = useRouter()
@@ -47,19 +48,22 @@ const quizMode       = ref(localStorage.getItem('quizMode') === 'true')
 
 function showRandomCard() {
   if (!allData.value.length) return
-  const idx = Math.floor(Math.random() * allData.value.length)
-  currentCards.value   = [allData.value[idx]]
+  const idx = pickWeightedIndex(allData.value, deckId)
+  const card = allData.value[idx]
+  currentCards.value   = [card]
   currentAnswered.value = false
   if (quizMode.value) {
-    currentChoices.value = generateChoices(allData.value[idx], allData.value, deckId)
+    currentChoices.value = generateChoices(card, allData.value, deckId)
   } else {
     recordView()
+    recordCardView(deckId, card)
   }
 }
 
 function handleAnswer(isCorrect) {
   currentAnswered.value = true
   recordAnswer(isCorrect)
+  recordResult(deckId, currentCards.value[0], isCorrect)
   if (!isCorrect) {
     addWrongCard(deckId, currentCards.value[0])
   } else {
