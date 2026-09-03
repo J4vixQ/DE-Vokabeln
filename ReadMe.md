@@ -46,6 +46,11 @@ npm run dev
 ```
 
 ### Build and Deploy
+
+Every push to `main` is built and published to GitHub Pages automatically by
+`.github/workflows/deploy.yml` (one-time setup: repo **Settings → Pages → Source → GitHub Actions**).
+
+Manual deploy (fallback, publishes to the `gh-pages` branch):
 ```bash
 npm run build
 npm run deploy
