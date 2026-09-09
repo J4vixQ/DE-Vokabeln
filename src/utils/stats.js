@@ -29,6 +29,10 @@ export function recordAnswer(isCorrect) {
   bump(isCorrect ? 'correct' : 'wrong')
 }
 
+export function clearStats() {
+  localStorage.removeItem(STATS_KEY)
+}
+
 // 非答题模式下每看一张卡记一次
 export function recordView() {
   bump('view')

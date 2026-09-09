@@ -14,11 +14,12 @@ python build.py   # regenerate public/data/*.json from notes — see README "Upd
 
 ## Frontend layout
 
-- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/deck/:deckId`, `/review`, `/stats`.
-- `src/views/Home.vue` — deck menu + Quiz-Modus toggle.
+- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/deck/:deckId`, `/review`, `/stats`, `/data`.
+- `src/views/Home.vue` — deck menu + Quiz-Modus toggle; top-left icon links to `/stats` (bar chart) and `/data` (gear).
 - `src/views/Deck.vue` — one random card at a time from a deck. Quiz mode shows multiple-choice; non-quiz just flips.
 - `src/views/Review.vue` — queue of wrong cards, always quiz mode. Wrong → back of queue, right → removed.
 - `src/views/Stats.vue` — stacked bar chart (green correct / red wrong / grey viewed) over a continuous day axis; 1W / 1M / Alle zoom.
+- `src/views/Data.vue` — clears localStorage per category (familiarity / wrong list / daily stats) or all at once; each util owns a `clear*`/`reset*` export.
 - `src/components/VocabCard.vue` — renders a card; branches on `deck` for per-type fields.
 - `src/utils/` — `wrongCards.js` (wrong list + `getCardKey` + choice generation), `stats.js` (daily bar data), `cardScores.js` (familiarity weighting).
 

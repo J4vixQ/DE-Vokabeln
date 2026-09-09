@@ -33,7 +33,8 @@
 - Chinese translation of example sentences via a local LLM (Ollama)
 
 All progress (wrong list, familiarity, daily stats, mode) is stored in the browser's
-localStorage — per device, nothing synced. Internal details in [CLAUDE.md](CLAUDE.md).
+localStorage — per device, nothing synced. The **Daten** page clears any of it
+(per category or all at once). Internal details in [CLAUDE.md](CLAUDE.md).
 
 
 

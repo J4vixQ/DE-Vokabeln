@@ -2230,5 +2230,149 @@
     "意思": "complete/completely",
     "例句": "Es hat sich wirklich viel verändert. Es sieht alles komplett anders aus.",
     "翻译": "真的发生了很大的变化。一切都看起来完全不同了。"
+  },
+  {
+    "原型": "gleichberechtigt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "equal",
+    "例句": "Erst danach werden wir zum ersten Mal als Freunde gleichberechtigt sein.",
+    "翻译": "只有在那之后，我们才能第一次作为平等的朋友。"
+  },
+  {
+    "原型": "selbstständig",
+    "比较级": "selbstständiger",
+    "最高级": "selbstständigsten",
+    "意思": "independent (self-sufficient)",
+    "例句": "Ich mache mich selbstständig.",
+    "翻译": "我开始自主创业。"
+  },
+  {
+    "原型": "traditionell",
+    "比较级": "traditioneller",
+    "最高级": "traditionellsten",
+    "意思": "traditional",
+    "例句": "Ich verstand kein Wort, aber es erinnerte mich daran, dass meine Familie chinesisches Essen bestellt, wenn sie zu unserer traditionellen",
+    "翻译": "我一个字也没听懂，但这让我想起了每逢我们传统节日时，我的家人会订购中式饭菜。"
+  },
+  {
+    "原型": "berühmt",
+    "比较级": "berühmter",
+    "最高级": "berühmtesten",
+    "意思": "famous",
+    "例句": "Sie gehörte einmal Joseph Dunninger, dem berühmten Mentalisten.",
+    "翻译": "它曾经属于著名的读心术师约瑟夫·邓宁格。"
+  },
+  {
+    "原型": "verboten",
+    "比较级": "",
+    "最高级": "",
+    "意思": "forbidden",
+    "例句": "Leena sagt, Mrs. F. hat Ihnen verboten, nach MacPherson zu suchen.",
+    "翻译": "莉娜说，弗女士禁止您去寻找麦弗森。"
+  },
+  {
+    "原型": "böse",
+    "比较级": "böser",
+    "最高级": "bösesten",
+    "意思": "bad, nasty",
+    "例句": "Hör mal, da war etwas auf seinem Rücken, Artie, irgendein... böses, metallisches Hummer-ähnliches Ding, und jetzt ist es weg.",
+    "翻译": "听着，他的背上有什么东西，阿蒂，某种……邪恶的、金属的、像龙虾一样的东西，现在不见了。"
+  },
+  {
+    "原型": "kaum",
+    "比较级": "",
+    "最高级": "",
+    "意思": "hardly",
+    "例句": "Das Kreuz mit den \"Fans\" kaum jemand nacktes da, kommen sie alle knipsen. Ganz vorne bestimmt die Japaner, oder?",
+    "翻译": "带着“粉丝”几乎没人裸体的观念，他们全都来拍照。最前面肯定是日本人吧？"
+  },
+  {
+    "原型": "belastbar",
+    "比较级": "belastbarer",
+    "最高级": "belastbarsten",
+    "意思": "resilient, robust",
+    "例句": "Der Arm ist erst wieder in etwa vier Wochen voll belastbar.",
+    "翻译": "胳膊大约四个星期后才能完全承受重量。"
+  },
+  {
+    "原型": "motiviert",
+    "比较级": "motivierter",
+    "最高级": "motiviertesten",
+    "意思": "motivated",
+    "例句": "Der is motiviert!",
+    "翻译": "他很受激励！"
+  },
+  {
+    "原型": "nötig",
+    "比较级": "nötiger",
+    "最高级": "am nötigsten",
+    "意思": "necessary; critical",
+    "例句": "Ihr könnt auch eure Hobbys in den Lebenslauf schreiben, aber das ist nicht unbedingt nötig.",
+    "翻译": "你们也可以在简历中写上自己的业余爱好，但这并不是必要的。"
+  },
+  {
+    "原型": "teamfähig",
+    "比较级": "teamfähiger",
+    "最高级": "teamfähigsten",
+    "意思": "team-minded",
+    "例句": "Ich dachte halt damals noch, dass du nicht teamfähig bist.",
+    "翻译": "我当时还觉得你不会团队合作。"
+  },
+  {
+    "原型": "dringend",
+    "比较级": "dringender",
+    "最高级": "dringendsten",
+    "意思": "urgent",
+    "例句": "Nicht dringend.",
+    "翻译": "不急。"
+  },
+  {
+    "原型": "höflich",
+    "比较级": "höflicher",
+    "最高级": "höflichsten",
+    "意思": "polite",
+    "例句": "Bitten Sie mich höflich darum!",
+    "翻译": "请您礼貌地请求我！"
+  },
+  {
+    "原型": "persönlich",
+    "比较级": "persönlicher",
+    "最高级": "persönlichsten",
+    "意思": "personally",
+    "例句": "Ich persönlich findes es nicht so toll, habe da viel schönere, aber es ist halt das einzige auf dem man sieht das sie kein Höschen trägt.",
+    "翻译": "我个人并不觉得很好，但我看到的是她唯一没有穿内裤的。"
+  },
+  {
+    "原型": "aktuell",
+    "比较级": "aktueller",
+    "最高级": "aktuellsten",
+    "意思": "actual, current",
+    "例句": "Morgen, 17 Uhr, liegt die aktuelle Setlist auf meinem Schreibtisch.",
+    "翻译": "明天下午五点，最新的曲目列表会放在我的桌子上。"
+  },
+  {
+    "原型": "befristet",
+    "比较级": "",
+    "最高级": "",
+    "意思": "temporary; limited",
+    "例句": "- Dr. Webber gab ihr eine befristete Stelle,",
+    "翻译": "韦伯博士给了她一个有限期的职位。"
+  },
+  {
+    "原型": "katholisch",
+    "比较级": "",
+    "最高级": "",
+    "意思": "Catholic",
+    "例句": "Klassische Komponente der katholischen Schuluniform.",
+    "翻译": "天主教学校制服的经典组成部分。"
+  },
+  {
+    "原型": "selbstbewusst",
+    "比较级": "selbstbewusster",
+    "最高级": "selbstbewusstesten",
+    "意思": "confident; self-confident",
+    "例句": "Peggy, Bräute sind sehr selbstbewusst.",
+    "翻译": "佩吉，新娘们非常自信。"
   }
 ]

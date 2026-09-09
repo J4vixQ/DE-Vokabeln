@@ -1118,5 +1118,135 @@
     "意思女": "emergency doctor",
     "例句": "Yara ist gestürzt. Sie glaubt, dass ihr Fuß gebrochen ist. Sie ruft den Notarzt an.",
     "翻译": "亚拉摔倒了。她认为自己的脚骨折了。她拨打了急救电话。"
+  },
+  {
+    "单数男": "der Direktor",
+    "复数男": "die Direktoren",
+    "意思男": "director",
+    "单数女": "die Direktorin",
+    "复数女": "die Direktorinnen",
+    "意思女": "director",
+    "例句": "Dein Direktor rief an.",
+    "翻译": "你的主任打了电话。"
+  },
+  {
+    "单数男": "der Tänzer",
+    "复数男": "die Tänzer",
+    "意思男": "dancer",
+    "单数女": "die Tänzerin",
+    "复数女": "die Tänzerinnen",
+    "意思女": "dancer",
+    "例句": "Er ist ein mieser Tänzer, aber ein toller Wissenschaftler.",
+    "翻译": "他是个糟糕的舞者，但是一位出色的科学家。"
+  },
+  {
+    "单数男": "der Angestellte",
+    "复数男": "die Angestellten",
+    "意思男": "employee",
+    "单数女": "die Angestellte",
+    "复数女": "die Angestellten",
+    "意思女": "employee",
+    "例句": "Sind unter den Besuchern keine Verdächtigen, muss es einer der Angestellten hier sein.",
+    "翻译": "如果访客中没有可疑的人，那一定是这里的员工之一。"
+  },
+  {
+    "单数男": "der Dolmetscher",
+    "复数男": "die Dolmetscher",
+    "意思男": "translator",
+    "单数女": "die Dolmetscherin",
+    "复数女": "die Dolmetscherinnen",
+    "意思女": "translator",
+    "例句": "Tja, ich spiel nicht die Dolmetscherin für Gary, nur weil er seine Brille verloren hat.",
+    "翻译": "好吧，我不会因为加里丢了眼镜就给他当翻译。"
+  },
+  {
+    "单数男": "der Geschäftsführer",
+    "复数男": "die Geschäftsführer",
+    "意思男": "manager",
+    "单数女": "die Geschäftsführerin",
+    "复数女": "die Geschäftsführerinnen",
+    "意思女": "manager",
+    "例句": "Unsere Eltern wollten einen Arzt, Anwalt oder Geschäftsführer in der Familie haben.",
+    "翻译": "我们的父母希望家里有人能成为一名医生、律师或者企业经理。"
+  },
+  {
+    "单数男": "der Journalist",
+    "复数男": "die Journalisten",
+    "意思男": "journalist",
+    "单数女": "die Journalistin",
+    "复数女": "die Journalistinnen",
+    "意思女": "journalist",
+    "例句": "Helene kommuniziert gerne mit Menschen. Journalistin war schon immer ihre Traumberuf.",
+    "翻译": "海伦喜欢与人交流。当记者一直是她的梦想职业。"
+  },
+  {
+    "单数男": "der Arbeitgeber",
+    "复数男": "die Arbeitgeber",
+    "意思男": "employer",
+    "单数女": "die Arbeitgeberin",
+    "复数女": "die Arbeitgeberinnen",
+    "意思女": "employer",
+    "例句": "Du musst einem Arbeitgeber nichts mehr offenlegen.",
+    "翻译": "你不必再向雇主透露什么了。"
+  },
+  {
+    "单数男": "der Berufsanfänger",
+    "复数男": "die Berufsanfänger",
+    "意思男": "entry-level employee",
+    "单数女": "die Berufsanfängerin",
+    "复数女": "die Berufsanfängerinnen",
+    "意思女": "entry-level employee",
+    "例句": "Berufsanfänger haben es nicht leicht, weil Arbeitgeber oft Leute mit Berufserfahrung suchen.",
+    "翻译": "刚入职场的人不容易，因为雇主往往寻求有经验的人。"
+  },
+  {
+    "单数男": "die Vollzeitkraft",
+    "复数男": "die Vollzeitkräfte",
+    "意思男": "full-time employee",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Weniger Vollzeitkräfte einstellen und mehr Vertragsstellen schaffen.",
+    "翻译": "减少全职员工的聘用，增加合同工的数量。"
+  },
+  {
+    "单数男": "der Hausmeister",
+    "复数男": "die Hausmeister",
+    "意思男": "caretaker, janitor",
+    "单数女": "die Hausmeisterin",
+    "复数女": "die Hausmeisterinnen",
+    "意思女": "caretaker, janitor",
+    "例句": "Der Hausmeister ist heut besonders witzig.",
+    "翻译": "今天的管理员特别有趣。"
+  },
+  {
+    "单数男": "der Arbeitnehmer",
+    "复数男": "die Arbeitnehmer",
+    "意思男": "employee",
+    "单数女": "die Arbeitnehmerin",
+    "复数女": "die Arbeitnehmerinnen",
+    "意思女": "employee",
+    "例句": "Das Nettogehalt ist das Geld, das der Arbeitnehmer am Ende wirklich bekommt.",
+    "翻译": "净收入是雇员最终真正拿到手的钱。"
+  },
+  {
+    "单数男": "der Bewerber",
+    "复数男": "die Bewerber",
+    "意思男": "applicant",
+    "单数女": "die Bewerberin",
+    "复数女": "die Bewerberinnen",
+    "意思女": "applicant",
+    "例句": "Gute Bewerber will man oft schnell zu einem Vorstellungsgespräch einladen.",
+    "翻译": "优秀的应聘者往往会被迅速邀请参加面试。"
+  },
+  {
+    "单数男": "der Personalchef",
+    "复数男": "die Personalchefs",
+    "意思男": "head of personnel",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Ein Personalchef bekommt oft tausend Antworten auf eine Stellenanzeige.",
+    "翻译": "人事经理常常会收到一千份对于一个职位的申请答复。"
   }
 ]

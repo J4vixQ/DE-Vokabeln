@@ -2461,7 +2461,7 @@
     "现在": "schließt ab",
     "过去": "schloss ab",
     "完成": "hat abgeschlossen",
-    "意思": "lock up",
+    "意思": "complete, lock up",
     "例句": "-Fall abgeschlossen.",
     "翻译": "案件结案。"
   },
@@ -3208,7 +3208,7 @@
     "现在": "stellt vor",
     "过去": "stellte vor",
     "完成": "hat vorgestellt",
-    "意思": "imagine",
+    "意思": "imagine, introduce",
     "例句": "In meinen wildesten Träumen hätte ich mir das nie vorgestellt, und du weißt, wie wild die werden können.",
     "翻译": "在我的最疯狂的梦里我也从未想象过这样的事，你知道我的梦想能有多疯狂。"
   },
@@ -3904,5 +3904,212 @@
     "意思": "look around",
     "例句": "Du, ich habe mich schon umgeschaut.",
     "翻译": "你，我已经四处看了看。"
+  },
+  {
+    "原型": "erwarten",
+    "现在": "erwartet",
+    "过去": "erwartete",
+    "完成": "hat erwartet",
+    "意思": "expect",
+    "例句": "Meine Familie erwartet von mir, dass ich unsere Tradition respektiere.",
+    "翻译": "我的家人期望我尊重我们的传统。"
+  },
+  {
+    "原型": "versorgen",
+    "现在": "versorgt",
+    "过去": "versorgte",
+    "完成": "hat versorgt",
+    "意思": "take care of, look after",
+    "例句": "Versorgen in deinem Heimatland meistens die Männer oder die Frauen die Kinder?",
+    "翻译": "在你的祖国通常是男人还是女人照顾孩子？"
+  },
+  {
+    "原型": "respektieren",
+    "现在": "respektiert",
+    "过去": "respektierte",
+    "完成": "hat respektiert",
+    "意思": "respect",
+    "例句": "Geschätzt und respektiert.",
+    "翻译": "受尊敬和重视。"
+  },
+  {
+    "原型": "kommen zurecht",
+    "现在": "kommt zurecht",
+    "过去": "kam zurecht",
+    "完成": "ist zurechtgekommen",
+    "意思": "can handle, adapt, fit, get the hang of it",
+    "例句": "Sind Sie wirklich sicher, Sie kommen zurecht, Madam?",
+    "翻译": "夫人，您真的确定自己没问题吗？"
+  },
+  {
+    "原型": "entdecken",
+    "现在": "entdeckt",
+    "过去": "entdeckte",
+    "完成": "hat entdeckt",
+    "意思": "discover, explore",
+    "例句": "Was entdeckten Sie sonst noch in Mr. Warrens Firma?",
+    "翻译": "您在沃伦先生的公司里还发现了什么其他的东西？"
+  },
+  {
+    "原型": "malen",
+    "现在": "malt",
+    "过去": "malte",
+    "完成": "hat gemalt",
+    "意思": "paint",
+    "例句": "Konntest du früher schon so gut malen?",
+    "翻译": "你以前就能画这么好吗？"
+  },
+  {
+    "原型": "motivieren",
+    "现在": "motiviert",
+    "过去": "motivierte",
+    "完成": "hat motiviert",
+    "意思": "motivate",
+    "例句": "Was waren die Gründe, die mich motivierten?",
+    "翻译": "是什么原因激励了我？"
+  },
+  {
+    "原型": "starten",
+    "现在": "startet",
+    "过去": "startete",
+    "完成": "hat gestartet",
+    "意思": "start",
+    "例句": "Sie hätten die Blutung wieder starten können, indem Sie das Pflaster abnahmen.",
+    "翻译": "他们本可以通过取下创可贴来重新引起出血。"
+  },
+  {
+    "原型": "probieren aus",
+    "现在": "probiert aus",
+    "过去": "probierte aus",
+    "完成": "hat ausprobiert",
+    "意思": "try out",
+    "例句": "- Ob ich das zuvor ausprobiert habe?",
+    "翻译": "我之前试过这个吗？"
+  },
+  {
+    "原型": "entstehen",
+    "现在": "entsteht",
+    "过去": "enstand",
+    "完成": "ist entstanden",
+    "意思": "occur; form",
+    "例句": "Vertrauen entsteht nicht von heute auf morgen.",
+    "翻译": "信任不会一夜之间建立起来。"
+  },
+  {
+    "原型": "entwickeln",
+    "现在": "entwickelt",
+    "过去": "entwickelte",
+    "完成": "hat entwickelt",
+    "意思": "develop",
+    "例句": "Wir entwickeln Apps und im Prinzip alles, was digital ist.",
+    "翻译": "我们开发应用程序以及一切数字化的东西。"
+  },
+  {
+    "原型": "bewerben",
+    "现在": "bewirbt",
+    "过去": "bewarb",
+    "完成": "hat beworben",
+    "意思": "apply",
+    "例句": "Ich würde mich gerne um diese Stelle bewerben, kann aber nur in Teilzeit arbeiten.",
+    "翻译": "我非常想申请这个职位，但只能做兼职工作。"
+  },
+  {
+    "原型": "bieten",
+    "现在": "bietet",
+    "过去": "bot",
+    "完成": "hat geboten",
+    "意思": "offer, provide",
+    "例句": "ich denke, sie hat ohne oberteil auch einiges zu bieten.",
+    "翻译": "我认为她没有穿衬衫上衣也挺有魅力的。"
+  },
+  {
+    "原型": "spezialisieren",
+    "现在": "spezialisiert",
+    "过去": "spezialisierte",
+    "完成": "hat spezialisiert",
+    "意思": "specialize",
+    "例句": "In der Ausbildung oder im Studium spezialisiert man dann seine Kenntnisse.",
+    "翻译": "在教育或学习过程中，人们会进一步深化和专门化他们的知识。"
+  },
+  {
+    "原型": "laufen ab",
+    "现在": "läuft ab",
+    "过去": "lief ab",
+    "完成": "ist abgelaufen",
+    "意思": "expire",
+    "例句": "Abgelaufene, abgelehnte, patentierte Medikamente und Arzneimittel, die sowieso für den Müll waren, die er aber mit Gewinn hätte verkaufen können.",
+    "翻译": "已经过期、被拒绝的和已获得专利但本应丢弃的药物，他却能够从中获利出售。"
+  },
+  {
+    "原型": "richten aus",
+    "现在": "richtet aus",
+    "过去": "richtete aus",
+    "完成": "hat ausgerichtet",
+    "意思": "align, calibrate",
+    "例句": "- ... nach Norden ausgerichtet.",
+    "翻译": "面向北方。"
+  },
+  {
+    "原型": "beobachten",
+    "现在": "beobachtet",
+    "过去": "beobachtete",
+    "完成": "hat beobachtet",
+    "意思": "observe",
+    "例句": "Darum beobachtete ich seinen Club.",
+    "翻译": "因此我观察了他的俱乐部。"
+  },
+  {
+    "原型": "betonen",
+    "现在": "betont",
+    "过去": "betonte",
+    "完成": "hat betont",
+    "意思": "emphasize",
+    "例句": "Der Unfall, wie er betont, war ein Unfall.",
+    "翻译": "他强调，事故确实是一起事故。"
+  },
+  {
+    "原型": "hinterlassen",
+    "现在": "hinterlässt",
+    "过去": "hinterließ",
+    "完成": "hat hinterlassen",
+    "意思": "leave behind",
+    "例句": "Abgesehen von den latenten Fingerabdrücken die der Angeklagte hinterlassen hat, haben Sie in der Wohnung noch etwas gefunden, Lieutenant?",
+    "翻译": "除了被告留下的潜伏指纹之外，你在公寓里还发现了其他东西吗，警官？"
+  },
+  {
+    "原型": "nennen",
+    "现在": "nennt",
+    "过去": "nannte",
+    "完成": "hat genannt",
+    "意思": "name, call",
+    "例句": "Die Ansässigen nennen es das ausgebrannte Land!",
+    "翻译": "当地人称它为焦土！"
+  },
+  {
+    "原型": "unterbrechen",
+    "现在": "unterbricht",
+    "过去": "unterbrach",
+    "完成": "hat unterbrochen",
+    "意思": "interrupt",
+    "例句": "Wir können kurz unterbrechen, Mr. Mason.",
+    "翻译": "我们可以暂时暂停一下，梅森先生。"
+  },
+  {
+    "原型": "rufen zurück",
+    "现在": "ruft zurück",
+    "过去": "rief zurück",
+    "完成": "hat zurückgerufen",
+    "意思": "call back",
+    "例句": "Da keiner die Aussage von Mr. Arcott bestätigt, wird Mr. Balfour zurückgerufen.",
+    "翻译": "由于没有人能证实阿科特先生的陈述，巴尔福先生被传回来了。"
+  },
+  {
+    "原型": "stellen ein",
+    "现在": "stellt ein",
+    "过去": "stellte ein",
+    "完成": "hat eingestellt",
+    "意思": "hire",
+    "例句": "Sie wurde eingestellt als Teddybär.",
+    "翻译": "她被雇用为泰迪熊。"
   }
 ]

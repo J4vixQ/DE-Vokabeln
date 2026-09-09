@@ -17,6 +17,15 @@ export function getLevel(deck, data) {
   return load()[getCardKey(deck, data)] || 0
 }
 
+// 已评分的卡片数
+export function scoredCount() {
+  return Object.keys(load()).length
+}
+
+export function resetScores() {
+  localStorage.removeItem(KEY)
+}
+
 function setLevel(deck, data, level) {
   const obj = load()
   const clamped = Math.max(0, Math.min(MAX, level))

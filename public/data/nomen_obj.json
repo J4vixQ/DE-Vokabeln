@@ -7229,5 +7229,439 @@
     "意思": "carriage",
     "例句": "Konnte die zweite Kutsche noch durchfahren?",
     "翻译": "第二辆马车还能通过吗？"
+  },
+  {
+    "单数": "die Gleichberechtigung",
+    "复数": "",
+    "意思": "equality",
+    "例句": "Viele Menschen glaubten zunächst, dass die Gleichberechtigung totaler Unsinn ist.",
+    "翻译": "许多人最初认为平等是完全荒谬的。"
+  },
+  {
+    "单数": "das Grundgesetz",
+    "复数": "",
+    "意思": "constitution; basic law",
+    "例句": "Seit 1949 steht im deutschen Grundgesetz, dass Frauen und Männer die gleichen Rechte und Pflichten haben.",
+    "翻译": "自1949年以来，德国基本法规定男女享有同等的权利和义务。"
+  },
+  {
+    "单数": "die Pflicht",
+    "复数": "die Pflichten",
+    "意思": "obligation",
+    "例句": "Männer und Frauen haben andere Pflichten.",
+    "翻译": "男人和女人有不同的责任。"
+  },
+  {
+    "单数": "das Recht",
+    "复数": "die Rechte",
+    "意思": "right",
+    "例句": "Gehen Sie durch die rechte Tür.",
+    "翻译": "走右边的门。"
+  },
+  {
+    "单数": "die Rolle",
+    "复数": "die Rollen",
+    "意思": "role",
+    "例句": "Sie strecken den Rüssel aus, rollen ihn zu einer kleinen Faust zusammen, berühren den Boden vor sich und setzen dann den Fuß genau dorthin, wo der Rüssel war, um den Boden zu testen.",
+    "翻译": "它们伸出鼻子，卷成一个小拳头的样子，触碰前方的地面，然后把脚精确地放在刚才鼻子所在的位置上以测试地面。"
+  },
+  {
+    "单数": "der Unsinn",
+    "复数": "",
+    "意思": "nonsense",
+    "例句": "Unsinn.",
+    "翻译": "nonsense. 或者根据上下文可以翻译为： 无稽之谈。"
+  },
+  {
+    "单数": "das Ballett",
+    "复数": "",
+    "意思": "ballet",
+    "例句": "Echt, Ballett oder Hip-Hop?",
+    "翻译": "真的，芭蕾还是嘻哈？"
+  },
+  {
+    "单数": "die Begeisterung",
+    "复数": "",
+    "意思": "enthusiasm",
+    "例句": "Die Begeisterung ist riesig.",
+    "翻译": "热情非常高涨。"
+  },
+  {
+    "单数": "die Erzählung",
+    "复数": "die Erzählungen",
+    "意思": "story; narrative",
+    "例句": "Klar, aber dann musst du immer die Erzählung spielen.",
+    "翻译": "好的，但是然后你必须总是讲述这个故事。"
+  },
+  {
+    "单数": "die Karriere",
+    "复数": "die Karrieren",
+    "意思": "career",
+    "例句": "Wenn ich das richtig verstehe hatten Sie nun schon ein paar beeindruckende Karrieren.",
+    "翻译": "如果我理解正确，您已经拥有了一些令人印象深刻的职业生涯。"
+  },
+  {
+    "单数": "das Klavier",
+    "复数": "die Klaviere",
+    "意思": "piano",
+    "例句": "Ich wollte als Kind nie Klavier spielen.",
+    "翻译": "我小时候从不想弹钢琴。"
+  },
+  {
+    "单数": "das Stipendium",
+    "复数": "die Stipendien",
+    "意思": "scholarship",
+    "例句": "Dafür gibt's ein Stipendium.",
+    "翻译": "为此有一个奖学金。"
+  },
+  {
+    "单数": "der Tod",
+    "复数": "",
+    "意思": "death",
+    "例句": "Hast du was mit seinem Tod zu tun?",
+    "翻译": "你和他的死有关系吗？"
+  },
+  {
+    "单数": "die Berufswahl",
+    "复数": "",
+    "意思": "career choice",
+    "例句": "Die Berufswahl ist nicht immer leicht.",
+    "翻译": "职业选择并不总是那么容易。"
+  },
+  {
+    "单数": "das Design",
+    "复数": "",
+    "意思": "design",
+    "例句": "# And we crow with design, the design that you wear.",
+    "翻译": "我们为设计而欢呼，为你所穿戴的设计。"
+  },
+  {
+    "单数": "das Handwerk",
+    "复数": "die Handwerke",
+    "意思": "trade; craft",
+    "例句": "Nico will anpacken – beruflich und privat. Er wollte immer ’n Handwerk lernen.",
+    "翻译": "尼科想要展开他的事业和私人生活。他一直想学一门手艺。"
+  },
+  {
+    "单数": "der Maschinenbau",
+    "复数": "",
+    "意思": "mechanical engineering",
+    "例句": "Mein Vater hat immer gesagt: “Ihr müsst Medizin, Maschinenbau oder Jura studieren. Das hat Zukunft.”",
+    "翻译": "我父亲总是说：“你们必须学医、机械工程或者法律。这些专业有前途。”"
+  },
+  {
+    "单数": "die Note",
+    "复数": "die Noten",
+    "意思": "grade; marks",
+    "例句": "Ich wünsche mir eine Note 6, aber das ist manchmal sehr schwierig.",
+    "翻译": "我希望得到一个Note 6，但有时候这非常困难。"
+  },
+  {
+    "单数": "die Physik",
+    "复数": "",
+    "意思": "physics",
+    "例句": "Mit Wissenschaft, Physik",
+    "翻译": "用科学，物理"
+  },
+  {
+    "单数": "die Umschulung",
+    "复数": "die Umschulungen",
+    "意思": "retraining",
+    "例句": "Und deine Spitex-Umschulung?",
+    "翻译": "你的居家护理转岗培训呢？"
+  },
+  {
+    "单数": "der Abschluss",
+    "复数": "die Abschlüsse",
+    "意思": "graduation",
+    "例句": "Habt ihr Abitur oder einen anderen Abschluss? Schreibt es auf.",
+    "翻译": "你们有高中毕业证书还是其他学历证明？写下来。"
+  },
+  {
+    "单数": "der Anhang",
+    "复数": "die Anhänge",
+    "意思": "attachment",
+    "例句": "Meinen Lebenslauf sende ich Ihnen als Anhang.",
+    "翻译": "我的简历作为附件发送给您。"
+  },
+  {
+    "单数": "der Arbeitsplatz",
+    "复数": "die Arbeitsplätze",
+    "意思": "workspace",
+    "例句": "Ist Ihr Arbeitsplatz nicht bei der Bank?",
+    "翻译": "您的工作不在银行吗？"
+  },
+  {
+    "单数": "der Auslandsaufenthalt",
+    "复数": "die Auslandsaufenthalte",
+    "意思": "abroad stay, abroad residence",
+    "例句": "Dr. Bähr hat mir von Ihrem Interesse an einem Auslandsaufenthalt berichtet.",
+    "翻译": "巴赫博士向我介绍了您对海外留学的兴趣。"
+  },
+  {
+    "单数": "die Beratung",
+    "复数": "die Beratungen",
+    "意思": "counselling; consulting",
+    "例句": "Man kann auch Beratungen machen.",
+    "翻译": "也可以提供咨询服务。"
+  },
+  {
+    "单数": "die Berufserfahrung",
+    "复数": "die Berufserfahrungen",
+    "意思": "professional experience",
+    "例句": "Praktika sind auch wichtig. Dazu gehört auch Berufserfahrung.",
+    "翻译": "实习也很重要。这也包括工作经验。"
+  },
+  {
+    "单数": "die Erfahrung",
+    "复数": "die Erfahrungen",
+    "意思": "experience",
+    "例句": "Frau Jansen fragt Ibrahim, ob er Erfahrungen im Service hat.",
+    "翻译": "詹森女士问伊布拉希姆是否有服务经验。"
+  },
+  {
+    "单数": "die Fähigkeit",
+    "复数": "die Fähigkeiten",
+    "意思": "ability; skill",
+    "例句": "eine Wertschätzung Ihrer Fähigkeiten.",
+    "翻译": "对您的能力的认可。"
+  },
+  {
+    "单数": "der Führerschein",
+    "复数": "die Führerscheine",
+    "意思": "driving license",
+    "例句": "- Ich hab keinen Führerschein.",
+    "翻译": "我没有驾照。"
+  },
+  {
+    "单数": "der Lebenslauf",
+    "复数": "die Lebensläufe",
+    "意思": "CV; résumé",
+    "例句": "Ihr könnt auch eure Hobbys in den Lebenslauf schreiben, aber das ist nicht unbedingt nötig.",
+    "翻译": "你们也可以在简历中写上自己的业余爱好，但这并不是必要的。"
+  },
+  {
+    "单数": "die Schicht",
+    "复数": "die Schichten",
+    "意思": "shift",
+    "例句": "Sie hat leider Schicht, richtet aber liebe Grüsse aus.",
+    "翻译": "她可惜轮到夜班了，但是让她向你问好。"
+  },
+  {
+    "单数": "die Schulbildung",
+    "复数": "",
+    "意思": "schooling",
+    "例句": "Nicht nur für das Privatleben ist die Schulbildung sehr wichtig. Sie ist auch die Basis für den Beruf.",
+    "翻译": "不仅对于私人生活而言，学校教育非常重要。它也是职业的基础。"
+  },
+  {
+    "单数": "die Stellenanzeige",
+    "复数": "die Stellenanzeigen",
+    "意思": "job ad; job posting",
+    "例句": "Ein Personalchef bekommt oft tausend Antworten auf eine Stellenanzeige.",
+    "翻译": "人事经理常常会收到一千份对于一个职位的申请答复。"
+  },
+  {
+    "单数": "die Tätigkeit",
+    "复数": "die Tätigkeiten",
+    "意思": "work; activity",
+    "例句": "Aufgrund Ihrer Tätigkeit im neuen Facharztbereich wurde ein Titel geschaffen:",
+    "翻译": "由于您在新的专科领域的工作，创建了一个头衔："
+  },
+  {
+    "单数": "die Teilzeit",
+    "复数": "",
+    "意思": "part-time job",
+    "例句": "Ich würde mich gerne um diese Stelle bewerben, kann aber nur in Teilzeit arbeiten.",
+    "翻译": "我非常希望能申请这个职位，但我只能做兼职工作。"
+  },
+  {
+    "单数": "die Vollzeit",
+    "复数": "",
+    "意思": "full-time job",
+    "例句": "Ich weiß nicht, ob ich Vollzeit-Papa sein kann.",
+    "翻译": "我不知道我能否成为一名全职爸爸。"
+  },
+  {
+    "单数": "das Zeugnis",
+    "复数": "die Zeugnisse",
+    "意思": "certificate; report",
+    "例句": "Ihr Zeugnis bleibt auf diesen Steinen erhalten.",
+    "翻译": "你的成绩单保留在这些石板上。"
+  },
+  {
+    "单数": "die Zulage",
+    "复数": "die Zulagen",
+    "意思": "allowance; bonus",
+    "例句": "Die Zulagen kommen dazu.",
+    "翻译": "补贴包括在内。"
+  },
+  {
+    "单数": "die Auskunft",
+    "复数": "die Auskünfte",
+    "意思": "information",
+    "例句": "Gemäß Abgabenordnung Paragraf 89 sind wir ja zur Beratung und Auskunft verpflichtet.",
+    "翻译": "根据《税法》第89条，我们有义务提供咨询和答复。"
+  },
+  {
+    "单数": "die Besprechung",
+    "复数": "die Besprechungen",
+    "意思": "meeting",
+    "例句": "Sie hatten mit Herrn Fuchs und Frau Eschenberg eine Besprechung?",
+    "翻译": "你和福克斯先生和埃申伯格女士进行了会议？"
+  },
+  {
+    "单数": "die Körpersprache",
+    "复数": "",
+    "意思": "body language",
+    "例句": "Das war nicht ihre Körpersprache.",
+    "翻译": "这不符合她的肢体语言。"
+  },
+  {
+    "单数": "die Sprachprüfung",
+    "复数": "die Sprachprüfungen",
+    "意思": "language exam",
+    "例句": "Nach der Sprachprüfung und dem Test im Allgemeinwissen war es nun so weit für die letzte Prüfung.",
+    "翻译": "经过语言测试和通用知识测试后，现在终于到了最后一项考试。"
+  },
+  {
+    "单数": "die Stimme",
+    "复数": "die Stimmen",
+    "意思": "voice",
+    "例句": "Aber das kann ja dann nicht stimmen.",
+    "翻译": "但这怎么可能是对的呢。"
+  },
+  {
+    "单数": "das Anschreiben",
+    "复数": "die Anschreiben",
+    "意思": "cover letter",
+    "例句": "Kann ich das anschreiben lassen?",
+    "翻译": "我可以把这个记账吗？"
+  },
+  {
+    "单数": "die Arbeitslosenversicherung",
+    "复数": "die Arbeitslosenversicherungen",
+    "意思": "unemployment insurance",
+    "例句": "Die Sozialversicherung gehören verschiedene Versicherungen: die Krankenversicherung, die Rentenversicherung, die Pflegeversicherung und die Arbeitslosenversicherung.",
+    "翻译": "社会保险包括几种保险：医疗保险、养老保险、护理保险和失业保险。"
+  },
+  {
+    "单数": "der Beitrag",
+    "复数": "die Beiträge",
+    "意思": "dues; contribution",
+    "例句": "Das Bruttogehalt minus Steuern und Beiträge zur Sozialversicherung ist das Nettogehalt.",
+    "翻译": "税前工资减去税收和社会保险的缴纳部分是净工资。"
+  },
+  {
+    "单数": "das Bruttogehalt",
+    "复数": "die Bruttogehälter",
+    "意思": "gross salary",
+    "例句": "Vermutlich vom Bruttogehalt!",
+    "翻译": "大概是从税前工资！"
+  },
+  {
+    "单数": "das Gehalt",
+    "复数": "die Gehälter",
+    "意思": "salary",
+    "例句": "Maria ist verheiratet. Sie und ihr Mann bekommen ungefähr das gleiche Gehalt.",
+    "翻译": "玛丽亚结婚了。她和她的丈夫挣的大致一样多。"
+  },
+  {
+    "单数": "",
+    "复数": "die Kosten",
+    "意思": "costs",
+    "例句": "Ich informiere mich mal, wie viel die Wohnungen auf dem Land kosten.",
+    "翻译": "我去了解一下乡下的房子多少钱。"
+  },
+  {
+    "单数": "der Lohn",
+    "复数": "die Löhne",
+    "意思": "wage (hourly)",
+    "例句": "- Das geht von eurem Lohn ab.",
+    "翻译": "这会从你的工资中扣除。"
+  },
+  {
+    "单数": "das Nettogehalt",
+    "复数": "die Nettogehälter",
+    "意思": "net income",
+    "例句": "Das Nettogehalt ist das Geld, das der Arbeitnehmer am Ende wirklich bekommt.",
+    "翻译": "净收入是雇员最终实际得到的钱。"
+  },
+  {
+    "单数": "die Pflegeversicherung",
+    "复数": "die Pflegeversicherungen",
+    "意思": "nursing care insurance",
+    "例句": "Und ich bin von der Pflegeversicherung.",
+    "翻译": "我是医疗保险的。"
+  },
+  {
+    "单数": "die Rentenversicherung",
+    "复数": "die Rentenversicherungen",
+    "意思": "retirement insurance",
+    "例句": "Er ist meine Rentenversicherung.",
+    "翻译": "他是我的退休金保险。"
+  },
+  {
+    "单数": "der Schichtdienst",
+    "复数": "die Schichtdienste",
+    "意思": "shift work",
+    "例句": "Ärztliches Attest, darf keine Lasten über 5 kg mehr heben, keinen Nacht- oder Schichtdienst machen.",
+    "翻译": "医生证明，不得搬运超过5公斤的重物，不得值夜班或加班。"
+  },
+  {
+    "单数": "die Schwäche",
+    "复数": "die Schwächen",
+    "意思": "weakness",
+    "例句": "Was sind Ihre Stärken und Schwächen?",
+    "翻译": "你的优点和缺点是什么？"
+  },
+  {
+    "单数": "die Sozialversicherung",
+    "复数": "die Sozialversicherungen",
+    "意思": "social insurance (4)",
+    "例句": "Laut Finanzamt wird der Arbeitgeberanteil fÃŒr die Sozialversicherung von einer Bar bezahlt.",
+    "翻译": "根据税务局的规定，雇主承担的社会保险部分由雇主支付。"
+  },
+  {
+    "单数": "die Stärke",
+    "复数": "die Stärken",
+    "意思": "strength",
+    "例句": "Ihr Erfolg beruht auf der Stärke ihrer Beziehungen.",
+    "翻译": "她的成功基于她关系的牢固。"
+  },
+  {
+    "单数": "die Steuer",
+    "复数": "die Steuern",
+    "意思": "tax",
+    "例句": "Die Steuern ist von vielem abhängig, z. B. wie viele Kinder man hat, wie viel Geld man verdient und in welcher Steuerklasse man ist.",
+    "翻译": "税收取决于很多因素，例如你有几个孩子，你的收入是多少以及你在哪个税级。"
+  },
+  {
+    "单数": "die Steuerklasse",
+    "复数": "die Steuerklassen",
+    "意思": "tax class",
+    "例句": "Steuerklasse 3, 50 Prozent.",
+    "翻译": "税类3，50 percent。注意这里的\"percent\"在中文上下文中通常会说成\"百分比\"或者直接用\"% \"符号表示，因此更自然的翻译可以是：\"税类3，50%\"。如果必须严格按照原文结构翻译，则为前一种表述。"
+  },
+  {
+    "单数": "die Steuernummer",
+    "复数": "die Steuernummern",
+    "意思": "tax identification number",
+    "例句": "Steuernummer und ärztliches Attest, und ich reiche deinen Antrag ein.",
+    "翻译": "税号和医生证明，然后我就提交你的申请。"
+  },
+  {
+    "单数": "die Versicherung",
+    "复数": "die Versicherungen",
+    "意思": "insurance",
+    "例句": "Wie Sie wissen, berechnen wir den Versicherungen an die 5'000 Dollar pro Minute im Trauma-OP.",
+    "翻译": "如您所知，我们在创伤手术室里每分钟向保险公司收取大约五千美元的费用。"
+  },
+  {
+    "单数": "das Zertifikat",
+    "复数": "die Zertifikate",
+    "意思": "certificate",
+    "例句": "Choi Yee-jae, Sie haben einen hohen TOEIC-Score und sogar ein Chinesisch-Zertifikat, aber haben nie im Ausland studiert.",
+    "翻译": "崔姈贞，你的托福成绩很高，甚至还有中文证书，但你从未在国外学习过。"
   }
 ]

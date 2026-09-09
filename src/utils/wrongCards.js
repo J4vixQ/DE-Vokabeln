@@ -47,3 +47,7 @@ export function removeWrongCard(deck, data) {
   saveWrongCards(list.filter(c => getCardKey(c.deck, c.data) !== key))
 }
 
+export function clearWrongCards() {
+  localStorage.removeItem('wrongCards')
+}
+
