@@ -4111,5 +4111,59 @@
     "意思": "hire",
     "例句": "Sie wurde eingestellt als Teddybär.",
     "翻译": "她被雇用为泰迪熊。"
+  },
+  {
+    "原型": "bauen",
+    "现在": "baut",
+    "过去": "baute",
+    "完成": "hat gebaut",
+    "意思": "build, construct",
+    "例句": "Bauen Sie bitte keine zu enge Beziehung zu meinem Sohn auf.",
+    "翻译": "请不要和我的儿子建立过于亲密的关系。"
+  },
+  {
+    "原型": "begeistern",
+    "现在": "begeistert",
+    "过去": "begeisterte",
+    "完成": "hat begeistert",
+    "意思": "inspire, enthuse",
+    "例句": "Ihr werdet begeistert sein!",
+    "翻译": "你们会很兴奋的！"
+  },
+  {
+    "原型": "nehmen teil",
+    "现在": "nimmt teil",
+    "过去": "nahm teil",
+    "完成": "hat teilgenommen",
+    "意思": "take part in",
+    "例句": "Ich hab vor fünf Jahren bei einer Veranstaltung von denen teilgenommen.",
+    "翻译": "五年前我在一个类似的活动中参加过。"
+  },
+  {
+    "原型": "lehnen ab",
+    "现在": "lehnt ab",
+    "过去": "lehnte ab",
+    "完成": "hat abgelehnt",
+    "意思": "reject",
+    "例句": "Ich habe abgelehnt.",
+    "翻译": "我拒绝了。"
+  },
+  {
+    "原型": "wandern aus",
+    "现在": "wandert aus",
+    "过去": "wanderte aus",
+    "完成": "ist ausgewandert",
+    "意思": "emigrate",
+    "例句": "Die sind nach Spanien ausgewandert.",
+    "翻译": "他们移民到了西班牙。"
+  },
+  {
+    "原型": "inspirieren",
+    "现在": "inspiriert",
+    "过去": "inspirierte",
+    "完成": "hat inspiriert",
+    "意思": "inspire",
+    "例句": "Wenn ich inspiriert bin, schaffe ich zehn Bilder am Tag!",
+    "翻译": "当我受到启发时，我一天能创作十幅画！"
   }
 ]

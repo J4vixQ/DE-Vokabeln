@@ -1248,5 +1248,75 @@
     "意思女": "",
     "例句": "Ein Personalchef bekommt oft tausend Antworten auf eine Stellenanzeige.",
     "翻译": "人事经理常常会收到一千份对于一个职位的申请答复。"
+  },
+  {
+    "单数男": "der Einwohner",
+    "复数男": "die Einwohner",
+    "意思男": "resident; inhabitant",
+    "单数女": "die Einwohnerin",
+    "复数女": "die Einwohnerinnen",
+    "意思女": "resident; inhabitant",
+    "例句": "Hier bei Spartan, haben wir für alle unsere Einwohner sehr hohe Sicherheits-Standards:",
+    "翻译": "在这里，斯巴坦为所有居民制定了非常高的安全标准："
+  },
+  {
+    "单数男": "der Sänger",
+    "复数男": "die Sänger",
+    "意思男": "singer",
+    "单数女": "die Sängerin",
+    "复数女": "die Sängerinnen",
+    "意思女": "singer",
+    "例句": "Ja, aber die Sängerin ist ziemlich populär. Ich denke, die Tickets sind ausverkauft.",
+    "翻译": "是的，但是这位歌手非常受欢迎。我认为门票已经售罄了。"
+  },
+  {
+    "单数男": "der Komponist",
+    "复数男": "die Komponisten",
+    "意思男": "composer",
+    "单数女": "die Komponistin",
+    "复数女": "die Komponistinnen",
+    "意思女": "composer",
+    "例句": "Die Komponisten wehrten sich gegen Aufnahmen.",
+    "翻译": "作曲家们反对录音。"
+  },
+  {
+    "单数男": "der Minister",
+    "复数男": "die Minister",
+    "意思男": "minister",
+    "单数女": "die Ministerin",
+    "复数女": "die Ministerinnen",
+    "意思女": "minister",
+    "例句": "- Das macht der Minister...",
+    "翻译": "这是部长做的……"
+  },
+  {
+    "单数男": "der Nationalsozialist",
+    "复数男": "die Nationalsozialisten",
+    "意思男": "National Socialist (Nazi)",
+    "单数女": "die Nationalsozialistin",
+    "复数女": "die Nationalsozialistinnen",
+    "意思女": "National Socialist (Nazi)",
+    "例句": "Sind Sie überzeugter Nationalsozialist, Herr Major?",
+    "翻译": "您是坚定的纳粹分子吗，Major先生？"
+  },
+  {
+    "单数男": "der Schriftsteller",
+    "复数男": "die Schriftsteller",
+    "意思男": "author",
+    "单数女": "die Schriftstellerin",
+    "复数女": "die Schriftstellerinnen",
+    "意思女": "author",
+    "例句": "Aber wenn Sie Schriftsteller sind...",
+    "翻译": "但是如果您是作家……"
+  },
+  {
+    "单数男": "der Wissenschaftler",
+    "复数男": "die Wissenschaftler",
+    "意思男": "scientist",
+    "单数女": "die Wissenschaftlerin",
+    "复数女": "die Wissenschaftlerinnen",
+    "意思女": "scientist",
+    "例句": "Ich bin Wissenschaftler.",
+    "翻译": "我是科学家。"
   }
 ]
