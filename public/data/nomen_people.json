@@ -1318,5 +1318,225 @@
     "意思女": "scientist",
     "例句": "Ich bin Wissenschaftler.",
     "翻译": "我是科学家。"
+  },
+  {
+    "单数男": "der Auswanderer",
+    "复数男": "die Auswanderer",
+    "意思男": "emigrant",
+    "单数女": "die Auswanderin",
+    "复数女": "die Auswanderinnen",
+    "意思女": "emigrant",
+    "例句": "Wohl erfunden vom deutschen Auswanderer Charles H. Hyre.",
+    "翻译": "很可能是由德国移民查尔斯·H·海赖发明的。"
+  },
+  {
+    "单数男": "der Verliebte",
+    "复数男": "die Verliebten",
+    "意思男": "lover",
+    "单数女": "die Verliebte",
+    "复数女": "die Verliebten",
+    "意思女": "lover",
+    "例句": "Der Gauner verliebte sich in das Mädchen, dessen Identität er stahl.",
+    "翻译": "这个骗子爱上了他盗用了身份的姑娘。"
+  },
+  {
+    "单数男": "der Prinz",
+    "复数男": "die Prinzen",
+    "意思男": "prince",
+    "单数女": "die Prinzessin",
+    "复数女": "die Prinzessinnen",
+    "意思女": "princess",
+    "例句": "Mach dir mal keine Sorgen, Prinzessin.",
+    "翻译": "别担心了，公主。"
+  },
+  {
+    "单数男": "der Frauenarzt",
+    "复数男": "die Frauenärzte",
+    "意思男": "gynocologist",
+    "单数女": "die Frauenärztin",
+    "复数女": "die Frauenärztinnen",
+    "意思女": "gynocologist",
+    "例句": "Manche Menschen passen beim Sex besser auf, damit sie ihre Zeit eben nicht beim Frauenarzt verbringen müssen.",
+    "翻译": "有些人更小心地进行性行为，以免不必去看妇科医生。"
+  },
+  {
+    "单数男": "der Clown",
+    "复数男": "die Clowns",
+    "意思男": "clown",
+    "单数女": "die Clownin",
+    "复数女": "die Clowninnen",
+    "意思女": "clown",
+    "例句": "Pinchas, der Clown?",
+    "翻译": "皮纳乔斯，小丑？"
+  },
+  {
+    "单数男": "der Kameramann",
+    "复数男": "die Kameramänner",
+    "意思男": "cameraman",
+    "单数女": "die Kamerafrau",
+    "复数女": "die Kamerafrauen",
+    "意思女": "camerawoman",
+    "例句": "- (Kameramann) Perfekt.",
+    "翻译": "完美。"
+  },
+  {
+    "单数男": "der Maskenbildner",
+    "复数男": "die Maskenbildner",
+    "意思男": "makeup artist",
+    "单数女": "die Maskenbildnerin",
+    "复数女": "die Maskenbildnerinnen",
+    "意思女": "makeup artist",
+    "例句": "Ich kann mich auf die Maskenbildner und Haarstylisten verlassen.",
+    "翻译": "我可以信赖化妆师和发型师。"
+  },
+  {
+    "单数男": "der Regisseur",
+    "复数男": "die Regisseure",
+    "意思男": "director",
+    "单数女": "die Regisseurin",
+    "复数女": "die Regisseurinnen",
+    "意思女": "director",
+    "例句": "Das ist die Kaffeetasse des Regisseurs. Das ist die Kaffeetasse von dem Regisseur.",
+    "翻译": "这是导演的咖啡杯。这是导演的咖啡杯。"
+  },
+  {
+    "单数男": "der Tonassistent",
+    "复数男": "die Tonassistenten",
+    "意思男": "sound assistant",
+    "单数女": "die Tonassistentin",
+    "复数女": "die Tonassistentinnen",
+    "意思女": "sound assistant",
+    "例句": "Sind das eure Mikrofone? Nein, das sind die Mikrofone der Tonassistenten.",
+    "翻译": "这些是你的麦克风吗？不，这些是录音助理的麦克风。"
+  },
+  {
+    "单数男": "der Kommissar",
+    "复数男": "die Kommissare",
+    "意思男": "police inspector",
+    "单数女": "die Kommissarin",
+    "复数女": "die Kommissarinnen",
+    "意思女": "police inspector",
+    "例句": "Er wird von einem Kommissar verhört.",
+    "翻译": "他被一名警探审问。"
+  },
+  {
+    "单数男": "der Zuschauer",
+    "复数男": "die Zuschauer",
+    "意思男": "audience member; viewer",
+    "单数女": "die Zuschauerin",
+    "复数女": "die Zuschauerinnen",
+    "意思女": "audience member; viewer",
+    "例句": "\"Deniz und Vanessa hatten Schnupfen und waren nur Zuschauer.\"",
+    "翻译": "Deniz和Vanessa感冒了，只能当观众。"
+  },
+  {
+    "单数男": "der Fußgänger",
+    "复数男": "die Fußgänger",
+    "意思男": "pedestrian",
+    "单数女": "die Fußgängerin",
+    "复数女": "die Fußgängerinnen",
+    "意思女": "pedestrian",
+    "例句": "Der danach in eine tödliche Fahrerflucht mit einem Fußgänger verwickelt war.",
+    "翻译": "此后卷入了一起导致行人死亡的驾车逃逸事故。"
+  },
+  {
+    "单数男": "der Gewinner",
+    "复数男": "die Gewinner",
+    "意思男": "winner",
+    "单数女": "die Gewinnerin",
+    "复数女": "die Gewinnerin",
+    "意思女": "winner",
+    "例句": "Ich mag Wettkämpfe mit Regeln, Ergebnissen und einem Gewinner.",
+    "翻译": "我喜欢有规则、有结果和有一个获胜者的比赛。"
+  },
+  {
+    "单数男": "die Hauptrolle",
+    "复数男": "die Hauptrollen",
+    "意思男": "main character",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Und es gab ein Casting für die Hauptrollen...",
+    "翻译": "而且为主角进行了选角试镜……"
+  },
+  {
+    "单数男": "die Nebenrolle",
+    "复数男": "die Nebenrollen",
+    "意思男": "supporting role",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "So geht es den Nebenrollen von \"Noch Fragen Arnold\" auch jeden Tag.",
+    "翻译": "所以《阿诺德还有问题吗？》里的配角们每天也都过着这样的日子。"
+  },
+  {
+    "单数男": "der Prominente",
+    "复数男": "die Prominenten",
+    "意思男": "celebrity",
+    "单数女": "die Prominente",
+    "复数女": "die Prominenten",
+    "意思女": "celebrity",
+    "例句": "Ihre prominente Familie verschaffte ihm über Kontakte Jobs, erst im Kulturministerium, dann hier im Konsulat.",
+    "翻译": "他显赫的家庭通过人脉关系为他提供了工作机会，先是文化部的职位，然后是这里的领事馆。"
+  },
+  {
+    "单数男": "der Idiot",
+    "复数男": "die Idioten",
+    "意思男": "idiot",
+    "单数女": "",
+    "复数女": "",
+    "意思女": "",
+    "例句": "Nachdem Archer mein Leben ruinierte, und ihr Idioten mich zu einem Cyborg machten wundert es mich, dass ich noch so normal bin.",
+    "翻译": "艾奇尔毁了我的生活，而你们这些家伙把我改造成一个 cyborg（半机械人），我还这么正常真是让我感到惊讶。"
+  },
+  {
+    "单数男": "der Weltmeister",
+    "复数男": "die Weltmeister",
+    "意思男": "world champion",
+    "单数女": "die Weltmeisterin",
+    "复数女": "die Weltmeisterinnen",
+    "意思女": "world champion",
+    "例句": "Box-Weltmeister haben Ausgaben, die wir nicht haben.",
+    "翻译": "拳王的开支是我们没有的。"
+  },
+  {
+    "单数男": "der Erfinder",
+    "复数男": "die Erfinder",
+    "意思男": "inventor",
+    "单数女": "die Erfinderin",
+    "复数女": "die Erfinderinnen",
+    "意思女": "inventor",
+    "例句": "Ich bin der Erfinder des Samthandschuhs.",
+    "翻译": "我是软手套的发明者。"
+  },
+  {
+    "单数男": "der Investor",
+    "复数男": "die Investoren",
+    "意思男": "investor",
+    "单数女": "die Investorin",
+    "复数女": "die Investorinnen",
+    "意思女": "investor",
+    "例句": "Ich kenne einen Investor, der Interesse hat. (der Investor hat Interesse.)",
+    "翻译": "我认识一个有兴趣的投资者。（这位投资者有兴趣。）"
+  },
+  {
+    "单数男": "der Veganer",
+    "复数男": "die Veganer",
+    "意思男": "vegan",
+    "单数女": "die Veganerin",
+    "复数女": "die Veganerinnen",
+    "意思女": "vegan",
+    "例句": "Ist der auch Veganer?",
+    "翻译": "他也是素食者吗？"
+  },
+  {
+    "单数男": "der Bauingenieur",
+    "复数男": "die Bauingenieure",
+    "意思男": "civil engineer",
+    "单数女": "die Bauingenieurin",
+    "复数女": "die Bauingenieurin",
+    "意思女": "civil engineer",
+    "例句": "Und der Bauingenieur, Edward.",
+    "翻译": "那个建造工程师，爱德华。"
   }
 ]

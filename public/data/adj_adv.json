@@ -2454,5 +2454,301 @@
     "意思": "popular",
     "例句": "(Hecker) Mir ist aufgefallen, dass man bei Mercedes, als es eine Veranstaltung gab und viele Tausend Menschen gekommen sind, danach begeistert gewesen ist und sich fast überrascht gefragt hat, wie populär Michael Schumacher ist.",
     "翻译": "海克尔注意到，在梅赛德斯举办的一次活动上，当成千上万的人前来参加后，人们都非常兴奋，并且几乎感到惊讶地问道迈克尔·舒马赫有多受欢迎。"
+  },
+  {
+    "原型": "verantwortungslos",
+    "比较级": "verantwortungsloser",
+    "最高级": "verantwortungslosesten",
+    "意思": "irresponsible",
+    "例句": "Ich halte mich bestimmt nicht raus, wenn du so verantwortungslos bist.",
+    "翻译": "如果你这么不负责任，我绝对不会置身事外。"
+  },
+  {
+    "原型": "brav",
+    "比较级": "braver",
+    "最高级": "bravsten",
+    "意思": "good; well-behaved",
+    "例句": "Ganz brav hat sie die Arme auf dem Rücken verschränkt, wohlwissend dass nur eine perfekt disziplinierte Körperhaltung dazu führen wird, dass der Herr ihr die strenge Fesselung erspart.",
+    "翻译": "她老实地把胳膊交叉放在背后，心里明白只有保持完美的姿势才能让主人免去对她严苛的束缚。"
+  },
+  {
+    "原型": "herzlich",
+    "比较级": "herzlicher",
+    "最高级": "herzlichsten",
+    "意思": "sincere; warm; cordial",
+    "例句": "Herzlichen Glückwunsch!",
+    "翻译": "祝你开心！"
+  },
+  {
+    "原型": "passend",
+    "比较级": "passender",
+    "最高级": "passendsten",
+    "意思": "suitable, appropriate, fitting",
+    "例句": "Man sollte sie vielleicht auch noch als Strafe eine Weile an ihren Titten aufhängen. Das wäre eine passende Strafe für die Schlampe.",
+    "翻译": "也许还应该把她作为惩罚挂在她的胸部下面一段时间。这对这个婊子来说是一个合适的惩罚。"
+  },
+  {
+    "原型": "preiswert",
+    "比较级": "preiswerter",
+    "最高级": "preiswertesten",
+    "意思": "cheap; inexpensive",
+    "例句": "Es ist preiswert.",
+    "翻译": "它很便宜。"
+  },
+  {
+    "原型": "reduziert",
+    "比较级": "reduzierter",
+    "最高级": "reduziertesten",
+    "意思": "reduced; discounted",
+    "例句": "Die Bearbeiter des Films haben diesen Handlungsstrang weiter reduziert.",
+    "翻译": "电影制作人进一步减少了这个情节线索。"
+  },
+  {
+    "原型": "blöd",
+    "比较级": "blöder",
+    "最高级": "blödesten",
+    "意思": "stupid",
+    "例句": "Dir wird die Lust vergehen auf deine blöden Witze!",
+    "翻译": "你不会再有兴趣讲那些愚蠢的笑话了！"
+  },
+  {
+    "原型": "gefärbt",
+    "比较级": "",
+    "最高级": "",
+    "意思": "dyed, inked, colored",
+    "例句": "- Eins ist gefärbt, eins gewaschen.",
+    "翻译": "一个有颜色，一个被洗过。"
+  },
+  {
+    "原型": "fasziniert",
+    "比较级": "faszinierter",
+    "最高级": "fasziniertesten",
+    "意思": "fascinated",
+    "例句": "- Ich bin fasziniert.",
+    "翻译": "我感到着迷。"
+  },
+  {
+    "原型": "ausdrucksstark",
+    "比较级": "ausdrucksstärker",
+    "最高级": "ausdrucksstärksten",
+    "意思": "expressive",
+    "例句": "* lmposante, ausdrucksstarke Musik *",
+    "翻译": "气势宏伟、表现力强的音乐"
+  },
+  {
+    "原型": "ernst",
+    "比较级": "ernster",
+    "最高级": "ernstesten",
+    "意思": "serious",
+    "例句": "Das meinen Sie nicht ernst.",
+    "翻译": "你不是认真的吧。"
+  },
+  {
+    "原型": "komisch",
+    "比较级": "komischer",
+    "最高级": "komischsten",
+    "意思": "funny; strange",
+    "例句": "Meistens ist das sehr komisch. Hin und wieder wird es aber auch tragisch.",
+    "翻译": "大多数时候这非常滑稽。偶尔也会变得悲惨。"
+  },
+  {
+    "原型": "romantisch",
+    "比较级": "romantischer",
+    "最高级": "romantischsten",
+    "意思": "romantic",
+    "例句": "Harun al Raschid, Kalif von Bagdad, war der romantischste und übermütigste Herrscher seiner Zeit.",
+    "翻译": "哈伦·拉希德，巴格达的哈里发，是他那个时代最浪漫和最具冒险精神的统治者。"
+  },
+  {
+    "原型": "tragisch",
+    "比较级": "tragischer",
+    "最高级": "tragischsten",
+    "意思": "tragic",
+    "例句": "Das ist tragisch, aber es interessiert mich nicht.",
+    "翻译": "这是悲剧，但我不感兴趣。"
+  },
+  {
+    "原型": "erschöpft",
+    "比较级": "erschöpfter",
+    "最高级": "erschöpftesten",
+    "意思": "tired, worn out",
+    "例句": "Lhre Widerstandskräfte sind völlig erschöpft.\"",
+    "翻译": "你的抵抗力完全耗尽了。"
+  },
+  {
+    "原型": "eklig",
+    "比较级": "ekliger",
+    "最高级": "ekligsten",
+    "意思": "repulsive; disgusting",
+    "例句": "Ein Teufel gießt den ekligen Schwefel durch ein Horn sickernd in die Kehle eines Mannes.",
+    "翻译": "一个魔鬼通过一只号角让恶心的硫黄液体滴入一个男人的喉咙。"
+  },
+  {
+    "原型": "fröhlich",
+    "比较级": "fröhlicher",
+    "最高级": "fröhlichsten",
+    "意思": "happy",
+    "例句": "Daheim er die fröhlichsten Lieder sang, derweil klein Anna im Arm ihm sprang und ihn an den Haaren zog.",
+    "翻译": "在家他唱着最欢快的歌曲，小安娜抱着他，扯他的头发。"
+  },
+  {
+    "原型": "lieb",
+    "比较级": "lieber",
+    "最高级": "liebsten",
+    "意思": "kind, love, like",
+    "例句": "Viele Menschen leben auch lieber mit anderen zusammen als alleine.",
+    "翻译": "许多人更愿意与他人一起生活而不是独自一人。"
+  },
+  {
+    "原型": "ärgerlich",
+    "比较级": "ärgerlicher",
+    "最高级": "ärgerlichsten",
+    "意思": "angry, annoyed",
+    "例句": "Das ist trotzdem ärgerlich.",
+    "翻译": "这仍然很恼人。"
+  },
+  {
+    "原型": "negativ",
+    "比较级": "negativer",
+    "最高级": "negativsten",
+    "意思": "negative",
+    "例句": "Negativ.",
+    "翻译": "否定。"
+  },
+  {
+    "原型": "beleidigt",
+    "比较级": "beleidigter",
+    "最高级": "beleidigsten",
+    "意思": "offended",
+    "例句": "Er beleidigt mich, aber eines Tages rechne ich mit ihm ab!",
+    "翻译": "他侮辱我，但总有一天我会给他点颜色看看！"
+  },
+  {
+    "原型": "deutlich",
+    "比较级": "deutlicher",
+    "最高级": "deutlichsten",
+    "意思": "clearly",
+    "例句": "Ihre weiblichen Schenkel sind einfach göttlich und es ist extrem spannend wie deutlich ihre Schamlippen hervortreten und ihr Geschlecht zur Schau stellen.",
+    "翻译": "她的女性大腿简直就像神一样的完美，非常引人注目的是她的阴唇如何突出，展示着她的性器官。"
+  },
+  {
+    "原型": "überzeugend",
+    "比较级": "überzeugender",
+    "最高级": "überzeugendsten",
+    "意思": "convincing",
+    "例句": "Es ist Überzeugend.",
+    "翻译": "它很有说服力。"
+  },
+  {
+    "原型": "unmöglich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "impossible",
+    "例句": "Und für sich selbst wollte er dieses unmögliche Ziel erreichen, den Namen seiner Familie wiederherzustellen.",
+    "翻译": "而他为自己设定的目标是实现这个不可能的任务，恢复家族的名誉。"
+  },
+  {
+    "原型": "wahr",
+    "比较级": "",
+    "最高级": "",
+    "意思": "true, real",
+    "例句": "Das kann doch nicht wahr sein!",
+    "翻译": "这怎么可能是真的！"
+  },
+  {
+    "原型": "absolut",
+    "比较级": "",
+    "最高级": "",
+    "意思": "absolute",
+    "例句": "Wir bitten um absolute Stille, schon die kleinste Ablenkung!",
+    "翻译": "我们请求保持绝对安静，任何打扰都不行！"
+  },
+  {
+    "原型": "großartig",
+    "比较级": "großartiger",
+    "最高级": "großartigsten",
+    "意思": "magnificent; fabulous",
+    "例句": "Sie haben den Job? Großartig! Das wundert mich nicht. Sie waren sehr gut vorbereitet.",
+    "翻译": "你得到了那份工作？太好了！这并不让我感到惊讶。你准备得很充分。"
+  },
+  {
+    "原型": "mega",
+    "比较级": "",
+    "最高级": "",
+    "意思": "huge, enormous",
+    "例句": "Ich war auch mega aufgeregt. Aber dann haben sie ja super gut gespielt.",
+    "翻译": "我也非常激动。但是然后他们表现得非常好。"
+  },
+  {
+    "原型": "spöttisch",
+    "比较级": "spöttischer",
+    "最高级": "spöttischsten",
+    "意思": "mocking",
+    "例句": "In einer Nazi-Zeitschrift heißt es spöttisch:",
+    "翻译": "在一本纳粹杂志上嘲讽地写着："
+  },
+  {
+    "原型": "total",
+    "比较级": "",
+    "最高级": "",
+    "意思": "totally",
+    "例句": "Viele Menschen glaubten zunächst, dass die Gleichberechtigung totaler Unsinn ist.",
+    "翻译": "许多人最初认为平等是完全荒谬的。"
+  },
+  {
+    "原型": "flach",
+    "比较级": "flacher",
+    "最高级": "flachsten",
+    "意思": "flat",
+    "例句": "Stattdessen nutzen sie flache Höhlen, Senken und natürliche Vorsprünge.",
+    "翻译": "他们利用平坦的洞穴、凹陷和自然突出的地方。"
+  },
+  {
+    "原型": "profitabel",
+    "比较级": "profitabler",
+    "最高级": "profitablsten",
+    "意思": "profitable",
+    "例句": "Das könnte sehr profitabel werden!",
+    "翻译": "这可能会非常有利可图！"
+  },
+  {
+    "原型": "riskant",
+    "比较级": "riskanter",
+    "最高级": "riskantesten",
+    "意思": "risky",
+    "例句": "Die Kamerafallen sind riskant.",
+    "翻译": "相机陷阱很危险。"
+  },
+  {
+    "原型": "umweltfreundlich",
+    "比较级": "umweltfreundlicher",
+    "最高级": "umweltfreundlichsten",
+    "意思": "environmental friendly",
+    "例句": "Der umweltfreundlichste Hafen im ganzen Mittelmeer.",
+    "翻译": "整个地中海最环保的港口。"
+  },
+  {
+    "原型": "offensichtlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "obviously",
+    "例句": "Offensichtlich haben ihre weichen Brüste den gemeinen Herrscher nicht besänftigen können, so dass ihr die eisernen Handschellen recht eng angelegt worden waren!",
+    "翻译": "显然，她的柔软乳房并没有平息那个卑鄙统治者的怒气，因此她被戴上了紧锁的铁手铐！"
+  },
+  {
+    "原型": "völlig",
+    "比较级": "",
+    "最高级": "",
+    "意思": "fully, totally",
+    "例句": "Das ist völlig unmöglich.",
+    "翻译": "这完全不可能。"
+  },
+  {
+    "原型": "zusätzlich",
+    "比较级": "",
+    "最高级": "",
+    "意思": "additional/additionally",
+    "例句": "Auch ihre Scham ist deutlich exponiert und scheint ihre verletzliche Weiblichkeit dadurch noch zusätzlich zu betonen.",
+    "翻译": "她的羞耻也明显地暴露出来，似乎因此更加突出了她脆弱的女性特质。"
   }
 ]

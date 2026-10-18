@@ -7894,5 +7894,733 @@
     "意思": "pre-order",
     "例句": "Trotzdem läuft der Vorverkauf.",
     "翻译": "预售仍在进行中。"
+  },
+  {
+    "单数": "der Brauch",
+    "复数": "die Bräuche",
+    "意思": "custom; practice",
+    "例句": "-Ich brauch auch 'ne Erklärung.",
+    "翻译": "我也需要一个解释。"
+  },
+  {
+    "单数": "der Geist",
+    "复数": "die Geister",
+    "意思": "ghost",
+    "例句": "Erfülle mich mit deinem Geist.",
+    "翻译": "用你的精神充满我。"
+  },
+  {
+    "单数": "der Karneval",
+    "复数": "die Karnevale",
+    "意思": "carnival; Mardi Gras",
+    "例句": "Mit wem feiert Sebastian Karneval? - Mit seinen Freunden.",
+    "翻译": "塞巴斯蒂安和谁庆祝狂欢节？——和他的朋友们。"
+  },
+  {
+    "单数": "der Kürbis",
+    "复数": "die Kürbisse",
+    "意思": "pumpkin; squash",
+    "例句": "Oh, kommen Sie, Terry, Sie kommen auf kein Wortspiel das Kürbisse beinhaltet, Schlampe?",
+    "翻译": "哦，来吧，特里，你不会喜欢任何包含南瓜的双关语，对吧，婊子？"
+  },
+  {
+    "单数": "das Osterei",
+    "复数": "die Ostereier",
+    "意思": "Easter egg",
+    "例句": "Osterhase, wo hast du die Ostereier versteckt?",
+    "翻译": "复活兔，你把复活节彩蛋藏哪儿了？"
+  },
+  {
+    "单数": "der Osterhase",
+    "复数": "die Osterhasen",
+    "意思": "Easter bunny",
+    "例句": "Osterhasen-Weihnacht REAL LIFE:",
+    "翻译": "复活节兔子圣诞节现实生活："
+  },
+  {
+    "单数": "das Silvester",
+    "复数": "",
+    "意思": "New Year's Eve",
+    "例句": "Mit wem feierst du Silvester? Mit deiner Familie?",
+    "翻译": "你和谁一起庆祝新年？是和你的家人吗？"
+  },
+  {
+    "单数": "das Symbol",
+    "复数": "die Symbole",
+    "意思": "symbol",
+    "例句": "Das werden Symbole für den Anstand in unserem Viertel.",
+    "翻译": "这些将成为我们社区道德的象征。"
+  },
+  {
+    "单数": "der Valentinstag",
+    "复数": "",
+    "意思": "Valentine's Day",
+    "例句": "Ich habe dir gesagt, ich wollte dir etwas für den Valentinstag bestellen.",
+    "翻译": "我告诉过你，我想为你订购一些情人节的东西。"
+  },
+  {
+    "单数": "das Weihnachten",
+    "复数": "",
+    "意思": "Christmas",
+    "例句": "Weihnachten ist kein schönes Fest, wenn man allein ist.",
+    "翻译": "圣诞节一个人的话就不是一个美好的节日了。"
+  },
+  {
+    "单数": "der Weihnachtsbaum",
+    "复数": "die Weihnachtsbäume",
+    "意思": "Christmas tree",
+    "例句": "Am Sonntag will die Familie unterm Weihnachtsbaum sitzen.",
+    "翻译": "星期天这家人想坐在圣诞树下。"
+  },
+  {
+    "单数": "die Brezel",
+    "复数": "die Brezeln",
+    "意思": "pretzel",
+    "例句": "Mir fuhr jemand rein, als ich auf Befehl des Chefs Brezeln geholt habe.",
+    "翻译": "当我应老板的要求去拿热狗的时候，有人撞了我。注：原文中的\"Brezel\"通常翻译为扭结形的德国咸味小面包，类似于中国的椒盐卷饼，此处根据上下文可能是指携带的食品，故译为“热狗”，以适应中文表达习惯。如需更准确翻译，请具体说明情境。若坚持使用原文词汇，可直接译为“当我应老板的要求去拿扭结形德国咸味小面包的时候，有人撞了我”。"
+  },
+  {
+    "单数": "das Dirndl",
+    "复数": "die Dirndl",
+    "意思": "dirndl dress",
+    "例句": "Suchen Sie ned schon lang a Dirndl?",
+    "翻译": "你在找连衣裙吗？"
+  },
+  {
+    "单数": "die Lederhose",
+    "复数": "die Lederhosen",
+    "意思": "leather pants",
+    "例句": "Außer Lederhosen sind sie nackt.",
+    "翻译": "除了皮短裤他们全身赤裸。"
+  },
+  {
+    "单数": "das Viertel",
+    "复数": "die Viertel",
+    "意思": "quarter",
+    "例句": "Die von Ihnen rausgepickte Überweisung ist die reguläre Bezahlung für Planung und Organisation mehrerer Konzeptveranstaltungen zum Thema Neubebauung im Viertel.",
+    "翻译": "您挑选出来的转账是为该地区重建主题的多次概念性活动的规划和组织进行的常规付款。"
+  },
+  {
+    "单数": "der Sex",
+    "复数": "",
+    "意思": "sex; sexual intercourse",
+    "例句": "Manche Menschen passen beim Sex besser auf, damit sie ihre Zeit eben nicht beim Frauenarzt verbringen müssen.",
+    "翻译": "有些人更小心地进行性行为，以免不必去看妇科医生。"
+  },
+  {
+    "单数": "die Untersuchung",
+    "复数": "die Untersuchungen",
+    "意思": "examination; check-up",
+    "例句": "Machen Sie ein weiteres Kopf CT, ein CBC und eine chemische Untersuchung.",
+    "翻译": "做一个头部CT扫描，抽血做全血细胞计数和化学检查。"
+  },
+  {
+    "单数": "der Sonnenaufgang",
+    "复数": "die Sonnenaufgänge",
+    "意思": "sunrise",
+    "例句": "Die Partys im Pudelclub, das waren die tollsten. Wir sind nie vor Sonnenaufgang nach Hause gegangen.",
+    "翻译": "在蓬松狗俱乐部的派对是最棒的。我们从没在日出前回家过。"
+  },
+  {
+    "单数": "der Sonnenuntergang",
+    "复数": "die Sonnenuntergänge",
+    "意思": "sunset",
+    "例句": "Ok, plündern wir ihren Scheiß, finden ihre Schwäche, und bis Sonnenuntergang sind wir weg.",
+    "翻译": "好的，让我们劫掠他们的垃圾，找到他们的弱点，到了日落时分我们就离开。"
+  },
+  {
+    "单数": "der Gutschein",
+    "复数": "die Gutscheine",
+    "意思": "voucher; gift certificate",
+    "例句": "Ein verdammter Sprinkles-Gutschein.",
+    "翻译": "一个该死的糖粉券。"
+  },
+  {
+    "单数": "die Massage",
+    "复数": "die Massagen",
+    "意思": "massage",
+    "例句": "Ich hatte eben eine Massage.",
+    "翻译": "我刚刚做了一次按摩。"
+  },
+  {
+    "单数": "das Parfüm",
+    "复数": "die Parfüms",
+    "意思": "perfume",
+    "例句": "Das liegt am Parfüm.",
+    "翻译": "这归功于香水。"
+  },
+  {
+    "单数": "das Putzmittel",
+    "复数": "die Putzmittel",
+    "意思": "cleaning solution",
+    "例句": "Wenn die Direktorin Putzmittel kauft, mache ich sauber.",
+    "翻译": "如果主任买清洁用品，我就打扫卫生。"
+  },
+  {
+    "单数": "der Schmuck",
+    "复数": "",
+    "意思": "jewelry",
+    "例句": "Der Schmuck in Indien schön?",
+    "翻译": "印度的首饰漂亮吗？"
+  },
+  {
+    "单数": "die Seife",
+    "复数": "die Seifen",
+    "意思": "soap",
+    "例句": "Ich stecke Ihren Weltraumarsch in die verdammte Phantomzone, mit 'nem Stück Kryptonit-Seife um den Hals.",
+    "翻译": "我把你的屁股送到该死的幻影区去，脖子上挂着一块克里普顿石肥皂。"
+  },
+  {
+    "单数": "das Spielzeug",
+    "复数": "",
+    "意思": "toy, plaything",
+    "例句": "Aber du hast unser Spielzeug zerstört.",
+    "翻译": "但是你把我们的玩具毁坏了。"
+  },
+  {
+    "单数": "das Werbegeschenk",
+    "复数": "die Werbegeschenke",
+    "意思": "promotional gift",
+    "例句": "Werbegeschenke.",
+    "翻译": "广告赠品"
+  },
+  {
+    "单数": "der Blumenstrauß",
+    "复数": "die Blumensträuße",
+    "意思": "bouquet of flowers",
+    "例句": "Sie kaufen einen riesengroßen Blumenstrauß.",
+    "翻译": "他们买了一个巨大的花束。"
+  },
+  {
+    "单数": "die Einweihungsparty",
+    "复数": "die Einweihungspartys",
+    "意思": "house-warming party",
+    "例句": "Wieso warst du nicht bei meiner Einweihungsparty?",
+    "翻译": "为什么你不来参加我的开幕派对呢？"
+  },
+  {
+    "单数": "die Gelegenheit",
+    "复数": "die Gelegenheiten",
+    "意思": "opportunity",
+    "例句": "Manchmal muss man eine Gelegenheit ergreifen.",
+    "翻译": "有时候必须抓住机会。"
+  },
+  {
+    "单数": "der Muttertag",
+    "复数": "",
+    "意思": "Mother's Day",
+    "例句": "Eine Karte zum Muttertag auf dem Schreibtisch deiner Mutter.",
+    "翻译": "一张母亲节卡片放在你妈妈的桌子上。"
+  },
+  {
+    "单数": "die Religion",
+    "复数": "die Religionen",
+    "意思": "religion",
+    "例句": "Vergesst... all die Religionen",
+    "翻译": "忘记所有的宗教"
+  },
+  {
+    "单数": "der Vorschlag",
+    "复数": "die Vorschläge",
+    "意思": "proposal",
+    "例句": "Ich hätte ein paar Vorschläge.",
+    "翻译": "我有几点建议。"
+  },
+  {
+    "单数": "die Wellness",
+    "复数": "",
+    "意思": "wellness; well-being",
+    "例句": "Besonders Sport und Wellness sind bei den Deutschen im Trend.",
+    "翻译": "特别是体育和 wellness 在德国很流行。  \n\n注：wellness 一词在中文中通常保留原样使用，如果需要翻译可意译为“健康养生”等。根据上下文，此处直接保留英文翻译以保持原意。如需更自然的表达可以改为：“特别是运动和健康养生在德国很流行。”"
+  },
+  {
+    "单数": "die Stimmung",
+    "复数": "die Stimmungen",
+    "意思": "mood; atmosphere",
+    "例句": "Er ruiniert die Stimmung, Rick.",
+    "翻译": "他破坏了气氛，瑞克。"
+  },
+  {
+    "单数": "der Wunschzettel",
+    "复数": "die Wunschzettel",
+    "意思": "wish list",
+    "例句": "Das stand ganz oben auf meinem Wunschzettel.",
+    "翻译": "这一直是我愿望清单上的最优先事项。"
+  },
+  {
+    "单数": "das Aussehen",
+    "复数": "",
+    "意思": "appearance; looks",
+    "例句": "Außerdem könnte das, je nach Lack, nach Blackfacing aussehen.",
+    "翻译": "此外，这可能取决于漆料，看起来像黑脸效应。"
+  },
+  {
+    "单数": "die Dokumentation",
+    "复数": "die Dokumentationen",
+    "意思": "documentation, documentary",
+    "例句": "David, die Dokumentation kommt in zwei Wochen heraus.",
+    "翻译": "大卫，文档两周后发布。"
+  },
+  {
+    "单数": "die Emotion",
+    "复数": "die Emotionen",
+    "意思": "emotion",
+    "例句": "Gar keine Emotionen?",
+    "翻译": "没有任何情感？"
+  },
+  {
+    "单数": "die Filmbranche",
+    "复数": "die Filmbranchen",
+    "意思": "film industry",
+    "例句": "Ab nächster Woche bist du offiziell in der Filmbranche tätig.",
+    "翻译": "从下周开始，你将在电影行业正式工作。"
+  },
+  {
+    "单数": "der Gesang",
+    "复数": "",
+    "意思": "song; singing",
+    "例句": "Melancholischer Gesang in russischer Sprache.",
+    "翻译": "俄语的忧郁歌声。"
+  },
+  {
+    "单数": "das Gesicht",
+    "复数": "die Gesichter",
+    "意思": "face",
+    "例句": "Frech ist ja fast noch untertrieben, Dabei sieht sie vom Gesicht her so perfekt unschuldig und artig aus.",
+    "翻译": "她这么放肆简直都要用这个词来形容了，然而从外表上看，她看起来又是那么完美无瑕的无辜和乖巧。"
+  },
+  {
+    "单数": "die Gestik",
+    "复数": "",
+    "意思": "gesture",
+    "例句": "Informationen beschaffe ich durch die übrigen 70%, Augenbewegungen und Gestik.",
+    "翻译": "信息我是通过其余的70%，即眼睛运动和手势来获取的。"
+  },
+  {
+    "单数": "das Mikrofon",
+    "复数": "die Mikrofone",
+    "意思": "microphone",
+    "例句": "Sind das eure Mikrofone? Nein, das sind die Mikrofone der Tonassistenten.",
+    "翻译": "这些是你的麦克风吗？不，这些是录音助理的麦克风。"
+  },
+  {
+    "单数": "die Mimik",
+    "复数": "",
+    "意思": "facial expression; mimic",
+    "例句": "Die Mimik hat sich wenig verändert, wenn überhaupt, im Laufe des Jahrhunderts.",
+    "翻译": "面部表情在整个世纪里几乎没有变化。"
+  },
+  {
+    "单数": "der Quatsch",
+    "复数": "",
+    "意思": "nonesense; trash",
+    "例句": "Wie oft habe ich mich von dir in Quatsch reinziehen lassen?",
+    "翻译": "我有多少次被你哄骗进了无意义的闲谈中？"
+  },
+  {
+    "单数": "die Schminke",
+    "复数": "",
+    "意思": "makeup",
+    "例句": "Meine Freundin schminkt sich nicht. Aber ich schminke mich jeden Tag.",
+    "翻译": "我的朋友不化妆。但我每天都要化妆。"
+  },
+  {
+    "单数": "der Ton",
+    "复数": "",
+    "意思": "sound",
+    "例句": "Jemand hat einen USB-Stick mit einer Ton-Datei abgegeben.",
+    "翻译": "有人提交了一个带有音频文件的U盘。"
+  },
+  {
+    "单数": "die Blindheit",
+    "复数": "",
+    "意思": "blindness",
+    "例句": "Meine Blindheit hat mir wahre Vision verliehen, aber die nützt mir nun nichts.",
+    "翻译": "我的失明给了我真正的洞察力，但现在这对我没有用处。"
+  },
+  {
+    "单数": "das Drama",
+    "复数": "die Dramen",
+    "意思": "drama; play",
+    "例句": "Drama.",
+    "翻译": "戏剧"
+  },
+  {
+    "单数": "der Elefant",
+    "复数": "die Elefanten",
+    "意思": "elephant",
+    "例句": "Aber ein Elefant ist in der Leitung.",
+    "翻译": "但是电话里有一头大象。"
+  },
+  {
+    "单数": "das Filmgenre",
+    "复数": "die Filmgenres",
+    "意思": "film genre",
+    "例句": "Ihr Filmgenre gilt hierzulande als lächerlich.",
+    "翻译": "你的电影类型在这里被认为是很可笑的。"
+  },
+  {
+    "单数": "die Komödie",
+    "复数": "die Komödien",
+    "意思": "comedy",
+    "例句": "Zähl nicht auf mich bei dieser Komödie!",
+    "翻译": "别在这场闹剧中指望我！"
+  },
+  {
+    "单数": "die Liebe",
+    "复数": "",
+    "意思": "love",
+    "例句": "Ich liebe zeigegeile Schlampen...",
+    "翻译": "这句话含有不恰当的言语，我不会提供翻译。如果你需要帮助，请提出一个合适的问题或者提供另一个句子。"
+  },
+  {
+    "单数": "die Operation",
+    "复数": "die Operationen",
+    "意思": "operation",
+    "例句": "Vielleicht wird Dr. Schnippel schon morgen das Problem mit einer kleinen Operation lösen.",
+    "翻译": "也许施尼佩尔博士明天就会通过一个小手术解决这个问题。"
+  },
+  {
+    "单数": "das Schicksal",
+    "复数": "die Schicksale",
+    "意思": "destiny; fate",
+    "例句": "Sein Schicksal bestimmt das Schicksal Hunderter Milliarden empfindender Lebensformen.",
+    "翻译": "他的命运决定了数百亿有感知的生命形式的命运。"
+  },
+  {
+    "单数": "die Tragödie",
+    "复数": "die Tragödien",
+    "意思": "tragedy",
+    "例句": "Die Völkermorde von Clorgon oder die Tragödie von 65.3432.2314 sind ihm vollkommen unbekannt.",
+    "翻译": "克拉贡的大屠杀或者65.3432.2314的悲剧对他来说完全陌生。"
+  },
+  {
+    "单数": "der Ablauf",
+    "复数": "die Abläufe",
+    "意思": "process; procedure",
+    "例句": "Nie wieder werden wir in die Abläufe des Universums eingreifen.",
+    "翻译": "我们再也不会干涉宇宙的运行规律了。"
+  },
+  {
+    "单数": "das Autogramm",
+    "复数": "die Autogramme",
+    "意思": "autograph, signature",
+    "例句": "Jetzt krieg ich kein Autogramm mehr.",
+    "翻译": "现在我再也得不到签名了。"
+  },
+  {
+    "单数": "die Dekoration",
+    "复数": "die Dekorationen",
+    "意思": "decoration",
+    "例句": "Das ist die Schwuchtel-Lampe von meiner Marlene Dietrich Keller-Dekoration.",
+    "翻译": "这是玛琳黛德丽凯勒装饰的娘娘腔灯。"
+  },
+  {
+    "单数": "die Ente",
+    "复数": "die Enten",
+    "意思": "duck",
+    "例句": "* Enten schnattern *",
+    "翻译": "鸭子嘎嘎叫"
+  },
+  {
+    "单数": "das Studio",
+    "复数": "die Studios",
+    "意思": "studio",
+    "例句": "Zurück ins Studio.",
+    "翻译": "回到工作室。"
+  },
+  {
+    "单数": "das Talent",
+    "复数": "die Talente",
+    "意思": "talent",
+    "例句": "Das nennt man Talent.",
+    "翻译": "这叫天赋。"
+  },
+  {
+    "单数": "der Auftrag",
+    "复数": "die Aufträge",
+    "意思": "order; assignment; contract",
+    "例句": "Er hat für eine Rolle mal einen Filmpreis gewonnen, aber seit einem Jahr hat er keine Aufträge mehr.",
+    "翻译": "他因为一个角色赢得过一个电影奖项，但是一年多以来再也没有接到新的工作了。"
+  },
+  {
+    "单数": "die Auszeichnung",
+    "复数": "die Auszeichnungen",
+    "意思": "award",
+    "例句": "Du konntest dir nicht vorstellen, welche Auszeichnungen und welches Lob eine so innovative Arbeit dieser Klinik brächte.",
+    "翻译": "你无法想象这家诊所的这项创新工作会带来什么样的荣誉和赞誉。"
+  },
+  {
+    "单数": "die Verleihung",
+    "复数": "die Verleihungen",
+    "意思": "presentation; award ceremony",
+    "例句": "Sie war zur Tatzeit bei der Verleihung des Ordens wider den tierischen Ernst.",
+    "翻译": "她在颁发“反对动物残酷”勋章时在现场。"
+  },
+  {
+    "单数": "die Spinne",
+    "复数": "die Spinnen",
+    "意思": "spider",
+    "例句": "Spinnen machen mir Angst. (= Ich habe Angst vor Spinnen.)",
+    "翻译": "蜘蛛让我害怕。"
+  },
+  {
+    "单数": "die Aggression",
+    "复数": "die Aggressionen",
+    "意思": "aggression",
+    "例句": "Das Paradies, gebaut während der großen Passiven Aggression, als sich die Frauen von den immer aggressiver werdenden Männern lösten.",
+    "翻译": "天堂，在伟大的被动攻击性时期建造的，那时女性开始远离变得越来越具侵略性的男性。"
+  },
+  {
+    "单数": "die Deadline",
+    "复数": "die Deadlines",
+    "意思": "ddl",
+    "例句": "Drei Jahre monatlicher Deadlines.",
+    "翻译": "三年的月度截止日期。"
+  },
+  {
+    "单数": "der Ekel",
+    "复数": "",
+    "意思": "disgust",
+    "例句": "Du bist ein Ekel.",
+    "翻译": "你是个恶心的人。"
+  },
+  {
+    "单数": "die Freude",
+    "复数": "",
+    "意思": "joy",
+    "例句": "-Oh, diese Freude.",
+    "翻译": "哦，这份快乐。"
+  },
+  {
+    "单数": "die Freundlichkeit",
+    "复数": "",
+    "意思": "friendliness",
+    "例句": "Was hat Freundlichkeit mit weiblicher Gesundheit zu tun?",
+    "翻译": "友好与女性健康有什么关系？"
+  },
+  {
+    "单数": "die Furcht",
+    "复数": "",
+    "意思": "fear",
+    "例句": "Ab hier nur noch Furcht, Schlampe!",
+    "翻译": "从这里开始只有恐惧，贱人！"
+  },
+  {
+    "单数": "das Geräusch",
+    "复数": "die Geräusche",
+    "意思": "noise",
+    "例句": "Rick und Summer von der Erde, wegen Verrats an Frauen und dafür, das verbotene Geräusch gemacht zu haben, das wir nie erwähnen.",
+    "翻译": "来自地球的瑞克和萨默，因为背叛女性以及制造了我们永远不能提及的非法声音而被指控。"
+  },
+  {
+    "单数": "die Sympathie",
+    "复数": "die Sympathien",
+    "意思": "sympathy",
+    "例句": "Die Sympathie in der Öffentlichkeit wird immer größer.",
+    "翻译": "公众的同情心越来越大。"
+  },
+  {
+    "单数": "die Traurigkeit",
+    "复数": "",
+    "意思": "sadness",
+    "例句": "Die kann mit einem Anruf Menschen glücklich machen und strahlt eine Traurigkeit aus.",
+    "翻译": "她能通过一个电话让别人开心，却又散发出悲伤的气息。"
+  },
+  {
+    "单数": "das Verhalten",
+    "复数": "",
+    "意思": "behavior; conduct",
+    "例句": "Die Dinger verhalten sich ganz natürlich.",
+    "翻译": "这些东西表现得很自然。"
+  },
+  {
+    "单数": "die Wut",
+    "复数": "",
+    "意思": "rage",
+    "例句": "Geben Sie sich der Wut hin.",
+    "翻译": "让自己沉浸在愤怒中。"
+  },
+  {
+    "单数": "der Bericht",
+    "复数": "die Berichte",
+    "意思": "report",
+    "例句": "Mir ist es egal, was in dem Bericht steht, was die Beweise sagen, der Richter oder der Papst in Rom.",
+    "翻译": "我无所谓报告里写了什么，证据说了什么，法官怎么说或者罗马教皇说什么。"
+  },
+  {
+    "单数": "das Missverständnis",
+    "复数": "die Missverständnisse",
+    "意思": "misunderstanding",
+    "例句": "Das ist ein großes Missverständnis.",
+    "翻译": "这是一个很大的误解。"
+  },
+  {
+    "单数": "der Widerspruch",
+    "复数": "die Widersprüche",
+    "意思": "contradiction",
+    "例句": "Feininger legt Widerspruch gegen Ihre Wasserspiele ein.",
+    "翻译": "费宁格对您的水上游戏提出异议。"
+  },
+  {
+    "单数": "das Stadion",
+    "复数": "die Stadien",
+    "意思": "stadium",
+    "例句": "Ich möchte zu einem Spiel in jedem MLB-Stadion.",
+    "翻译": "我想去每个美国职业棒球大联盟的球场看比赛。"
+  },
+  {
+    "单数": "die Erfindung",
+    "复数": "die Erfindungen",
+    "意思": "invention",
+    "例句": "Eure Erfindungen taugen nur was, wenn sie ausgewählt wird.",
+    "翻译": "你的发明只有在被选择的时候才有价值。"
+  },
+  {
+    "单数": "das Fahrzeug",
+    "复数": "die Fahrzeuge",
+    "意思": "vehicle",
+    "例句": "(FAHRZEUGE NÄHERN SICH)",
+    "翻译": "车辆靠近了"
+  },
+  {
+    "单数": "der Gewinn",
+    "复数": "die Gewinne",
+    "意思": "profit",
+    "例句": "Du steigst in das Projekt als Geschäftspartnerin mit ein und wirst dann am Gewinn beteiligt.",
+    "翻译": "你作为业务合作伙伴加入该项目，并随后参与利润分成。"
+  },
+  {
+    "单数": "das Jahrhundert",
+    "复数": "die Jahrhunderte",
+    "意思": "century",
+    "例句": "Wir sollten nicht vergessen, dass wir im 20. Jahrhundert leben.",
+    "翻译": "我们不应该忘记我们现在生活在二十世纪。"
+  },
+  {
+    "单数": "der Lieferservice",
+    "复数": "die Lieferservices",
+    "意思": "delivery service",
+    "例句": "Ich wünschte, sie hätten einen Lieferservice.",
+    "翻译": "我希望他们提供送餐服务。"
+  },
+  {
+    "单数": "",
+    "复数": "die Nachrichten",
+    "意思": "news",
+    "例句": "Keine weiteren Nachrichten.",
+    "翻译": "没有更多消息了。"
+  },
+  {
+    "单数": "die Revolution",
+    "复数": "die Revolutionen",
+    "意思": "revolution",
+    "例句": "Die Revolution gegen das Weib getauscht!",
+    "翻译": "把反对女性的革命换成！这句话似乎不完整或者表述有误，如果是指“反对女性”的意思，在这种情况下通常会理解为一种贬低或否定女性的进步思想，正确的语境和表达方式可能需要进一步澄清。不过根据给出的内容，可以翻译为：“反对女性的革命换了吗？”如果有特定的历史文化背景或文学作品中的引用，请提供更多信息以便更准确地翻译。"
+  },
+  {
+    "单数": "das Risiko",
+    "复数": "die Risiken",
+    "意思": "risk",
+    "例句": "Das Risiko wird dann natürlich auch geteilt.",
+    "翻译": "那么风险也会被分担。"
+  },
+  {
+    "单数": "die Technik",
+    "复数": "die Techniken",
+    "意思": "technology, technique",
+    "例句": "Aber die Technik ist nicht sicher genug, um damit ein Leben zu riskieren.",
+    "翻译": "但是技术还不够安全，不足以冒生命的风险。"
+  },
+  {
+    "单数": "die Aubergine",
+    "复数": "die Auberginen",
+    "意思": "eggplant",
+    "例句": "Es sei denn, Sie möchten von Minerva eine Auberginen-Vitaminkopfhautmassage.",
+    "翻译": "除非你想让米奈尔瓦给你做茄子维生素头部按摩。"
+  },
+  {
+    "单数": "der Topf",
+    "复数": "die Töpfe",
+    "意思": "pot",
+    "例句": "Ich repariere Töpfe!",
+    "翻译": "我修理锅！"
+  },
+  {
+    "单数": "die Diskussion",
+    "复数": "die Diskussionen",
+    "意思": "discussion",
+    "例句": "Ich habe jetzt keine Zeit für Diskussionen.",
+    "翻译": "我现在没有时间讨论。"
+  },
+  {
+    "单数": "der Roboter",
+    "复数": "die Roboter",
+    "意思": "robot",
+    "例句": "Aber Roboter waren üblich.",
+    "翻译": "但是机器人很常见。"
+  },
+  {
+    "单数": "der Saugroboter",
+    "复数": "die Saugroboter",
+    "意思": "vacuum robot",
+    "例句": "Wir kaufen einen Saugroboter, um Zeit zu sparen.",
+    "翻译": "我们买了一个扫地机器人来节省时间。"
+  },
+  {
+    "单数": "die Arbeitskraft",
+    "复数": "die Arbeitskräfte",
+    "意思": "worker; labor; manpower",
+    "例句": "Und er garantiert euch, fehlende Arbeitskräfte aufzutreiben.",
+    "翻译": "他保证为你们找到缺失的劳动力。"
+  },
+  {
+    "单数": "das Dach",
+    "复数": "die Dächer",
+    "意思": "rooftop",
+    "例句": "Du beobachtest das Dach.",
+    "翻译": "你观察着屋顶。"
+  },
+  {
+    "单数": "die Glühbirne",
+    "复数": "die Glühbirnen",
+    "意思": "lightbulb",
+    "例句": "Einer Zeit, in der die Wissenschaft wie eine Blume aufblüht und die Menschen anzieht, wie die eben erfundene Glühbirne die Fliegen.",
+    "翻译": "在一个科学如花朵般绽放并吸引人们的时代，就像刚刚发明的灯泡吸引苍蝇一样。"
+  },
+  {
+    "单数": "der Kuss",
+    "复数": "die Küsse",
+    "意思": "kiss",
+    "例句": "(KUSS)",
+    "翻译": "吻了一下"
+  },
+  {
+    "单数": "das Plastik",
+    "复数": "",
+    "意思": "plastic",
+    "例句": "Eine Hülle aus sich selbst erneuerndem Plastik auf einem Skelett aus einem Beryllium-Titan-Gemisch.",
+    "翻译": "一层由自愈塑料组成的外壳，内部骨架是由铍和钛的混合物构成。"
+  },
+  {
+    "单数": "die Substanz",
+    "复数": "die Substanzen",
+    "意思": "substance",
+    "例句": "Und diese Substanz, die Sie dabei hatten...",
+    "翻译": "而这物质，您当时带着的……"
+  },
+  {
+    "单数": "die Zahnbürste",
+    "复数": "die Zahnbürsten",
+    "意思": "toothbrush",
+    "例句": "Diese Baracke wird geschrubbt, mit einer Zahnbürste für die Ecken.",
+    "翻译": "这间棚屋被打扫了，甚至用牙刷清理了角落。"
+  },
+  {
+    "单数": "die Zahnpasta",
+    "复数": "",
+    "意思": "toothpaste",
+    "例句": "Kann ich bitte eine Zahnbürste und Zahnpasta haben?",
+    "翻译": "我可以有一把牙刷和牙膏吗？"
   }
 ]

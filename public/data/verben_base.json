@@ -4165,5 +4165,446 @@
     "意思": "inspire",
     "例句": "Wenn ich inspiriert bin, schaffe ich zehn Bilder am Tag!",
     "翻译": "当我受到启发时，我一天能创作十幅画！"
+  },
+  {
+    "原型": "kriegen hin",
+    "现在": "kriegt hin",
+    "过去": "kriegte hin",
+    "完成": "hat hingekriegt",
+    "意思": "manage to do",
+    "例句": "Den Flur hat er ja fein hingekriegt.",
+    "翻译": "他把走廊打扫得很干净。"
+  },
+  {
+    "原型": "verkleiden",
+    "现在": "verkleidet",
+    "过去": "verkleidete",
+    "完成": "hat verkleidet",
+    "意思": "get dressed",
+    "例句": "Ich hab gehört, dass er sich gern als Mädchen verkleidet.",
+    "翻译": "我听说他喜欢打扮成女孩。"
+  },
+  {
+    "原型": "spinnen",
+    "现在": "spinnt",
+    "过去": "spann",
+    "完成": "hat gesponnen",
+    "意思": "talk rubbish",
+    "例句": "Spinnen machen mir Angst. (= Ich habe Angst vor Spinnen.)",
+    "翻译": "蜘蛛让我害怕。"
+  },
+  {
+    "原型": "verhalten",
+    "现在": "verhält",
+    "过去": "verhielt",
+    "完成": "hat verhalten",
+    "意思": "behave",
+    "例句": "Seit Mrs. Hulme und ich zurückgekommen sind, verhält sich Juliet höchst eigenartig und das gibt uns Anlass zur Sorge.",
+    "翻译": "自从胡姆夫人和我回来之后，朱丽叶的行为非常古怪，这让我们很担心。"
+  },
+  {
+    "原型": "gehen an",
+    "现在": "geht an",
+    "过去": "ging an",
+    "完成": "ist angegangen",
+    "意思": "concern",
+    "例句": "Das Haus der Xu geht an Long'er über.",
+    "翻译": "徐家的房子传给了龙儿。"
+  },
+  {
+    "原型": "passen auf",
+    "现在": "passt auf",
+    "过去": "passte auf",
+    "完成": "hat aufgepasst",
+    "意思": "be careful, take care",
+    "例句": "Wir haben nicht aufgepasst.",
+    "翻译": "我们没有注意。"
+  },
+  {
+    "原型": "halten aus",
+    "现在": "hält raus",
+    "过去": "hielt raus",
+    "完成": "hat rausgehalten",
+    "意思": "endure",
+    "例句": "Ja, du hast dich schön rausgehalten!",
+    "翻译": "是的，你做得很好，没有卷入其中！"
+  },
+  {
+    "原型": "machen mit",
+    "现在": "macht mit",
+    "过去": "machte mit",
+    "完成": "hat mitgemacht",
+    "意思": "do together",
+    "例句": "Ich wollte mir nicht anmerken lassen,... .. dass ich nicht viel Erfahrung habe, und habe alles mitgemacht.",
+    "翻译": "我不想表现出我是新手，所以参加了所有活动。"
+  },
+  {
+    "原型": "verwechseln",
+    "现在": "verwechselt",
+    "过去": "verwechselte",
+    "完成": "hat verwechselt",
+    "意思": "confuse",
+    "例句": "Dick hofft, dass er mal mit einem Prominenten verwechselt wird.",
+    "翻译": "迪克希望有一天能被人误认为是某个名人。"
+  },
+  {
+    "原型": "finden heraus",
+    "现在": "findet heraus",
+    "过去": "fand heraus",
+    "完成": "hat herausgefunden",
+    "意思": "discover, find out",
+    "例句": "Nun, nach langer Suche habe ich herausgefunden, dass er vor 45 Jahren, während der Hungersnot",
+    "翻译": "经过长时间的寻找，我终于发现他在45年前，也就是饥荒期间"
+  },
+  {
+    "原型": "überraschen",
+    "现在": "überrascht",
+    "过去": "überraschte",
+    "完成": "hat überrascht",
+    "意思": "suprise",
+    "例句": "Ich bin überrascht, dass Kinder hier nicht auf der Straße spielen.",
+    "翻译": "我惊讶地发现这里的孩子不在街上玩耍。"
+  },
+  {
+    "原型": "schmücken",
+    "现在": "schmückt",
+    "过去": "schmückte",
+    "完成": "hat geschmückt",
+    "意思": "decorate",
+    "例句": "- Ich habe den Baum geschmückt.",
+    "翻译": "我装饰了那棵树。"
+  },
+  {
+    "原型": "verschenken",
+    "现在": "verschenkt",
+    "过去": "verschenkte",
+    "完成": "hat verschenkt",
+    "意思": "gift",
+    "例句": "Wir haben die Karten verschenkt.",
+    "翻译": "我们赠送了那些卡片。"
+  },
+  {
+    "原型": "verstecken",
+    "现在": "versteckt",
+    "过去": "versteckte",
+    "完成": "hat versteckt",
+    "意思": "hide",
+    "例句": "Die zaghaften Investoren verstecken sich nicht länger.",
+    "翻译": "胆怯的投资者不再隐藏自己。"
+  },
+  {
+    "原型": "führen auf",
+    "现在": "führt auf",
+    "过去": "führte auf",
+    "完成": "hat aufgeführt",
+    "意思": "perform",
+    "例句": "Dr. Bennett ist geeignet, sie zurück zu führen auf den rechten Weg.",
+    "翻译": "班奈特博士适合引导她回到正轨。"
+  },
+  {
+    "原型": "nehmen auf",
+    "现在": "nimmt auf",
+    "过去": "nahm auf",
+    "完成": "hat aufgenommen",
+    "意思": "record",
+    "例句": "Die Fährte, die ich aufgenommen habe?",
+    "翻译": "我接过的线索？"
+  },
+  {
+    "原型": "begegnen",
+    "现在": "begegnet",
+    "过去": "begegnete",
+    "完成": "ist begegnet",
+    "意思": "meet, encounter",
+    "例句": "Wem ist Max in einer Bar begegnet? Max ist in einer Bar einer Schauspielerin begegnet.",
+    "翻译": "马克斯在酒吧遇到了一位女演员。"
+  },
+  {
+    "原型": "filmen",
+    "现在": "filmt",
+    "过去": "filmte",
+    "完成": "hat gefilmt",
+    "意思": "film",
+    "例句": "Die Polizei sucht nach Personen, die diese \"seltsame Parade\" am heutigen Abend filmten.",
+    "翻译": "警方正在寻找今晚拍摄了这场“奇怪游行”的人。"
+  },
+  {
+    "原型": "basieren",
+    "现在": "basiert",
+    "过去": "basierte",
+    "完成": "hat basiert",
+    "意思": "base",
+    "例句": "Es basiert auf demselben Prinzip, das die Erde um die Sonne kreisen lässt und das Sie davon abhält, von der Erde weg ins Weltall zu fliegen, wo Sie elendiglich verenden würden.",
+    "翻译": "它基于同样的原理，这个原理让地球围绕太阳运转，并且阻止你离开地球飞向浩瀚的太空，在那里你会悲惨地死去。"
+  },
+  {
+    "原型": "gedulden",
+    "现在": "geduldet",
+    "过去": "geduldete",
+    "完成": "hat geduldet",
+    "意思": "be patient",
+    "例句": "Du bist hier eh nur geduldet.",
+    "翻译": "你在这里也只是被容忍而已。"
+  },
+  {
+    "原型": "spielen mit",
+    "现在": "spielt mit",
+    "过去": "spielte mit",
+    "完成": "hat mitgespielt",
+    "意思": "play a role (in the film)",
+    "例句": "- Keine Sorge, die spielt mit der Ratte.",
+    "翻译": "别担心，她正在和那只老鼠玩。"
+  },
+  {
+    "原型": "rennen",
+    "现在": "rennt",
+    "过去": "rannte",
+    "完成": "ist gerannt",
+    "意思": "run, race",
+    "例句": "Ich persönlich glaube ja, jedes Rennen dieser Art, Waffen oder Raumfahrt, ist absolut närrisch.",
+    "翻译": "我个人认为，任何形式的这种比赛，无论是武器还是航天竞赛，都是绝对荒谬的。"
+  },
+  {
+    "原型": "langweilen",
+    "现在": "langweilt",
+    "过去": "langweilte",
+    "完成": "hat gelangweilt",
+    "意思": "bored",
+    "例句": "- Ich will Sie nicht langweilen.",
+    "翻译": "我不想让您觉得无聊。"
+  },
+  {
+    "原型": "veranstalten",
+    "现在": "veranstaltet",
+    "过去": "veranstaltete",
+    "完成": "hat veranstaltet",
+    "意思": "organize",
+    "例句": "Vielleicht können wir einen kleinen Wettkampf veranstalten.",
+    "翻译": "也许我们可以举办一个小比赛。"
+  },
+  {
+    "原型": "verleihen",
+    "现在": "verleiht",
+    "过去": "verlieh",
+    "完成": "hat verliehen",
+    "意思": "award",
+    "例句": "Sie verleiht einem so 'n gewisses...",
+    "翻译": "她赋予了某人一种特别的……"
+  },
+  {
+    "原型": "zwinkern",
+    "现在": "zwinkert",
+    "过去": "zwinkerte",
+    "完成": "hat gezwinkert",
+    "意思": "wink",
+    "例句": "Und sie zwinkert dir zu.",
+    "翻译": "她向你眨眼。"
+  },
+  {
+    "原型": "ekeln",
+    "现在": "ekelt",
+    "过去": "ekelte",
+    "完成": "hat geekelt",
+    "意思": "be disgusted",
+    "例句": "Ekelt mein Körper Sie an?",
+    "翻译": "你的身体厌恶我吗？"
+  },
+  {
+    "原型": "erlauben",
+    "现在": "erlaubt",
+    "过去": "erlaubte",
+    "完成": "hat erlaubt",
+    "意思": "allow, give permission",
+    "例句": "Können wir es den Jungen erlauben?",
+    "翻译": "我们能允许孩子们这样做吗？"
+  },
+  {
+    "原型": "erkennen",
+    "现在": "erkennt",
+    "过去": "erkannte",
+    "完成": "hat erkannt",
+    "意思": "recognize",
+    "例句": "Warum sind die Menschen solche Narren, dass sie nicht die Weisheit erkennen, die hinter diesen Augen verborgen ist?",
+    "翻译": "为什么人们如此愚昧，看不到隐藏在这些眼睛背后的智慧？"
+  },
+  {
+    "原型": "erschrecken",
+    "现在": "erschrickt",
+    "过去": "erschrak",
+    "完成": "hat erschrocken",
+    "意思": "be frightenend, be scared",
+    "例句": "Von der Pose her finde ich es spannend, wie sie sich so \"erschrocken\" bedeckt, als sei sie von einem Betrachter überrascht worden.",
+    "翻译": "从姿势上看，我觉得她表现得很惊讶，仿佛被某个观众突然发现了一样，这很有趣。"
+  },
+  {
+    "原型": "fürchten",
+    "现在": "fürchtet",
+    "过去": "fürchtete",
+    "完成": "hat gefürchtet",
+    "意思": "be afraid",
+    "例句": "Ihnen machte Mut, dass die Menschen sich vor Flüchen sehr fürchteten.",
+    "翻译": "人们非常害怕诅咒，这让他们感到很勇敢。"
+  },
+  {
+    "原型": "ahnen",
+    "现在": "ahnt",
+    "过去": "ahnte",
+    "完成": "hat geahnt",
+    "意思": "suspect, sense",
+    "例句": "Und niemand weiß und niemand ahnt, wie süß es ist, wenn eine Hand die andere streichelt.",
+    "翻译": "而且没有人知道，也没有人能想象到，当一只手抚触另一只手时是多么甜蜜。"
+  },
+  {
+    "原型": "lassen ausreden",
+    "现在": "lässt ausreden",
+    "过去": "ließ ausreden",
+    "完成": "hat ausreden lassen",
+    "意思": "let someone finish speaking",
+    "例句": "In der Natur können Sie alles hinter sich lassen und den Stress vergessen.",
+    "翻译": "在大自然中，你可以把一切抛诸脑后，忘记压力。"
+  },
+  {
+    "原型": "erklären",
+    "现在": "erklärt",
+    "过去": "erklärte",
+    "完成": "hat erklärt",
+    "意思": "explain",
+    "例句": "Dr. Hulme hat uns im Wohnzimmer die Situation erklärt.",
+    "翻译": "胡姆博士在客厅里向我们解释了情况。"
+  },
+  {
+    "原型": "schlagen vor",
+    "现在": "schlägt vor",
+    "过去": "schlug vor",
+    "完成": "hat vorgeschlagen",
+    "意思": "propose",
+    "例句": "Lidia schlug vor, ich solle mit dir tanzen.",
+    "翻译": "莉迪亚建议我应该和你跳舞。"
+  },
+  {
+    "原型": "widersprechen",
+    "现在": "widerspricht",
+    "过去": "widersprach",
+    "完成": "hat widersprochen",
+    "意思": "contradict, speak against",
+    "例句": "Wer es wagt, mir zu widersprechen, wird niedergemacht.",
+    "翻译": "敢于反驳我的人将会被摧毁。"
+  },
+  {
+    "原型": "geben auf",
+    "现在": "gibt auf",
+    "过去": "gab auf",
+    "完成": "hat aufgegeben",
+    "意思": "give up",
+    "例句": "Ich habe das Schattenspiel aufgegeben.",
+    "翻译": "我放弃了阴影游戏。"
+  },
+  {
+    "原型": "schießen",
+    "现在": "schießt",
+    "过去": "schoss",
+    "完成": "hat geschossen",
+    "意思": "shoot",
+    "例句": "Sie schießen!",
+    "翻译": "他们开枪了！"
+  },
+  {
+    "原型": "beteiligen",
+    "现在": "beteiligt",
+    "过去": "beteiligte",
+    "完成": "hat beteiligt",
+    "意思": "include, involve",
+    "例句": "Du steigst in das Projekt als Geschäftspartnerin mit ein und wirst dann am Gewinn beteiligt.",
+    "翻译": "你作为业务合作伙伴加入该项目，并随后参与利润分成。"
+  },
+  {
+    "原型": "erfinden",
+    "现在": "erfindet",
+    "过去": "erfand",
+    "完成": "hat erfunden",
+    "意思": "invent",
+    "例句": "Wir haben besondere Rezepte, die Tarek erfunden hat.",
+    "翻译": "我们有一些塔雷克发明的特别食谱。"
+  },
+  {
+    "原型": "liefern",
+    "现在": "liefert",
+    "过去": "lieferte",
+    "完成": "hat geliefert",
+    "意思": "supply",
+    "例句": "Das Essen wird geliefert. Ein Mann liefert das Essen.",
+    "翻译": "食物被送来了。一个男人送来食物。"
+  },
+  {
+    "原型": "produzieren",
+    "现在": "produziert",
+    "过去": "produzierte",
+    "完成": "hat produziert",
+    "意思": "produce",
+    "例句": "Das Knochenmark versucht, den Verlust zu kompensieren und produziert rote Blutkörperchen.",
+    "翻译": "骨髓试图补偿这一损失并产生红血细胞。"
+  },
+  {
+    "原型": "speichern",
+    "现在": "speichert",
+    "过去": "speicherte",
+    "完成": "hat gespeichert",
+    "意思": "save",
+    "例句": "Frank, das hat er sicher alles in der Cloud gespeichert.",
+    "翻译": "弗兰克，他肯定把所有东西都存到云上了。"
+  },
+  {
+    "原型": "testen",
+    "现在": "testet",
+    "过去": "testete",
+    "完成": "hat getestet",
+    "意思": "test",
+    "例句": "Das ist ein Restaurantkritiker, der Restaurants testet und Kritiken über die Restaurants schreibt.",
+    "翻译": "这是一位餐厅评论家，他测试餐厅并撰写关于餐厅的评论。"
+  },
+  {
+    "原型": "liefern aus",
+    "现在": "liefert aus",
+    "过去": "lieferte aus",
+    "完成": "hat ausgeliefert",
+    "意思": "deliver",
+    "例句": "Die Gerichte werden mit Yaras Fahrrädern ausgeliefert.",
+    "翻译": "菜肴由Yara的自行车配送。"
+  },
+  {
+    "原型": "füllen",
+    "现在": "füllt",
+    "过去": "füllte",
+    "完成": "hat gefüllt",
+    "意思": "fill",
+    "例句": "Mit Marmelade gefüllt, leuchtend lila, süß und säuerlich.",
+    "翻译": "充满果酱，亮紫色，甜中带酸。"
+  },
+  {
+    "原型": "stellen her",
+    "现在": "stellt her",
+    "过去": "stellte her",
+    "完成": "hat hergestellt",
+    "意思": "manufacture",
+    "例句": "Habt ihr das Paket da hergestellt?",
+    "翻译": "你们在那里制作了那个包裹吗？"
+  },
+  {
+    "原型": "denken nach",
+    "现在": "denkt nach",
+    "过去": "dachte nach",
+    "完成": "hat nachgedacht",
+    "意思": "think, consider",
+    "例句": "Ich habe nachgedacht und glaube, du hältst dein Wort bezüglich Hrn.",
+    "翻译": "我想了想，相信你会遵守关于先生的承诺。"
+  },
+  {
+    "原型": "stimmen zu",
+    "现在": "stimmt zu",
+    "过去": "stimmte zu",
+    "完成": "hat zugestimmt",
+    "意思": "agree",
+    "例句": "Er bat mich, sie mitzunehmen, wenn ich in die USA zurückgehe, da habe ich zugestimmt.",
+    "翻译": "他请求我如果回美国的话带她一起去，我当时同意了。"
   }
 ]

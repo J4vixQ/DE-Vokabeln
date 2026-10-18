@@ -1106,7 +1106,103 @@
   {
     "词组": "Eintritt frei",
     "意思": "free of entrance",
-    "例句": "",
-    "翻译": ""
+    "例句": "Der Eintritt ins Museum ist heute frei.",
+    "翻译": "今天博物馆免费入场。"
+  },
+  {
+    "词组": "aus der Region",
+    "意思": "regional; from the region",
+    "例句": "Wir kaufen frisches Gemüse aus der Region.",
+    "翻译": "我们购买来自当地的新鲜蔬菜。"
+  },
+  {
+    "词组": "übernächst",
+    "意思": "the next of next",
+    "例句": "Wir fahren übernächste Woche nach Berlin.",
+    "翻译": "我们下下周去柏林。"
+  },
+  {
+    "词组": "zum ersten Mal",
+    "意思": "for the first time",
+    "例句": "Ich bin zum ersten Mal in Deutschland.",
+    "翻译": "我是第一次来德国。"
+  },
+  {
+    "词组": "vor allem",
+    "意思": "especially; in particular",
+    "例句": "Ich esse gern Obst, vor allem Äpfel.",
+    "翻译": "我喜欢吃水果，尤其是苹果。"
+  },
+  {
+    "词组": "woanders",
+    "意思": "somewhere else; elsewhere",
+    "例句": "Wenn es hier zu laut ist, können wir woanders hingehen.",
+    "翻译": "如果这里太吵，我们可以去别的地方。"
+  },
+  {
+    "词组": "wegen",
+    "意思": "because of; due to",
+    "例句": "Wegen des schlechten Wetters bleiben wir zu Hause.",
+    "翻译": "因为天气不好，我们待在家里。"
+  },
+  {
+    "词组": "seit Langem",
+    "意思": "for a long time",
+    "例句": "Ich habe ihn seit Langem nicht gesehen.",
+    "翻译": "我很久没见过他了。"
+  },
+  {
+    "词组": "jederzeit",
+    "意思": "any time",
+    "例句": "Du kannst mich jederzeit anrufen.",
+    "翻译": "你随时都可以给我打电话。"
+  },
+  {
+    "词组": "irgendetwas",
+    "意思": "something",
+    "例句": "Möchtest du irgendetwas trinken?",
+    "翻译": "你想喝点什么吗？"
+  },
+  {
+    "词组": "irgendwie",
+    "意思": "somehow",
+    "例句": "Wir müssen irgendwie eine Lösung finden.",
+    "翻译": "我们必须想办法找到一个解决方案。"
+  },
+  {
+    "词组": "meiner Meinung nach",
+    "意思": "in my opinion",
+    "例句": "Meiner Meinung nach ist Deutsch eine interessante Sprache.",
+    "翻译": "我认为德语是一门有趣的语言。"
+  },
+  {
+    "词组": "mit Absicht",
+    "意思": "intentionally; with intent",
+    "例句": "Er hat das Glas mit Absicht zerbrochen.",
+    "翻译": "他故意打碎了那个玻璃杯。"
+  },
+  {
+    "词组": "vorbei",
+    "意思": "over; past; finished",
+    "例句": "Der Unterricht ist schon vorbei.",
+    "翻译": "课程已经结束了。"
+  },
+  {
+    "词组": "wider",
+    "意思": "against; contrary to",
+    "例句": "Er handelte wider meinen Willen.",
+    "翻译": "他的行为违背了我的意愿。"
+  },
+  {
+    "词组": "damit",
+    "意思": "so that; with it",
+    "例句": "Ich lerne jeden Tag, damit ich die Prüfung bestehe.",
+    "翻译": "我每天学习，以便通过考试。"
+  },
+  {
+    "词组": "um ... zu",
+    "意思": "in order to",
+    "例句": "Ich gehe früh ins Bett, um morgen fit zu sein.",
+    "翻译": "我早点睡觉，以便明天精神饱满。"
   }
 ]
