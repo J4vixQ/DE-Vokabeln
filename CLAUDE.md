@@ -14,17 +14,18 @@ python build.py   # regenerate public/data/*.json from notes — see README "Upd
 
 ## Frontend layout
 
-- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/deck/:deckId`, `/review`, `/stats`, `/data`.
-- `src/views/Home.vue` — deck menu + Quiz-Modus toggle; top-left icon links to `/stats` (bar chart) and `/data` (gear).
-- `src/views/Deck.vue` — one random card at a time from a deck. Quiz mode shows multiple-choice; non-quiz just flips.
-- `src/views/Review.vue` — queue of wrong cards, always quiz mode. Wrong → back of queue, right → removed.
+- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/study/:mode` (`view` | `quiz`), `/review`, `/stats`, `/data`; anything else redirects to `/`.
+- `src/views/Home.vue` — three buttons: Ansehen (`/study/view`), Quiz (`/study/quiz`), Review (count); top-left icon links to `/stats` (bar chart) and `/data` (gear).
+- `src/views/Study.vue` — one card at a time from all decks merged. Picks a group from `deckGroups` uniformly, then a card within it by familiarity. Quiz mode shows multiple-choice (distractors from the card's own deck); view mode just flips.
+- `src/views/Review.vue` — wrong-card queue; first choose Ansehen or Quiz. Ansehen: flip through once in order, no score / wrong-list changes. Quiz: wrong → back of queue (score `-2` only on the first miss per session), right → removed. "Ausblenden" hides the card for good (5 s undo).
 - `src/views/Stats.vue` — stacked bar chart (green correct / red wrong / grey viewed) over a continuous day axis; 1W / 1M / Alle zoom.
-- `src/views/Data.vue` — clears localStorage per category (familiarity / wrong list / daily stats) or all at once; each util owns a `clear*`/`reset*` export.
+- `src/views/Data.vue` — clears localStorage per category (familiarity / wrong list / daily stats / hidden) or all at once; each util owns a `clear*`/`reset*` export. Also lists hidden cards with per-word restore.
 - `src/components/VocabCard.vue` — renders a card; branches on `deck` for per-type fields.
-- `src/utils/` — `wrongCards.js` (wrong list + `getCardKey` + choice generation), `stats.js` (daily bar data), `cardScores.js` (familiarity weighting).
+- `src/utils/` — `wrongCards.js` (wrong list + `getCardKey` + choice generation), `stats.js` (daily bar data), `cardScores.js` (familiarity weighting), `hiddenCards.js` (hidden list), `decks.js` (`loadDeck` — cached json fetch per deckId).
 
 `deckId` values: `nomen_obj`, `nomen_people`, `verben_base`, `adj_adv`, `phrasen` (see `src/constants.js`).
-`phrasen` is special-cased in Deck.vue / Review.vue to merge `verben_phrasen.json` + `adv_phrasen.json`.
+`phrasen` is special-cased in `decks.js` to merge `verben_phrasen.json` + `adv_phrasen.json`.
+`deckGroups` (constants.js) sets the pick groups: Nomen (`nomen_obj` + `nomen_people`), `verben_base`, `adj_adv`, `phrasen`.
 
 ## Vocabulary data — `public/data/*.json`
 
@@ -45,12 +46,12 @@ Array of objects with Chinese key names, varying by file:
 
 | key | shape | written by |
 |---|---|---|
-| `quizMode` | `"true"` / `"false"` | Home.vue |
 | `dailyStats` | `[{ date, correct, wrong, view }]` — only days with activity; gaps filled at read time by `dailySeries()` | `stats.js` |
 | `wrongCards` | `[{ deck, data }]` | `wrongCards.js` |
 | `cardScores` | `{ "<deck>\|<word>": level }` — familiarity 0..5, key from `getCardKey` | `cardScores.js` |
+| `hiddenCards` | `["<deck>\|<word>"]` — never picked in Study / Review; still usable as distractors | `hiddenCards.js` |
 
-Familiarity weighting: `pickWeightedIndex` picks cards with weight `1/(level+1)` (level 5 ≈ 1/6 of a new card, never 0).
+Familiarity weighting: `pickWeightedIndex` (takes `[{ deck, data }]`) picks cards with weight `1/(level+1)` (level 5 ≈ 1/6 of a new card, never 0).
 Quiz answer: correct `+1`, wrong `-2`. Non-quiz view: `+0.34`. Old `dailyStats` entries without `view` read as 0.
 
 ## Deploy

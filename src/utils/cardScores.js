@@ -45,10 +45,11 @@ export function recordCardView(deck, data) {
 }
 
 // 按熟悉度加权随机：level 越低越容易被抽到（weight = 1/(level+1)）
-export function pickWeightedIndex(cards, deck) {
+// cards: [{ deck, data }]，可混合多个 deck
+export function pickWeightedIndex(cards) {
   if (!cards.length) return -1
   const scores = load()
-  const weights = cards.map(c => 1 / ((scores[getCardKey(deck, c)] || 0) + 1))
+  const weights = cards.map(c => 1 / ((scores[getCardKey(c.deck, c.data)] || 0) + 1))
   const total = weights.reduce((a, b) => a + b, 0)
   let r = Math.random() * total
   for (let i = 0; i < weights.length; i++) {

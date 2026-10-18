@@ -20,19 +20,20 @@
 
 ## Features
 
-- Categorized vocabulary decks:
+- One merged deck covering four groups, each drawn equally often:
   - Nomen – Objekte / Personen
-  - Verben – Grundformen / Redewendungen
-  - Adjektive – Allgemein / Steigerung
-- Two study modes: flip-only, or Quiz-Modus (multiple choice)
+  - Verben
+  - Adjektive – Steigerung
+  - Phrasen – Verben / Adverbien
+- Two study modes from the home page: **Ansehen** (flip-only) or **Quiz** (multiple choice)
 - Weighted random cards — words you get wrong or haven't seen show up more often (familiarity level per card)
-- Review page: a queue of the words you answered wrong
+- Review page: the words you answered wrong — choose to look through them first (**Ansehen**) or answer them (**Quiz**); **Ausblenden** hides a word you don't need for good (undo for 5 s, restore on the Daten page)
 - Stats page: green / red / grey stacked bars (correct / wrong / just-viewed) per day
 - Automatic dark mode, responsive, colored underline for grammatical gender
 - Example sentences from hand-picked notes, with OpenSubtitles v.2024 as fallback
 - Chinese translation of example sentences via a local LLM (Ollama)
 
-All progress (wrong list, familiarity, daily stats, mode) is stored in the browser's
+All progress (wrong list, familiarity, daily stats, hidden words) is stored in the browser's
 localStorage — per device, nothing synced. The **Daten** page clears any of it
 (per category or all at once). Internal details in [CLAUDE.md](CLAUDE.md).
 

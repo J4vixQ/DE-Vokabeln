@@ -16,15 +16,28 @@
     </div>
 
     <button class="data-btn data-btn-all" @click="clearAll">Alles löschen</button>
+
+    <template v-if="hidden.length">
+      <h2 class="data-subtitle">Ausgeblendet</h2>
+      <div class="data-row" v-for="h in hidden" :key="h.key">
+        <div class="data-info">
+          <span class="data-label">{{ h.word }}</span>
+          <span class="data-count">{{ h.deckName }}</span>
+        </div>
+        <button class="data-btn" @click="restore(h.key)">Einblenden</button>
+      </div>
+    </template>
   </div>
 </template>
 
 <script setup>
-import { reactive } from 'vue'
+import { reactive, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { loadStats, clearStats } from '../utils/stats'
 import { loadWrongCards, clearWrongCards } from '../utils/wrongCards'
 import { scoredCount, resetScores } from '../utils/cardScores'
+import { loadHidden, unhideKey, clearHidden } from '../utils/hiddenCards'
+import { deckNameMap } from '../constants'
 
 const router = useRouter()
 
@@ -53,11 +66,25 @@ const rows = [
     read: () => `${loadStats().length} Tage`,
     clear: clearStats,
   },
+  {
+    key: 'hiddenCards',
+    label: 'Ausgeblendete Karten',
+    action: 'Alle einblenden',
+    confirm: 'Alle ausgeblendeten Karten wieder einblenden?',
+    read: () => `${loadHidden().length} Karten`,
+    clear: clearHidden,
+  },
 ]
 
 const counts = reactive({})
+const hidden = ref([])
 function refresh() {
   rows.forEach(r => { counts[r.key] = r.read() })
+  hidden.value = loadHidden().map(key => {
+    const i = key.indexOf('|')
+    const deck = key.slice(0, i)
+    return { key, word: key.slice(i + 1), deckName: deckNameMap[deck] || deck }
+  })
 }
 refresh()
 
@@ -67,8 +94,13 @@ function clearOne(row) {
   refresh()
 }
 
+function restore(key) {
+  unhideKey(key)
+  refresh()
+}
+
 function clearAll() {
-  if (!window.confirm('Familiarität, Falsch-Liste und Tagesstatistik löschen?')) return
+  if (!window.confirm('Familiarität, Falsch-Liste, Tagesstatistik und ausgeblendete Karten löschen?')) return
   rows.forEach(r => r.clear())
   localStorage.removeItem('quizMode')
   refresh()
@@ -104,6 +136,12 @@ function goHome() { router.push('/') }
 .data-count {
   font-size: 0.8rem;
   color: var(--gray);
+}
+.data-subtitle {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--fg);
+  margin: 2rem 0 0.5rem;
 }
 .data-btn {
   flex-shrink: 0;

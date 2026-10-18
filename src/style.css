@@ -82,6 +82,8 @@ html, body {
   border: 1px solid var(--card-border);
   box-shadow: var(--card-shadow);
   text-decoration: none;
+  font: inherit;
+  cursor: pointer;
   transition: background 0.2s, color 0.2s;
 }
 .card-link:hover {
@@ -339,28 +341,6 @@ html, body {
   width: 1.1rem;
   height: 1.1rem;
   overflow: visible;
-}
-
-/* ============ Quiz Toggle ============ */
-.quiz-toggle {
-  margin-bottom: 0.5rem;
-}
-.toggle-label {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  cursor: pointer;
-  font-size: 0.95rem;
-  color: var(--fg);
-}
-.toggle-label input[type="checkbox"] {
-  width: 1.1rem;
-  height: 1.1rem;
-  cursor: pointer;
-  accent-color: var(--primary);
-}
-.toggle-text {
-  user-select: none;
 }
 
 /* ============ Quiz-mode card hint ============ */
