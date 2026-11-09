@@ -17,8 +17,10 @@
 
 ============================================================
 升级到新阶段（B1、B2…）时，唯一要改的就是下面这一行：
-把新笔记文件夹加进列表即可。文件夹内的 Excel 名 / sheet 名 /
-sentences.docx 名都保持一致，其余不用动。
+把新笔记文件夹加进列表即可。B1 起每个文件夹放一个 Vokabeln.xlsx
+（DW 格式，sheet：Nomen / Personen / Verben / Adjektive / Phrasen）
+和 sentences.docx，名字保持一致，其余不用动。
+没有 Vokabeln.xlsx 的文件夹按 A 级的三个 Excel 读。
 ============================================================
 """
 NOTES_DIRS = ["_B1"]
@@ -37,7 +39,6 @@ SENTENCE_MODE = "normal"
 # 以下为固定结构，除非笔记的表格结构变了，一般不用改。
 # ────────────────────────────────────────────────────────
 import argparse
-import itertools
 import sys
 
 try:
@@ -54,53 +55,77 @@ UPDATE_EXISTING_FROM_EXCEL = False   # True: 用 Excel 补齐旧条目的空字�
 # 每个笔记文件夹里读这个 docx 进 sentences.json
 SENTENCE_DOCX_NAME = "sentences.docx"
 
-# 词库表结构：excel 文件名 / sheet / 主键 / 字段映射(json字段 -> excel列) / 输出 json / step2 匹配器
-# sentence_type=None 表示例句需手动填（phrasen）。
-DECK_TEMPLATES = [
-    {"out": "adj_adv",       "excel": "Adjektive.xlsx", "sheet": "AdjAdv",
-     "key_fields": ["原型"],
-     "field_map": {"原型": "原型", "比较级": "比较级", "最高级": "最高级", "意思": "意思"},
-     "sentence_type": "steigerung"},
-    {"out": "adv_phrasen",   "excel": "Adjektive.xlsx", "sheet": "AdvPhrasen",
-     "key_fields": ["词组"],
-     "field_map": {"词组": "单词", "意思": "意思"},
-     "sentence_type": None},
-    {"out": "nomen_obj",     "excel": "Nomen.xlsx", "sheet": "Obj",
-     "key_fields": ["单数", "复数"],
-     "field_map": {"单数": "单数", "复数": "复数", "意思": "意思"},
-     "sentence_type": "noun"},
-    {"out": "nomen_people",  "excel": "Nomen.xlsx", "sheet": "人",
-     "key_fields": ["单数男", "复数男", "单数女", "复数女"],
-     "field_map": {"单数男": "单数男", "复数男": "复数男", "意思男": "意思男",
-                   "单数女": "单数女", "复数女": "复数女", "意思女": "意思女"},
-     "sentence_type": "person"},
-    {"out": "verben_base",   "excel": "Verben.xlsx", "sheet": "GrundVerben",
-     "key_fields": ["原型"],
-     "field_map": {"原型": "原型", "现在": "现在", "过去": "过去", "完成": "完成", "意思": "意思"},
-     "sentence_type": "verb"},
-    {"out": "verben_phrasen", "excel": "Verben.xlsx", "sheet": "VerbenPhrasen",
-     "key_fields": ["词组"],
-     "field_map": {"词组": "词组", "意思": "意思"},
-     "sentence_type": None},
+# 输出 json → 主键 / step2 例句匹配器（None 表示例句需手动填，如 phrasen）
+DECKS_META = {
+    "nomen_obj":    {"key_fields": ["单数", "复数"], "sentence_type": "noun"},
+    "nomen_people": {"key_fields": ["单数男", "复数男", "单数女", "复数女"], "sentence_type": "person"},
+    "verben_base":  {"key_fields": ["原型"], "sentence_type": "verb"},
+    "adj_adv":      {"key_fields": ["原型"], "sentence_type": "steigerung"},
+    "phrasen":      {"key_fields": ["词组"], "sentence_type": None},
+}
+
+# 笔记文件夹里有 DW_EXCEL 就按 DW 格式读，否则按 A 级的三个 Excel 读。
+# ── DW 格式（B1 起）：一个 Excel，每个 sheet 对应一个 json；单元格由 dw_parse 解析 ──
+DW_EXCEL = "Vokabeln.xlsx"
+DW_TEMPLATES = [
+    {"out": "nomen_obj",    "sheet": "Nomen",     "columns": ["名词", "意思"],                       "parse": "noun"},
+    {"out": "nomen_people", "sheet": "Personen",  "columns": ["男", "女", "意思"],                   "parse": "person"},
+    {"out": "verben_base",  "sheet": "Verben",    "columns": ["原型", "现在", "过去", "完成", "意思"], "parse": "verb"},
+    {"out": "adj_adv",      "sheet": "Adjektive", "columns": ["形容词", "意思"],                     "parse": "adj"},
+    {"out": "phrasen",      "sheet": "Phrasen",   "columns": ["词组", "意思"],                       "parse": "phrase"},
 ]
 
-# json 层面的 deck 列表（step2 / step3 用），每个模板一条
+# ── A 级格式（A1 / A2）：excel 文件名 / sheet / 字段映射(json字段 -> excel列) ──
+A_TEMPLATES = [
+    {"out": "adj_adv",      "excel": "Adjektive.xlsx", "sheet": "AdjAdv",
+     "field_map": {"原型": "原型", "比较级": "比较级", "最高级": "最高级", "意思": "意思"}},
+    {"out": "phrasen",      "excel": "Adjektive.xlsx", "sheet": "AdvPhrasen",
+     "field_map": {"词组": "单词", "意思": "意思"}},
+    {"out": "nomen_obj",    "excel": "Nomen.xlsx", "sheet": "Obj",
+     "field_map": {"单数": "单数", "复数": "复数", "意思": "意思"}},
+    {"out": "nomen_people", "excel": "Nomen.xlsx", "sheet": "人",
+     "field_map": {"单数男": "单数男", "复数男": "复数男", "意思男": "意思男",
+                   "单数女": "单数女", "复数女": "复数女", "意思女": "意思女"}},
+    {"out": "verben_base",  "excel": "Verben.xlsx", "sheet": "GrundVerben",
+     "field_map": {"原型": "原型", "现在": "现在", "过去": "过去", "完成": "完成", "意思": "意思"}},
+    {"out": "phrasen",      "excel": "Verben.xlsx", "sheet": "VerbenPhrasen",
+     "field_map": {"词组": "词组", "意思": "意思"}},
+]
+
+# json 层面的 deck 列表（step2 / step3 用）
 DECKS = [
-    {"json": f"public/data/{t['out']}.json", "sentence_type": t["sentence_type"]}
-    for t in DECK_TEMPLATES
+    {"json": f"public/data/{out}.json", "sentence_type": m["sentence_type"]}
+    for out, m in DECKS_META.items()
 ]
 
 
 def _excel_jobs():
-    """展开成 (每个笔记文件夹 × 每个词库表) 的导入任务。"""
-    for notes_dir, t in itertools.product(NOTES_DIRS, DECK_TEMPLATES):
-        yield {
-            "json": f"public/data/{t['out']}.json",
-            "excel": f"{notes_dir}/{t['excel']}",
-            "sheet": t["sheet"],
-            "key_fields": t["key_fields"],
-            "field_map": t["field_map"],
-        }
+    """展开成 (每个笔记文件夹 × 每张表) 的导入任务，按文件夹自动选 DW / A 级格式。"""
+    import os
+    import dw_parse
+    from step1_add_word import mapping_parser
+    for notes_dir in NOTES_DIRS:
+        dw_path = os.path.join(notes_dir, DW_EXCEL)
+        if os.path.exists(dw_path):
+            for t in DW_TEMPLATES:
+                yield {
+                    "json": f"public/data/{t['out']}.json",
+                    "excel": dw_path,
+                    "sheet": t["sheet"],
+                    "key_fields": DECKS_META[t["out"]]["key_fields"],
+                    "columns": t["columns"],
+                    "parse": dw_parse.PARSERS[t["parse"]],
+                }
+        else:
+            for t in A_TEMPLATES:
+                yield {
+                    "json": f"public/data/{t['out']}.json",
+                    "excel": os.path.join(notes_dir, t["excel"]),
+                    "sheet": t["sheet"],
+                    "key_fields": DECKS_META[t["out"]]["key_fields"],
+                    "columns": list(t["field_map"].values()),
+                    "parse": mapping_parser(t["field_map"]),
+                }
 
 
 def _docx_sources():

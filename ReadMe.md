@@ -66,9 +66,21 @@ npm run deploy
 ### Update vocabulary data
 
 All data lives in `public/data/*.json` and is (re)generated from my notes by one script.
-Every level's notes folder has the same layout (same `.xlsx` names, sheet names and
-`sentences.docx` names), so when a new level is added the only edit is `NOTES_DIRS`
-at the top of `build.py`, e.g. `NOTES_DIRS = ["_A2", "_B1"]`. Then:
+From B1 on, every level's notes folder has the same layout: one `Vokabeln.xlsx` with the
+words copied from DW plus my own 意思, and a `sentences.docx`. So when a new level is added
+the only edit is `NOTES_DIRS` at the top of `build.py`, e.g. `NOTES_DIRS = ["_B1", "_B2"]`.
+
+| sheet | columns | example cell |
+|---|---|---|
+| `Nomen` | `名词` `意思` | `Gegenteil, -e (n.)` |
+| `Personen` | `男` `女` `意思` | `Lehrer, - (m.)` / `Lehrerin, -nen (f.)` |
+| `Verben` | `原型` `现在` `过去` `完成` `意思` | `jemanden aus\|bilden` |
+| `Adjektive` | `形容词` `意思` | `geduldig` |
+| `Phrasen` | `词组` `意思` | `sich an etwas beteiligen` |
+
+The build turns DW notation into full forms (das Gegenteil / die Gegenteile, bilden aus) and prints any cell it
+can't parse, any same-name rows, and plurals it couldn't expand. The A1/A2 folders use the older three-Excel layout and are
+still readable. Then:
 
 ```bash
 pip install pandas openpyxl requests   # one-time

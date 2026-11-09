@@ -20,7 +20,6 @@
             <span class="noun">{{ getNoun(data['单数男']) }}</span>
           </div>
           <div class="plural">{{ data['复数男'] }}</div>
-          <div v-show="answered" class="meaning">{{ data['意思男'] }}</div>
         </div>
         <div v-if="hasFemale" class="person-block female">
           <div>
@@ -28,8 +27,8 @@
             <span class="noun">{{ getNoun(data['单数女']) }}</span>
           </div>
           <div class="plural">{{ data['复数女'] }}</div>
-          <div v-show="answered" class="meaning">{{ data['意思女'] }}</div>
         </div>
+        <p v-show="answered" class="vocab-card-meaning">= {{ getMeaning(data, deck) }}</p>
         <p v-if="data['例句']" class="vocab-card-sentence">{{ data['例句'] }}</p>
         <p v-show="answered && data['翻译']" class="vocab-card-translation">{{ data['翻译'] }}</p>
       </div>
@@ -96,6 +95,7 @@
 
 <script setup>
 import { computed, ref, watch } from 'vue'
+import { getMeaning } from '../utils/wrongCards'
 
 const props = defineProps({
   data:     Object,

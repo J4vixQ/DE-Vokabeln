@@ -21,11 +21,10 @@ python build.py   # regenerate public/data/*.json from notes — see README "Upd
 - `src/views/Saetze.vue` — one random sentence from `sentences.json` (never the same twice in a row), German + translation shown at once. No scores or stats.
 - `src/views/Stats.vue` — stacked bar chart (green correct / red wrong / grey viewed) over a continuous day axis; 1W / 1M / Alle zoom.
 - `src/views/Data.vue` — clears localStorage per category (familiarity / wrong list / daily stats / hidden) or all at once; each util owns a `clear*`/`reset*` export. Also lists hidden cards with per-word restore.
-- `src/components/VocabCard.vue` — renders a card; branches on `deck` for per-type fields.
+- `src/components/VocabCard.vue` — renders a card; branches on `deck` for per-type fields. Person cards show one meaning line under both gender blocks: `getMeaning` joins `意思男` / `意思女` with `, ` and drops duplicates.
 - `src/utils/` — `wrongCards.js` (wrong list + `getCardKey` + choice generation), `stats.js` (daily bar data), `cardScores.js` (familiarity weighting), `hiddenCards.js` (hidden list), `decks.js` (`loadDeck` — cached json fetch per deckId).
 
-`deckId` values: `nomen_obj`, `nomen_people`, `verben_base`, `adj_adv`, `phrasen` (see `src/constants.js`).
-`phrasen` is special-cased in `decks.js` to merge `verben_phrasen.json` + `adv_phrasen.json`.
+`deckId` values: `nomen_obj`, `nomen_people`, `verben_base`, `adj_adv`, `phrasen` (see `src/constants.js`); each is exactly `public/data/<deckId>.json`.
 `deckGroups` (constants.js) sets the pick groups: Nomen (`nomen_obj` + `nomen_people`), `verben_base`, `adj_adv`, `phrasen`.
 
 ## Vocabulary data — `public/data/*.json`
@@ -39,7 +38,16 @@ Array of objects with Chinese key names, varying by file:
 | `nomen_people` | `单数男` `复数男` `意思男` `单数女` `复数女` `意思女` | |
 | `verben_base` | `原型` `现在` `过去` `完成` `意思` | |
 | `adj_adv` | `原型` `比较级` `最高级` `意思` | |
-| `verben_phrasen` / `adv_phrasen` | `词组` `意思` | |
+| `phrasen` | `词组` `意思` | |
+
+Two Excel input formats feed the same json shape (`build.py` picks per notes folder):
+- **A-level** (`_A1`, `_A2`): `Nomen.xlsx` / `Verben.xlsx` / `Adjektive.xlsx`, columns map 1:1 to json fields (`A_TEMPLATES`).
+- **DW** (B1+, folder has `Vokabeln.xlsx`): sheets `Nomen` / `Personen` / `Verben` / `Adjektive` / `Phrasen`; cells parsed by `dw_parse.py` (`DW_TEMPLATES`).
+  Nouns `Gegenteil, -e (n.)` → `das Gegenteil` / `die Gegenteile` (plural expanded; unexpandable kept raw + warned; `(…, meist Singular)` note appended to 复数).
+  Verbs: `jemand*` / `etwas` dropped, verb first like A-level: `jemanden aus|bilden` → `bilden aus`, `sich aus|ruhen` → `ruhen sich aus`.
+  Persons: single `意思` goes to `意思男` (or `意思女` when there is no male form).
+  Adjectives: `比较级` / `最高级` left empty.
+B1 and A-level entries share keys (`DECKS_META.key_fields`), so a B1 word already in A-level is skipped, not duplicated.
 
 `sentences.json` — `[{ 例句, 翻译 }]`, every line of each `NOTES_DIRS/sentences.docx` (append-only, dedup by `例句`).
 It is the priority corpus for word examples: a word matched from it gets that sentence's `翻译` copied too, so only OpenSubtitles sentences go to Ollama.

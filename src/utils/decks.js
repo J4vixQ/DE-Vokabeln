@@ -1,14 +1,9 @@
-// deckId → 对应的 json 文件；phrasen 由两个文件合并
-const FILES = { phrasen: ['verben_phrasen', 'adv_phrasen'] }
-
+// deckId → public/data/<deckId>.json，按 deck 缓存
 const cache = {}
 
 export function loadDeck(deck) {
   if (!cache[deck]) {
-    const files = FILES[deck] || [deck]
-    cache[deck] = Promise.all(
-      files.map(f => fetch(`${import.meta.env.BASE_URL}data/${f}.json`).then(r => r.json()))
-    ).then(parts => parts.flat())
+    cache[deck] = fetch(`${import.meta.env.BASE_URL}data/${deck}.json`).then(r => r.json())
   }
   return cache[deck]
 }

@@ -1,6 +1,7 @@
 export function getMeaning(item, deck) {
   if (deck === 'nomen_people') {
-    return [item['意思男'], item['意思女']].filter(Boolean).join(' / ')
+    // 男女意思合成一行；相同的只留一个
+    return [...new Set([item['意思男'], item['意思女']].filter(Boolean))].join(', ')
   }
   return item['意思'] || ''
 }
