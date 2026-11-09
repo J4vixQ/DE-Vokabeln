@@ -2,6 +2,7 @@ import { createRouter, createWebHistory, createWebHashHistory  } from 'vue-route
 import Home from '../views/Home.vue'
 import Study from '../views/Study.vue'
 import Review from '../views/Review.vue'
+import Saetze from '../views/Saetze.vue'
 import Stats from '../views/Stats.vue'
 import Data from '../views/Data.vue'
 
@@ -9,6 +10,7 @@ const routes = [
   { path: '/', component: Home },
   { path: '/study/:mode(view|quiz)', component: Study },
   { path: '/review', component: Review },
+  { path: '/saetze', component: Saetze },
   { path: '/stats', component: Stats },
   { path: '/data', component: Data },
   { path: '/:pathMatch(.*)*', redirect: '/' },

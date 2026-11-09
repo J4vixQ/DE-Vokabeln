@@ -17,6 +17,7 @@
       <h1 class="categories-list-title">Vokabeln</h1>
       <router-link to="/study/view" class="card-link">Ansehen</router-link>
       <router-link to="/study/quiz" class="card-link">Quiz</router-link>
+      <router-link to="/saetze" class="card-link">Sätze</router-link>
       <router-link to="/review" class="card-link card-link-wrong">
         Review ({{ wrongCount }})
       </router-link>

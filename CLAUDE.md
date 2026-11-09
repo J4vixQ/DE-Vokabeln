@@ -14,10 +14,11 @@ python build.py   # regenerate public/data/*.json from notes — see README "Upd
 
 ## Frontend layout
 
-- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/study/:mode` (`view` | `quiz`), `/review`, `/stats`, `/data`; anything else redirects to `/`.
-- `src/views/Home.vue` — three buttons: Ansehen (`/study/view`), Quiz (`/study/quiz`), Review (count); top-left icon links to `/stats` (bar chart) and `/data` (gear).
+- `src/router/index.js` — hash history, base `/DE-Vokabeln/` (matches `vite.config.js` `base`). Routes: `/`, `/study/:mode` (`view` | `quiz`), `/review`, `/saetze`, `/stats`, `/data`; anything else redirects to `/`.
+- `src/views/Home.vue` — four buttons: Ansehen (`/study/view`), Quiz (`/study/quiz`), Sätze (`/saetze`), Review (count); top-left icon links to `/stats` (bar chart) and `/data` (gear).
 - `src/views/Study.vue` — one card at a time from all decks merged. Picks a group from `deckGroups` uniformly, then a card within it by familiarity. Quiz mode shows multiple-choice (distractors from the card's own deck); view mode just flips.
 - `src/views/Review.vue` — wrong-card queue; first choose Ansehen or Quiz. Ansehen: flip through once in order, no score / wrong-list changes. Quiz: wrong → back of queue (score `-2` only on the first miss per session), right → removed. "Ausblenden" hides the card for good (5 s undo).
+- `src/views/Saetze.vue` — one random sentence from `sentences.json` (never the same twice in a row), German + translation shown at once. No scores or stats.
 - `src/views/Stats.vue` — stacked bar chart (green correct / red wrong / grey viewed) over a continuous day axis; 1W / 1M / Alle zoom.
 - `src/views/Data.vue` — clears localStorage per category (familiarity / wrong list / daily stats / hidden) or all at once; each util owns a `clear*`/`reset*` export. Also lists hidden cards with per-word restore.
 - `src/components/VocabCard.vue` — renders a card; branches on `deck` for per-type fields.
@@ -40,7 +41,9 @@ Array of objects with Chinese key names, varying by file:
 | `adj_adv` | `原型` `比较级` `最高级` `意思` | |
 | `verben_phrasen` / `adv_phrasen` | `词组` `意思` | |
 
-`sentences.txt` is the merged priority corpus for example sentences (also generated).
+`sentences.json` — `[{ 例句, 翻译 }]`, every line of each `NOTES_DIRS/sentences.docx` (append-only, dedup by `例句`).
+It is the priority corpus for word examples: a word matched from it gets that sentence's `翻译` copied too, so only OpenSubtitles sentences go to Ollama.
+Translations are copied, not linked — hand-fixing a `翻译` in `sentences.json` does not update word entries that already use the sentence.
 
 ## localStorage (all client-side, per device)
 

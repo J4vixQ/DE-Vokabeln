@@ -1,7 +1,8 @@
 """Step 3: 用本地 Ollama 批量补充中文翻译。
 
 遍历 JSON 文件，找到 `翻译` 为空的条目，把 `例句` 发给 Ollama 翻译成中文写回。
-前提：Ollama 已在本地运行，且已 pull 对应模型。
+`known`（{例句: 翻译}）里已有的句子直接拷贝，不调用模型。
+前提：有句子需要模型翻译时，Ollama 已在本地运行，且已 pull 对应模型。
 """
 import json
 import os
@@ -40,6 +41,50 @@ def save_json(path: str, data: list):
     os.replace(tmp_path, path)
 
 
+def _norm(sentence: str) -> str:
+    return sentence.replace("\xa0", " ").strip()
+
+
+def collect_translations(json_files) -> dict:
+    """从已有 json 里收集 {例句: 翻译}（两者都非空的）。"""
+    known = {}
+    for path in json_files:
+        if not Path(path).exists():
+            continue
+        for e in json.loads(Path(path).read_text(encoding="utf-8")):
+            sent = _norm(e.get("例句", ""))
+            if sent and e.get("翻译"):
+                known.setdefault(sent, e["翻译"])
+    return known
+
+
+def fill_known(json_files, known: dict):
+    """先用 known 填掉能直接拷贝的翻译。"""
+    for path in json_files:
+        if not Path(path).exists():
+            continue
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+        copied = 0
+        for e in data:
+            if e.get("翻译", "") == "":
+                t = known.get(_norm(e.get("例句", "")))
+                if t:
+                    e["翻译"] = t
+                    copied += 1
+        if copied:
+            save_json(path, data)
+            print(f"📋 {Path(path).name}：从已有译文拷贝 {copied} 条")
+
+
+def _has_pending(json_files) -> bool:
+    for path in json_files:
+        if Path(path).exists():
+            data = json.loads(Path(path).read_text(encoding="utf-8"))
+            if any(e.get("翻译", "") == "" and e.get("例句", "").strip() for e in data):
+                return True
+    return False
+
+
 def check_online(ollama_url: str) -> bool:
     base = ollama_url.split("/api/")[0]
     try:
@@ -52,7 +97,12 @@ def check_online(ollama_url: str) -> bool:
 
 
 def run(json_files, model, ollama_url, save_every: int = 20,
-        skip_empty_sentence: bool = True):
+        skip_empty_sentence: bool = True, known: dict = None):
+    if known:
+        fill_known(json_files, known)
+    if not _has_pending(json_files):
+        print("✅ 没有需要模型翻译的句子")
+        return
     if not check_online(ollama_url):
         return
 
@@ -80,7 +130,7 @@ def run(json_files, model, ollama_url, save_every: int = 20,
                 done += 1
                 word_key = (entry.get("原型") or entry.get("单数") or
                             entry.get("单数男") or entry.get("单词") or
-                            entry.get("词组") or "?")
+                            entry.get("词组") or sentence[:20])
                 print(f"  [{done:4d}] {word_key:20s}  →  {entry['翻译'][:40]}")
             except Exception as e:
                 errors += 1

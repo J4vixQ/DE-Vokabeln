@@ -31,6 +31,7 @@ __pycache__/
 # ignore my notes
 _A1
 _A2
+_B1
 *.docx
 *.xlsx
 de.txt

@@ -139,27 +139,27 @@ def fill_examples(json_path, opensub_folder, key_func, pattern_func, new_example
                         pattern_map[key] = pattern
         print(f"需要填充例句数: {len(need_fill)}")
 
-    def assign(word, sent):
-        """写入例句；若句子有变化，同时清空翻译。"""
+    def assign(word, sent, trans=""):
+        """写入例句；句子有变化（或原来没有译文）时，翻译换成 trans（OpenSubtitles 为空，留给 step3）。"""
         entry = entry_map[word]
         old = entry.get("例句", "")
         entry["例句"] = sent
-        if sent != old:
-            entry["翻译"] = ""
+        if sent != old or not entry.get("翻译"):
+            entry["翻译"] = trans
         need_fill.remove(word)
         print(f"找到例句: {word} → {sent}")
 
-    # ── 第一轮：优先语料（手工例句）──────────────────────
+    # ── 第一轮：优先语料（sentences.json，手工例句，带翻译）──
     if priority_file and need_fill:
         with open(priority_file, "r", encoding="utf-8") as f:
-            priority_sents = [line.strip().replace('\xa0', ' ') for line in f if line.strip()]
+            priority_sents = [(e["例句"], e.get("翻译", "")) for e in json.load(f) if e.get("例句")]
         print(f"优先语料共 {len(priority_sents)} 句，开始匹配…")
-        for sent in priority_sents:
+        for sent, trans in priority_sents:
             if not need_fill:
                 break
             for word in list(need_fill):
                 if pattern_map[word].search(sent):
-                    assign(word, sent)
+                    assign(word, sent, trans)
                     break
         print(f"优先语料匹配后剩余: {len(need_fill)}")
 
@@ -226,7 +226,7 @@ SENTENCE_MATCHERS = {
 def run(decks, opensub_folder, priority_file, mode="normal"):
     """
     按 build.py 的 DECKS 配置批量补例句。
-    mode: "normal" 新词填空 | "new_example" 全量重找 | "upgrade" 用 sentences.txt 升级现有例句
+    mode: "normal" 新词填空 | "new_example" 全量重找 | "upgrade" 用 sentences.json 升级现有例句
     sentence_type 为空的 deck（如 phrasen）跳过。
     """
     for d in decks:
@@ -244,5 +244,5 @@ def run(decks, opensub_folder, priority_file, mode="normal"):
 
 
 if __name__ == "__main__":
-    from build import DECKS, OPENSUB_FOLDER, SENTENCES_TXT
-    run(DECKS, OPENSUB_FOLDER, SENTENCES_TXT, mode="normal")
+    from build import DECKS, OPENSUB_FOLDER, SENTENCES_JSON
+    run(DECKS, OPENSUB_FOLDER, SENTENCES_JSON, mode="normal")
