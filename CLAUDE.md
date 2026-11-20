@@ -46,7 +46,7 @@ Two Excel input formats feed the same json shape (`build.py` picks per notes fol
   Nouns `Gegenteil, -e (n.)` → `das Gegenteil` / `die Gegenteile` (plural expanded; unexpandable kept raw + warned; `(…, meist Singular)` note appended to 复数).
   Verbs: `jemand*` / `etwas` dropped, verb first like A-level: `jemanden aus|bilden` → `bilden aus`, `sich aus|ruhen` → `ruhen sich aus`.
   Persons: single `意思` goes to `意思男` (or `意思女` when there is no male form).
-  Adjectives: `比较级` / `最高级` left empty.
+  Adjectives (and adverbs, same sheet): `比较级` / `最高级` copied as written, may be blank; the card hides blank ones.
 B1 and A-level entries share keys (`DECKS_META.key_fields`), so a B1 word already in A-level is skipped, not duplicated.
 
 `sentences.json` — `[{ 例句, 翻译 }]`, every line of each `NOTES_DIRS/sentences.docx` (append-only, dedup by `例句`).

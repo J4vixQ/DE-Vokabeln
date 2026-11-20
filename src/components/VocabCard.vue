@@ -61,8 +61,8 @@
 
     <!-- 形容词比较级 -->
     <template v-else-if="deck === 'adj_adv'">
-      <p class="vocab-card-meaning">{{ data['比较级'] }}</p>
-      <p class="vocab-card-meaning">{{ data['最高级'] }}</p>
+      <p v-if="data['比较级']" class="vocab-card-meaning">{{ data['比较级'] }}</p>
+      <p v-if="data['最高级']" class="vocab-card-meaning">{{ data['最高级'] }}</p>
       <p v-show="answered" class="vocab-card-meaning">= {{ data['意思'] }}</p>
       <p v-if="data['例句']" class="vocab-card-sentence">{{ data['例句'] }}</p>
       <p v-show="answered && data['翻译']" class="vocab-card-translation">{{ data['翻译'] }}</p>

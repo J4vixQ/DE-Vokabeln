@@ -71,7 +71,7 @@ DW_TEMPLATES = [
     {"out": "nomen_obj",    "sheet": "Nomen",     "columns": ["名词", "意思"],                       "parse": "noun"},
     {"out": "nomen_people", "sheet": "Personen",  "columns": ["男", "女", "意思"],                   "parse": "person"},
     {"out": "verben_base",  "sheet": "Verben",    "columns": ["原型", "现在", "过去", "完成", "意思"], "parse": "verb"},
-    {"out": "adj_adv",      "sheet": "Adjektive", "columns": ["形容词", "意思"],                     "parse": "adj"},
+    {"out": "adj_adv",      "sheet": "Adjektive", "columns": ["形容词", "意思", "比较级", "最高级"],   "parse": "adj"},
     {"out": "phrasen",      "sheet": "Phrasen",   "columns": ["词组", "意思"],                       "parse": "phrase"},
 ]
 

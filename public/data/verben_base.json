@@ -4606,5 +4606,77 @@
     "意思": "agree",
     "例句": "Er bat mich, sie mitzunehmen, wenn ich in die USA zurückgehe, da habe ich zugestimmt.",
     "翻译": "他请求我如果回美国的话带她一起去，我当时同意了。"
+  },
+  {
+    "原型": "bilden",
+    "现在": "bildet",
+    "过去": "bildete",
+    "完成": "hat gebildet",
+    "意思": "form, develop",
+    "例句": "Die Spitze hat sich abgesetzt und der Rest bildet einen großen Haufen.",
+    "翻译": "尖端已经磨损，剩下的部分形成了一大堆。"
+  },
+  {
+    "原型": "verwenden",
+    "现在": "verwendet",
+    "过去": "verwendete",
+    "完成": "hat verwendet",
+    "意思": "use",
+    "例句": "In diesem Spiel erhält man mehr Upgrades, ♫ Er schwebt und funkelt in deinen Augen. ♫ wenn Bong Suni den Walnusshammer verwendet.",
+    "翻译": "在这个游戏中，当邦苏尼使用核桃锤时，会获得更多的升级，他在你的眼中漂浮并闪烁。"
+  },
+  {
+    "原型": "auf wachsen",
+    "现在": "wächst auf",
+    "过去": "wuchs auf",
+    "完成": "ist aufgewachsen",
+    "意思": "grow up",
+    "例句": "Er is als Christian Höflinger bei Ihnen aufgewachsen.",
+    "翻译": "他是在您家作为Christian Höflinger长大的。"
+  },
+  {
+    "原型": "an lügen",
+    "现在": "lügt an",
+    "过去": "log an",
+    "完成": "hat angelogen",
+    "意思": "lie, tell a lie",
+    "例句": "Sie hat uns angelogen. Wir können ihr nicht mehr vertrauen.",
+    "翻译": "她骗了我们。我们现在不能再相信她了。"
+  },
+  {
+    "原型": "bei tragen",
+    "现在": "trägt bei",
+    "过去": "trug bei",
+    "完成": "hat beigetragen",
+    "意思": "contribute",
+    "例句": "Ich habe nichts dazu beigetragen.",
+    "翻译": "我对那没什么贡献。"
+  },
+  {
+    "原型": "erfahren",
+    "现在": "erfährt",
+    "过去": "erfuhr",
+    "完成": "hat erfahren",
+    "意思": "know about, find out",
+    "例句": "Die langen Haare der Rothaarigen sind überaus beeindruckend, ebenso wie die Schenkel und der süße Po, der hier eine Bestrafung erfährt.",
+    "翻译": "这个红头发女人的长发非常引人注目，她的大腿和将要受到惩罚的甜美臀部也是如此。"
+  },
+  {
+    "原型": "ignorieren",
+    "现在": "ignoriert",
+    "过去": "ignorierte",
+    "完成": "hat ignoriert",
+    "意思": "ignore",
+    "例句": "Leider gibt es immer wieder Arbeitgeber, die das Gesetz ignorieren.",
+    "翻译": "可惜总是有一些雇主无视法律。"
+  },
+  {
+    "原型": "zurecht kommen",
+    "现在": "kommt zurecht",
+    "过去": "kam zurecht",
+    "完成": "ist zurechtgekommen",
+    "意思": "deal with, get along with, handle",
+    "例句": "Du wärst mit meinem nicht zurechtgekommen.",
+    "翻译": "你不会应付我的情况。"
   }
 ]

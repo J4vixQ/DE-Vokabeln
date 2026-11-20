@@ -75,7 +75,7 @@ the only edit is `NOTES_DIRS` at the top of `build.py`, e.g. `NOTES_DIRS = ["_B1
 | `Nomen` | `名词` `意思` | `Gegenteil, -e (n.)` |
 | `Personen` | `男` `女` `意思` | `Lehrer, - (m.)` / `Lehrerin, -nen (f.)` |
 | `Verben` | `原型` `现在` `过去` `完成` `意思` | `jemanden aus\|bilden` |
-| `Adjektive` | `形容词` `意思` | `geduldig` |
+| `Adjektive` | `形容词` `意思` `比较级` `最高级` | `geduldig` (adverbs too; 比较级 / 最高级 may be blank) |
 | `Phrasen` | `词组` `意思` | `sich an etwas beteiligen` |
 
 The build turns DW notation into full forms (das Gegenteil / die Gegenteile, bilden aus) and prints any cell it

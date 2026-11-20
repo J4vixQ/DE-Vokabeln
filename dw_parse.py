@@ -51,9 +51,10 @@ def parse_noun_cell(cell):
     full = _expand_plural(singular, plural)
     warning = None
     if full is None:
-        full = plural                       # 展开不了就原样保留 -xyz
+        plural_text = plural                # 展开不了就原样保留 -xyz
         warning = f"复数没能展开，原样保留：{line}"
-    plural_text = f"die {full}" if full != plural else plural
+    else:
+        plural_text = f"die {full}"
     if note:
         plural_text += f" ({note})"
     return f"{ARTICLES[gender]} {singular}", plural_text, warning
@@ -105,7 +106,8 @@ def parse_verb(row):
 def parse_adj(row):
     if not row["形容词"]:
         raise ValueError("形容词为空")
-    return {"原型": row["形容词"], "比较级": "", "最高级": "", "意思": row["意思"]}, None
+    # 比较级 / 最高级 可留空（副词、规则变化的不必写）
+    return {"原型": row["形容词"], "比较级": row["比较级"], "最高级": row["最高级"], "意思": row["意思"]}, None
 
 
 def parse_phrase(row):
